@@ -1,0 +1,473 @@
+% Executive summary and analysis of the borough's response to access request
+% 2026-581 (study of rue de Terrebonne). Compile with pdflatex (twice).
+\documentclass[11pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[scaled=0.95]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[letterpaper,top=0.9in,bottom=0.95in,left=1in,right=1in]{geometry}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[hidelinks]{hyperref}
+\urlstyle{same}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\linespread{1.03}
+
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{0.6em}{}[\vspace{1pt}\titlerule]
+\titlespacing*{\section}{0pt}{1.1em}{0.4em}
+\titleformat{\subsection}{\normalfont\bfseries}{\thesubsection}{0.6em}{}
+\titlespacing*{\subsection}{0pt}{0.8em}{0.25em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize\color{gray}Access request 2026-581 -- executive summary and analysis -- page \thepage}
+
+% ---- Repository links: fill in once the documents are uploaded ----
+\newcommand{\repourl}{https://github.com/OpenMobilityData/Terrebonne-access-requests}
+\newcommand{\repo}[1]{\href{\repourl}{#1}}
+% \doc{path-in-repo}{label}: link to a specific file in the repository
+\newcommand{\doc}[2]{\href{\repourl/blob/main/#1}{#2}}
+% GitHub Pages URL (Settings > Pages > deploy from main, root). Page anchors
+% (#page=N) work there because Pages serves PDFs with the right content type;
+% GitHub's blob viewer and raw.githubusercontent.com do not honour them.
+\newcommand{\pagesurl}{https://openmobilitydata.github.io/Terrebonne-access-requests}
+\expandafter\def\csname bundle01\endcsname{2026-581/raw/01_emails_mandate_counts.pdf}
+\expandafter\def\csname bundle02\endcsname{2026-581/raw/02_framework_agreement_tender.pdf}
+% \pg{bundle}{pages}: page reference, linked to the bundle at its first page
+% \pgl{bundle}{anchor page}{displayed pages}: same with an explicit anchor
+\newcommand{\pgl}[3]{\href{\pagesurl/\csname bundle#1\endcsname\#page=#2}{\textsf{\small[#1, p.~#3]}}}
+\newcommand{\pg}[2]{\pgl{#1}{#2}{#2}}
+\newcommand{\fillin}[1]{\textcolor{red}{[#1]}}
+\newcommand{\quot}[1]{\begin{quote}\small #1\end{quote}}
+
+\begin{document}
+
+\begin{center}
+{\Large\bfseries Access request 2026-581: what the borough's file shows}\\[0.4em]
+{\large Executive summary and analysis of the documents released October~9, 2026}\\[0.6em]
+Richard Hoge, Notre-Dame-de-Gr\^ace -- October 9, 2026\\
+Published with the source documents at \repo{\repourl}
+\end{center}
+
+\section*{Summary}
+
+On September~11, 2026 I asked the borough of C\^ote-des-Neiges--Notre-Dame-de-Gr\^ace
+for the records behind the engineering study it had commissioned on rue de
+Terrebonne: who asked for it, why, what it was told to examine, what it cost,
+and what it delivered. The borough answered on October~9 with 508 pages
+(file 2026-581). The study itself is withheld. What was released is enough
+to establish the following.
+
+\begin{enumerate}[nosep]
+  \item \textbf{The decision came before the study.} On June~10, 2026 the
+    borough's engineering division wrote to the City's street-design
+    division that the elected officials wished to revisit the 2024 layout
+    ``avec l'objectif de redonner la bande de stationnement qui avait \'et\'e
+    retranch\'ee,'' that the borough's engineers had \emph{already} issued a
+    technical opinion on the two concepts the councillors had sketched, and
+    that the councillors wanted ``un avis officiel, neutre et externe.'' The
+    mandate eventually given to EXP on August~20 is titled, in part,
+    ``\'evaluer la place du stationnement sur rue, dans le but d'en augmenter
+    le nombre.''
+  \item \textbf{The City's own cycling unit warned about safety.} The
+    Service de l'urbanisme et de la mobilit\'e returned an express analysis on
+    June~17; the borough's own summary of it, written five days later, says
+    the options ``pr\'esentent plusieurs compromis importants sur le plan de
+    la s\'ecurit\'e, du confort des usagers vuln\'erables et de la coh\'erence
+    du r\'eseau cyclable.'' That analysis is withheld. The fire department's
+    opinion of July~13 is redacted in its entirety.
+  \item \textbf{The ``study'' is a six-week, \$14{,}755 technical note with a
+    council date fixed in advance.} Service request August~20; offer
+    August~25; purchase order August~26; kick-off September~3; draft
+    September~17; final due October~2; announcement October~6. Borough staff
+    told the consultant on August~18 that ``l'objectif de nos \'elus est de
+    pouvoir agir sur vos conclusions pour un horizon d\'ebut octobre'' and on
+    September~10 that the draft was needed by the 18th ``pour respecter notre
+    calendrier du Conseil d'arrondissement du 5 octobre.''
+  \item \textbf{The winter measure is described as transitional.} The
+    mandate's Volet~1, removal of cycling facilities in winter, is ``mesure
+    transitoire pour l'hiver 2026--2027''; Volet~2 is a permanent
+    bidirectional lane on one side with a parking lane restored on the
+    other. The winter conversion is the first step of a year-round
+    reduction of cycling space that has not been announced.
+  \item \textbf{A storm-only option was within the mandate.} EXP's offer
+    lists among the scenarios to compare ``la fermeture en p\'eriode de
+    d\'eneigement seulement.'' The councillor told the October~6 meeting that
+    storm-only parking had been ruled out; the analysis on which that rests
+    is in the withheld note.
+  \item \textbf{The figures cited at council are a one-day camera count
+    from January~2025.} The ``12'' and ``8'' come from the borough's
+    February~2025 count presentation: bicycles at the Cavendish and Grand
+    intersections during the two three-hour peak periods of January~29,
+    2025, the lane's first winter, before the loop counter existed. The same
+    file contains the loop counter's daily totals to August~31, 2026, which
+    the borough also had and also gave the consultant. Those show 41 a day
+    over December--March (46 on weekdays) and a second summer at about 700
+    a day.
+  \item \textbf{The withholding rests on a ground that expires with the
+    decision.} The note and the City's analysis are withheld under
+    section~39, which applies ``until a decision is made on the
+    recommendation.'' The councillor announced the decision on October~6 and
+    promised changes by Christmas. Either the decision has been made and the
+    ground has lapsed, or it has not and the announcement was premature. A
+    review may be sought from the Commission d'acc\`es \`a l'information
+    within 30 days, that is by \textbf{November~8, 2026}.
+\end{enumerate}
+
+\section{What was asked and what was received}
+
+The request (September~11, 2026; acknowledged September~14 as file 2026-581)
+had five parts: A, origin and purpose; B, procurement and contract; C,
+methodology and execution; D, deliverables and review; E, internal handling
+and communications. The response letter answers each item in turn and
+attaches eight files. The two substantive bundles are:
+
+\begin{itemize}[nosep]
+  \item \textbf{Bundle 01} (\doc{2026-581/raw/01_emails_mandate_counts.pdf}{01 Doc\_req
+    2026-581.pdf}, 167 pages): the email chains, the service request, EXP's
+    offer of services, the purchase order, the kick-off meeting form, the
+    February~2025 count-analysis presentation and its 2025 update, the
+    Kensington loop daily totals (July~26, 2025 to August~31, 2026) and the
+    Miovision intersection count tables for 2024--2025.
+  \item \textbf{Bundle 02} (\doc{2026-581/raw/02_framework_agreement_tender.pdf}{02 DOC requis
+    2026-581.pdf}, 341 pages): the public tender for the 2025--2027
+    framework agreements (59-25-ET-01), the contract-management by-law, the
+    decision file and selection-committee results, and WSP's winning bid for
+    contract~1. Nothing in it concerns Terrebonne specifically; it documents
+    the vehicle under which EXP was retained.
+\end{itemize}
+
+The released files are published as received in the \repo{OpenMobilityData/Terrebonne-access-requests} repository on GitHub, under \texttt{2026-581/raw/}; derived material, including this document, is kept apart under \texttt{2026-581/derived/}. The remaining attachments are the council resolution awarding the framework
+agreements (CA25 170126, June~9, 2025), the notice of recourse, and copies
+of the sections of the Act relied on (9, 23, 24, 37, 39, 53--59). The
+response letter is at \doc{2026-581/raw/response_2026-10-09.pdf}{Request
+2026-581}; the original request is at
+\doc{2026-581/raw/request_2026-09-11.pdf}{Terrebonne study access request}.
+
+
+\textbf{Items with no documents.} The borough found nothing for A2 (external
+funding), C3 (follow-up meetings), E2 (communication plans) and E3 (design or
+implementation documents dated before receipt of the final report). C3 is
+hard to square with the released emails, which schedule working meetings
+no.~1 and no.~2 on Teams and refer to the consultant's notes of them
+\pgl{01}{23}{23--24, 167}; the kick-off form records that ``on pourra produire
+des comptes rendus distincts pour les prochaines rencontres.'' Either those
+minutes were not produced or they were not searched for.
+
+\section{Timeline established by the record}
+
+\begin{small}
+\begin{longtable}{>{\raggedright\arraybackslash}p{2.6cm}>{\raggedright\arraybackslash}p{10.2cm}>{\raggedright\arraybackslash}p{2.0cm}}
+\toprule
+Date & Event & Source \\
+\midrule
+\endhead
+2022--2023 & EXP traffic study for the protected lane (previous mandate); scenario retained: one-way with diverging direction at Cavendish, one parking lane removed. & \pg{01}{8} \\
+2024 & Redesign built; 2.5~km one-way, unidirectional lanes both sides. & \pg{01}{3} \\
+Jul 2024 -- Jun 2025 & Borough Miovision counts at Cavendish, Grand, Walkley; Telraam at King Edward and Royal. & \pgl{01}{82}{82--158} \\
+Jan 29, 2025 & Single-day Miovision counts at Cavendish and Grand: 18 and 12 bicycles on the Terrebonne axis over 12 hours; 10 and 8 in the two peak periods. & \pgl{01}{85}{85, 155} \\
+Feb 2025 & ``Suivi de projet -- Analyse des comptages'' presentation; updated later in 2025 with January and June counts and the $-95$/$-96$\% figures. & \pgl{01}{27}{27--73} \\
+Jul 26, 2025 & Kensington loop counter in service. & \pg{01}{74} \\
+Nov 2025 & Municipal election. & --- \\
+Jun 10, 2026 & Division head (Trottier) to SUM: elected officials want to restore the parking lane; two cross-sections drawn (designated roadway; very narrow bidirectional lane); borough has already issued a technical opinion; councillors want an external one; meeting with the borough mayor set for June~18. & \pgl{01}{7}{7--8} \\
+Jun 17, 2026 & SUM returns its express technical analysis (withheld). & \pgl{01}{6}{6--7} \\
+Jun 22, 2026 & Borough asks SIM for an opinion; summarizes SUM's conclusion as ``plusieurs compromis importants'' on safety. & \pgl{01}{5}{5--6} \\
+Jul 13, 2026 & SIM replies (body redacted). & \pg{01}{5} \\
+Aug 18, 2026 & Soulière to EXP: the new borough mayor wants a technical note; speed is what matters to the councillors; aim is to act at a council meeting in early October. & \pgl{01}{21}{21--22} \\
+Aug 20, 2026 & Service request 59-26-ET-01\_002 to EXP. & \pgl{01}{3}{3--4} \\
+Aug 25, 2026 & EXP offer: \$14{,}755; final note October~2. & \pgl{01}{9}{9--13} \\
+Aug 26, 2026 & Purchase order 1796945, \$17{,}706 with contingency. & \pgl{01}{15}{15--17} \\
+Aug 28, 2026 & Borough sends EXP the 2025 count presentation and the loop-counter table; EXP sends its first interim analysis (south side preferred for a bidirectional lane). & \pg{01}{19} \\
+Sep 3, 2026 & Kick-off meeting (Teams). & \pg{01}{26} \\
+Sep 10, 2026 & Borough: draft needed by September~18 ``pour respecter notre calendrier du Conseil d'arrondissement du 5 octobre.'' & \pg{01}{23} \\
+Sep 11, 2026 & This access request filed. & --- \\
+Sep 11 \& 14, 2026 & Working meetings no.~2 (parking and winter) and comments. & \pg{01}{167} \\
+Sep 17, 2026 & Preliminary note delivered, watermarked ``BROUILLON.'' & \pg{01}{167} \\
+Oct 2, 2026 & Final note due. No transmittal for the final version appears in the release. & \pgl{01}{12}{12, 26} \\
+Oct 6, 2026 & Council meeting; winter conversion announced. & --- \\
+Oct 8, 2026 & Second access request (final note and slides) filed. & --- \\
+Oct 9, 2026 & Response to this request. & --- \\
+\bottomrule
+\end{longtable}
+\end{small}
+
+\section{Findings in detail}
+
+\subsection{The objective was fixed before any analysis}
+
+The June~10 email from the head of the borough's technical studies division
+to the City's street-design division is the earliest document in the
+release and the most important \pgl{01}{7}{7--8}:
+
+\quot{``Les \'elus de l'arrondissement souhaitent revoir l'am\'enagement cyclable
+de la rue Terrebonne r\'ealis\'e en 2024, avec l'objectif de redonner la bande de
+stationnement qui avait \'et\'e retranch\'ee. \ldots\ Les pr\'eoccupations
+exprim\'ees concernent principalement la largeur des am\'enagements cyclables,
+jug\'ee disproportionn\'ee par rapport au volume de cyclistes observ\'e. Selon
+les \'elus, il serait possible de r\'eduire l'espace consacr\'e aux cyclistes
+afin de r\'etablir la deuxi\`eme bande de stationnement retir\'ee lors de la
+reconfiguration de 2024.''}
+
+\quot{``Vous comprendrez que nous avons d\'ej\`a \'emis un avis technique quant
+\`a la faisabilit\'e de ces 2 concepts, toutefois, les \'elus souhaitent obtenir
+un avis officiel, neutre et externe \`a l'arrondissement.''}
+
+Three things follow. The objective, restoring the parking lane, is stated as
+the elected officials' goal, not as a question. The borough's own engineers
+had already given an opinion, and the request for an outside one was made
+because the councillors wanted another; the sentence does not say what the
+internal opinion was, but the email's own description of the two concepts
+(``une voie de circulation tr\`es \'etroite (moins de 4 m\`etres) coinc\'ee
+entre deux bandes de stationnement''; ``un am\'enagement bidirectionnel
+tr\`es \'etroit'' at 2.4~m with a 0.3~m buffer) and its anticipation that the
+fire department ``pourrait s'y opposer'' leave little doubt. And the
+justification offered for the exercise is the one used in public since:
+the lane is too wide for the number of cyclists.
+
+The internal ``avis technique'' was not covered by my request and has not
+been asked for. It should be.
+
+\subsection{The City's cycling unit and the fire department}
+
+The SUM's analysis of June~17 \pgl{01}{6}{6--7} is withheld under sections~37
+and 39. Its conclusion survives in the borough's own words, in the June~22
+request to the fire department \pg{01}{6}:
+
+\quot{``\`A la demande de l'arrondissement, le Service de l'urbanisme et de la
+mobilit\'e a proc\'ed\'e \`a une analyse technique pr\'eliminaire des sc\'enarios
+envisag\'es. Cette analyse conclut que les options \'etudi\'ees pr\'esentent
+plusieurs compromis importants sur le plan de la s\'ecurit\'e, du confort des
+usagers vuln\'erables et de la coh\'erence du r\'eseau cyclable par rapport \`a
+l'am\'enagement actuellement en place.''}
+
+The SUM's cover note asks to be kept informed ``des orientations qui seront
+retenues \`a la lumi\`ere de ces \'el\'ements'' \pg{01}{7}; the release contains
+no reply. The fire department's answer of July~13 \pg{01}{5} is a single
+introductory sentence followed by a redaction covering the rest of the page.
+Whatever it says, the borough asked the question because it expected an
+objection to a sub-4-metre lane between two rows of parked cars.
+
+The sequence matters: the City's expert unit flagged safety on June~17; the
+borough then retained an outside consultant on August~20 with a mandate
+whose stated purpose was to increase parking. A note written to that mandate
+is not an independent assessment of whether to remove the lane; it is a
+design exercise in how.
+
+\subsection{The mandate and what it asked for}
+
+The service request of August~20 \pgl{01}{3}{3--4} is explicit about purpose and
+scope. The title: a technical note to evaluate a bidirectional lane on one
+side ``et voir \`a \'evaluer la place du stationnement sur rue, dans le but
+d'en augmenter le nombre.'' Among the tasks:
+
+\quot{``\'Enum\'erer les mesures \`a mettre en oeuvre, en deux volets, pour le
+retrait des am\'enagements cyclables durant la saison hivernale.
+Volet~1 -- existant : pistes cyclables unidirectionnelles bilat\'erales
+(mesure transitoire pour l'hiver 2026--2027). Volet~1 alternatif : maintien
+et entretien hivernal d'une des deux bandes cyclables, et retrait de
+l'autre. Volet~2 -- faisabilit\'e d'une piste cyclable bidirectionnelle
+unilat\'erale.''}
+
+``Volet~1 alternatif'' is the measure announced on October~6, word for
+word. It appears in the borough's instructions to the consultant six weeks
+before the consultant reported. And it is labelled transitional: the
+longer-term plan in the same document is Volet~2, a single bidirectional
+lane with a parking lane restored on the other side year-round. The
+council has not been told that the winter measure is the first stage of a
+permanent reconfiguration, but the mandate says so.
+
+EXP's offer \pgl{01}{9}{9--13} restates the scope and adds the winter scenarios
+it would compare:
+
+\quot{``\ldots\ la fermeture compl\`ete de la piste et son remplacement par du
+stationnement en hiver; la fermeture en p\'eriode de d\'eneigement seulement;
+ou, dans le cas des bandes unidirectionnelles actuelles, la fermeture
+partielle avec une chauss\'ee d\'esign\'ee et du stationnement des deux c\^ot\'es
+de fa\c{c}on permanente ou seulement lors des p\'eriodes de d\'eneigement
+durant la saison hivernale.''}
+
+So the storm-only arrangement the councillor dismissed at the meeting was one
+of the scenarios the consultant was paid to assess. Whether the note
+recommends against it, and on what grounds, is exactly what the withheld
+document would show.
+
+Price: \$14{,}755 in fees plus \$2{,}951 contingency, \$17{,}706 before tax
+\pg{01}{16}, at the hourly rates of the framework agreement. Deliverables:
+two interim emails, a draft note, a final note, and a closing meeting. No
+field work, no counts, no occupancy survey; the consultant was given the
+borough's 2025 presentation and the counter table on August~28 and worked
+from those and from Google aerial imagery, Street View being out of date
+\pg{01}{19}.
+
+\subsection{A calendar set by the council date}
+
+The August~18 email that opens the file \pgl{01}{21}{21--22}:
+
+\quot{``\ldots\ la nouvelle mairesse souhaite que nous lui pr\'esentions une note
+technique concernant la faisabilit\'e de r\'ealiser une piste cyclable
+bidirectionnelle, unilat\'erale, sur la rue de Terrebonne et voir, en plus de
+cette faisabilit\'e, dans quelle mesure cet am\'enagement peut augmenter le
+nombre de cases de stationnement sur rue. \ldots\ sachez que l'important
+pour nos \'elus est que votre proposition puisse se faire tr\`es rapidement,
+ainsi que la r\'ealisation de la note en soi. L'objectif de nos \'elus est de
+pouvoir agir sur vos conclusions pour un horizon d\'ebut octobre, lors d'un
+conseil d'arrondissement.''}
+
+And on September~10 \pg{01}{23}: ``Mon gestionnaire m'a rappel\'e hier qu'il
+est tr\`es important que la note technique pr\'eliminaire nous soit achemin\'ee
+au plus tard le 18 septembre prochain pour respecter notre calendrier du
+Conseil d'arrondissement du 5 octobre prochain.'' The consultant's own draft
+of September~17 carries a ``BROUILLON'' watermark because ``le d\'elai serr\'e
+ne nous a pas permis de faire faire une relecture attentive'' \pg{01}{167}.
+The final note was due October~2, a Friday; the announcement was made the
+following Tuesday.
+
+\subsection{Where the numbers came from}
+
+The councillor said at the meeting that he was relying on ``the official
+data provided to me by the services'' and read from slides a figure of 12
+trips at peak hour in January and a figure of 8. The slides are in the
+release \pgl{01}{51}{51--73}: the count-analysis presentation of February~2025,
+updated during 2025. Its bicycle table (``MAJ 2025'') gives, for the two
+three-hour peak periods combined, 12 bicycles at Cavendish and 12 at Grand
+in all directions in January~2025, and 10 and 8 on the Terrebonne axis,
+against 347 and 425 in June~2025, labelled $-95$\% and $-96$\%
+\pgl{01}{61}{61--62}. The underlying Miovision tables show the January figures
+are from one day, January~29, 2025 \pgl{01}{85}{85, 155}; the full twelve-hour
+totals that day were 18 at Cavendish and 12 at Grand on the Terrebonne axis.
+
+Three observations. First, these are single-day camera counts at two
+intersections in the lane's first winter, taken before the continuous
+counter existed. Second, the borough had the continuous counter's record
+when the decision was made: the same bundle contains daily totals from
+July~26, 2025 to August~31, 2026 \pgl{01}{74}{74--81}, and the borough sent that
+table to the consultant on August~28 \pg{01}{19}. It shows 4{,}891 passages
+between December~1 and March~31 (41 a day; 46 on weekdays; 63 on weekdays
+over the November~16 to March~31 clearing season) and a second summer at
+about 700 a day. Third, the ``700'' the councillor cited is from the same
+presentation: Grand, June~18, 2025, all directions, twelve hours (673). The
+comparison he drew at the meeting set a twelve-hour all-direction summer
+count against a six-hour one-axis winter count from a different year.
+
+\subsection{What was withheld, and on what grounds}
+
+\begin{itemize}[nosep]
+  \item \textbf{Section 39} (a study prepared in connection with a
+    recommendation, ``until a decision is made on the recommendation''):
+    the EXP note in all versions, the SUM analysis, and the comments
+    exchanged on deliverables.
+  \item \textbf{Section 37} (recommendations or opinions less than ten years
+    old, including a consultant's): the same documents, plus the SIM
+    opinion.
+  \item \textbf{Section 9, second paragraph} (drafts and preliminary notes
+    are not documents held by a public body): the interim deliverables and
+    the preliminary note.
+  \item \textbf{Sections 23--24} (third-party commercial information):
+    portions of the tender documents and EXP's offer; the hour-and-fee
+    breakdown attached to the offer is not in the release.
+  \item \textbf{Sections 53--59}: personal information, applied to names
+    and contact details in emails; in practice staff names are left
+    visible.
+\end{itemize}
+
+Section~39 is the ground that carries the weight, and it is time-limited by
+its own terms. The councillor announced the decision on October~6 and told
+the Gazette on October~7 that ``one thing is certain: residents will see
+changes by Christmas 2026,'' while also saying the change ``still need[s]
+to go through several steps.'' The borough cannot have it both ways: if the
+recommendation has been decided, section~39 no longer applies and the note
+must be released subject only to section~37, which is discretionary and
+does not cover factual content; if it has not been decided, the public
+announcement of a decided outcome was premature. Section~14 of the Act
+requires that factual content be severed and released where an exception
+covers only part of a document; the response does not do this for the note.
+
+The section~9 ground is weak for the September~17 draft. It was a
+deliverable under contract, transmitted to the client for review, and the
+borough's comments on it shaped the final version. ``Brouillon'' on the
+watermark does not make it a personal draft within the meaning of
+section~9, and the Commission has said so in comparable cases.
+
+\section{What the record does and does not establish}
+
+\subsection{On the decision process}
+
+The record shows a goal set by the elected officials in the spring; an
+internal technical opinion already given by the borough's own engineers,
+after which an external one was sought; a safety analysis from the City's
+cycling unit received in June and not mentioned in public; a mandate written
+in August whose stated purpose was to increase parking, with a council date
+already chosen; and a presentation of counts that set aside the borough's
+continuous counter data in favour of a one-day count from the previous
+winter. Whether the councillors are right to want more parking is a
+separate question; what the documents establish is the sequence in which
+the decision and its justification were produced, and that sequence differs
+from the account given at the October~6 meeting.
+
+\subsection{On the storm-only alternative}
+
+The borough paid for an assessment that included ``la fermeture en
+p\'eriode de d\'eneigement seulement'' and stated publicly that the option was
+ruled out because residents could not be informed of it. The reasoning, if
+there is more to it, is in the withheld note.
+
+\subsection{On what is planned beyond this winter}
+
+``Mesure transitoire pour l'hiver 2026--2027'' and Volet~2 together describe
+the winter conversion as a first step toward a permanent single
+bidirectional lane with a parking lane restored on the other side. That is
+a different decision from the one announced, with a different safety
+profile: the SUM's ``compromis importants'' concerned exactly these
+cross-sections. It has not been put to the public.
+
+\subsection{What the record does not establish}
+
+The SUM's conclusion is known only as the borough summarized it; the SIM's
+opinion is unknown; the content of EXP's note is unknown, and it may well
+recommend against the narrower options and for the winter measure as the
+least bad. ``Disproportionn\'ee'' is staff's report of the councillors'
+view, not a finding. None of the quotations above should be stretched past
+what they say. They establish the sequence and the purpose; they do not
+establish what the consultant concluded, which is the reason to get the
+note.
+
+\section{Document index}
+
+Page numbers refer to the PDF page of each released bundle.
+
+\begin{small}
+\begin{longtable}{>{\raggedright\arraybackslash}p{3.0cm}>{\raggedright\arraybackslash}p{9.2cm}>{\raggedright\arraybackslash}p{2.6cm}}
+\toprule
+Document & Content & Location \\
+\midrule
+\endhead
+Response letter & Item-by-item answers; grounds for refusal; notice of recourse. & \doc{2026-581/raw/response_2026-10-09.pdf}{Request 2026-581}, 8 pp. \\
+Bundle 01 & & \doc{2026-581/raw/01_emails_mandate_counts.pdf}{01 Doc\_req}, 167 pp. \\
+\quad SIM / SUM chain & Jun 10 request to SUM; Jun 12, 17 replies; Jun 22 request to SIM; Jul 13 SIM reply (redacted). & pp. 2, 5--8 \\
+\quad Service request & Aug 20, 2026, mandate 59-26-ET-01\_002. & pp. 3--4 \\
+\quad EXP offer & Aug 25, 2026; scope, scenarios, schedule, \$14{,}755. & pp. 9--13 \\
+\quad Purchase order & Aug 26, 2026, no.~1796945, \$17{,}706. & pp. 15--17 \\
+\quad EXP email chain & Aug 18--28: mandate, work plan, inputs, first interim analysis. & pp. 19--22 \\
+\quad Kick-off & Sep 3 meeting form, deliverables and dates; Sep 10 emails on the Oct 5 council deadline. & pp. 23--26 \\
+\quad Count presentation & ``Suivi de projet -- Analyse des comptages,'' Feb 2025, and ``MAJ 2025'' update. & pp. 27--49; 51--73 \\
+\quad Loop counter & Kensington daily totals, bicycles and motor vehicles, Jul 26, 2025 -- Aug 31, 2026. & pp. 74--81 \\
+\quad Miovision tables & Intersection counts by 15-minute period and class: Grand, Cavendish, Walkley, Royal; Jul 2024 -- Sep 2025; Jan 29, 2025 at pp. 82--88 and 152--158. & pp. 82--164 \\
+\quad Draft delivered & Sep 17, 2026 transmittal of the preliminary note. & p. 167 \\
+Bundle 02 & Framework-agreement tender 59-25-ET-01, by-law, decision file (pp. 169--177), evaluation grid, WSP bid. & \doc{2026-581/raw/02_framework_agreement_tender.pdf}{02 DOC requis}, 341 pp. \\
+Resolution & CA25 170126, Jun 9, 2025: framework agreements to WSP (\$1.60M) and EXP (\$1.70M). & \doc{2026-581/raw/03_resolution_CA25-170126.pdf}{03 R\'esolution}, 2 pp. \\
+Act extracts & ss.~9, 23--24, 37, 39, 53--59; notice of recourse. & \href{\repourl/tree/main/2026-581/raw/act_extracts}{act\_extracts/}, 5 files \\
+Derived & Kensington daily totals parsed to CSV from pp. 74--81. & \doc{2026-581/derived/kensington_daily_borough_release_2025-07_2026-08.csv}{CSV} \\
+\bottomrule
+\end{longtable}
+\end{small}
+
+\end{document}
