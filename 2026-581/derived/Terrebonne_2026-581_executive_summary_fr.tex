@@ -1,0 +1,601 @@
+% Sommaire et analyse de la réponse de l'arrondissement à la demande d'accès
+% 2026-581 (étude de la rue de Terrebonne). Version française.
+% Compiler avec pdflatex (deux fois).
+\documentclass[11pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+% babel-french n'est pas disponible ici : typographie française appliquée à la main
+% (espaces insécables avant : ; et à l'intérieur des guillemets).
+\usepackage[scaled=0.95]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[letterpaper,top=0.9in,bottom=0.95in,left=1in,right=1in]{geometry}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[hidelinks]{hyperref}
+\urlstyle{same}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\linespread{1.03}
+
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{0.6em}{}[\vspace{1pt}\titlerule]
+\titlespacing*{\section}{0pt}{1.1em}{0.4em}
+\titleformat{\subsection}{\normalfont\bfseries}{\thesubsection}{0.6em}{}
+\titlespacing*{\subsection}{0pt}{0.8em}{0.25em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize\color{gray}Demande d'accès 2026-581 -- sommaire et analyse -- page \thepage}
+
+% ---- Liens vers le dépôt ----
+\newcommand{\repourl}{https://github.com/OpenMobilityData/Terrebonne-access-requests}
+\newcommand{\repo}[1]{\href{\repourl}{#1}}
+\newcommand{\doc}[2]{\href{\repourl/blob/main/#1}{#2}}
+% GitHub Pages : les ancres #page=N fonctionnent ici, pas sur la visionneuse de GitHub.
+\newcommand{\pagesurl}{https://openmobilitydata.github.io/Terrebonne-access-requests}
+\expandafter\def\csname bundle01\endcsname{2026-581/raw/01_emails_mandate_counts.pdf}
+\expandafter\def\csname bundle02\endcsname{2026-581/raw/02_framework_agreement_tender.pdf}
+\newcommand{\pgl}[3]{\href{\pagesurl/\csname bundle#1\endcsname\#page=#2}{\textsf{\small[#1, p.~#3]}}}
+\newcommand{\pg}[2]{\pgl{#1}{#2}{#2}}
+\newcommand{\quot}[1]{\begin{quote}\small #1\end{quote}}
+
+\begin{document}
+
+\begin{center}
+{\Large\bfseries Demande d'accès 2026-581~: ce que révèle le dossier de l'arrondissement}\\[0.4em]
+{\large Sommaire et analyse des documents communiqués le 9~octobre 2026}\\[0.6em]
+Richard Hoge, Côte-des-Neiges--Notre-Dame-de-Grâce -- 9~octobre 2026\\
+Publié avec les documents sources à \repo{\repourl}\\
+{\small Traduction de la version anglaise\,; en cas de divergence, l'anglais fait foi.}
+\end{center}
+
+\section*{Sommaire}
+
+Le 11~septembre 2026, j'ai demandé à l'arrondissement de Côte-des-Neiges--Notre-Dame-de-Grâce
+les documents relatifs à l'étude d'ingénierie qu'il avait commandée sur la
+rue de Terrebonne~: qui l'a demandée, pourquoi, ce qu'elle devait examiner,
+ce qu'elle a coûté et ce qu'elle a livré. L'arrondissement a répondu le
+9~octobre par 508~pages (dossier 2026-581). L'étude elle-même n'a pas été
+communiquée. Ce qui l'a été suffit à établir ce qui suit.
+
+\begin{enumerate}[nosep]
+  \item \begin{minipage}[t]{\linewidth}\textbf{La décision a précédé l'étude.} Le 10~juin 2026, la
+    division de l'ingénierie de l'arrondissement écrivait à la division de
+    l'aménagement des rues de la Ville que les élus souhaitaient revoir
+    l'aménagement de 2024 «\,avec l'objectif de redonner la bande de
+    stationnement qui avait été retranchée\,», que les ingénieurs de
+    l'arrondissement avaient \emph{déjà} émis un avis technique sur les deux
+    concepts esquissés par les élus, et que ceux-ci voulaient «\,un avis
+    officiel, neutre et externe\,». Le mandat finalement confié à EXP le
+    20~août a pour titre, en partie, «\,évaluer la place du stationnement sur
+    rue, dans le but d'en augmenter le nombre\,».\end{minipage}\vspace{0.35em}
+\item \begin{minipage}[t]{\linewidth}\textbf{L'équipe vélo de la Ville elle-même a soulevé des enjeux
+    de sécurité.} Le Service de l'urbanisme et de la mobilité a remis une
+    analyse en mode express le 17~juin\,; le résumé qu'en fait
+    l'arrondissement, rédigé cinq jours plus tard, indique que les options
+    «\,présentent plusieurs compromis importants sur le plan de la sécurité,
+    du confort des usagers vulnérables et de la cohérence du réseau
+    cyclable\,». Cette analyse n'a pas été communiquée. L'avis du Service de
+    sécurité incendie du 13~juillet est caviardé en entier.\end{minipage}\vspace{0.35em}
+\item \begin{minipage}[t]{\linewidth}\textbf{L'«\,étude\,» est une note technique de six semaines et de
+    14\,755~\$, avec une date de conseil fixée d'avance.} Demande de
+    services le 20~août\,; offre le 25~août\,; bon de commande le 26~août\,;
+    réunion de démarrage le 3~septembre\,; version préliminaire le
+    17~septembre\,; version finale due le 2~octobre\,; annonce le 6~octobre. Le
+    personnel de l'arrondissement a écrit au consultant le 18~août que
+    «\,l'objectif de nos élus est de pouvoir agir sur vos conclusions pour un
+    horizon début octobre\,» et, le 10~septembre, que la version préliminaire
+    devait être livrée au plus tard le 18 «\,pour respecter notre calendrier
+    du Conseil d'arrondissement du 5~octobre\,».\end{minipage}\vspace{0.35em}
+\item \begin{minipage}[t]{\linewidth}\textbf{La mesure hivernale est qualifiée de transitoire\,; le
+    mandat du cabinet de la mairesse était permanent.} Le 13~août, la cheffe
+    de cabinet de la mairesse d'arrondissement a fixé le mandat par écrit~:
+    une piste cyclable bidirectionnelle d'un côté de Terrebonne, de Loyola à
+    Côte-Saint-Luc, «\,qui respecte les normes minimales prévues par la loi\,»,
+    et «\,le retour du stationnement d'un côté de la rue\,». Aucune mesure
+    hivernale n'y figure. La demande de services, une semaine plus tard, a
+    ajouté un Volet~1, le retrait des aménagements cyclables en hiver, à
+    titre de «\,mesure transitoire pour l'hiver 2026--2027\,», avant le
+    Volet~2, la piste bidirectionnelle permanente. La conversion hivernale
+    annoncée le 6~octobre est la première étape d'une réduction à l'année de
+    l'espace cyclable qui n'a jamais été soumise au public.\end{minipage}\vspace{0.35em}
+\item \begin{minipage}[t]{\linewidth}\textbf{Une option limitée aux opérations de déneigement
+    faisait partie du mandat.} L'offre d'EXP énumère, parmi les scénarios à
+    comparer, «\,la fermeture en période de déneigement seulement\,». Le
+    conseiller a affirmé à la séance du 6~octobre que le stationnement limité
+    aux tempêtes avait été écarté\,; l'analyse sur laquelle repose cette
+    affirmation se trouve dans la note qui n'a pas été
+    communiquée.\end{minipage}\vspace{0.35em}
+\item \begin{minipage}[t]{\linewidth}\textbf{Les chiffres cités au conseil sont la mesure la plus
+    faible de tout le dossier.} Le «\,12\,» et le «\,8\,» proviennent de la
+    présentation des comptages de l'arrondissement de février 2025~: il ne
+    s'agit ni de vélos par jour ni de vélos par heure, mais de vélos comptés
+    au moyen d'une caméra temporaire (Miovision) installée aux intersections
+    Cavendish et Grand pendant six heures de pointe d'une seule journée, le
+    29~janvier 2025, lors du premier hiver de la piste, alors que le
+    déneigement était souvent en retard, et lus sur une diapositive qui ne
+    précise rien de tout cela. Au moment de la séance, un compteur permanent
+    avait enregistré chaque vélo passé sur la rue pendant l'hiver suivant,
+    soit une année entière plus récente\,; les ingénieurs de l'arrondissement
+    avaient offert ses données à la Ville en juin, et son tableau était entre
+    les mains du consultant en août~: 41 par jour de décembre à mars (46 les
+    jours de semaine), et un deuxième été à environ 700 par jour. La baisse
+    de «\,99~\%\,» citée à la séance, 700 contre 8, oppose le plus grand nombre
+    d'une diapositive, Grand en septembre 2024 compté sur les quatre
+    approches, au plus petit nombre de la suivante, Grand en janvier 2025 sur
+    l'axe Terrebonne seulement\,; comparées de façon équivalente, les
+    diapositives elles-mêmes donnent 97 à 98~\%, étiquettent janvier à
+    $-95$~\%, et le compteur donne environ 93~\% d'une saison entière à
+    l'autre. Les deux sources s'entendent sur le fait que la baisse est
+    forte\,; elles diffèrent sur le nombre absolu, et une seule d'entre elles
+    donne «\,quatre personnes\,». Quelle qu'en soit l'explication, une décision
+    présentée comme fondée sur les données reposait sur la seule donnée
+    qu'une analyse rigoureuse aurait écartée en premier.\end{minipage}\vspace{0.35em}
+\item \begin{minipage}[t]{\linewidth}\textbf{Le refus de communiquer repose sur un motif qui
+    s'éteint avec la décision.} La note et l'analyse de la Ville sont
+    refusées en vertu de l'article~39, qui s'applique «\,jusqu'à ce que la
+    recommandation ait fait l'objet d'une décision\,». Le conseiller a annoncé
+    la décision le 6~octobre et promis des changements d'ici Noël. Ou bien la
+    décision a été prise et le motif n'existe plus, ou bien elle ne l'a pas
+    été et l'annonce était prématurée. Une demande de révision peut être
+    adressée à la Commission d'accès à l'information dans les 30~jours, soit
+    d'ici le \textbf{8~novembre 2026}.\end{minipage}\vspace{0.35em}
+\end{enumerate}
+
+\section{Ce qui a été demandé et ce qui a été reçu}
+
+La demande (11~septembre 2026\,; accusé de réception le 14~septembre sous le
+numéro 2026-581) comportait cinq volets~: A, origine et objet\,; B,
+approvisionnement et contrat\,; C, méthodologie et exécution\,; D, livrables
+et révision\,; E, traitement interne et communications. La lettre de réponse
+traite chaque point l'un après l'autre et joint huit fichiers. Les deux
+liasses substantielles sont~:
+
+\begin{itemize}[nosep]
+  \item \textbf{Liasse 01} (\doc{2026-581/raw/01_emails_mandate_counts.pdf}{01 Doc\_req
+    2026-581.pdf}, 167~pages)~: les chaînes de courriels, la demande de
+    services, l'offre de services d'EXP, le bon de commande, le formulaire de
+    la réunion de démarrage, la présentation d'analyse des comptages de
+    février 2025 et sa mise à jour de 2025, les totaux quotidiens de la
+    boucle de comptage Kensington (du 26~juillet 2025 au 31~août 2026) et les
+    tableaux de comptage Miovision aux intersections pour 2024--2025.
+  \item \textbf{Liasse 02} (\doc{2026-581/raw/02_framework_agreement_tender.pdf}{02 DOC requis
+    2026-581.pdf}, 341~pages)~: l'appel d'offres public pour les
+    ententes-cadres 2025--2027 (59-25-ET-01), le règlement de gestion
+    contractuelle, le dossier décisionnel et les résultats du comité de
+    sélection, ainsi que la soumission gagnante de WSP pour le contrat~1.
+    Rien n'y concerne Terrebonne en particulier\,; la liasse documente le
+    véhicule contractuel par lequel EXP a été retenue.
+\end{itemize}
+
+Les fichiers communiqués sont publiés tels que reçus dans le dépôt
+\repo{OpenMobilityData/Terrebonne-access-requests} sur GitHub, sous
+\texttt{2026-581/raw/}\,; le matériel dérivé, dont le présent document, est
+tenu à part sous \texttt{2026-581/derived/}. Les autres pièces jointes sont
+la résolution du conseil octroyant les ententes-cadres (CA25~170126,
+9~juin 2025), l'avis de recours et des copies des articles de la Loi
+invoqués (9, 23, 24, 37, 39, 53 à 59). La lettre de réponse se trouve à
+\doc{2026-581/raw/response_2026-10-09.pdf}{Request 2026-581}\,; la demande
+originale à \doc{2026-581/raw/request_2026-09-11.pdf}{Terrebonne study
+access request}.
+
+\textbf{Points sans documents.} L'arrondissement n'a rien trouvé pour A2
+(financement externe), C3 (réunions de suivi), E2 (plans de communication)
+et E3 (documents de conception ou de mise en œuvre antérieurs à la
+réception du rapport final). Le point C3 se concilie mal avec les
+courriels communiqués, qui fixent les rencontres de travail n\textsuperscript{o}~1 et
+n\textsuperscript{o}~2 sur Teams et renvoient aux notes qu'en a prises le consultant
+\pgl{01}{23}{23--24, 167}\,; le formulaire de démarrage indique qu'«\,on
+pourra produire des comptes rendus distincts pour les prochaines
+rencontres\,». Ou bien ces comptes rendus n'ont pas été produits, ou bien on
+ne les a pas cherchés.
+
+\section{Chronologie établie par le dossier}
+
+\begin{small}
+\begin{longtable}{>{\raggedright\arraybackslash}p{2.6cm}>{\raggedright\arraybackslash}p{10.2cm}>{\raggedright\arraybackslash}p{2.0cm}}
+\toprule
+Date & Événement & Source \\
+\midrule
+\endhead
+2022--2023 & Étude de circulation d'EXP pour la piste protégée (mandat précédent)\,; scénario retenu~: sens unique divergeant à partir de Cavendish, retrait d'une bande de stationnement. & \pg{01}{8} \\
+2024 & Réaménagement réalisé\,; 2,5~km à sens unique, pistes unidirectionnelles des deux côtés. & \pg{01}{3} \\
+Juil.\ 2024 -- juin 2025 & Comptages Miovision de l'arrondissement à Cavendish, Grand et Walkley\,; Telraam à King-Edward et Royal. & \pgl{01}{82}{82--158} \\
+29 janv.\ 2025 & Comptages Miovision d'une seule journée à Cavendish et Grand~: 18 et 12 vélos sur l'axe Terrebonne en 12~heures\,; 10 et 8 pendant les deux périodes de pointe. & \pgl{01}{85}{85, 155} \\
+Févr.\ 2025 & Présentation «\,Suivi de projet -- Analyse des comptages\,»\,; mise à jour plus tard en 2025 avec les comptages de janvier et de juin et les chiffres de $-95$/$-96$~\%. & \pgl{01}{27}{27--73} \\
+26 juil.\ 2025 & Mise en service de la boucle de comptage Kensington. & \pg{01}{74} \\
+Nov.\ 2025 & Élections municipales. & --- \\
+10 juin 2026 & Le chef de division (Trottier) au SUM~: les élus veulent rétablir la bande de stationnement\,; deux coupes de rue dessinées (chaussée désignée\,; piste bidirectionnelle très étroite)\,; l'arrondissement a déjà émis un avis technique\,; les élus en veulent un externe\,; rencontre avec la mairesse d'arrondissement prévue le 18~juin. & \pgl{01}{7}{7--8} \\
+17 juin 2026 & Le SUM remet son analyse technique express (non communiquée). & \pgl{01}{6}{6--7} \\
+22 juin 2026 & L'arrondissement demande l'avis du SIM\,; résume la conclusion du SUM comme «\,plusieurs compromis importants\,» sur le plan de la sécurité. & \pgl{01}{5}{5--6} \\
+13 juil.\ 2026 & Réponse du SIM (corps du texte caviardé). & \pg{01}{5} \\
+13 août 2026 & La cheffe de cabinet (D'Amours) au directeur de l'aménagement urbain (Admo), c.c.\ le directeur d'arrondissement, la mairesse d'arrondissement et le conseiller Teodoresco~: la mairesse veut une étude externe formelle\,; mandat~: piste bidirectionnelle d'un côté, de Loyola à Côte-Saint-Luc, respectant «\,les normes minimales prévues par la loi\,», et retour du stationnement d'un côté. Transmis à la division de l'ingénierie le jour même. & \pgl{01}{1}{1--2} \\
+18 août 2026 & Soulière à EXP~: la nouvelle mairesse d'arrondissement veut une note technique\,; la rapidité est ce qui compte pour les élus\,; l'objectif est d'agir à un conseil d'arrondissement au début d'octobre. & \pgl{01}{21}{21--22} \\
+20 août 2026 & Demande de services 59-26-ET-01\_002 à EXP. & \pgl{01}{3}{3--4} \\
+25 août 2026 & Offre d'EXP~: 14\,755~\$\,; note finale le 2~octobre. & \pgl{01}{9}{9--13} \\
+26 août 2026 & Bon de commande 1796945, 17\,706~\$ avec contingence. & \pgl{01}{15}{15--17} \\
+28 août 2026 & L'arrondissement envoie à EXP la présentation des comptages de 2025 et le tableau de la boucle de comptage\,; EXP envoie sa première analyse intermédiaire (côté sud privilégié pour une piste bidirectionnelle). & \pg{01}{19} \\
+3 sept.\ 2026 & Réunion de démarrage (Teams). & \pg{01}{26} \\
+10 sept.\ 2026 & Arrondissement~: version préliminaire requise pour le 18~septembre «\,pour respecter notre calendrier du Conseil d'arrondissement du 5~octobre\,». & \pg{01}{23} \\
+11 sept.\ 2026 & Dépôt de la présente demande d'accès. & --- \\
+11 et 14 sept.\ 2026 & Rencontre de travail n\textsuperscript{o}~2 (stationnement et hiver) et commentaires. & \pg{01}{167} \\
+17 sept.\ 2026 & Livraison de la note préliminaire, filigrane «\,BROUILLON\,». & \pg{01}{167} \\
+2 oct.\ 2026 & Note finale due. Aucun bordereau de transmission de la version finale ne figure dans les documents communiqués. & \pgl{01}{12}{12, 26} \\
+6 oct.\ 2026 & Séance du conseil\,; annonce de la conversion hivernale. & --- \\
+8 oct.\ 2026 & Dépôt d'une seconde demande d'accès (note finale et diapositives). & --- \\
+9 oct.\ 2026 & Réponse à la présente demande. & --- \\
+\bottomrule
+\end{longtable}
+\end{small}
+
+\section{Constats détaillés}
+
+\subsection{L'objectif était fixé avant toute analyse}
+
+Le courriel du 10~juin, du chef de la Division des études techniques de
+l'arrondissement à la Division de l'aménagement des rues de la Ville, est le
+plus ancien document communiqué et le plus important \pgl{01}{7}{7--8}~:
+
+\quot{«\,Les élus de l'arrondissement souhaitent revoir l'aménagement cyclable
+de la rue Terrebonne réalisé en 2024, avec l'objectif de redonner la bande de
+stationnement qui avait été retranchée. \ldots\ Les préoccupations
+exprimées concernent principalement la largeur des aménagements cyclables,
+jugée disproportionnée par rapport au volume de cyclistes observé. Selon
+les élus, il serait possible de réduire l'espace consacré aux cyclistes
+afin de rétablir la deuxième bande de stationnement retirée lors de la
+reconfiguration de 2024.\,»}
+
+\quot{«\,Vous comprendrez que nous avons déjà émis un avis technique quant
+à la faisabilité de ces 2 concepts, toutefois, les élus souhaitent obtenir
+un avis officiel, neutre et externe à l'arrondissement.\,»}
+
+Trois choses en découlent. L'objectif, rétablir la bande de stationnement,
+est présenté comme le but des élus, non comme une question. Les ingénieurs
+de l'arrondissement avaient déjà donné un avis, et l'avis externe a été
+demandé parce que les élus en voulaient un autre\,; la phrase ne dit pas
+quel était l'avis interne, mais la description que fait le courriel des deux
+concepts («\,une voie de circulation très étroite (moins de 4~mètres)
+coincée entre deux bandes de stationnement\,»\,; «\,un aménagement
+bidirectionnel très étroit\,» de 2,4~m avec une zone tampon de 0,3~m) et sa
+prévision que le Service de sécurité incendie «\,pourrait s'y opposer\,»
+laissent peu de doute. Enfin, la justification avancée pour l'exercice est
+celle qui a servi en public depuis~: la piste est trop large pour le nombre
+de cyclistes.
+
+Le courriel se termine par un post-scriptum qui concerne les chiffres
+utilisés par la suite~: «\,Nous disposons également d'un compteur permanent
+Éco-Compteur sur le corridor. Au besoin, nous pourrons vous transmettre les
+données disponibles\,» \pg{01}{8}. En juin 2026, les ingénieurs de
+l'arrondissement savaient que le compteur permanent existait, le tenaient
+pour la donnée pertinente et en offraient les données à la Ville.
+
+L'«\,avis technique\,» interne n'était pas visé par ma demande et n'a pas
+encore été demandé. Il devrait l'être.
+
+Le document suivant dans la séquence est la directive du cabinet de la
+mairesse du 13~août \pgl{01}{1}{1--2}, de la cheffe de cabinet au directeur
+de l'aménagement urbain, avec copie au directeur d'arrondissement et aux
+deux élus~:
+
+\quot{«\,Après discussion, Mme la mairesse souhaite qu'une étude technique
+formelle soit réalisée par une firme externe afin d'évaluer la
+reconfiguration de la piste cyclable sur la rue Terrebonne. Le mandat serait
+le suivant~: évaluer le scénario d'implantation d'une piste cyclable
+bidirectionnelle d'un côté de la rue Terrebonne (entre le campus Loyola
+et Côte-Saint-Luc) qui respecte les normes minimales prévues par la loi
+et le retour du stationnement d'un côté de la rue.\,»}
+
+Deux choses ressortent. Le mandat, tel que le cabinet l'a formulé, est
+permanent et couvre toute la longueur~: une piste bidirectionnelle d'un
+côté et le stationnement rétabli de l'autre, sans mention de l'hiver. Et
+«\,qui respecte les normes minimales prévues par la loi\,» présuppose que les
+concepts examinés en juin ne les respectaient pas~: les concepts décrits le
+10~juin étaient une voie de circulation de moins de 4~m entre deux bandes de
+stationnement et une piste bidirectionnelle de 2,4~m, les ingénieurs de
+l'arrondissement avaient déjà donné leur avis à leur sujet, et le SUM y
+avait vu «\,plusieurs compromis importants\,». La directive d'août demande
+une version qui franchisse le minimum légal. Le retrait hivernal en est
+absent\,; il apparaît une semaine plus tard dans la demande de services
+rédigée par le personnel, à titre de mesure transitoire avant la mesure
+permanente. En conversation avec l'auteur, le conseiller Teodoresco a dit
+que les ingénieurs de l'arrondissement n'endosseraient pas une piste
+bidirectionnelle sur Terrebonne, si légale soit-elle\,; le dossier est
+compatible avec cette affirmation, et la question qu'il laisse ouverte est
+de savoir si le Volet~2 demeure le plan.
+
+\subsection{L'équipe vélo de la Ville et le Service de sécurité incendie}
+
+L'analyse du SUM du 17~juin \pgl{01}{6}{6--7} est refusée en vertu des
+articles~37 et 39. Sa conclusion survit dans les mots de l'arrondissement,
+dans la demande du 22~juin au Service de sécurité incendie \pg{01}{6}~:
+
+\quot{«\,À la demande de l'arrondissement, le Service de l'urbanisme et de la
+mobilité a procédé à une analyse technique préliminaire des scénarios
+envisagés. Cette analyse conclut que les options étudiées présentent
+plusieurs compromis importants sur le plan de la sécurité, du confort des
+usagers vulnérables et de la cohérence du réseau cyclable par rapport à
+l'aménagement actuellement en place.\,»}
+
+Le courriel d'accompagnement du SUM demande à être tenu informé «\,des
+orientations qui seront retenues à la lumière de ces éléments\,»
+\pg{01}{7}\,; les documents communiqués ne contiennent aucune réponse. La
+réponse du Service de sécurité incendie du 13~juillet \pg{01}{5} se résume à
+une phrase d'introduction suivie d'un caviardage qui couvre le reste de la
+page. Quoi qu'elle dise, l'arrondissement a posé la question parce qu'il
+s'attendait à une objection à une voie de moins de 4~mètres entre deux
+rangées de voitures stationnées.
+
+La séquence importe~: l'unité experte de la Ville a signalé des enjeux de
+sécurité le 17~juin\,; puis l'arrondissement a retenu un consultant
+externe le 20~août avec un mandat dont l'objet déclaré était d'augmenter le
+stationnement. Une note rédigée selon ce mandat n'est pas une évaluation
+indépendante de l'opportunité de retirer la piste\,; c'est un exercice de
+conception portant sur la façon de le faire.
+
+\subsection{Le mandat et ce qu'il demandait}
+
+La demande de services du 20~août \pgl{01}{3}{3--4} est explicite quant à
+l'objet et à la portée. Le titre~: une note technique pour évaluer une
+piste bidirectionnelle d'un côté «\,et voir à évaluer la place du
+stationnement sur rue, dans le but d'en augmenter le nombre\,». Parmi les
+tâches~:
+
+\quot{«\,Énumérer les mesures à mettre en oeuvre, en deux volets, pour le
+retrait des aménagements cyclables durant la saison hivernale.
+Volet~1 -- existant~: pistes cyclables unidirectionnelles bilatérales
+(mesure transitoire pour l'hiver 2026--2027). Volet~1 alternatif~: maintien
+et entretien hivernal d'une des deux bandes cyclables, et retrait de
+l'autre. Volet~2 -- faisabilité d'une piste cyclable bidirectionnelle
+unilatérale.\,»}
+
+Le «\,Volet~1 alternatif\,» est, mot pour mot, la mesure annoncée le
+6~octobre. Il figure dans les instructions de l'arrondissement au consultant
+six semaines avant que celui-ci ne fasse rapport. Et il est qualifié de
+transitoire~: le plan à plus long terme, dans le même document, est le
+Volet~2, une seule piste bidirectionnelle avec une bande de stationnement
+rétablie de l'autre côté à l'année. On n'a pas dit au conseil que la mesure
+hivernale est la première étape d'une reconfiguration permanente, mais le
+mandat le dit.
+
+L'offre d'EXP \pgl{01}{9}{9--13} reprend la portée et ajoute les scénarios
+hivernaux qu'elle comparerait~:
+
+\quot{«\,\ldots\ la fermeture complète de la piste et son remplacement par du
+stationnement en hiver; la fermeture en période de déneigement seulement;
+ou, dans le cas des bandes unidirectionnelles actuelles, la fermeture
+partielle avec une chaussée désignée et du stationnement des deux côtés
+de façon permanente ou seulement lors des périodes de déneigement
+durant la saison hivernale.\,»}
+
+La formule limitée aux opérations de déneigement, que le conseiller a
+écartée à la séance, était donc l'un des scénarios que le consultant était
+payé pour évaluer. Si la note la déconseille, et pour quels motifs, c'est
+précisément ce que le document refusé montrerait.
+
+Prix~: 14\,755~\$ d'honoraires plus 2\,951~\$ de contingence, 17\,706~\$
+avant taxes \pg{01}{16}, aux taux horaires de l'entente-cadre. Livrables~:
+deux courriels intermédiaires, une note préliminaire, une note finale et
+une réunion de clôture. Aucun travail de terrain, aucun comptage, aucun
+relevé d'occupation\,; le consultant a reçu la présentation de 2025 de
+l'arrondissement et le tableau du compteur le 28~août et a travaillé à
+partir de ceux-ci et de l'imagerie aérienne de Google, Street View étant
+périmé \pg{01}{19}.
+
+\subsection{Un calendrier dicté par la date du conseil}
+
+Le courriel du 18~août qui ouvre le dossier \pgl{01}{21}{21--22}~:
+
+\quot{«\,\ldots\ la nouvelle mairesse souhaite que nous lui présentions une note
+technique concernant la faisabilité de réaliser une piste cyclable
+bidirectionnelle, unilatérale, sur la rue de Terrebonne et voir, en plus de
+cette faisabilité, dans quelle mesure cet aménagement peut augmenter le
+nombre de cases de stationnement sur rue. \ldots\ sachez que l'important
+pour nos élus est que votre proposition puisse se faire très rapidement,
+ainsi que la réalisation de la note en soi. L'objectif de nos élus est de
+pouvoir agir sur vos conclusions pour un horizon début octobre, lors d'un
+conseil d'arrondissement.\,»}
+
+Et le 10~septembre \pg{01}{23}~: «\,Mon gestionnaire m'a rappelé hier qu'il
+est très important que la note technique préliminaire nous soit acheminée
+au plus tard le 18~septembre prochain pour respecter notre calendrier du
+Conseil d'arrondissement du 5~octobre prochain.\,» La version préliminaire
+du consultant, le 17~septembre, porte un filigrane «\,BROUILLON\,» parce que
+«\,le délai serré ne nous a pas permis de faire faire une relecture
+attentive\,» \pg{01}{167}. La note finale était due le 2~octobre, un
+vendredi\,; l'annonce a été faite le mardi suivant.
+
+\subsection{D'où viennent les chiffres}
+
+Le conseiller a dit à la séance qu'il s'appuyait sur «\,the official data
+provided to me by the services\,» et a lu sur des diapositives un chiffre de
+12~déplacements à l'heure de pointe en janvier et un chiffre de 8. Les
+diapositives sont dans les documents communiqués \pgl{01}{51}{51--73}~: la
+présentation d'analyse des comptages de février 2025, mise à jour au cours
+de 2025. Son tableau des vélos («\,MAJ 2025\,») donne, pour les deux périodes
+de pointe de trois heures combinées, 12~vélos à Cavendish et 12 à Grand
+toutes directions confondues en janvier 2025, et 10 et 8 sur l'axe
+Terrebonne, contre 347 et 425 en juin 2025, étiquetés $-95$~\% et
+$-96$~\% \pgl{01}{61}{61--62}. Les tableaux Miovision sous-jacents montrent
+que les chiffres de janvier proviennent d'une seule journée, le 29~janvier
+2025 \pgl{01}{85}{85, 155}\,; les totaux complets sur douze heures ce
+jour-là étaient de 18 à Cavendish et de 12 à Grand sur l'axe Terrebonne.
+
+Trois observations. Premièrement, il s'agit de comptages par caméra d'une
+seule journée à deux intersections, lors du premier hiver de la piste,
+effectués avant que le compteur permanent n'existe\,; le titre de la
+diapositive, \emph{aux heures de pointes}, signifie que le huit est le
+total des deux périodes de pointe de trois heures (6\,h\,30 à 9\,h\,30 et
+15\,h\,30 à 18\,h\,30 \pg{01}{57})\,; ce n'est donc ni un chiffre
+quotidien ni un chiffre horaire, et la diapositive elle-même ne donne
+aucune indication qu'il s'agit du comptage d'une seule journée.
+Deuxièmement, l'arrondissement disposait du relevé du compteur permanent
+au moment de la décision~: la même liasse contient les totaux quotidiens du
+26~juillet 2025 au 31~août 2026 \pgl{01}{74}{74--81}\,; les ingénieurs de
+l'arrondissement avaient offert les données du compteur à la Ville en juin
+\pg{01}{8} et envoyé le tableau au consultant le 28~août \pg{01}{19}. Il
+montre 4\,891 passages entre le 1\textsuperscript{er}~décembre et le 31~mars
+(41 par jour\,; 46 les jours de semaine\,; 63 les jours de semaine sur la
+saison de déneigement du 16~novembre au 31~mars) et un deuxième été à
+environ 700 par jour. Troisièmement, le «\,700\,» et le «\,8\,» que le
+conseiller a opposés l'un à l'autre pour une baisse de «\,99~\%\,» ne sont pas
+des chiffres comparables. Le 8, c'est Grand, axe Terrebonne seulement, six
+heures de pointe, 29~janvier 2025 \pg{01}{62}. Le seul nombre voisin de 700
+sur les diapositives est 707~: Grand, 19~septembre 2024, six heures de
+pointe, mais sur \emph{les quatre approches}, y compris les vélos
+circulant sur Grand elle-même, que le 8 exclut \pg{01}{61}\,; c'est aussi le
+plus grand comptage pour une seule intersection de toute la présentation.
+Diviser le plus petit nombre d'une diapositive par le plus grand de l'autre
+donne 98,9~\%. Comparée de façon équivalente sur les diapositives
+elles-mêmes, même intersection, même axe, mêmes six heures, la baisse de
+septembre 2024 à janvier 2025 est de 98,2~\% (de 452 à 8) et, depuis les
+comptages d'été de part et d'autre de cet hiver, d'environ 97~\% (de 283 et
+281 à 8)\,; les diapositives elles-mêmes étiquettent janvier à $-95$~\%. Le
+compteur permanent donne environ 93~\% entre la totalité de l'été et la
+totalité de l'hiver. La baisse est forte selon toutes les mesures\,; le
+«\,99~\%\,» est le seul appariement des nombres disponibles qui l'atteint.
+
+Pour être complet~: la présentation ne contient aucune donnée de
+Kensington, et ne le pouvait pas, la boucle ayant été mise en service le
+26~juillet 2025, après la dernière mise à jour de la présentation (juin
+2025). Sa diapositive de méthodologie mentionne bien l'Éco-Compteur,
+«\,utilisé par le SUM depuis 2013\,», comme l'une des trois sources de
+comptage avec Miovision et Telraam \pgl{01}{53}{29, 53}\,; les seules
+données continues de la présentation sont celles des capteurs citoyens
+Telraam de King-Edward et de Royal, qui donnent environ 242 vélos par jour
+\pg{01}{65}. Le tableau du compteur est parvenu au consultant en pièce
+jointe distincte du même courriel du 28~août que la présentation
+\pg{01}{19}. Le consultant avait donc les deux documents dès la première
+semaine du mandat, et l'arrondissement savait depuis juin au moins laquelle
+des deux sources était la meilleure \pg{01}{8}\,; laquelle la note retient
+ne pourra être connu qu'à sa communication.
+
+\subsection{Ce qui a été refusé, et pour quels motifs}
+
+\begin{itemize}[nosep]
+  \item \textbf{Article 39} (une analyse produite à l'occasion d'une
+    recommandation, «\,jusqu'à ce que la recommandation ait fait l'objet
+    d'une décision\,»)~: la note d'EXP dans toutes ses versions, l'analyse du
+    SUM et les commentaires échangés sur les livrables.
+  \item \textbf{Article 37} (avis ou recommandations faits depuis moins de
+    dix ans, y compris par un consultant)~: les mêmes documents, plus l'avis
+    du SIM.
+  \item \textbf{Article 9, deuxième alinéa} (les ébauches, brouillons et
+    notes préparatoires ne sont pas des documents de l'organisme public)~:
+    les livrables intermédiaires et la note préliminaire.
+  \item \textbf{Articles 23 et 24} (renseignements commerciaux de tiers)~:
+    des parties des documents d'appel d'offres et de l'offre d'EXP\,; la
+    ventilation des heures et des honoraires jointe à l'offre ne figure pas
+    dans les documents communiqués.
+  \item \textbf{Articles 53 à 59}~: renseignements personnels, appliqués aux
+    noms et coordonnées dans les courriels\,; en pratique, les noms du
+    personnel restent visibles.
+\end{itemize}
+
+L'article~39 est le motif qui porte tout le poids, et il est limité dans le
+temps par ses propres termes. Le conseiller a annoncé la décision le
+6~octobre et a déclaré à la \emph{Gazette} le 7~octobre que «\,one thing is
+certain: residents will see changes by Christmas 2026\,», tout en disant que
+le changement «\,still need[s] to go through several steps\,».
+L'arrondissement ne peut pas avoir les deux à la fois~: si la recommandation
+a fait l'objet d'une décision, l'article~39 ne s'applique plus et la note
+doit être communiquée sous la seule réserve de l'article~37, qui est
+discrétionnaire et ne couvre pas le contenu factuel\,; si elle n'en a pas
+fait l'objet, l'annonce publique d'un résultat décidé était prématurée.
+L'article~14 de la Loi exige que le contenu factuel soit extrait et
+communiqué lorsqu'une restriction ne vise qu'une partie d'un document\,; la
+réponse ne le fait pas pour la note.
+
+Le motif de l'article~9 est faible pour la version préliminaire du
+17~septembre. C'était un livrable contractuel, transmis au client pour
+révision, et les commentaires de l'arrondissement ont façonné la version
+finale. Le mot «\,brouillon\,» en filigrane n'en fait pas une ébauche
+personnelle au sens de l'article~9, et la Commission l'a dit dans des cas
+comparables.
+
+\section{Ce que le dossier établit et n'établit pas}
+
+\subsection{Sur le processus décisionnel}
+
+Le dossier montre un objectif fixé par les élus au printemps\,; un avis
+technique interne déjà donné par les ingénieurs de l'arrondissement, après
+quoi un avis externe a été sollicité\,; une analyse de sécurité de l'équipe
+vélo de la Ville reçue en juin et jamais mentionnée en public\,; un mandat
+rédigé en août dont l'objet déclaré était d'augmenter le stationnement,
+avec une date de conseil déjà choisie\,; et une présentation de comptages
+qui a écarté les données du compteur permanent de l'arrondissement au
+profit d'un comptage d'une seule journée de l'hiver précédent. Que les élus
+aient raison ou non de vouloir plus de stationnement est une autre
+question\,; ce que les documents établissent, c'est l'ordre dans lequel la
+décision et sa justification ont été produites, et cet ordre diffère du
+récit donné à la séance du 6~octobre.
+
+\subsection{Sur l'option limitée aux opérations de déneigement}
+
+L'arrondissement a payé pour une évaluation qui comprenait «\,la fermeture
+en période de déneigement seulement\,» et a déclaré publiquement que
+l'option avait été écartée parce qu'on ne pouvait en informer les
+résidents. Le raisonnement, s'il va plus loin, se trouve dans la note
+refusée.
+
+\subsection{Sur ce qui est prévu au-delà de cet hiver}
+
+Le cabinet de la mairesse a demandé le 13~août une piste bidirectionnelle
+permanente avec retour du stationnement\,; «\,mesure transitoire pour l'hiver
+2026--2027\,» et Volet~2, ensemble, décrivent la conversion hivernale comme
+une première étape vers celle-ci. C'est une décision différente de celle
+qui a été annoncée, avec un profil de sécurité différent~: les «\,compromis
+importants\,» du SUM concernaient précisément ces coupes de rue. Elle n'a
+pas été soumise au public.
+
+\subsection{Ce que le dossier n'établit pas}
+
+La conclusion du SUM n'est connue que telle que l'arrondissement l'a
+résumée\,; l'avis du SIM est inconnu\,; le contenu de la note d'EXP est
+inconnu, et il se peut fort bien qu'elle déconseille les options plus
+étroites et recommande la mesure hivernale comme la moins mauvaise.
+«\,Disproportionnée\,» est le compte rendu, par le personnel, de l'opinion des
+élus, non un constat. Aucune des citations ci-dessus ne devrait être
+poussée au-delà de ce qu'elle dit. Elles établissent la séquence et
+l'objet\,; elles n'établissent pas ce que le consultant a conclu, ce qui est
+la raison d'obtenir la note.
+
+\section{Index des documents}
+
+Les numéros de page renvoient à la page du PDF de chaque liasse
+communiquée.
+
+\begin{small}
+\begin{longtable}{>{\raggedright\arraybackslash}p{3.0cm}>{\raggedright\arraybackslash}p{9.2cm}>{\raggedright\arraybackslash}p{2.6cm}}
+\toprule
+Document & Contenu & Emplacement \\
+\midrule
+\endhead
+Lettre de réponse & Réponses point par point\,; motifs de refus\,; avis de recours. & \doc{2026-581/raw/response_2026-10-09.pdf}{Request 2026-581}, 8~p. \\
+Liasse 01 & & \doc{2026-581/raw/01_emails_mandate_counts.pdf}{01 Doc\_req}, 167~p. \\
+\quad Directive du cabinet & Courriel du 13~août de la cheffe de cabinet fixant le mandat (piste bidirectionnelle, retour du stationnement), transmis les 13 et 14~août. & p.~1--2 \\
+\quad Chaîne SIM / SUM & Demande au SUM du 10~juin\,; réponses des 12 et 17~juin\,; demande au SIM du 22~juin\,; réponse du SIM du 13~juillet (caviardée). & p.~5--8 \\
+\quad Demande de services & 20~août 2026, mandat 59-26-ET-01\_002. & p.~3--4 \\
+\quad Offre d'EXP & 25~août 2026\,; portée, scénarios, échéancier, 14\,755~\$. & p.~9--13 \\
+\quad Bon de commande & 26~août 2026, n\textsuperscript{o}~1796945, 17\,706~\$. & p.~15--17 \\
+\quad Courriels avec EXP & 18 au 28~août~: mandat, plan de travail, intrants, première analyse intermédiaire. & p.~19--22 \\
+\quad Démarrage & Formulaire de la réunion du 3~septembre, livrables et dates\,; courriels du 10~septembre sur l'échéance du conseil du 5~octobre. & p.~23--26 \\
+\quad Présentation des comptages & «\,Suivi de projet -- Analyse des comptages\,», février 2025, et mise à jour «\,MAJ 2025\,». & p.~27--49\,; 51--73 \\
+\quad Boucle de comptage & Totaux quotidiens Kensington, vélos et véhicules motorisés, 26~juillet 2025 -- 31~août 2026. & p.~74--81 \\
+\quad Tableaux Miovision & Comptages aux intersections par période de 15~minutes et par classe~: Grand, Cavendish, Walkley, Royal\,; juillet 2024 -- septembre 2025\,; le 29~janvier 2025 aux p.~82--88 et 152--158. & p.~82--164 \\
+\quad Livraison de la version préliminaire & Transmission de la note préliminaire, 17~septembre 2026. & p.~167 \\
+Liasse 02 & Appel d'offres pour l'entente-cadre 59-25-ET-01, règlement, dossier décisionnel (p.~169--177), grille d'évaluation, soumission de WSP. & \doc{2026-581/raw/02_framework_agreement_tender.pdf}{02 DOC requis}, 341~p. \\
+Résolution & CA25~170126, 9~juin 2025~: ententes-cadres à WSP (1,60~M\$) et à EXP (1,70~M\$). & \doc{2026-581/raw/03_resolution_CA25-170126.pdf}{03 Résolution}, 2~p. \\
+Extraits de la Loi & art.~9, 23--24, 37, 39, 53--59\,; avis de recours. & \href{\repourl/tree/main/2026-581/raw/act_extracts}{act\_extracts/}, 5~fichiers \\
+Dérivé & Totaux quotidiens Kensington extraits en CSV à partir des p.~74--81. & \doc{2026-581/derived/kensington_daily_borough_release_2025-07_2026-08.csv}{CSV} \\
+\bottomrule
+\end{longtable}
+\end{small}
+
+\end{document}

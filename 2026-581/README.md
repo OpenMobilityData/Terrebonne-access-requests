@@ -61,6 +61,16 @@ With page references to bundle 01:
 
 A fuller analysis is in the executive summary *Access request 2026-581: what the borough's file shows* (October 9, 2026), in [`derived/`](derived/), together with the loop-counter daily totals from bundle 01, pp. 74–81, parsed to CSV.
 
+### Derived files
+
+| File | Content |
+|---|---|
+| [`derived/Terrebonne_2026-581_executive_summary_en.pdf`](derived/Terrebonne_2026-581_executive_summary_en.pdf) (+ `.tex`) | Executive summary and analysis, English (original) |
+| [`derived/Terrebonne_2026-581_executive_summary_fr.pdf`](derived/Terrebonne_2026-581_executive_summary_fr.pdf) (+ `.tex`) | Sommaire et analyse, version française (traduction ; l'anglais fait foi) |
+| `derived/Terrebonne_2026-581_summary_points_en.{pdf,tex,txt}` | The seven summary points alone, one page; `.txt` is 7-bit ASCII, one paragraph per point |
+| `derived/Terrebonne_2026-581_summary_points_fr.{pdf,tex,txt}` | Les sept points sommaires seuls, une page ; `.txt` en UTF-8, un paragraphe par point |
+| [`derived/kensington_daily_borough_release_2025-07_2026-08.csv`](derived/kensington_daily_borough_release_2025-07_2026-08.csv) | Loop-counter daily totals, bundle 01 pp. 74–81, parsed to CSV |
+
 ## Timeline
 
 | Date | Event |

@@ -1,0 +1,144 @@
+% Extrait d'une page : les sept points sommaires de la version française du
+% sommaire sur la demande d'accès 2026-581, mot pour mot. pdflatex (deux fois).
+\documentclass[10pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[scaled=0.95]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[letterpaper,top=0.6in,bottom=0.6in,left=0.8in,right=0.8in]{geometry}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[hidelinks]{hyperref}
+\urlstyle{same}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\linespread{1.0}
+
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{0.6em}{}[\vspace{1pt}\titlerule]
+\titlespacing*{\section}{0pt}{1.1em}{0.4em}
+\titleformat{\subsection}{\normalfont\bfseries}{\thesubsection}{0.6em}{}
+\titlespacing*{\subsection}{0pt}{0.8em}{0.25em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize\color{gray}Demande d'accès 2026-581 -- points sommaires -- \pagesurl}
+
+% ---- Repository links: fill in once the documents are uploaded ----
+\newcommand{\repourl}{https://github.com/OpenMobilityData/Terrebonne-access-requests}
+\newcommand{\repo}[1]{\href{\repourl}{#1}}
+% \doc{path-in-repo}{label}: link to a specific file in the repository
+\newcommand{\doc}[2]{\href{\repourl/blob/main/#1}{#2}}
+% GitHub Pages URL (Settings > Pages > deploy from main, root). Page anchors
+% (#page=N) work there because Pages serves PDFs with the right content type;
+% GitHub's blob viewer and raw.githubusercontent.com do not honour them.
+\newcommand{\pagesurl}{https://openmobilitydata.github.io/Terrebonne-access-requests}
+\expandafter\def\csname bundle01\endcsname{2026-581/raw/01_emails_mandate_counts.pdf}
+\expandafter\def\csname bundle02\endcsname{2026-581/raw/02_framework_agreement_tender.pdf}
+% \pg{bundle}{pages}: page reference, linked to the bundle at its first page
+% \pgl{bundle}{anchor page}{displayed pages}: same with an explicit anchor
+\newcommand{\pgl}[3]{\href{\pagesurl/\csname bundle#1\endcsname\#page=#2}{\textsf{\small[#1, p.~#3]}}}
+\newcommand{\pg}[2]{\pgl{#1}{#2}{#2}}
+\newcommand{\fillin}[1]{\textcolor{red}{[#1]}}
+\newcommand{\quot}[1]{\begin{quote}\small #1\end{quote}}
+
+\begin{document}
+
+{\large\bfseries Demande d'accès 2026-581~: ce que révèle le dossier de l'arrondissement}\hfill{\small 9~octobre 2026}
+
+\vspace{-0.2em}
+{\small Points sommaires du sommaire et analyse, mot pour mot. Analyse complète, références aux pages et documents communiqués~:\\ \repo{\repourl}}
+\vspace{0.4em}
+
+\begin{enumerate}[nosep,itemsep=0.45em,leftmargin=1.4em]
+  \item \textbf{La décision a précédé l'étude.} Le 10~juin 2026, la
+    division de l'ingénierie de l'arrondissement écrivait à la division de
+    l'aménagement des rues de la Ville que les élus souhaitaient revoir
+    l'aménagement de 2024 «\,avec l'objectif de redonner la bande de
+    stationnement qui avait été retranchée\,», que les ingénieurs de
+    l'arrondissement avaient \emph{déjà} émis un avis technique sur les deux
+    concepts esquissés par les élus, et que ceux-ci voulaient «\,un avis
+    officiel, neutre et externe\,». Le mandat finalement confié à EXP le
+    20~août a pour titre, en partie, «\,évaluer la place du stationnement sur
+    rue, dans le but d'en augmenter le nombre\,».
+\item \textbf{L'équipe vélo de la Ville elle-même a soulevé des enjeux
+    de sécurité.} Le Service de l'urbanisme et de la mobilité a remis une
+    analyse en mode express le 17~juin\,; le résumé qu'en fait
+    l'arrondissement, rédigé cinq jours plus tard, indique que les options
+    «\,présentent plusieurs compromis importants sur le plan de la sécurité,
+    du confort des usagers vulnérables et de la cohérence du réseau
+    cyclable\,». Cette analyse n'a pas été communiquée. L'avis du Service de
+    sécurité incendie du 13~juillet est caviardé en entier.
+\item \textbf{L'«\,étude\,» est une note technique de six semaines et de
+    14\,755~\$, avec une date de conseil fixée d'avance.} Demande de
+    services le 20~août\,; offre le 25~août\,; bon de commande le 26~août\,;
+    réunion de démarrage le 3~septembre\,; version préliminaire le
+    17~septembre\,; version finale due le 2~octobre\,; annonce le 6~octobre. Le
+    personnel de l'arrondissement a écrit au consultant le 18~août que
+    «\,l'objectif de nos élus est de pouvoir agir sur vos conclusions pour un
+    horizon début octobre\,» et, le 10~septembre, que la version préliminaire
+    devait être livrée au plus tard le 18 «\,pour respecter notre calendrier
+    du Conseil d'arrondissement du 5~octobre\,».
+\item \textbf{La mesure hivernale est qualifiée de transitoire\,; le
+    mandat du cabinet de la mairesse était permanent.} Le 13~août, la cheffe
+    de cabinet de la mairesse d'arrondissement a fixé le mandat par écrit~:
+    une piste cyclable bidirectionnelle d'un côté de Terrebonne, de Loyola à
+    Côte-Saint-Luc, «\,qui respecte les normes minimales prévues par la loi\,»,
+    et «\,le retour du stationnement d'un côté de la rue\,». Aucune mesure
+    hivernale n'y figure. La demande de services, une semaine plus tard, a
+    ajouté un Volet~1, le retrait des aménagements cyclables en hiver, à
+    titre de «\,mesure transitoire pour l'hiver 2026--2027\,», avant le
+    Volet~2, la piste bidirectionnelle permanente. La conversion hivernale
+    annoncée le 6~octobre est la première étape d'une réduction à l'année de
+    l'espace cyclable qui n'a jamais été soumise au public.
+\item \textbf{Une option limitée aux opérations de déneigement
+    faisait partie du mandat.} L'offre d'EXP énumère, parmi les scénarios à
+    comparer, «\,la fermeture en période de déneigement seulement\,». Le
+    conseiller a affirmé à la séance du 6~octobre que le stationnement limité
+    aux tempêtes avait été écarté\,; l'analyse sur laquelle repose cette
+    affirmation se trouve dans la note qui n'a pas été
+    communiquée.
+\item \textbf{Les chiffres cités au conseil sont la mesure la plus
+    faible de tout le dossier.} Le «\,12\,» et le «\,8\,» proviennent de la
+    présentation des comptages de l'arrondissement de février 2025~: il ne
+    s'agit ni de vélos par jour ni de vélos par heure, mais de vélos comptés
+    au moyen d'une caméra temporaire (Miovision) installée aux intersections
+    Cavendish et Grand pendant six heures de pointe d'une seule journée, le
+    29~janvier 2025, lors du premier hiver de la piste, alors que le
+    déneigement était souvent en retard, et lus sur une diapositive qui ne
+    précise rien de tout cela. Au moment de la séance, un compteur permanent
+    avait enregistré chaque vélo passé sur la rue pendant l'hiver suivant,
+    soit une année entière plus récente\,; les ingénieurs de l'arrondissement
+    avaient offert ses données à la Ville en juin, et son tableau était entre
+    les mains du consultant en août~: 41 par jour de décembre à mars (46 les
+    jours de semaine), et un deuxième été à environ 700 par jour. La baisse
+    de «\,99~\%\,» citée à la séance, 700 contre 8, oppose le plus grand nombre
+    d'une diapositive, Grand en septembre 2024 compté sur les quatre
+    approches, au plus petit nombre de la suivante, Grand en janvier 2025 sur
+    l'axe Terrebonne seulement\,; comparées de façon équivalente, les
+    diapositives elles-mêmes donnent 97 à 98~\%, étiquettent janvier à
+    $-95$~\%, et le compteur donne environ 93~\% d'une saison entière à
+    l'autre. Les deux sources s'entendent sur le fait que la baisse est
+    forte\,; elles diffèrent sur le nombre absolu, et une seule d'entre elles
+    donne «\,quatre personnes\,». Quelle qu'en soit l'explication, une décision
+    présentée comme fondée sur les données reposait sur la seule donnée
+    qu'une analyse rigoureuse aurait écartée en premier.
+\item \textbf{Le refus de communiquer repose sur un motif qui
+    s'éteint avec la décision.} La note et l'analyse de la Ville sont
+    refusées en vertu de l'article~39, qui s'applique «\,jusqu'à ce que la
+    recommandation ait fait l'objet d'une décision\,». Le conseiller a annoncé
+    la décision le 6~octobre et promis des changements d'ici Noël. Ou bien la
+    décision a été prise et le motif n'existe plus, ou bien elle ne l'a pas
+    été et l'annonce était prématurée. Une demande de révision peut être
+    adressée à la Commission d'accès à l'information dans les 30~jours, soit
+    d'ici le \textbf{8~novembre 2026}.
+\end{enumerate}
+
+\end{document}
