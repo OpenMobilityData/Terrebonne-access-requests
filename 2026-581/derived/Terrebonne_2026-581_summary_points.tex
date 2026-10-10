@@ -1,0 +1,136 @@
+% One-page extract: the seven summary points of the executive summary on access
+% request 2026-581, verbatim. Compile with pdflatex (twice).
+\documentclass[10pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[scaled=0.95]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[letterpaper,top=0.7in,bottom=0.7in,left=0.9in,right=0.9in]{geometry}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[hidelinks]{hyperref}
+\urlstyle{same}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\linespread{1.0}
+
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{0.6em}{}[\vspace{1pt}\titlerule]
+\titlespacing*{\section}{0pt}{1.1em}{0.4em}
+\titleformat{\subsection}{\normalfont\bfseries}{\thesubsection}{0.6em}{}
+\titlespacing*{\subsection}{0pt}{0.8em}{0.25em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize\color{gray}Access request 2026-581 -- summary points. Full analysis and source documents: \pagesurl}
+
+% ---- Repository links: fill in once the documents are uploaded ----
+\newcommand{\repourl}{https://github.com/OpenMobilityData/Terrebonne-access-requests}
+\newcommand{\repo}[1]{\href{\repourl}{#1}}
+% \doc{path-in-repo}{label}: link to a specific file in the repository
+\newcommand{\doc}[2]{\href{\repourl/blob/main/#1}{#2}}
+% GitHub Pages URL (Settings > Pages > deploy from main, root). Page anchors
+% (#page=N) work there because Pages serves PDFs with the right content type;
+% GitHub's blob viewer and raw.githubusercontent.com do not honour them.
+\newcommand{\pagesurl}{https://openmobilitydata.github.io/Terrebonne-access-requests}
+\expandafter\def\csname bundle01\endcsname{2026-581/raw/01_emails_mandate_counts.pdf}
+\expandafter\def\csname bundle02\endcsname{2026-581/raw/02_framework_agreement_tender.pdf}
+% \pg{bundle}{pages}: page reference, linked to the bundle at its first page
+% \pgl{bundle}{anchor page}{displayed pages}: same with an explicit anchor
+\newcommand{\pgl}[3]{\href{\pagesurl/\csname bundle#1\endcsname\#page=#2}{\textsf{\small[#1, p.~#3]}}}
+\newcommand{\pg}[2]{\pgl{#1}{#2}{#2}}
+\newcommand{\fillin}[1]{\textcolor{red}{[#1]}}
+\newcommand{\quot}[1]{\begin{quote}\small #1\end{quote}}
+
+\begin{document}
+
+{\large\bfseries Access request 2026-581: what the borough's file shows}\hfill{\small October~9, 2026}
+
+\vspace{-0.2em}
+{\small Summary points of the executive summary, verbatim. Full analysis, page references and the released documents:\\ \repo{\repourl}}
+\vspace{0.4em}
+
+\begin{enumerate}[nosep,itemsep=0.7em,leftmargin=1.4em]
+  \item \textbf{The decision came before the study.} On June~10, 2026 the
+    borough's engineering division wrote to the City's street-design
+    division that the elected officials wished to revisit the 2024 layout
+    ``avec l'objectif de redonner la bande de stationnement qui avait \'et\'e
+    retranch\'ee,'' that the borough's engineers had \emph{already} issued a
+    technical opinion on the two concepts the councillors had sketched, and
+    that the councillors wanted ``un avis officiel, neutre et externe.'' The
+    mandate eventually given to EXP on August~20 is titled, in part,
+    ``\'evaluer la place du stationnement sur rue, dans le but d'en augmenter
+    le nombre.''
+\item \textbf{The City's own cycling unit warned about safety.} The
+    Service de l'urbanisme et de la mobilit\'e returned an express analysis on
+    June~17; the borough's own summary of it, written five days later, says
+    the options ``pr\'esentent plusieurs compromis importants sur le plan de
+    la s\'ecurit\'e, du confort des usagers vuln\'erables et de la coh\'erence
+    du r\'eseau cyclable.'' That analysis is withheld. The fire department's
+    opinion of July~13 is redacted in its entirety.
+\item \textbf{The ``study'' is a six-week, \$14{,}755 technical note with a
+    council date fixed in advance.} Service request August~20; offer
+    August~25; purchase order August~26; kick-off September~3; draft
+    September~17; final due October~2; announcement October~6. Borough staff
+    told the consultant on August~18 that ``l'objectif de nos \'elus est de
+    pouvoir agir sur vos conclusions pour un horizon d\'ebut octobre'' and on
+    September~10 that the draft was needed by the 18th ``pour respecter notre
+    calendrier du Conseil d'arrondissement du 5 octobre.''
+\item \textbf{The winter measure is described as transitional; the
+    mandate from the mayor's office was permanent.} On August~13 the borough
+    mayor's chief of staff set the mandate in writing: a bidirectional lane
+    on one side of Terrebonne, from Loyola to C\^ote-Saint-Luc, ``qui
+    respecte les normes minimales pr\'evues par la loi,'' and ``le retour du
+    stationnement d'un c\^ot\'e de la rue.'' No winter measure appears. The
+    service request a week later added Volet~1, removal of cycling
+    facilities in winter, as ``mesure transitoire pour l'hiver
+    2026--2027,'' ahead of Volet~2, the permanent bidirectional lane. The
+    winter conversion announced on October~6 is the first step of a
+    year-round reduction of cycling space that has not been put to the
+    public.
+\item \textbf{A storm-only option was within the mandate.} EXP's offer
+    lists among the scenarios to compare ``la fermeture en p\'eriode de
+    d\'eneigement seulement.'' The councillor told the October~6 meeting that
+    storm-only parking had been ruled out; the analysis on which that rests
+    is in the withheld note.
+\item \textbf{The figures cited at council are the weakest measure in
+    the file.} The ``12'' and ``8'' come from the borough's February~2025
+    count presentation: not bicycles per day or per hour, but bicycles
+    counted using a temporary camera (Miovision) installed at the Cavendish
+    and Grand intersections over six
+    peak-period hours of a single day, January~29, 2025, in the lane's first
+    winter, when clearing was often delayed, read from a slide that states
+    none of this. By the time of the meeting a continuous counter had
+    recorded every bicycle on the street through the following winter, a
+    full year more recent; the borough's engineers had offered its data to
+    the City in June, and its table was in the consultant's hands in
+    August: 41 a day over December--March (46 on weekdays) and a second
+    summer at about 700 a day. The ``99\%'' drop cited at the meeting, 700
+    against 8, sets the largest number on one slide, Grand in
+    September~2024 counted on all four approaches, against the smallest on
+    the next, Grand in January~2025 on the Terrebonne axis alone; compared
+    like for like, the deck's own slides give 97--98\%, label January
+    $-95$\%, and the counter gives about 93\% for the seasons entire. The
+    two sources agree that the drop is steep;
+    they differ in the absolute number, and only one of them yields ``four
+    people.'' Whatever the
+    explanation, a decision presented as data-driven rested on the one data
+    point a careful analysis would have set aside first.
+\item \textbf{The withholding rests on a ground that expires with the
+    decision.} The note and the City's analysis are withheld under
+    section~39, which applies ``until a decision is made on the
+    recommendation.'' The councillor announced the decision on October~6 and
+    promised changes by Christmas. Either the decision has been made and the
+    ground has lapsed, or it has not and the announcement was premature. A
+    review may be sought from the Commission d'acc\`es \`a l'information
+    within 30 days, that is by \textbf{November~8, 2026}.
+\end{enumerate}
+
+\end{document}
