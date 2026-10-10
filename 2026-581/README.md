@@ -23,7 +23,8 @@ In September 2026 the borough had commissioned an engineering study of rue de Te
 
 | Pages | Content |
 |---|---|
-| 2, 5–8 | June 10, 2026: borough engineering division to the City's street-design division (SUM) — elected officials wish to restore the parking lane; two cross-sections drawn; borough has already issued an internal technical opinion; an external one is wanted. June 12 and 17: SUM replies (analysis withheld). June 22: borough asks the fire department (SIM) for an opinion, summarizing SUM's conclusion. July 13: SIM reply (body redacted) |
+| 1–2 | August 13, 2026: the borough mayor's chief of staff to the director of urban planning, cc. borough director and both elected officials — the mayor wants a formal external study; mandate: a bidirectional lane on one side (Loyola to Côte-Saint-Luc) "qui respecte les normes minimales prévues par la loi" and return of parking on one side; forwarded to the engineering division August 13–14 |
+| 5–8 | June 10, 2026: borough engineering division to the City's street-design division (SUM) — elected officials wish to restore the parking lane; two cross-sections drawn; borough has already issued an internal technical opinion; an external one is wanted. June 12 and 17: SUM replies (analysis withheld). June 22: borough asks the fire department (SIM) for an opinion, summarizing SUM's conclusion. July 13: SIM reply (body redacted) |
 | 3–4 | August 20, 2026: service request to EXP, mandate 59-26-ET-01_002 |
 | 9–13 | August 25, 2026: EXP offer of services ($14,755; final note due October 2) |
 | 15–17 | August 26, 2026: purchase order 1796945 ($17,706 with contingency) |
@@ -53,7 +54,7 @@ With page references to bundle 01:
 
 1. **The objective preceded the study.** June 10, 2026 (pp. 7–8): the elected officials wished to revisit the 2024 layout "avec l'objectif de redonner la bande de stationnement qui avait été retranchée"; the borough's engineers "avons déjà émis un avis technique" on the councillors' two concepts, but the councillors wanted "un avis officiel, neutre et externe".
 2. **The City's cycling unit flagged safety.** June 22 (p. 6), the borough's own summary of SUM's June 17 analysis: the options "présentent plusieurs compromis importants sur le plan de la sécurité, du confort des usagers vulnérables et de la cohérence du réseau cyclable".
-3. **The mandate was written to increase parking, with winter removal as a transitional step.** August 20 (pp. 3–4): the note is to evaluate on-street parking "dans le but d'en augmenter le nombre"; Volet 1, removal of cycling facilities in winter, is a "mesure transitoire pour l'hiver 2026–2027", with the alternative "maintien et entretien hivernal d'une des deux bandes cyclables, et retrait de l'autre"; Volet 2 is a permanent bidirectional lane on one side.
+3. **The mandate from the mayor's office was permanent; the winter removal was added as a transitional step.** August 13 (pp. 1–2): the chief of staff's instruction asks for a bidirectional lane on one side meeting "les normes minimales prévues par la loi" and the return of parking on one side, with no winter measure. August 20 (pp. 3–4): the note is to evaluate on-street parking "dans le but d'en augmenter le nombre"; Volet 1, removal of cycling facilities in winter, is a "mesure transitoire pour l'hiver 2026–2027", with the alternative "maintien et entretien hivernal d'une des deux bandes cyclables, et retrait de l'autre"; Volet 2 is a permanent bidirectional lane on one side.
 4. **A storm-only option was within the mandate.** EXP's offer (p. 10) lists "la fermeture en période de déneigement seulement" among the scenarios to compare.
 5. **The council date was fixed before the work began.** August 18 (p. 22): "L'objectif de nos élus est de pouvoir agir sur vos conclusions pour un horizon début octobre, lors d'un conseil d'arrondissement." September 10 (p. 23): the draft was needed by September 18 "pour respecter notre calendrier du Conseil d'arrondissement du 5 octobre".
 6. **The figures cited at council are a one-day count from January 2025.** The "12" and "8" come from the 2025 presentation (pp. 61–62): bicycles at Cavendish and Grand during the two peak periods of January 29, 2025 (tables at pp. 85 and 155). The loop counter's continuous record (pp. 74–81), which the borough held and sent to EXP on August 28 (p. 19), gives 41 passages a day over December–March 2025–26, 46 on weekdays, and about 700 a day in summer 2026.
@@ -72,6 +73,7 @@ A fuller analysis is in the executive summary *Access request 2026-581: what the
 | 2026-06-10 | Borough asks SUM for an opinion on two cross-sections restoring parking |
 | 2026-06-17 | SUM express analysis returned |
 | 2026-06-22 / 07-13 | Borough asks SIM; SIM replies |
+| 2026-08-13 | Mayor's office sets the mandate: bidirectional lane on one side, return of parking |
 | 2026-08-18 → 26 | Mandate to EXP: request, offer, purchase order |
 | 2026-09-03 | Kick-off meeting |
 | 2026-09-17 | Preliminary note delivered |
