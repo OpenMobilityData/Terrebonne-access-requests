@@ -1,5 +1,5 @@
 Access request 2026-581: what the borough's file shows
-Summary points of the executive summary of October 9, 2026 (revised October 11). Full analysis, page references and the released documents: https://github.com/OpenMobilityData/Terrebonne-access-requests
+Summary points of the executive summary. Full analysis, page references and the released documents: https://github.com/OpenMobilityData/Terrebonne-access-requests
 
 The decision came before the study. On June 10, 2026 the borough's engineering division wrote to the City's street-design division that the elected officials wished to revisit the 2024 layout “avec l'objectif de redonner la bande de stationnement qui avait été retranchée,” that the borough's engineers had already issued a technical opinion on the two concepts the councillors had sketched, and that the councillors wanted “un avis officiel, neutre et externe.” The mandate eventually given to EXP on August 20 is titled, in part, “évaluer la place du stationnement sur rue, dans le but d'en augmenter le nombre.”
 
@@ -20,3 +20,5 @@ A storm-only option was within the mandate. EXP's offer lists among the scenario
 The exercise does not follow the City's own published method for reviewing a bike lane. On February 10, 2026 the administration launched its audit of the cycling network on the principle “recueillir les données, analyser et corriger au besoin”: technical analysis, data collection and field observation through the peak season, led by the Service de l'urbanisme et de la mobilité, with results expected at the end of 2026; the same release names Terrebonne among streets where the City is working with the borough on safety. On Terrebonne the objective was fixed before any analysis, the SUM's analysis was unfavourable and withheld, the mandate was to increase parking, no data were collected, and the change was announced while the City's audit was still under way.
 
 The withholding of the technical report rests on a ground that expires with the decision. The note and the City's analysis are withheld under section 39, which applies “until a decision is made on the recommendation.” The councillor announced the decision on October 6 and promised changes by Christmas. Either the decision has been made and the ground has lapsed, or it has not and the announcement was premature. A review may be sought from the Commission d'accès à l'information within 30 days, that is by November 8, 2026.
+
+Version 2026-10-11-14-11-46

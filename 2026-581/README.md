@@ -70,6 +70,8 @@ A fuller analysis is in the executive summary *Access request 2026-581: what the
 
 ### Derived files
 
+Each derived document carries a version tag of the form `YYYY-MM-DD-hh-mm-ss` (America/Toronto): in the PDFs at the right of the page footer and in the PDF metadata (Subject), in the `.tex` as `\docversion`, and in the `.txt` files as a last line. Files built in the same run share a tag. When citing or comparing drafts, quote the tag; the date in the byline is the date of the analysis, not of the build.
+
 | File | Content |
 |---|---|
 | [`derived/Terrebonne_2026-581_executive_summary_en.pdf`](derived/Terrebonne_2026-581_executive_summary_en.pdf) (+ `.tex`) | Executive summary and analysis, English (original) |
