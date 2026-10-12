@@ -1,0 +1,74 @@
+# source: 2026-581/raw/01_emails_mandate_counts.pdf pp. 82-164 (Miovision class tables); peak = 06:30-09:30 + 15:30-18:30; axis = two Terrebonne approaches; pedestrians = all four crosswalks (no axis split)
+intersection,date,mode,peak6h_all,peak6h_axis,h12_all,h12_axis,page
+Cavendish,2024-07-17,Légers,5049,22,9842,74,145
+Cavendish,2024-07-17,Bus,83,0,158,0,146
+Cavendish,2024-07-17,Camions,121,0,258,2,147
+Cavendish,2024-07-17,Vélos sur route,361,319,610,541,148
+Cavendish,2024-07-17,Piétons,532,,1071,,150
+Cavendish,2024-07-17,Totaux,5614,341,10868,617,151
+Cavendish,2024-09-19,Légers,5017,7,9768,21,103
+Cavendish,2024-09-19,Bus,125,5,223,6,104
+Cavendish,2024-09-19,Camions,110,2,266,2,105
+Cavendish,2024-09-19,Vélos sur route,354,319,566,503,106
+Cavendish,2024-09-19,Piétons,802,,1294,,108
+Cavendish,2024-09-19,Totaux,5606,333,10823,532,109
+Cavendish,2024-11-20,Légers,4953,6,9584,7,139
+Cavendish,2024-11-20,Bus,142,0,234,1,140
+Cavendish,2024-11-20,Camions,75,1,199,1,141
+Cavendish,2024-11-20,Vélos sur route,169,151,264,229,138
+Cavendish,2024-11-20,Piétons,660,,1090,,143
+Cavendish,2024-11-20,Totaux,5339,158,10281,238,144
+Cavendish,2025-01-29,Légers,4923,0,9079,1,152
+Cavendish,2025-01-29,Bus,134,1,226,1,153
+Cavendish,2025-01-29,Camions,127,2,294,6,154
+Cavendish,2025-01-29,Vélos sur route,12,10,20,18,155
+Cavendish,2025-01-29,Piétons,451,,757,,157
+Cavendish,2025-01-29,Totaux,5196,13,9619,26,158
+Cavendish,2025-06-18,Légers,5572,2,10944,8,110
+Cavendish,2025-06-18,Bus,119,0,222,0,111
+Cavendish,2025-06-18,Camions,111,1,290,1,112
+Cavendish,2025-06-18,Vélos sur route,347,311,554,489,113
+Cavendish,2025-06-18,Piétons,673,,1207,,115
+Cavendish,2025-06-18,Totaux,6149,314,12010,498,116
+Grand,2024-07-17,Légers,2184,534,4128,1029,89
+Grand,2024-07-17,Bus,57,5,104,9,90
+Grand,2024-07-17,Camions,28,9,66,24,91
+Grand,2024-07-17,Vélos sur route,449,283,764,473,92
+Grand,2024-07-17,Piétons,743,,1308,,94
+Grand,2024-07-17,Totaux,2718,831,5062,1535,95
+Grand,2024-09-19,Légers,2684,691,4737,1246,124
+Grand,2024-09-19,Bus,109,9,162,18,125
+Grand,2024-09-19,Camions,23,8,58,21,126
+Grand,2024-09-19,Vélos sur route,707,452,1047,667,127
+Grand,2024-09-19,Piétons,881,,1450,,129
+Grand,2024-09-19,Totaux,3523,1160,6004,1952,130
+Grand,2024-11-20,Légers,2615,802,4789,1459,131
+Grand,2024-11-20,Bus,117,14,170,22,132
+Grand,2024-11-20,Camions,22,7,57,18,133
+Grand,2024-11-20,Vélos sur route,233,154,366,236,134
+Grand,2024-11-20,Piétons,818,,1309,,136
+Grand,2024-11-20,Totaux,2987,977,5382,1735,137
+Grand,2025-01-29,Légers,2298,617,3932,1045,82
+Grand,2025-01-29,Bus,108,9,160,19,83
+Grand,2025-01-29,Camions,20,2,72,18,84
+Grand,2025-01-29,Vélos sur route,12,8,21,12,85
+Grand,2025-01-29,Piétons,605,,972,,87
+Grand,2025-01-29,Totaux,2438,636,4185,1094,88
+Grand,2025-06-18,Légers,2217,746,4189,1348,117
+Grand,2025-06-18,Bus,78,10,131,18,118
+Grand,2025-06-18,Camions,41,10,94,21,119
+Grand,2025-06-18,Vélos sur route,425,281,673,439,120
+Grand,2025-06-18,Piétons,804,,1299,,122
+Grand,2025-06-18,Totaux,2761,1047,5087,1826,123
+Royal,2025-09-17,Légers,1513,1086,2603,1914,159
+Royal,2025-09-17,Bus,10,6,23,17,160
+Royal,2025-09-17,Camions,12,7,32,19,161
+Royal,2025-09-17,Vélos sur route,521,485,786,728,162
+Royal,2025-09-17,Piétons,964,,1403,,163
+Royal,2025-09-17,Totaux,2056,1584,3444,2678,164
+Walkley,2024-11-13,Légers,841,271,1564,525,96
+Walkley,2024-11-13,Bus,9,3,12,5,97
+Walkley,2024-11-13,Camions,11,5,36,14,98
+Walkley,2024-11-13,Vélos sur route,148,135,247,229,99
+Walkley,2024-11-13,Piétons,568,,973,,101
+Walkley,2024-11-13,Totaux,1009,414,1859,773,102

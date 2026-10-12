@@ -79,6 +79,7 @@ Each derived document carries a version tag of the form `YYYY-MM-DD-hh-mm-ss` (A
 | `derived/Terrebonne_2026-581_summary_points_en.{pdf,tex,txt}` | The summary points alone (two pages); `.txt` is UTF-8, one unnumbered paragraph per point, for pasting into social media |
 | `derived/Terrebonne_2026-581_summary_points_fr.{pdf,tex,txt}` | Les points sommaires seuls (deux pages) ; `.txt` en UTF-8, un paragraphe non numéroté par point, pour les médias sociaux |
 | [`derived/kensington_daily_borough_release_2025-07_2026-08.csv`](derived/kensington_daily_borough_release_2025-07_2026-08.csv) | Loop-counter daily totals, bundle 01 pp. 74–81, parsed to CSV |
+| [`derived/miovision_counts_by_mode_2026-581.xlsx`](derived/miovision_counts_by_mode_2026-581.xlsx) (+ [`.csv`](derived/miovision_counts_by_mode_2026-581.csv)) | Miovision class totals (cars, buses, trucks, bicycles, pedestrians) for every count day, bundle 01 pp. 82–164: six peak hours (06:30–09:30, 15:30–18:30) and 12 h, all four approaches and the Terrebonne axis alone; the Grand counts of January 29, 2025 (source of the "12" and "8") broken out by mode, with cars per cyclist and change against November 20, 2024. The `.csv` is the long table only |
 
 ## Timeline
 
