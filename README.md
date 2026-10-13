@@ -35,6 +35,10 @@ The documents are reproduced exactly as released by the borough, including its r
 
 Quotations from these documents in other work should cite the file number and the PDF page of the released bundle, e.g. "2026-581, bundle 01, p. 8".
 
+### Edit history
+
+Everything in this repository was written in the open. The complete edit history of every file, including the derived documents, is public through the [commit log](https://github.com/OpenMobilityData/Terrebonne-access-requests/commits/main) and the diffs: each change to a summary can be traced to the commit that made it, with the reason given in the commit message, and earlier versions can be retrieved by their version tag (the `YYYY-MM-DD-hh-mm-ss` stamp in each document's footer and PDF metadata). Corrections made along the way, such as the re-sourcing of the "99%" figure on October 10, are in that record rather than silently overwritten. The derived documents were drafted and revised with the help of an AI assistant (Anthropic's Claude), which is named as co-author on the commits where it was used; the author checked every quotation and page reference against the released documents and is responsible for the content.
+
 ## Related
 
 - [`Terrebonne-EXP-Report`](https://github.com/OpenMobilityData/Terrebonne-EXP-Report) — the 2023 EXP study, released by the borough on its own initiative before the original project vote.
