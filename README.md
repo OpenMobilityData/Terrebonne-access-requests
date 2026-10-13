@@ -24,7 +24,8 @@ Rules:
 
 | File no. | Filed | Answered | Subject | Folder |
 |---|---|---|---|---|
-| 2025-697 | 2025 | 2025 | Hourly bicycle and motor-vehicle counts from the loop counter at Terrebonne / Kensington | *(to be added)* |
+| 2025-697 | 2025-11-27 | 2025-12-19 | All traffic count data held by the borough for rue de Terrebonne from June 1, 2024, and the make, model and location of the counting equipment (loop counter at Kensington; Eco-Counter ZELT EVO) | [`2025-697/`](2025-697/) |
+| 2026-300 | 2026-05-06 | 2026-06-04 | Hourly bicycle (by direction) and motor-vehicle counts from the Kensington loop counter, July 26, 2025 – May 11, 2026; derived analysis of winter use against snow-loading days | [`2026-300/`](2026-300/) |
 | 2026-581 | 2026-09-11 | 2026-10-09 | Origin, procurement, scope, data and deliverables of the 2026 engineering study on Terrebonne (Les Services EXP inc.) | [`2026-581/`](2026-581/) |
 | 2026-634 | 2026-10-08 | due 2026-11-07 | Final report of the 2026 study and the material referred to at the council meeting of 2026-10-06 (acknowledged 2026-10-13; 20-day limit extended by 10 days under s. 47) | *(to be added)* |
 

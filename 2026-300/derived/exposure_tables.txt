@@ -1,0 +1,69 @@
+
+== Season Dec 1 - Mar 31: 121 days, eastbound 2783, westbound 2108, total 4891
+  Borough loading days (>=100 loads)                      days  24  EB   410   15%
+  Sector CDN-301 loading days (>=40 loads)                days  30  EB   548   20%
+  From triggering snowfall (>=2.5 cm) through loading     days  36  EB   592   21%
+  Any day with loading activity in the borough            days  59  EB  1129   41%
+  Any day with >=2.5 cm of snow                           days  24  EB   462   17%
+  >=2.5 cm day and the day after                          days  44  EB   843   30%
+  >=5 cm day and four days after                          days  66  EB  1219   44%
+  Any day with measurable snow                            days  54  EB  1084   39%
+  Zero-snow days                                          days  67  EB  1699   61%
+  loading episodes (borough): Dec 12–Dec 17, Dec 28–Dec 30, Jan 08–Jan 09, Jan 17–Jan 21, Jan 27–Jan 30, Feb 27–Mar 02
+  loading episodes (CDN-301): Dec 12–Dec 13, Dec 15–Dec 17, Dec 30, Jan 02, Jan 04–Jan 06, Jan 08–Jan 09, Jan 17–Jan 22, Jan 28–Feb 02, Feb 27–Mar 04
+  mean EB/day: dry 25.4, trace 20.7, >=2.5 cm 19.2; loading days 17.1, other 24.5
+  corr(EB, snow) -0.12; corr(EB, snow on ground) -0.44; corr(EB, mean temp) +0.54
+
+== Firm window Dec 1 - Feb 28: 90 days, eastbound 1626, westbound 1606, total 3232
+  Borough loading days (>=100 loads)                      days  22  EB   380   23%
+  Sector CDN-301 loading days (>=40 loads)                days  26  EB   450   28%
+  From triggering snowfall (>=2.5 cm) through loading     days  34  EB   562   35%
+  Any day with loading activity in the borough            days  53  EB   950   58%
+  Any day with >=2.5 cm of snow                           days  19  EB   322   20%
+  >=2.5 cm day and the day after                          days  35  EB   598   37%
+  >=5 cm day and four days after                          days  54  EB   881   54%
+  Any day with measurable snow                            days  45  EB   851   52%
+  Zero-snow days                                          days  45  EB   775   48%
+  loading episodes (borough): Dec 12–Dec 17, Dec 28–Dec 30, Jan 08–Jan 09, Jan 17–Jan 21, Jan 27–Jan 30, Feb 27–Feb 28
+  loading episodes (CDN-301): Dec 12–Dec 13, Dec 15–Dec 17, Dec 30, Jan 02, Jan 04–Jan 06, Jan 08–Jan 09, Jan 17–Jan 22, Jan 28–Feb 02, Feb 27–Feb 28
+  mean EB/day: dry 17.2, trace 20.3, >=2.5 cm 16.9; loading days 17.3, other 18.3
+  corr(EB, snow) -0.01; corr(EB, snow on ground) -0.23; corr(EB, mean temp) +0.45
+
+== 2025-26 counts under each season's CDN loading calendar (>=100 loads/day)
+  2015-2016:  21 loading days -> EB  481 (17%)
+  2016-2017:  30 loading days -> EB  550 (20%)
+  2017-2018:  42 loading days -> EB  639 (23%)
+  2018-2019:  40 loading days -> EB  673 (24%)
+  2019-2020:  24 loading days -> EB  443 (16%)
+  2020-2021:  21 loading days -> EB  399 (14%)
+  2021-2022:  27 loading days -> EB  527 (19%)
+  2022-2023:  27 loading days -> EB  517 (19%)
+  2023-2024:  12 loading days -> EB  247 (9%)
+  2024-2025:  27 loading days -> EB  503 (18%)
+  2025-2026:  24 loading days -> EB  410 (15%)
+
+== Season context (city-wide m3 hauled)
+  2015-2016:  9.04 M m3
+  2016-2017: 14.20 M m3
+  2017-2018: 18.04 M m3
+  2018-2019: 14.04 M m3
+  2019-2020: 12.47 M m3
+  2020-2021: 10.11 M m3
+  2021-2022: 10.43 M m3
+  2022-2023: 13.62 M m3
+  2023-2024:  6.52 M m3
+  2024-2025: 11.99 M m3
+  2025-2026:  7.34 M m3
+
+== Counter direction balance by month (eastbound share)
+  2025-07: EB   1975  WB   1910  51%
+  2025-08: EB  10603  WB   9807  52%
+  2025-09: EB  11461  WB  10420  52%
+  2025-10: EB   7848  WB   7528  51%
+  2025-11: EB   3266  WB   2930  53%
+  2025-12: EB    604  WB    635  49%
+  2026-01: EB    531  WB    484  52%
+  2026-02: EB    491  WB    487  50%
+  2026-03: EB   1157  WB    502  70%
+  2026-04: EB   4876  WB   3385  59%
+  2026-05: EB   2250  WB   1417  61%
