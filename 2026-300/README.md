@@ -30,7 +30,8 @@ The analysis *Winter cycling on rue de Terrebonne and the days snow is loaded* j
 
 | File | Content |
 |---|---|
-| [`derived/Terrebonne_2026-300_winter_exposure_en.pdf`](derived/Terrebonne_2026-300_winter_exposure_en.pdf) (+ `.tex`) | The analysis, English (five pages) |
+| [`derived/Terrebonne_2026-300_winter_exposure_en.pdf`](derived/Terrebonne_2026-300_winter_exposure_en.pdf) (+ `.tex`) | The analysis, English (original, five pages) |
+| [`derived/Terrebonne_2026-300_winter_exposure_fr.pdf`](derived/Terrebonne_2026-300_winter_exposure_fr.pdf) (+ `.tex`) | L'analyse, version française (traduction ; l'anglais fait foi) |
 | `derived/exposure_analysis.py` | Regenerates every table and the figure from the files below (`python3 exposure_analysis.py`; needs pandas, openpyxl, matplotlib) |
 | `derived/exposure_tables.txt` | The script's printed output |
 | `derived/exposure_winter_2025-26.pdf` / `.png` | Figure 1: daily eastbound trips and snowfall, Dec 1 2025 – Mar 31 2026 |
