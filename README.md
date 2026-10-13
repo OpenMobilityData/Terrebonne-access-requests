@@ -26,7 +26,7 @@ Rules:
 |---|---|---|---|---|
 | 2025-697 | 2025 | 2025 | Hourly bicycle and motor-vehicle counts from the loop counter at Terrebonne / Kensington | *(to be added)* |
 | 2026-581 | 2026-09-11 | 2026-10-09 | Origin, procurement, scope, data and deliverables of the 2026 engineering study on Terrebonne (Les Services EXP inc.) | [`2026-581/`](2026-581/) |
-| — | 2026-10-08 | pending | Final report of the 2026 study and the slides referred to at the council meeting of 2026-10-06 | *(to be added)* |
+| 2026-634 | 2026-10-08 | due 2026-11-07 | Final report of the 2026 study and the material referred to at the council meeting of 2026-10-06 (acknowledged 2026-10-13; 20-day limit extended by 10 days under s. 47) | *(to be added)* |
 
 ## Provenance and use
 
