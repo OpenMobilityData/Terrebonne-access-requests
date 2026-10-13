@@ -1,7 +1,7 @@
 Access request 2026-581: what the borough's file shows
 Summary points of the executive summary. Full analysis, page references and the released documents: https://github.com/OpenMobilityData/Terrebonne-access-requests
 
-The decision came before the study. On June 10, 2026 the borough's engineering division wrote to the City's street-design division that the elected officials wished to revisit the 2024 layout “avec l'objectif de redonner la bande de stationnement qui avait été retranchée,” that the borough's engineers had already issued a technical opinion on the two concepts the councillors had sketched, and that the councillors wanted “un avis officiel, neutre et externe.” The mandate eventually given to EXP on August 20 is titled, in part, “évaluer la place du stationnement sur rue, dans le but d'en augmenter le nombre.”
+The objective was fixed before the study. On June 10, 2026 the borough's engineering division wrote to the City's street-design division that the elected officials wished to revisit the 2024 layout “avec l'objectif de redonner la bande de stationnement qui avait été retranchée,” that the borough's engineers had already issued a technical opinion on the two concepts the councillors had sketched, and that the councillors wanted “un avis officiel, neutre et externe.” The mandate eventually given to EXP on August 20 is titled, in part, “évaluer la place du stationnement sur rue, dans le but d'en augmenter le nombre.”
 
 The City's own cycling unit warned about safety. The Service de l'urbanisme et de la mobilité returned an express analysis on June 17; the borough's own summary of it, written five days later, says the options “présentent plusieurs compromis importants sur le plan de la sécurité, du confort des usagers vulnérables et de la cohérence du réseau cyclable.” That analysis is withheld. The fire department's opinion of July 13 is redacted in its entirety.
 
@@ -21,4 +21,4 @@ The exercise does not follow the City's own published method for reviewing a bik
 
 The withholding of the technical report rests on a ground that expires with the decision. The note and the City's analysis are withheld under section 39, which applies “until a decision is made on the recommendation.” On October 6 the councillor said the elected officials were “now ready to give our orientation to the services” and that the seasonal removal “is what we're going to propose”; his signed statement adds that “one thing is certain: residents will see changes before Christmas 2026.” Either the recommendation has been decided and the ground has lapsed, or it has not and the outcome was announced before the decision. A review may be sought from the Commission d'accès à l'information within 30 days, that is by November 8, 2026.
 
-Version 2026-10-13-15-12-54
+Version 2026-10-13-15-55-48
