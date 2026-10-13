@@ -20,7 +20,7 @@
 \usepackage{array}
 \usepackage[hidelinks]{hyperref}
 \urlstyle{same}
-\newcommand{\docversion}{2026-10-13-17-16-14} % set by build (America/Toronto)
+\newcommand{\docversion}{2026-10-13-18-01-58} % set by build (America/Toronto)
 \hypersetup{pdfsubject={version \docversion}}
 
 \setlength{\parindent}{0pt}
@@ -193,8 +193,10 @@ Règle de fermeture & Jours & Dépl.\ vers l'est & Part \\
 \textbf{Tout l'hiver, 1\textsuperscript{er}~décembre -- 31~mars} & \textbf{121} & \textbf{2~783} & \textbf{100~\%} \\[2pt]
 Jours de chargement de l'arrondissement ($\geq$100 chargements) & 24 & 410 & 15~\% \\
 Jours de chargement du secteur CDN-301 ($\geq$40) & 30 & 548 & 20~\% \\
-De la chute déclenchante ($\geq$2,5~cm) à la fin du chargement & 36 & 592 & 21~\% \\
+De la chute déclenchante ($\geq$2,5~cm) à la fin du chargement (arrondissement) & 36 & 592 & 21~\% \\
+De la chute déclenchante à la fin du chargement (secteur CDN-301) & 44 & 770 & 28~\% \\
 Toute journée avec activité de chargement dans l'arrondissement & 59 & 1~129 & 41~\% \\
+Toute journée avec activité de chargement dans le secteur CDN-301 & 36 & 600 & 22~\% \\
 Toute journée de $\geq$2,5~cm de neige & 24 & 462 & 17~\% \\
 Journée de $\geq$2,5~cm et le lendemain & 44 & 843 & 30~\% \\
 Journée de $\geq$5~cm et les quatre jours suivants & 66 & 1~219 & 44~\% \\
@@ -203,6 +205,7 @@ Toute journée de neige mesurable & 54 & 1~084 & 39~\% \\
 \multicolumn{4}{l}{\emph{Fenêtre sûre, 1\textsuperscript{er}~décembre -- 28~février (90 jours\,; 1~626 dépl.\ vers l'est)}} \\
 Jours de chargement de l'arrondissement ($\geq$100 chargements) & 22 & 380 & 23~\% \\
 Jours de chargement du secteur CDN-301 ($\geq$40) & 26 & 450 & 28~\% \\
+De la chute déclenchante à la fin du chargement (secteur CDN-301) & 40 & 672 & 41~\% \\
 Toute journée de $\geq$2,5~cm de neige & 19 & 322 & 20~\% \\
 \bottomrule
 \end{tabular}
@@ -338,13 +341,14 @@ de l'hiver dernier, 67 sur 121, n'ont eu aucune chute de neige. Un jour
 sec peut suivre une tempête alors que les bancs de neige ne sont pas
 encore enlevés\,; en comptant comme jour où la neige contraint le
 stationnement chaque jour depuis une chute déclenchante de 2,5~cm ou plus
-jusqu'à la fin de l'opération de chargement qui a suivi, on obtient 36 de
-ces jours et 592 déplacements, et il reste 85 jours (70~\%) et 2~191
-déplacements (79~\%) où la piste aurait été du stationnement sans neige
-dans la rue pour le justifier. Selon la définition la plus large du
-tableau~\ref{tab:season}, tout jour avec une activité de chargement
-quelque part dans l'arrondissement, 62 jours et 1~654 déplacements
-(59~\%) restent en dehors.
+jusqu'à la fin de l'opération de chargement qui a suivi dans le secteur de
+déneigement de Terrebonne, CDN-301, on obtient 44 de ces jours et 770
+déplacements, et il reste 77 jours (64~\%) et 2~013 déplacements (72~\%)
+où la piste aurait été du stationnement sans neige dans la rue pour le
+justifier. La même règle appliquée aux jours de chargement de
+l'arrondissement, qui se terminent un jour ou deux plus tôt, donne 36 jours
+à l'intérieur et 85 jours (70~\%) et 2~191 déplacements (79~\%) à
+l'extérieur (tableau~\ref{tab:season}).
 Les hypothèses sont celles de la note~: les déplacements sont les passages
 vers l'est à Kensington, la direction que le conseiller a dit devoir être
 convertie, et un plancher de l'usage de la rue\,; la chute de neige est le

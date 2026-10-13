@@ -83,15 +83,21 @@ def main():
     def table(w, label):
         EB = w['eb'].sum()
         P(f'\n== {label}: {len(w)} days, eastbound {int(EB)}, westbound {int(w["wb"].sum())}, total {int(w["bike"].sum())}')
-        trig = (w['loads_cdn'] >= 100).values.copy()
-        for i in np.where(trig)[0]:
-            for k in range(1, 4):
-                if i - k >= 0 and w['snow'].iloc[i - k] >= 2.5: trig[i - k:i] = True
+        def trigger(load_mask):
+            t = load_mask.values.copy()
+            for i in np.where(t)[0]:
+                for k in range(1, 4):
+                    if i - k >= 0 and w['snow'].iloc[i - k] >= 2.5: t[i - k:i] = True
+            return pd.Series(t, index=w.index)
+        trig = trigger(w['loads_cdn'] >= 100)
+        trig301 = trigger(w['loads_301'] >= 40)
         rules = [
             ('Borough loading days (>=100 loads)', w['loads_cdn'] >= 100),
             ('Sector CDN-301 loading days (>=40 loads)', w['loads_301'] >= 40),
-            ('From triggering snowfall (>=2.5 cm) through loading', pd.Series(trig, index=w.index)),
+            ('From triggering snowfall (>=2.5 cm) through loading', trig),
+            ('From triggering snowfall through CDN-301 loading', trig301),
             ('Any day with loading activity in the borough', w['loads_cdn'] >= 1),
+            ('Any day with loading activity in CDN-301', w['loads_301'] >= 1),
             ('Any day with >=2.5 cm of snow', w['snow'] >= 2.5),
             ('>=2.5 cm day and the day after', window(w['snow'] >= 2.5, 1)),
             ('>=5 cm day and four days after', window(w['snow'] >= 5, 4)),
