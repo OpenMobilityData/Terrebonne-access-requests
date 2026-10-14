@@ -43,8 +43,7 @@ Everything in this repository was written in the open. The complete edit history
 
 ## Related
 
-- [`Terrebonne-EXP-Report`](https://github.com/OpenMobilityData/Terrebonne-EXP-Report) — the 2023 EXP study, released by the borough on its own initiative before the original project vote.
-- [`Terrebonne-working-committee`](https://github.com/OpenMobilityData/Terrebonne-working-committee) — planning documents for the 2024 project.
+- [`Terrebonne-open-sources`](https://github.com/OpenMobilityData/Terrebonne-open-sources) — public documents on the lane obtained from open sources rather than under the Act: the 2023 EXP mobility study, the 2020–2021 working committee's documents, and others, with their provenance.
 - [`BikeStat`](https://github.com/OpenMobilityData/BikeStat) — web app for the counter data.
 
 ## About the author
