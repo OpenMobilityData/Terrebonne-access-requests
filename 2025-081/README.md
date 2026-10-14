@@ -17,7 +17,7 @@
 | [`raw/Doc_requis_2025-081.pdf`](raw/Doc_requis_2025-081.pdf) | 87 | The petitions as received by the borough, scanned. Pages 1–2: the organizers' cover letters of February 2, 2024 (French and English), delivered by hand, asking the clerk to place the petitions on the agenda of the council meeting of February 5, 2024. Then the handwritten sheets headed "Respectez les résidents de la rue de Terrebonne! / Terrebonne residents matter!" (columns: name, signature, address, postal code; the first three blacked out, the postal code left visible), a printout of the online petition, and the two short petitions noted in the response |
 | `raw/act_extracts/` | — | Sections 53, 54, 56, 57 and 59 of the Act and the notice of recourse, as supplied |
 
-The scan is reproduced exactly as released, including the borough's redactions. A recompressed copy of the same scan was published in 2025 in a separate repository (`OpenMobilityData/Petition`, since retired), together with a map of signature counts by six-character postal code; that map is not reproduced here, for the reason given under Privacy below.
+The scan is reproduced exactly as released, including the borough's redactions. A recompressed copy of the same scan was published in 2025 in a separate repository (`OpenMobilityData/Petition`, since retired), together with a map of signature counts by six-character postal code; the map will be redone here from the checked codes, with its data source documented.
 
 ### What the cover letters say
 
@@ -31,7 +31,7 @@ The letters (pp. 1–2) are addressed to the borough mayor and councillors "aux 
 
 Reading of the scan (March 2025, text recognition checked by hand): 1,170 entries with a postal-code field, of which 1,101 legible; 1,032 (88%) in Côte-des-Neiges–Notre-Dame-de-Grâce by forward sortation area, 83 in other boroughs or outside Montréal (71 of them on the online petition), 50 unknown or illegible, 5 in an area straddling two boroughs. The handwritten sheets alone: 866 entries, 808 (93%) in the borough.
 
-**Privacy.** The release leaves the signatories' six-character postal codes visible. Nothing finer than the aggregates above is published here: no postal-code list, no counts by six-character code, no map at that resolution. A classification by borough district (Loyola, Notre-Dame-de-Grâce) requires geocoding the six-character codes and will be published only as shares by district or by forward sortation area.
+**Resolution.** The borough released the signatories' six-character postal codes while severing names, signatures and addresses under sections 53 to 59 of the Act; the codes are therefore part of the public record and the derived work uses them at that precision. Counts by six-character code, their geocoded locations and the resulting classification by borough district (Loyola, Notre-Dame-de-Grâce) and by distance from rue de Terrebonne will be published here as they are produced, with the geocoding source named. The borough-level table above is the first, coarsest product.
 
 ## Timeline
 
