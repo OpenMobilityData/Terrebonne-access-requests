@@ -17,7 +17,7 @@ The lane was built in 2024 along about 2.5 km of Terrebonne (St-Ignatius to Giro
 Rules:
 
 - Nothing in `raw/` is ever modified; a correction to a derived file is a new version with a note.
-- Every derived file names its source: the release number, bundle and pages (a CSV carries this as a first-line comment).
+- Every derived file names its source: the release number, bundle and pages. A CSV carries no comment lines, so that it parses in any tool; its source is given in the folder README's table.
 - The PDF of a derived document is committed next to its source so the version cited is the version in the repository.
 
 ## Requests

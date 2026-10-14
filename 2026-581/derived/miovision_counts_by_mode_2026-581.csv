@@ -1,4 +1,3 @@
-# source: 2026-581/raw/01_emails_mandate_counts.pdf pp. 82-164 (Miovision class tables); peak = 06:30-09:30 + 15:30-18:30; axis = two Terrebonne approaches; pedestrians = all four crosswalks (no axis split)
 intersection,date,mode,peak6h_all,peak6h_axis,h12_all,h12_axis,page
 Cavendish,2024-07-17,Légers,5049,22,9842,74,145
 Cavendish,2024-07-17,Bus,83,0,158,0,146
