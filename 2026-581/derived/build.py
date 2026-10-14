@@ -15,7 +15,8 @@ import re, subprocess, sys, unicodedata
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-HERE = '/home/claude/atip_summary'
+import os
+HERE = os.path.dirname(os.path.abspath(__file__))
 SUMMARIES = {
     'en': 'Terrebonne_2026-581_executive_summary_en.tex',
     'fr': 'Terrebonne_2026-581_executive_summary_fr.tex',

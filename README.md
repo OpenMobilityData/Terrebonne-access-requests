@@ -2,7 +2,7 @@
 
 Records released under Quebec's *Act respecting Access to documents held by public bodies and the Protection of personal information* (CQLR, c. A-2.1) concerning the protected bike lane on rue de Terrebonne in the borough of Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal.
 
-The lane was built in 2024 along about 2.5 km of Terrebonne (St-Ignatius to Girouard). In October 2026 the borough announced that one direction would be converted to parking each winter. The requests collected here were filed by a resident to obtain the data and documents behind that decision, and the releases are published here exactly as received so that anyone can check what the borough's own files say. Material we derive from them — executive summaries (in English and French), parsed tables, scripts — is kept apart under each request's `derived/` folder so that the record and the reading of it are never confused.
+The lane was built in 2024 along about 2.5 km of Terrebonne (St-Ignatius to Girouard). In October 2026 the borough announced that one direction would be converted to parking each winter. The requests collected here were filed by a resident to obtain the data and documents behind that decision, and the releases are published here exactly as received so that anyone can check what the borough's own files, and the City's, say. Material we derive from them — executive summaries (in English and French), parsed tables, scripts — is kept apart under each request's `derived/` folder so that the record and the reading of it are never confused.
 
 ## How the repository is organized
 
@@ -24,6 +24,7 @@ Rules:
 
 | File no. | Filed | Answered | Subject | Folder |
 |---|---|---|---|---|
+| 2025-12847 | after 2025-11-26 | 2026-01-06 | *City of Montréal.* The "audit" by the SUM referred to by the borough mayor at the council meeting of November 26, 2025: an internal note of November 10, 2025 ("Réseau cyclable – Audits correctifs et préventifs") and six annexes | [`2025-12847/`](2025-12847/) |
 | 2025-697 | 2025-11-27 | 2025-12-19 | All traffic count data held by the borough for rue de Terrebonne from June 1, 2024, and the make, model and location of the counting equipment (loop counter at Kensington; Eco-Counter ZELT EVO) | [`2025-697/`](2025-697/) |
 | 2026-300 | 2026-05-06 | 2026-06-04 | Hourly bicycle (by direction) and motor-vehicle counts from the Kensington loop counter, July 26, 2025 – May 11, 2026; derived analysis of winter use against snow-loading days | [`2026-300/`](2026-300/) |
 | 2026-581 | 2026-09-11 | 2026-10-09 | Origin, procurement, scope, data and deliverables of the 2026 engineering study on Terrebonne (Les Services EXP inc.) | [`2026-581/`](2026-581/) |
