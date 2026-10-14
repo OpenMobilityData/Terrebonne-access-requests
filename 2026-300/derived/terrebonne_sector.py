@@ -23,11 +23,17 @@ import pandas as pd
 # (coordinates from the BikeStat source registry); the others are extrapolated
 # toward the ends of the lane and should be verified against a map.
 DEFAULT_POINTS = [
-    (45.4575, -73.6430),   # near Cavendish (extrapolated)
-    (45.46392, -73.63756), # Telraam 9794, King-Edward (measured)
-    (45.47022, -73.63204), # Eco-Counter, Kensington (measured)
-    (45.47303, -73.62965), # Telraam 10045, Royal (measured)
-    (45.4755, -73.6250),   # toward Girouard (extrapolated; check)
+    # Intersections from the City's geobase (donnees.montreal.ca, "geobase",
+    # segment endpoints of rue Terrebonne), checked 2026-10-14; counters measured.
+    (45.45974, -73.64080),  # west end of the lane: Terrebonne is interrupted just west of Belmore (St-Ignatius)
+    (45.46354, -73.63784),  # avenue King-Edward (geobase); Telraam 9794 at 45.46392, -73.63756
+    (45.46674, -73.63524),  # boulevard Cavendish (geobase): the one-way direction reverses here
+    (45.46990, -73.63231),  # avenue Kensington (geobase)
+    (45.47022, -73.63204),  # Eco-Counter loop, between Kensington and Grand (measured)
+    (45.47054, -73.63175),  # boulevard Grand (geobase)
+    (45.47334, -73.62936),  # avenue Royal (geobase); Telraam 10045 at 45.47303, -73.62965
+    (45.47405, -73.62872),  # avenue Draper (geobase): first intersection in sector CDN-111 (2025-26 polygons)
+    (45.47833, -73.62487),  # avenue Girouard, east end (geobase; also picked by hand on the map): CDN-112 boundary
 ]
 
 

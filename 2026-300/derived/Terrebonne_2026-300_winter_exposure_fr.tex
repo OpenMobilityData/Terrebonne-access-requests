@@ -20,7 +20,7 @@
 \usepackage{array}
 \usepackage[hidelinks]{hyperref}
 \urlstyle{same}
-\newcommand{\docversion}{2026-10-14-16-09-13} % set by build (America/Toronto)
+\newcommand{\docversion}{2026-10-14-16-28-54} % set by build (America/Toronto)
 \hypersetup{pdfsubject={version \docversion}}
 
 \setlength{\parindent}{0pt}
@@ -163,9 +163,14 @@ Filtré sur le code d'arrondissement CDN et additionné par jour, il donne
 les jours de chargement de l'arrondissement pour chaque saison depuis
 2015-2016. Les polygones de secteurs de la Ville pour
 2025-2026\footnote{\emph{Secteurs de déneigement},
-\url{https://donnees.montreal.ca/dataset/secteur-deneigement}.} placent le
-compteur et les tronçons centraux de la piste dans le secteur de contrat
-CDN-301. Une journée de 100 chargements ou plus dans l'arrondissement, ou
+\url{https://donnees.montreal.ca/dataset/secteur-deneigement}.} placent la
+piste dans le secteur de contrat CDN-301 depuis son extrémité ouest, juste
+à l'ouest de Belmore, jusqu'entre Royal et Draper, soit environ 1,8 de ses
+2,4~km, compteur compris\,; les derniers tronçons, de Draper à Girouard
+(environ 0,55~km), sont dans le secteur CDN-111, et l'intersection
+Girouard se trouve sur la limite avec CDN-112 (intersections tirées de la
+géobase de la Ville\,; la vérification est \texttt{terrebonne\_sector.py}).
+Une journée de 100 chargements ou plus dans l'arrondissement, ou
 de 40 ou plus dans le secteur, est comptée comme jour de chargement\,; les
 opérations complètes atteignent plusieurs centaines de chargements par
 jour et les queues sous ces seuils sont des reprises. En 2025-2026, cela
@@ -389,9 +394,10 @@ point d'une piste de 2,45~km\,; l'usage varie le long de celle-ci.
 L'aéroport Trudeau est à 12~km à l'ouest de Terrebonne\,; les chutes de
 neige d'une journée sont bien corrélées d'un bout à l'autre de l'île, mais
 les quantités sur les rues de NDG peuvent différer. Les jours de
-chargement sont ceux de l'arrondissement et du secteur CDN-301\,; le
-secteur qui contient les derniers tronçons à l'est de Royal n'a pas été
-confirmé, et les limites des secteurs peuvent avoir changé d'un contrat à
+chargement sont ceux de l'arrondissement et du secteur CDN-301\,; les
+derniers tronçons de la piste, de Draper à Girouard, sont dans le secteur
+CDN-111 et hors des chiffres du secteur, et les limites des secteurs
+peuvent avoir changé d'un contrat à
 l'autre (seuls les polygones de 2025-2026 ont été vérifiés\,; CDN-301
 apparaît sous les noms 301A et 301B en 2019-2020 et est combiné). Le
 tableau multi-saisons maintient les cyclistes fixes et ne change que le

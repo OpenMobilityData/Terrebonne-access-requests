@@ -19,7 +19,7 @@
 \usepackage{array}
 \usepackage[hidelinks]{hyperref}
 \urlstyle{same}
-\newcommand{\docversion}{2026-10-14-16-09-13} % set by build (America/Toronto)
+\newcommand{\docversion}{2026-10-14-16-28-54} % set by build (America/Toronto)
 \hypersetup{pdfsubject={version \docversion}}
 
 \setlength{\parindent}{0pt}
@@ -144,7 +144,12 @@ Filtered to borough code CDN and summed by day, it gives the borough's
 loading days for every season since 2015--16. The City's sector polygons
 for 2025--26\footnote{\emph{Secteurs de d\'eneigement},
 \url{https://donnees.montreal.ca/dataset/secteur-deneigement}.} place the
-counter and the central blocks of the lane in contract sector CDN-301. A
+lane in contract sector CDN-301 from its west end, just west of Belmore,
+to between Royal and Draper, about 1.8 of its 2.4~km, the counter
+included; the last blocks, Draper to Girouard (about 0.55~km), are in
+sector CDN-111, and the Girouard intersection lies on the boundary with
+CDN-112 (intersections from the City's g\'eobase; the check is
+\texttt{terrebonne\_sector.py}). A
 day with 100 or more loads in the borough, or 40 or more in the sector, is
 counted as a loading day; full operations run at several hundred loads a
 day and the tails below those thresholds are mop-up. In 2025--26 this gives
@@ -340,8 +345,9 @@ recorded here.
 point on a 2.45~km lane; use varies along it. Trudeau airport is 12~km
 west of Terrebonne; day-level snowfall is well correlated across the
 island, but amounts on NDG streets can differ. The loading days are the
-borough's and sector CDN-301's; the sector containing the last blocks east
-of Royal has not been confirmed, and sector boundaries may have changed
+borough's and sector CDN-301's; the lane's last blocks, Draper to
+Girouard, lie in sector CDN-111 and are outside the sector figures, and
+sector boundaries may have changed
 between contracts (only the 2025--26 polygons were checked; CDN-301
 appears as 301A and 301B in 2019--20 and is combined). The multi-season
 table holds the cyclists fixed and changes only the calendar; in a heavier
