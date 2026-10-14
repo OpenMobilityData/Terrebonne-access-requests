@@ -37,7 +37,7 @@ Reading of the scan (March 2025, text recognition checked by hand): 1,170 entrie
 
 | Date | Event |
 |---|---|
-| 2024-01-11 → 02-02 | Online petition open (dates printed on the change.org export) |
+| 2024-01 → 02 | Online petition signed (the change.org export in the scan carries a "Signed On" date per entry, from January 12, 2024) |
 | 2024-02-02 | Cover letters and petitions delivered by hand to the borough clerk |
 | 2024-02-05 | Borough council meeting for which the petitions were tabled |
 | 2025-02-24 | Request filed |
