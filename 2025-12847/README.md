@@ -15,10 +15,11 @@ The request quoted the borough mayor's answer, at the public question period of 
 
 ## What was released
 
-The Service du greffe answered that it was pleased to transmit "une copie des documents qui ont été retracés par le Service de l'urbanisme et de la Mobilité." No cover letter, transmittal email or correspondence with the borough was included. The response email is not reproduced here because it carries the requester's personal address; its substantive text is the sentence quoted above and the standard notice of recourse to the Commission d'accès à l'information (s. 51 of the Act).
+The Service du greffe answered that it was pleased to transmit "une copie des documents qui ont été retracés par le Service de l'urbanisme et de la Mobilité." No cover letter, transmittal email or correspondence with the borough was included. The response email is reproduced with the requester's personal address blacked out (the copy is an image of the pages, so the redaction cannot be undone); its substantive text is the sentence quoted above and the standard notice of recourse to the Commission d'accès à l'information (s. 51 of the Act).
 
 | File | Pages | Content |
 |---|---|---|
+| [`raw/response_2026-01-06_redacted.pdf`](raw/response_2026-01-06_redacted.pdf) | 2 | The Service du greffe's response of January 6, 2026, quoting the request in full and listing the attachments; requester's address redacted |
 | [`raw/NoteDG_Reseau_cyclable_Audits_correctifs_et_preventifs_2025-11-10.pdf`](raw/NoteDG_Reseau_cyclable_Audits_correctifs_et_preventifs_2025-11-10.pdf) | 5 | Note of November 10, 2025 from Claude Carette, directeur général adjoint, Urbanisme, mobilité et infrastructures, to Benoit Dagenais, directeur général; cc Brigitte Grandmaison (DGA, Services de proximité) and Lucie Careau (directrice, SUM). Subject: "Réseau cyclable – Audits correctifs et préventifs". Two pages of text (pp. 1–2) and three annex lists (pp. 3–5) |
 | [`raw/Annexe_1.01_Tableau_VAS_DSAD_2020-07-15.pdf`](raw/Annexe_1.01_Tableau_VAS_DSAD_2020-07-15.pdf) | 3 | SUM, Division de la sécurité et de l'aménagement durable: "Compilation des observations et commentaires sur les voies actives et sécuritaires (VAS)", July 15, 2020. Table of observations (behaviour, signage, marking, conflicts), sites, short-term strategy and responsible unit |
 | [`raw/Annexe_1.11_Avis_technique_Route_verte_Notre-Dame_2024-03-28.pdf`](raw/Annexe_1.11_Avis_technique_Route_verte_Notre-Dame_2024-03-28.pdf) | 52 | Vélo Québec, "Avis technique – Bonification de la Route verte sur la rue Notre-Dame à Montréal", final report, March 28, 2024 |
@@ -27,7 +28,7 @@ The Service du greffe answered that it was pleased to transmit "une copie des do
 | [`raw/Annexe_3.02_Guide_feux_pietons_decompte_numerique_2019-08.pdf`](raw/Annexe_3.02_Guide_feux_pietons_decompte_numerique_2019-08.pdf) | 12 | Guide: pedestrian countdown signals (August 2019) |
 | [`raw/Annexe_3.03_Guide_feux_cyclistes_2018-03-20.pdf`](raw/Annexe_3.03_Guide_feux_cyclistes_2018-03-20.pdf) | 17 | Guide: design of traffic signals for cyclists (March 20, 2018, figure 6 corrected) |
 
-The files are as received; only the file names have been normalized (accents and spaces removed, date added). The note's annex lists (pp. 3–5) also name documents that were not supplied: the Vision Zéro interactive map, the OCPM report on PUM 2050, public information sessions and question-and-answer lists (Henri-Bourassa, Christophe-Colomb), the Ombudsman's 2024 annual report and report PR2020-0001, and the City's internal design guides (Guide d'aménagement durable des rues de Montréal, Lignes directrices de conception pour les aménagements cyclables sur rues, checklists).
+The attachments are as received; only the file names have been normalized (accents and spaces removed, date added). The note's annex lists (pp. 3–5) also name documents that were not supplied: the Vision Zéro interactive map, the OCPM report on PUM 2050, public information sessions and question-and-answer lists (Henri-Bourassa, Christophe-Colomb), the Ombudsman's 2024 annual report and report PR2020-0001, and the City's internal design guides (Guide d'aménagement durable des rues de Montréal, Lignes directrices de conception pour les aménagements cyclables sur rues, checklists).
 
 ## What the note says
 
