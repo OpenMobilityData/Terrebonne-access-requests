@@ -13,12 +13,17 @@ All traffic count data held by the borough for any location along rue de Terrebo
 
 | File | Content |
 |---|---|
-| [`raw/response_2025-12-19.pdf`](raw/response_2025-12-19.pdf) | The borough's response letter, listing four enclosures |
-| `raw/Comptage Terrebonne.zip` | Counter record, all vehicle types, to the date of the request *(to be added)* |
-| `raw/ZELT_EVO_FICHE_PRODUIT.pdf` | Eco-Counter ZELT EVO product sheet: the inductive-loop bicycle counter on Terrebonne at Kensington *(to be added)* |
-| `raw/VCU Scout Caractéristiques Techniques.pdf` | Data sheet of the counter's logging unit *(to be added)* |
+| [`raw/response_2025-12-19.pdf`](raw/response_2025-12-19.pdf) | The borough's response letter, listing four enclosures: the notice of recourse, `Comptage Terrebonne.zip`, and the two data sheets below |
+| `raw/Comptage Terrebonne.zip` | Counter record, all vehicle types, to the date of the request. The workbook inside is `Comptage_permanent_Terrebonne_26072025_15112025.xlsx`, hourly, July 26 – November 15, 2025, with the same layout as the later release under 2026-300 (cyclists, cyclists IN_est, cyclists OUT_ouest, "ZELT Evo Véhicules motorisés", total) *(to be added)* |
+| [`raw/ZELT_EVO_FICHE_PRODUIT.pdf`](raw/ZELT_EVO_FICHE_PRODUIT.pdf) | Eco-Counter ZELT Evo product sheet (v2.4 FR, December 17, 2024), 2 pp. |
+| [`raw/VCU_Scout_Caracteristiques_Techniques.pdf`](raw/VCU_Scout_Caracteristiques_Techniques.pdf) | Miovision Scout technical specifications (unité Scout), 2 pp. |
 
-Nothing was withheld. The counter's continuation to May 11, 2026, with bicycles by direction, was obtained under [2026-300](../2026-300/), which is where the winter 2025–26 analysis lives.
+Nothing was withheld. The two data sheets were saved from the response and are reproduced as received (file names without accents or spaces). The counter's continuation to May 11, 2026, with bicycles by direction, was obtained under [2026-300](../2026-300/), which is where the winter 2025–26 analysis lives.
+
+### What each device is
+
+- **ZELT Evo** (Eco-Compteur) is an inductive-loop counter of bicycles and scooters, battery-powered, with loops cut into the pavement. The sheet describes two versions: SD counts bicycles on any kind of lane and excludes "ce qui n'est pas un vélo"; HD, on dedicated lanes, also detects direction and timestamps each passage. The directional columns in the borough's workbooks (IN_est, OUT_ouest) correspond to the HD description. The sheet lists the counted users as bicycles and, optionally, scooters; it does not describe counting motor vehicles. The borough's workbooks nevertheless carry a column headed "ZELT Evo Véhicules motorisés"; how that column is produced (a separate loop in the driving lane, or another channel of the same unit) is not stated in the release and is a question for the borough.
+- **Miovision Scout** is a portable video-recording unit: a camera on a telescopic mast, a 12 V battery with three days of autonomy, SD-card storage, 720×480 video at 30 frames per second. It is the equipment used for the temporary intersection counts on Terrebonne (the Miovision tables released under [2026-581](../2026-581/)), not part of the permanent loop counter at Kensington.
 
 ## Timeline
 
