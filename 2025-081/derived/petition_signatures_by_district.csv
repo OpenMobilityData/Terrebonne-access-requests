@@ -1,0 +1,12 @@
+# source: 2025-081/raw/Doc_requis_2025-081.pdf (postal codes read from the released scan and checked by hand; names, signatures and addresses are redacted in the release). Geocoding: Service Objects, free ZIP code and Canadian postal code database with geocoordinates, March 2024 edition, https://www.serviceobjects.com/blog/free-zip-code-and-postal-code-database-with-geocoordinates/ (coordinates not redistributed here). Districts: Ville de Montreal, "Elections municipales - Districts electoraux", 2025 polygons, CC-BY 4.0, https://donnees.montreal.ca/dataset/districts-electoraux . Lane: Ville de Montreal, "Geobase", CC-BY 4.0, https://donnees.montreal.ca/dataset/geobase , segments of rue de Terrebonne from the west end of the lane (just west of Belmore) to avenue Girouard. Script: scripts/petition_map.py in the private repository.
+class,entries,distinct_postal_codes,share_of_entries
+CDN-NDG: Loyola,524,150,59.0%
+CDN-NDG: Notre-Dame-de-Grâce,288,81,32.4%
+CDN-NDG: Snowdon,15,10,1.7%
+CDN-NDG: Darlington,1,1,0.1%
+CDN-NDG: Côte-des-Neiges,2,1,0.2%
+other Montreal borough,12,9,1.4%
+outside the City of Montreal,27,19,3.0%
+not geocoded (code not found or misread),19,17,2.1%
+CDN-NDG (all districts),830,243,93.5%
+total,888,288,100%
