@@ -17,7 +17,7 @@
 | [`raw/Doc_requis_2025-081.pdf`](raw/Doc_requis_2025-081.pdf) | 87 | The petitions as received by the borough, scanned. Pages 1–2: the organizers' cover letters of February 2, 2024 (French and English), delivered by hand, asking the clerk to place the petitions on the agenda of the council meeting of February 5, 2024. Then the handwritten sheets headed "Respectez les résidents de la rue de Terrebonne! / Terrebonne residents matter!" (columns: name, signature, address, postal code; the first three blacked out, the postal code left visible), a printout of the online petition, and the two short petitions noted in the response |
 | `raw/act_extracts/` | — | Sections 53, 54, 56, 57 and 59 of the Act and the notice of recourse, as supplied |
 
-The scan is reproduced exactly as released, including the borough's redactions. The same document was published in 2025 in the repository [`OpenMobilityData/Petition`](https://github.com/OpenMobilityData/Petition) (recompressed copy); this folder supersedes it.
+The scan is reproduced exactly as released, including the borough's redactions. A recompressed copy of the same scan was published in 2025 in a separate repository (`OpenMobilityData/Petition`, since retired), together with a map of signature counts by six-character postal code; that map is not reproduced here, for the reason given under Privacy below.
 
 ### What the cover letters say
 

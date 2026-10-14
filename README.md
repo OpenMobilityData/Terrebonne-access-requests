@@ -43,7 +43,6 @@ Everything in this repository was written in the open. The complete edit history
 
 ## Related
 
-- [`Petition`](https://github.com/OpenMobilityData/Petition) — earlier publication of the 2025-081 scan; superseded by [`2025-081/`](2025-081/).
 - [`Terrebonne-EXP-Report`](https://github.com/OpenMobilityData/Terrebonne-EXP-Report) — the 2023 EXP study, released by the borough on its own initiative before the original project vote.
 - [`Terrebonne-working-committee`](https://github.com/OpenMobilityData/Terrebonne-working-committee) — planning documents for the 2024 project.
 - [`BikeStat`](https://github.com/OpenMobilityData/BikeStat) — web app for the counter data.
