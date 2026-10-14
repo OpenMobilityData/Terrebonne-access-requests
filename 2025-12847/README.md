@@ -1,8 +1,8 @@
 # Access request 2025-12847 — The "audit" of the cycling network referred to at the borough council of November 26, 2025
 
 **Public body:** Ville de Montréal, Service du greffe (documents retrieved by the Service de l'urbanisme et de la mobilité, SUM)
-**Filed:** after the borough council meeting of November 26, 2025
-**Answered:** January 6, 2026 ("Réponse favorable", N/D 2025_12847)
+**Filed:** late November 2025, with the borough of Côte-des-Neiges–Notre-Dame-de-Grâce (borough file 2025-695), in the days after the council meeting of November 26, 2025. Under section 46 of the Act the borough transferred the request to the City's Service du greffe, "since your request relates to documents held by central city services"; the City opened file 2025-12847
+**Answered:** January 6, 2026, by the City ("Réponse favorable", N/D 2025_12847)
 **Released:** a five-page internal note and six annexes (144 pages in all)
 
 ## What was asked

@@ -24,7 +24,7 @@ Rules:
 
 | File no. | Filed | Answered | Subject | Folder |
 |---|---|---|---|---|
-| 2025-12847 | after 2025-11-26 | 2026-01-06 | *City of Montréal.* The "audit" by the SUM referred to by the borough mayor at the council meeting of November 26, 2025: an internal note of November 10, 2025 ("Réseau cyclable – Audits correctifs et préventifs") and six annexes | [`2025-12847/`](2025-12847/) |
+| 2025-12847 | late 2025-11 (borough file 2025-695, transferred to the City under s. 46) | 2026-01-06 | *City of Montréal.* The "audit" by the SUM referred to by the borough mayor at the council meeting of November 26, 2025: an internal note of November 10, 2025 ("Réseau cyclable – Audits correctifs et préventifs") and six annexes | [`2025-12847/`](2025-12847/) |
 | 2025-697 | 2025-11-27 | 2025-12-19 | All traffic count data held by the borough for rue de Terrebonne from June 1, 2024, and the make, model and location of the counting equipment (loop counter at Kensington; Eco-Counter ZELT EVO) | [`2025-697/`](2025-697/) |
 | 2026-300 | 2026-05-06 | 2026-06-04 | Hourly bicycle (by direction) and motor-vehicle counts from the Kensington loop counter, July 26, 2025 – May 11, 2026; derived analysis of winter use against snow-loading days | [`2026-300/`](2026-300/) |
 | 2026-581 | 2026-09-11 | 2026-10-09 | Origin, procurement, scope, data and deliverables of the 2026 engineering study on Terrebonne (Les Services EXP inc.) | [`2026-581/`](2026-581/) |
