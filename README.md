@@ -24,6 +24,7 @@ Rules:
 
 | File no. | Filed | Answered | Subject | Folder |
 |---|---|---|---|---|
+| 2025-081 | 2025-02-24 | 2025-03-06 | The petitions against the lane as tabled with the borough on February 2, 2024 (87-page scan, personal information blacked out); derived counts by source and borough | [`2025-081/`](2025-081/) |
 | 2025-12847 | 2025-11-26/27 (borough file 2025-695, transferred to the City 2025-11-27 under s. 46) | 2026-01-06 | *City of Montréal.* The "audit" by the SUM referred to by the borough mayor at the council meeting of November 26, 2025: an internal note of November 10, 2025 ("Réseau cyclable – Audits correctifs et préventifs") and six annexes | [`2025-12847/`](2025-12847/) |
 | 2025-697 | 2025-11-27 | 2025-12-19 | All traffic count data held by the borough for rue de Terrebonne from June 1, 2024, and the make, model and location of the counting equipment (loop counter at Kensington; Eco-Counter ZELT EVO) | [`2025-697/`](2025-697/) |
 | 2026-300 | 2026-05-06 | 2026-06-04 | Hourly bicycle (by direction) and motor-vehicle counts from the Kensington loop counter, July 26, 2025 – May 11, 2026; derived analysis of winter use against snow-loading days | [`2026-300/`](2026-300/) |
@@ -42,6 +43,7 @@ Everything in this repository was written in the open. The complete edit history
 
 ## Related
 
+- [`Petition`](https://github.com/OpenMobilityData/Petition) — earlier publication of the 2025-081 scan; superseded by [`2025-081/`](2025-081/).
 - [`Terrebonne-EXP-Report`](https://github.com/OpenMobilityData/Terrebonne-EXP-Report) — the 2023 EXP study, released by the borough on its own initiative before the original project vote.
 - [`Terrebonne-working-committee`](https://github.com/OpenMobilityData/Terrebonne-working-committee) — planning documents for the 2024 project.
 - [`BikeStat`](https://github.com/OpenMobilityData/BikeStat) — web app for the counter data.

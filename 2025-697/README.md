@@ -3,7 +3,7 @@
 **Public body:** Arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce, Division du greffe
 **Filed:** November 27, 2025
 **Answered:** December 19, 2025, by the secrétaire d'arrondissement
-**Released:** a spreadsheet of counts (`Comptage Terrebonne.zip`), two equipment data sheets, the notice of recourse
+**Released:** a spreadsheet of counts (`Comptage Terrebonne.zip`, one workbook), two equipment data sheets, the notice of recourse
 
 ## What was asked
 
@@ -14,7 +14,7 @@ All traffic count data held by the borough for any location along rue de Terrebo
 | File | Content |
 |---|---|
 | [`raw/response_2025-12-19.pdf`](raw/response_2025-12-19.pdf) | The borough's response letter, listing four enclosures: the notice of recourse, `Comptage Terrebonne.zip`, and the two data sheets below |
-| `raw/Comptage Terrebonne.zip` | Counter record, all vehicle types, to the date of the request. The workbook inside is `Comptage_permanent_Terrebonne_26072025_15112025.xlsx`, hourly, July 26 – November 15, 2025, with the same layout as the later release under 2026-300 (cyclists, cyclists IN_est, cyclists OUT_ouest, "ZELT Evo Véhicules motorisés", total) *(to be added)* |
+| [`raw/Comptage_permanent_Terrebonne_26072025_15112025.xlsx`](raw/Comptage_permanent_Terrebonne_26072025_15112025.xlsx) | The contents of `Comptage Terrebonne.zip`: one workbook, sheet `eco-counter`, hourly, July 26, 2025 08:04 to November 15, 2025 08:04, "Terrebonne entre Kensington et Grand"; columns: cyclists, cyclists IN_est, cyclists OUT_ouest, "ZELT Evo Véhicules motorisés", total. 2,687 hourly rows; its first five columns match the first 2,687 rows of the later release under 2026-300 exactly. Totals row: 65,048 cyclists (33,719 IN_est, 31,329 OUT_ouest), 148,756 motor vehicles. The ZIP container itself is not reproduced |
 | [`raw/ZELT_EVO_FICHE_PRODUIT.pdf`](raw/ZELT_EVO_FICHE_PRODUIT.pdf) | Eco-Counter ZELT Evo product sheet (v2.4 FR, December 17, 2024), 2 pp. |
 | [`raw/VCU_Scout_Caracteristiques_Techniques.pdf`](raw/VCU_Scout_Caracteristiques_Techniques.pdf) | Miovision Scout technical specifications (unité Scout), 2 pp. |
 
