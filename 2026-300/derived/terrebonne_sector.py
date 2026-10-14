@@ -25,7 +25,7 @@ import pandas as pd
 DEFAULT_POINTS = [
     # Intersections from the City's geobase (donnees.montreal.ca, "geobase",
     # segment endpoints of rue Terrebonne), checked 2026-10-14; counters measured.
-    (45.45974, -73.64080),  # west end of the lane: Terrebonne is interrupted just west of Belmore (St-Ignatius)
+    (45.45974, -73.64080),  # west end of the lane: end of the straight section just west of Belmore, where Terrebonne bends (aerial imagery: 45.45972, -73.64083)
     (45.46354, -73.63784),  # avenue King-Edward (geobase); Telraam 9794 at 45.46392, -73.63756
     (45.46674, -73.63524),  # boulevard Cavendish (geobase): the one-way direction reverses here
     (45.46990, -73.63231),  # avenue Kensington (geobase)
