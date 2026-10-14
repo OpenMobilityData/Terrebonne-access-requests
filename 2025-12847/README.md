@@ -1,7 +1,7 @@
 # Access request 2025-12847 — The "audit" of the cycling network referred to at the borough council of November 26, 2025
 
 **Public body:** Ville de Montréal, Service du greffe (documents retrieved by the Service de l'urbanisme et de la mobilité, SUM)
-**Filed:** late November 2025, with the borough of Côte-des-Neiges–Notre-Dame-de-Grâce (borough file 2025-695), in the days after the council meeting of November 26, 2025. Under section 46 of the Act the borough transferred the request to the City's Service du greffe, "since your request relates to documents held by central city services"; the City opened file 2025-12847
+**Filed:** November 26 or 27, 2025, through the borough's online form (borough file 2025-695; the form issues no acknowledgement). On November 27, 2025 the borough's Division du greffe transferred the request to the City's Service du greffe under section 46 of the Act, "since your request relates to documents held by central city services"; the City opened file 2025-12847
 **Answered:** January 6, 2026, by the City ("Réponse favorable", N/D 2025_12847)
 **Released:** a five-page internal note and six annexes (144 pages in all)
 
@@ -15,10 +15,11 @@ The request quoted the borough mayor's answer, at the public question period of 
 
 ## What was released
 
-The Service du greffe answered that it was pleased to transmit "une copie des documents qui ont été retracés par le Service de l'urbanisme et de la Mobilité." No cover letter, transmittal email or correspondence with the borough was included. The response email is reproduced with the requester's personal address blacked out (the copy is an image of the pages, so the redaction cannot be undone); its substantive text is the sentence quoted above and the standard notice of recourse to the Commission d'accès à l'information (s. 51 of the Act).
+The Service du greffe answered that it was pleased to transmit "une copie des documents qui ont été retracés par le Service de l'urbanisme et de la Mobilité." No cover letter, transmittal email or correspondence with the borough was included. The borough's transfer letter and the City's response email are reproduced with the requester's personal address blacked out (the copy is an image of the pages, so the redaction cannot be undone); its substantive text is the sentence quoted above and the standard notice of recourse to the Commission d'accès à l'information (s. 51 of the Act).
 
 | File | Pages | Content |
 |---|---|---|
+| [`raw/transfer_2025-11-27_redacted.pdf`](raw/transfer_2025-11-27_redacted.pdf) | 2 | The borough's letter of November 27, 2025 transferring request 2025-695 to the City under s. 46; requester's address redacted |
 | [`raw/response_2026-01-06_redacted.pdf`](raw/response_2026-01-06_redacted.pdf) | 2 | The Service du greffe's response of January 6, 2026, quoting the request in full and listing the attachments; requester's address redacted |
 | [`raw/NoteDG_Reseau_cyclable_Audits_correctifs_et_preventifs_2025-11-10.pdf`](raw/NoteDG_Reseau_cyclable_Audits_correctifs_et_preventifs_2025-11-10.pdf) | 5 | Note of November 10, 2025 from Claude Carette, directeur général adjoint, Urbanisme, mobilité et infrastructures, to Benoit Dagenais, directeur général; cc Brigitte Grandmaison (DGA, Services de proximité) and Lucie Careau (directrice, SUM). Subject: "Réseau cyclable – Audits correctifs et préventifs". Two pages of text (pp. 1–2) and three annex lists (pp. 3–5) |
 | [`raw/Annexe_1.01_Tableau_VAS_DSAD_2020-07-15.pdf`](raw/Annexe_1.01_Tableau_VAS_DSAD_2020-07-15.pdf) | 3 | SUM, Division de la sécurité et de l'aménagement durable: "Compilation des observations et commentaires sur les voies actives et sécuritaires (VAS)", July 15, 2020. Table of observations (behaviour, signage, marking, conflicts), sites, short-term strategy and responsible unit |
