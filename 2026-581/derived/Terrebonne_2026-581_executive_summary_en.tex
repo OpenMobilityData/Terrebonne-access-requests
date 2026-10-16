@@ -16,7 +16,7 @@
 \usepackage{array}
 \usepackage[hidelinks]{hyperref}
 \urlstyle{same}
-\newcommand{\docversion}{2026-10-14-13-30-42} % set by build.py (America/Toronto)
+\newcommand{\docversion}{2026-10-16-16-30-27} % set by build.py (America/Toronto)
 \hypersetup{pdfsubject={version \docversion}}
 
 \setlength{\parindent}{0pt}
@@ -43,6 +43,7 @@
 % (#page=N) work there because Pages serves PDFs with the right content type;
 % GitHub's blob viewer and raw.githubusercontent.com do not honour them.
 \newcommand{\pagesurl}{https://openmobilitydata.github.io/Terrebonne-access-requests}
+\newcommand{\osurl}{https://github.com/OpenMobilityData/Terrebonne-open-sources}
 \expandafter\def\csname bundle01\endcsname{2026-581/raw/01_emails_mandate_counts.pdf}
 \expandafter\def\csname bundle02\endcsname{2026-581/raw/02_framework_agreement_tender.pdf}
 % \pg{bundle}{pages}: page reference, linked to the bundle at its first page
@@ -57,7 +58,7 @@
 \begin{center}
 {\Large\bfseries Access request 2026-581: what the borough's file shows}\\[0.4em]
 {\large Executive summary and analysis of the documents released October~9, 2026}\\[0.6em]
-Richard Hoge, C\^ote-des-Neiges--Notre-Dame-de-Gr\^ace -- October 9, 2026 (revised October 11)\\
+Richard Hoge, C\^ote-des-Neiges--Notre-Dame-de-Gr\^ace -- October 9, 2026 (revised October 16)\\
 Published with the source documents at \repo{\repourl}
 \end{center}
 
@@ -151,7 +152,11 @@ to establish the following.
     Across the 508 pages there is no inventory of on-street spaces, no
     occupancy count, no survey of residents, and no estimate of the spaces
     the conversion would create; the ``50 to 60 spaces'' the councillor gave
-    the APC-NDG at its consultation meeting appears nowhere in the release. The mandate asks the consultant to count
+    the APC-NDG at its consultation meeting, and repeated on CBC
+    \emph{Daybreak} on October~9 (``at least 50 to 60 parking spots,''
+    adding that ``it's a bit too early'' and that ``a few rounds during the
+    workshops with the services'' remain before ``the final number''),
+    appears nowhere in the release. The mandate asks the consultant to count
     the spaces an arrangement ``pourrait permettre de recr\'eer'' and to
     measure ``l'am\'elioration de la disponibilit\'e du stationnement''; the
     offer promises an analysis of ``l'impact sur le nombre de places'' and
@@ -208,7 +213,10 @@ to establish the following.
     in winter to allow more parking, borough says'' and the subheading
     ``Councillor justifies decision by noting there's a sharp drop-off in
     cycling traffic during the winter''; the words are the newspaper's, not
-    the councillor's. Either the recommendation has been decided and
+    the councillor's. On October~9 he said on CBC \emph{Daybreak} that the
+    final study ``still need[s] to be submitted to us'' and that the change
+    goes to the borough council, to City council and back to the borough.
+    Either the recommendation has been decided and
     the ground has lapsed, or it has not and the outcome was announced
     before the decision. A
     review may be sought from the Commission d'acc\`es \`a l'information
@@ -289,6 +297,7 @@ Oct 2, 2026 & Final note due. No transmittal for the final version appears in th
 Oct 6, 2026 & Council meeting; winter conversion announced. & --- \\
 Oct 8, 2026 & Second access request (final note and slides) filed. & --- \\
 Oct 9, 2026 & Response to this request. & --- \\
+Oct 9, 2026 & CBC \emph{Daybreak} interview with the councillor; transcript and fact check in the \href{\osurl/tree/main/2026-cbc-daybreak-interview}{open-sources repository}. & --- \\
 \bottomrule
 \end{longtable}
 \end{small}
@@ -518,9 +527,23 @@ side of that winter about 97\% (283 and 281 to 8); the slides themselves
 label January $-95$\%. The continuous counter gives about 93\% between the
 whole of summer and the whole of winter. The drop is steep by every
 measure; ``99\%'' is the one pairing of the available numbers that reaches
-it. As to ``data for 3 years in a row,'' the bicycle counts in the release
+it. As to ``data for 3 years in a row'' (on \emph{Daybreak}: ``we have the
+data for many years''), the bicycle counts in the release
 run from September~2024 to August~2026 and cover two winters: the first by
 the camera on a single day, the second by the continuous counter.
+
+On CBC \emph{Daybreak} on October~9 the councillor himself described the
+8 as ``the sum of all the hours during the rush hour\ldots\ six hours''
+[07:03], the reading given here, and put the winter level at ``from 40 a
+day to 30 a day during December to March'' [07:34], figures that match
+the Kensington counter's monthly means for December, January and February
+(40.0, 32.7 and 34.9 a day; March was 53.5); he named as the source ``the
+open data website\ldots\ which is connected directly to Eco-Counter''
+[07:19]. The City's \emph{Compteurs cyclistes permanents} dataset lists no
+Eco-Counter on Terrebonne; the Kensington loop's data have reached the
+public only through access requests 2025-697, 2026-300 and this one. The
+interview is checked statement by statement in the
+\href{\osurl/tree/main/2026-cbc-daybreak-interview}{open-sources repository}.
 
 The day itself. January~29, 2025 was a Wednesday on which Environment and
 Climate Change Canada had issued a winter weather advisory for Montr\'eal:
@@ -587,8 +610,8 @@ presentations are bicycle and vehicle counts at intersections.
 The release therefore contains no measured parking figure of any kind: no
 inventory, no occupancy, no survey, no estimate of spaces created. The
 ``50 to 60 spaces'' the councillor gave the APC-NDG at the meeting he
-later cited at council as his consultation with the Association is not in
-it. Whatever the
+later cited at council as his consultation with the Association, and
+repeated on CBC \emph{Daybreak} on October~9, is not in it. Whatever the
 withheld note says about parking will be a geometric count of spaces that
 could be marked, which is what the mandate asked for; nothing in the mandate
 or the deliverables would produce a measurement of whether, or on how many
@@ -635,7 +658,9 @@ maintain the bike lane as is during the summer and remove it on one side
 only during the winter season. Several steps remain before this proposal
 can be implemented, including consideration by the city's decision-making
 bodies, namely the borough council and City Council. One thing is certain:
-residents will see changes before Christmas 2026.'' The borough cannot have it both ways: if the
+residents will see changes before Christmas 2026.'' On CBC \emph{Daybreak}
+on October~9 he said that ``the final study by the services and the
+experts still need to be submitted to us'' [00:38]. The borough cannot have it both ways: if the
 recommendation has been decided, section~39 no longer applies and the note
 must be released subject only to section~37, which is discretionary and
 does not cover factual content; if it has not been decided, the public
@@ -690,10 +715,18 @@ as ``too complicated and no real upside for anyone,'' the winter removal
 as ``a test'' (``We're going to see the data this year, and hopefully try
 to make it even better after''), and the whole as ``part of a longer term,
 more sophisticated bike plan \ldots\ for next year.'' The measure thus
-carries three descriptions on the record: ``mesure transitoire pour
+carries four descriptions on the record: ``mesure transitoire pour
 l'hiver 2026--2027'' in the service request, ``seasonal'' and ``a test''
-in the address. The same statement names City Council among the bodies that must
-consider the proposal, which, if so, places the City's own street-design
+in the address, and, on CBC \emph{Daybreak} three days later, ``so for
+now, we're looking at it in a way that will make it permanent'' [12:22],
+to be looked at again ``if there's really a big change in the data and the
+behavior\ldots\ winter traffic doubles for bikers.'' The same statement
+names City Council among the bodies that must consider the proposal, and
+on \emph{Daybreak} the councillor described the steps as ``we vote here at
+the borough, then a vote at the Conseil Municipal, then it comes back to
+the borough'' [08:19], the route the 2024 project followed in three votes
+(CA24 170018, February~5; CM24 0179, February~19; CA24 170131, June~3,
+2024, the one-way ordinance); that places the City's own street-design
 service, author of the June~17 analysis, on the path to approval.
 
 \subsection{Against the City's own review method}

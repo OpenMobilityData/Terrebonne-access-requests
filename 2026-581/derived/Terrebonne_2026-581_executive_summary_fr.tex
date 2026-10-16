@@ -19,7 +19,7 @@
 \usepackage{array}
 \usepackage[hidelinks]{hyperref}
 \urlstyle{same}
-\newcommand{\docversion}{2026-10-14-13-30-42} % set by build.py (America/Toronto)
+\newcommand{\docversion}{2026-10-16-16-30-27} % set by build.py (America/Toronto)
 \hypersetup{pdfsubject={version \docversion}}
 
 \setlength{\parindent}{0pt}
@@ -43,6 +43,7 @@
 \newcommand{\doc}[2]{\href{\repourl/blob/main/#1}{#2}}
 % GitHub Pages : les ancres #page=N fonctionnent ici, pas sur la visionneuse de GitHub.
 \newcommand{\pagesurl}{https://openmobilitydata.github.io/Terrebonne-access-requests}
+\newcommand{\osurl}{https://github.com/OpenMobilityData/Terrebonne-open-sources}
 \expandafter\def\csname bundle01\endcsname{2026-581/raw/01_emails_mandate_counts.pdf}
 \expandafter\def\csname bundle02\endcsname{2026-581/raw/02_framework_agreement_tender.pdf}
 \newcommand{\pgl}[3]{\href{\pagesurl/\csname bundle#1\endcsname\#page=#2}{\textsf{\small[#1, p.~#3]}}}
@@ -54,7 +55,7 @@
 \begin{center}
 {\Large\bfseries Demande d'accès 2026-581~: ce que révèle le dossier de l'arrondissement}\\[0.4em]
 {\large Sommaire et analyse des documents communiqués le 9~octobre 2026}\\[0.6em]
-Richard Hoge, Côte-des-Neiges--Notre-Dame-de-Grâce -- 9~octobre 2026 (révisé le 11~octobre)\\
+Richard Hoge, Côte-des-Neiges--Notre-Dame-de-Grâce -- 9~octobre 2026 (révisé le 16~octobre)\\
 Publié avec les documents sources à \repo{\repourl}\\
 {\small Traduction de la version anglaise\,; en cas de divergence, l'anglais fait foi.}
 \end{center}
@@ -158,8 +159,11 @@ communiquée. Ce qui l'a été suffit à établir ce qui suit.
     relevé d'occupation, aucun sondage auprès des résidents et aucune
     estimation du nombre de cases que la conversion créerait\,; les «\,50 à
     60 cases\,» que le conseiller a données à l'APC-NDG lors de la rencontre
-    de consultation ne figurent nulle part dans les documents
-    communiqués. Le mandat demande au consultant de compter les cases qu'un
+    de consultation, et qu'il a reprises à l'émission \emph{Daybreak} de CBC
+    le 9~octobre («\,at least 50 to 60 parking spots\,», en ajoutant qu'il
+    était «\,a bit too early\,» et qu'il restait «\,a few rounds during the
+    workshops with the services\,» avant «\,the final number\,»), ne
+    figurent nulle part dans les documents communiqués. Le mandat demande au consultant de compter les cases qu'un
     aménagement «\,pourrait permettre de recréer\,» et de mesurer
     «\,l'amélioration de la disponibilité du stationnement\,»\,; l'offre
     promet une analyse de «\,l'impact sur le nombre de places\,» et ne
@@ -223,6 +227,10 @@ communiquée. Ce qui l'a été suffit à établir ce qui suit.
     parking, borough says\,» et le sous-titre «\,Councillor justifies
     decision by noting there's a sharp drop-off in cycling traffic during
     the winter\,»\,; les mots sont ceux du journal, non du conseiller.
+    Le 9~octobre, à l'émission \emph{Daybreak} de CBC, il a dit que l'étude
+    finale «\,still need[s] to be submitted to us\,» et que le changement
+    passe par le conseil d'arrondissement, le conseil municipal, puis de
+    nouveau le conseil d'arrondissement.
     Ou bien la recommandation a fait l'objet d'une décision et le motif
     n'existe plus, ou bien elle ne l'a pas été et le résultat a été annoncé
     avant la décision. Une demande de révision peut être
@@ -312,6 +320,7 @@ Nov.\ 2025 & Élections municipales. & --- \\
 6 oct.\ 2026 & Séance du conseil\,; annonce de la conversion hivernale. & --- \\
 8 oct.\ 2026 & Dépôt d'une seconde demande d'accès (note finale et diapositives). & --- \\
 9 oct.\ 2026 & Réponse à la présente demande. & --- \\
+9 oct.\ 2026 & Entrevue du conseiller à l'émission \emph{Daybreak} de CBC\,; transcription et vérification des faits dans le \href{\osurl/tree/main/2026-cbc-daybreak-interview}{dépôt open-sources}. & --- \\
 \bottomrule
 \end{longtable}
 \end{small}
@@ -559,10 +568,25 @@ comptages d'été de part et d'autre de cet hiver, d'environ 97~\% (de 283 et
 compteur permanent donne environ 93~\% entre la totalité de l'été et la
 totalité de l'hiver. La baisse est forte selon toutes les mesures\,; le
 «\,99~\%\,» est le seul appariement des nombres disponibles qui l'atteint.
-Quant aux «\,data for 3 years in a row\,», les comptages de vélos
+Quant aux «\,data for 3 years in a row\,» (à \emph{Daybreak}~: «\,we have
+the data for many years\,»), les comptages de vélos
 communiqués vont de septembre 2024 à août 2026 et couvrent deux hivers~: le
 premier par la caméra, une seule journée\,; le second par le compteur
 permanent.
+
+À l'émission \emph{Daybreak} de CBC, le 9~octobre, le conseiller a lui-même
+décrit le 8 comme «\,the sum of all the hours during the rush hour\ldots\
+six hours\,» [07:03], la lecture qui en est faite ici, et a situé le niveau
+hivernal à «\,from 40 a day to 30 a day during December to March\,»
+[07:34], des chiffres qui correspondent aux moyennes mensuelles du compteur
+de Kensington pour décembre, janvier et février (40,0, 32,7 et 34,9 par
+jour\,; mars était à 53,5)\,; il a nommé comme source «\,the open data
+website\ldots\ which is connected directly to Eco-Counter\,» [07:19]. Le
+jeu de données \emph{Compteurs cyclistes permanents} de la Ville ne
+recense aucun Éco-Compteur sur Terrebonne\,; les données de la boucle de
+Kensington n'ont atteint le public que par les demandes d'accès 2025-697,
+2026-300 et la présente. L'entrevue est vérifiée énoncé par énoncé dans le
+\href{\osurl/tree/main/2026-cbc-daybreak-interview}{dépôt open-sources}.
 
 La journée elle-même. Le 29~janvier 2025 était un mercredi pour lequel
 Environnement et Changement climatique Canada avait émis un avis de temps
@@ -638,8 +662,9 @@ Les documents communiqués ne contiennent donc aucun chiffre mesuré sur le
 stationnement, de quelque nature que ce soit~: ni inventaire, ni
 occupation, ni sondage, ni estimation des cases créées. Les «\,50 à 60
 cases\,» que le conseiller a données à l'APC-NDG lors de la rencontre
-qu'il a ensuite présentée au conseil comme sa consultation de l'Association
-n'y figurent pas. Ce que la note refusée dit du
+qu'il a ensuite présentée au conseil comme sa consultation de l'Association,
+et qu'il a reprises à l'émission \emph{Daybreak} de CBC le 9~octobre, n'y
+figurent pas. Ce que la note refusée dit du
 stationnement sera un décompte géométrique de cases qu'on pourrait marquer,
 ce que le mandat demandait\,; rien dans le mandat ni dans les livrables ne
 produirait une mesure du besoin, ni du nombre de nuits où ces cases
@@ -694,7 +719,9 @@ residents will see changes before Christmas 2026.\,» (La solution que nous
 quelle l'été et à la retirer d'un seul côté l'hiver. Plusieurs étapes
 restent à franchir, dont l'examen par le conseil d'arrondissement et le
 conseil municipal. Une chose est certaine~: les résidents verront des
-changements avant Noël 2026.)
+changements avant Noël 2026.) À l'émission \emph{Daybreak} de CBC, le
+9~octobre, il a dit que «\,the final study by the services and the experts
+still need to be submitted to us\,» [00:38].
 L'arrondissement ne peut pas avoir les deux à la fois~: si la recommandation
 a fait l'objet d'une décision, l'article~39 ne s'applique plus et la note
 doit être communiquée sous la seule réserve de l'article~37, qui est
@@ -756,12 +783,20 @@ complicated and no real upside for anyone\,», le retrait hivernal comme
 «\,a test\,» («\,We're going to see the data this year, and hopefully try to
 make it even better after\,») et l'ensemble comme «\,part of a longer term,
 more sophisticated bike plan \ldots\ for next year\,». La mesure porte donc
-trois descriptions au dossier~: «\,mesure transitoire pour l'hiver
+quatre descriptions au dossier~: «\,mesure transitoire pour l'hiver
 2026--2027\,» dans la demande de services, «\,seasonal\,» et «\,a test\,»
-dans l'allocution. La même déclaration nomme le conseil municipal parmi les instances qui doivent
-examiner la proposition, ce qui, si c'est le cas, place le service
-d'aménagement des rues de la Ville elle-même, auteur de l'analyse du
-17~juin, sur le chemin de l'approbation.
+dans l'allocution, et, à l'émission \emph{Daybreak} de CBC trois jours plus
+tard, «\,so for now, we're looking at it in a way that will make it
+permanent\,» [12:22], à revoir «\,if there's really a big change in the data
+and the behavior\ldots\ winter traffic doubles for bikers\,». La même
+déclaration nomme le conseil municipal parmi les instances qui doivent
+examiner la proposition, et à \emph{Daybreak} le conseiller a décrit les
+étapes ainsi~: «\,we vote here at the borough, then a vote at the Conseil
+Municipal, then it comes back to the borough\,» [08:19], le chemin qu'a
+suivi le projet de 2024 en trois votes (CA24 170018, 5~février\,; CM24 0179,
+19~février\,; CA24 170131, 3~juin 2024, l'ordonnance de sens unique)\,; cela
+place le service d'aménagement des rues de la Ville elle-même, auteur de
+l'analyse du 17~juin, sur le chemin de l'approbation.
 
 \subsection{Au regard de la méthode de révision de la Ville}
 
