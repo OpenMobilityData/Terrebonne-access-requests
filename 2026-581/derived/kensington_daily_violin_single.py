@@ -23,13 +23,13 @@ TXT = {
  'en': dict(w=dict(title='Daily bicycle counts on rue de Terrebonne at Kensington: the winter days', label='December 1, 2025 to March 31, 2026\n{n} days', ymax=140, cut=' Lower bound for March: westbound channel degraded from March 2026.'),
             o=dict(title='Daily bicycle counts on rue de Terrebonne at Kensington: the rest of the year', label='The other 244 days of the first year\n(July 26, 2025 to July 25, 2026, outside December–March)', ymax=1100,
                    cut=' Axis cut at 1,100: one day lies above it, June 7, 2026 (3,035, a counter-fault value). Lower bound: three outage days (May 29–31, 2026); westbound channel degraded from March 2026.'),
-            sub='Distribution of the counter\'s daily totals (both directions); every day is a point; bar = median, box = middle half of days',
+            sub='Distribution of the counter\'s daily totals (both directions); every day is a point;\nbar = median, box = middle half of days',
             ylab='bicycle passages per day', stat='median {med:.0f}\nmean {mean:.0f}\nmiddle half {q1:.0f}–{q3:.0f}\nmin {mn}, max {mx}',
             foot='Source: daily table released by the borough of Côte-des-Neiges–Notre-Dame-de-Grâce under access request 2026-581 (bundle 01, pp. 74–81).{cut}'),
  'fr': dict(w=dict(title='Comptages quotidiens de vélos, rue de Terrebonne à Kensington : les jours d’hiver', label='1er décembre 2025 au 31 mars 2026\n{n} jours', ymax=140, cut=' Borne inférieure en mars : canal ouest dégradé à partir de mars 2026.'),
             o=dict(title='Comptages quotidiens de vélos, rue de Terrebonne à Kensington : le reste de l’année', label='Les 244 autres jours de la première année\n(26 juillet 2025 au 25 juillet 2026, hors décembre–mars)', ymax=1100,
                    cut=' Axe coupé à 1 100 : un jour se trouve au-dessus, le 7 juin 2026 (3 035, valeur de compteur défaillant).'),
-            sub='Distribution des totaux quotidiens du compteur (deux directions) ; chaque jour est un point ; barre = médiane, boîte = moitié centrale des jours',
+            sub='Distribution des totaux quotidiens du compteur (deux directions) ; chaque jour est un point ;\nbarre = médiane, boîte = moitié centrale des jours',
             ylab='passages de vélos par jour', stat='médiane {med:.0f}\nmoyenne {mean:.0f}\nmoitié centrale {q1:.0f}–{q3:.0f}\nmin {mn}, max {mx}',
             foot='Source : tableau quotidien communiqué par l’arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce (demande d’accès 2026-581, liasse 01, p. 74–81).{cut}'),
 }
@@ -61,10 +61,10 @@ def main(argv):
             for s in ('top', 'right'): ax.spines[s].set_visible(False)
             ax.spines['left'].set_color('#c9cdd2'); ax.spines['bottom'].set_color('#c9cdd2')
             ax.yaxis.grid(True, color='#e2e4e1', linewidth=0.8, zorder=0); ax.set_axisbelow(True); ax.tick_params(colors=MUTED, length=0)
-            fig.suptitle(S['title'], x=0.08, ha='left', fontsize=11, fontweight='bold', color=INK, y=0.985)
-            ax.set_title(T['sub'], loc='left', fontsize=8.4, color=MUTED, pad=10, wrap=True)
+            fig.suptitle(S['title'], x=0.08, ha='left', fontsize=10.5, fontweight='bold', color=INK, y=0.985)
+            ax.set_title(T['sub'], loc='left', fontsize=8.4, color=MUTED, pad=10)
             fig.text(0.08, 0.012, T['foot'].format(cut=S['cut']), fontsize=7.2, color=MUTED, wrap=True)
-            fig.subplots_adjust(left=0.12, right=0.98, top=0.85, bottom=0.19)
+            fig.subplots_adjust(left=0.12, right=0.96, top=0.85, bottom=0.19)
             name = 'winter' if key == 'w' else 'rest'
             for ext in ('png', 'svg'):
                 p = os.path.join(out, f'kensington_daily_violin_{name}_{lang}.{ext}'); fig.savefig(p); print('written', p)
