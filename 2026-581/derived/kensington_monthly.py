@@ -23,14 +23,14 @@ BAR, BAND, INK, MUTED = '#2a78d6', '#e9ebee', '#1f2428', '#5f6b74'
 TXT = {
  'en': dict(title='Bicycle passages per day on rue de Terrebonne at Kensington, by month',
             sub='Both directions, borough counter, first year of operation (July 26, 2025 to July 25, 2026); July 2026 = 1–25',
-            band='December to March:\n{w} passages, {share:.1f} % of the year\n{wpd:.0f} a day',
+            band='December to March:\n{w} passages, {wpd:.0f} a day\n= {share:.1f} % of the year\'s {tot} passages',
             ylab='passages per day (monthly mean)',
             foot='Source: daily table released by the borough of Côte-des-Neiges–Notre-Dame-de-Grâce under access request 2026-581 (bundle 01, pp. 74–81). '
                  'Year total {tot} ({tpd:.0f} a day). Lower bound: three outage days (May 29–31, 2026); westbound channel degraded from March 2026.',
             months=['Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul']),
  'fr': dict(title='Passages de vélos par jour sur la rue de Terrebonne à Kensington, par mois',
             sub='Deux directions, compteur de l’arrondissement, première année de service (26 juillet 2025 au 25 juillet 2026) ; juillet 2026 = 1 au 25',
-            band='Décembre à mars :\n{w} passages, {share:.1f} % de l’année\n{wpd:.0f} par jour',
+            band='Décembre à mars :\n{w} passages, {wpd:.0f} par jour\n= {share:.1f} % des {tot} passages de l’année',
             ylab='passages par jour (moyenne du mois)',
             foot='Source : tableau quotidien communiqué par l’arrondissement de Côte-des-Neiges–Notre-Dame-de-Grâce (demande d’accès 2026-581, liasse 01, p. 74–81). '
                  'Total de l’année {tot} ({tpd:.0f} par jour). Borne inférieure : trois jours de panne (29–31 mai 2026) ; canal ouest dégradé à partir de mars 2026.',
@@ -60,7 +60,7 @@ def main(argv):
         for i, v in enumerate(pd_):
             ax.text(i, v + 8, f'{v:.0f}', ha='center', va='bottom', fontsize=10, color=INK)
         num = (lambda n: fr_num(n)) if lang == 'fr' else (lambda n: f'{n:,}')
-        band = T['band'].format(w=num(w), share=100 * w / tot, wpd=w / wdays)
+        band = T['band'].format(w=num(w), share=100 * w / tot, wpd=w / wdays, tot=num(tot))
         if lang == 'fr':
             band = band.replace(f'{100 * w / tot:.1f} %', f'{100 * w / tot:.1f}'.replace('.', ',') + '\u202f%')
         ax.text(5.5, max(pd_) * 0.93, band, ha='center', va='top', fontsize=10.5, color=INK, linespacing=1.4)
