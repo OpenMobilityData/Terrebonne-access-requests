@@ -5,8 +5,8 @@ Two figures per language: winter alone (December 1, 2025 to March 31, 2026, 121 
 first year alone (the other 244 days, July 26, 2025 to July 25, 2026). Same drawing as kensington_daily_violin.py
 (density mirrored, every day a point, median bar, middle-half box), but the y-axis is fitted to the season shown, so
 each distribution's own shape is legible. The rest-of-year axis stops at 1,100 (June 7, 2026, 3,035, a counter-fault
-value, is noted). Source: kensington_daily_borough_release_2025-07_2026-08.csv in this folder (bundle 01, pp. 74-81).
-Usage: python3 kensington_daily_violin_single.py [--csv=path] [--out=dir]   (run in 2026-581/derived/)
+value, is noted). Source: kensington_daily_borough_release_2025-07_2026-08.csv two levels up, in 2026-581/derived/ (bundle 01, pp. 74-81).
+Usage: python3 kensington_daily_violin_single.py [--csv=path] [--out=dir]   (run in its own folder)
 """
 import csv, datetime as dt, os, sys, statistics, random
 import matplotlib
@@ -14,7 +14,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CSV = os.path.join(HERE, 'kensington_daily_borough_release_2025-07_2026-08.csv')
+CSV = os.path.join(HERE, '..', '..', 'kensington_daily_borough_release_2025-07_2026-08.csv')
 Y0, Y1 = dt.date(2025, 7, 26), dt.date(2026, 7, 25)
 W0, W1 = dt.date(2025, 12, 1), dt.date(2026, 3, 31)
 WINTER, OTHER, INK, MUTED = '#2a78d6', '#eb6834', '#1f2428', '#5f6b74'

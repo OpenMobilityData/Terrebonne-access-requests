@@ -2,12 +2,12 @@
 """Monthly histogram of bicycle passages at the Terrebonne/Kensington counter, first counter year.
 
 Source: the borough's daily table released under access request 2026-581 (bundle 01, pp. 74-81), as the CSV
-kensington_daily_borough_release_2025-07_2026-08.csv in this folder.
+kensington_daily_borough_release_2025-07_2026-08.csv in 2026-581/derived/, two levels up.
 Bars: mean bicycle passages per day in each calendar month, both directions, Aug 2025 - Jul 2026
 (July 2026 = 1-25 only, the end of the counter's first year, July 26, 2025 - July 25, 2026).
 The December-March band is the window the borough proposes to convert; its label gives the window's
 passages, share of the year, and per-day rate. Counts, not opinions.
-Usage: python3 kensington_monthly.py [--csv=path] [--out=dir]   (run in 2026-581/derived/)
+Usage: python3 kensington_monthly.py [--csv=path] [--out=dir]   (run in its own folder)
 """
 import csv, datetime as dt, os, sys, collections
 import matplotlib
@@ -15,7 +15,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CSV = os.path.join(HERE, 'kensington_daily_borough_release_2025-07_2026-08.csv')
+CSV = os.path.join(HERE, '..', '..', 'kensington_daily_borough_release_2025-07_2026-08.csv')
 Y0, Y1 = dt.date(2025, 7, 26), dt.date(2026, 7, 25)
 W0, W1 = dt.date(2025, 12, 1), dt.date(2026, 3, 31)
 BAR, BAND, INK, MUTED = '#2a78d6', '#e9ebee', '#1f2428', '#5f6b74'

@@ -5,8 +5,8 @@ Each violin is the distribution of the counter's daily totals over the days of o
 with every day drawn as a point, the median as a bar and the quartiles as a box. Winter = December 1, 2025 to
 March 31, 2026 (121 days); rest of the year = the other 244 days of the counter's first year (July 26, 2025 to
 July 25, 2026). The y-axis stops at 1,100; the one day above it (June 7, 2026, 3,035, a counter-fault value) is noted.
-Source: kensington_daily_borough_release_2025-07_2026-08.csv in this folder (bundle 01, pp. 74-81).
-Usage: python3 kensington_daily_violin.py [--csv=path] [--out=dir]   (run in 2026-581/derived/)
+Source: kensington_daily_borough_release_2025-07_2026-08.csv two levels up, in 2026-581/derived/ (bundle 01, pp. 74-81).
+Usage: python3 kensington_daily_violin.py [--csv=path] [--out=dir]   (run in its own folder)
 """
 import csv, datetime as dt, os, sys, statistics, random
 import matplotlib
@@ -14,7 +14,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CSV = os.path.join(HERE, 'kensington_daily_borough_release_2025-07_2026-08.csv')
+CSV = os.path.join(HERE, '..', '..', 'kensington_daily_borough_release_2025-07_2026-08.csv')
 Y0, Y1 = dt.date(2025, 7, 26), dt.date(2026, 7, 25)
 W0, W1 = dt.date(2025, 12, 1), dt.date(2026, 3, 31)
 WINTER, OTHER, INK, MUTED = '#2a78d6', '#eb6834', '#1f2428', '#5f6b74'

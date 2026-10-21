@@ -5,8 +5,8 @@ Each series is the distribution of the counter's daily totals over the days of o
 polygon (a thin line through the bin values, not stepped bars). Winter = December 1, 2025 to March 31, 2026
 (121 days); non-winter = the other 244 days of the counter's first year (July 26, 2025 to July 25, 2026).
 Two versions: absolute (days per bin) and normalized (share of the season's days per bin; each line sums to one).
-Source: kensington_daily_borough_release_2025-07_2026-08.csv in this folder (bundle 01, pp. 74-81).
-Usage: python3 kensington_daily_histogram.py [--csv=path] [--out=dir] [--bin=25] [--xmax=1050]   (run in 2026-581/derived/)
+Source: kensington_daily_borough_release_2025-07_2026-08.csv two levels up, in 2026-581/derived/ (bundle 01, pp. 74-81).
+Usage: python3 kensington_daily_histogram.py [--csv=path] [--out=dir] [--bin=25] [--xmax=1050]   (run in its own folder)
 """
 import csv, datetime as dt, os, sys, statistics
 import matplotlib
@@ -14,7 +14,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CSV = os.path.join(HERE, 'kensington_daily_borough_release_2025-07_2026-08.csv')
+CSV = os.path.join(HERE, '..', '..', 'kensington_daily_borough_release_2025-07_2026-08.csv')
 Y0, Y1 = dt.date(2025, 7, 26), dt.date(2026, 7, 25)
 W0, W1 = dt.date(2025, 12, 1), dt.date(2026, 3, 31)
 WINTER, OTHER, INK, MUTED = '#2a78d6', '#eb6834', '#1f2428', '#5f6b74'
