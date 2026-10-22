@@ -1,8 +1,8 @@
 band,entries,distinct_postal_codes,share_of_geocoded,cumulative_share_of_geocoded
-within 100 m of the lane,398,58,45.8%,45.8%
-100 to 250 m,95,27,10.9%,56.7%
-250 to 500 m,190,64,21.9%,78.6%
-500 m to 1 km,114,70,13.1%,91.7%
-1 to 2 km,46,34,5.3%,97.0%
-beyond 2 km,26,18,3.0%,100.0%
-geocoded total,869,271,100%,
+within 100 m of the lane,425,60,43.6%,43.6%
+100 to 250 m,108,29,11.1%,54.7%
+250 to 500 m,206,71,21.1%,75.8%
+500 m to 1 km,124,77,12.7%,88.5%
+1 to 2 km,57,44,5.8%,94.4%
+beyond 2 km,55,47,5.6%,100.0%
+geocoded total,975,328,100%,

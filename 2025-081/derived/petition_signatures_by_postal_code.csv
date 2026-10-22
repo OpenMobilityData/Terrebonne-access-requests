@@ -1,39 +1,43 @@
 postal_code,entries,class,distance_to_lane_m
 H4B1A8,32,CDN-NDG: Loyola,1
-H4B2L4,30,CDN-NDG: Loyola,262
+H4B2L4,31,CDN-NDG: Loyola,262
+H4B1A3,28,CDN-NDG: Notre-Dame-de-Grâce,1
 H4B2X7,27,CDN-NDG: Notre-Dame-de-Grâce,39
 H4B1B7,26,CDN-NDG: Loyola,5
-H4B1A3,22,CDN-NDG: Notre-Dame-de-Grâce,1
 H4A2H5,20,CDN-NDG: Notre-Dame-de-Grâce,39
 H4B2L5,20,CDN-NDG: Loyola,217
 H4B2K9,19,CDN-NDG: Loyola,1
-H4A2S7,15,CDN-NDG: Notre-Dame-de-Grâce,5
+H4A2S7,16,CDN-NDG: Notre-Dame-de-Grâce,5
+H4A1B8,14,CDN-NDG: Notre-Dame-de-Grâce,6
+H4B1C8,14,CDN-NDG: Loyola,0
 H4A2H6,13,CDN-NDG: Notre-Dame-de-Grâce,8
 H4B1B4,13,CDN-NDG: Loyola,1
 H4B2C2,13,CDN-NDG: Loyola,258
-H4B1C8,12,CDN-NDG: Loyola,0
-H4B2C1,11,CDN-NDG: Loyola,185
+H4B2C1,12,CDN-NDG: Loyola,185
+H4B2B8,11,CDN-NDG: Loyola,1
 H4A2S6,10,CDN-NDG: Notre-Dame-de-Grâce,0
 H4B1B8,10,CDN-NDG: Loyola,2
-H4B2B8,10,CDN-NDG: Loyola,1
 H4B2E3,10,CDN-NDG: Loyola,0
 H4B2L2,10,CDN-NDG: Loyola,8
 H4B2B9,9,CDN-NDG: Loyola,1
-H4A1B8,8,CDN-NDG: Notre-Dame-de-Grâce,6
 H4A2S3,8,CDN-NDG: Notre-Dame-de-Grâce,886
 H4B1A6,7,CDN-NDG: Notre-Dame-de-Grâce,0
 H4B2E2,7,CDN-NDG: Loyola,136
 H4B2J6,7,CDN-NDG: Loyola,4
 H4B2K8,7,CDN-NDG: Loyola,39
 H4B2L3,7,CDN-NDG: Loyola,261
+H4B2V2,7,CDN-NDG: Notre-Dame-de-Grâce,0
 H4A1C1,6,CDN-NDG: Notre-Dame-de-Grâce,7
+H4A2K2,6,CDN-NDG: Notre-Dame-de-Grâce,238
 H4B1E6,6,CDN-NDG: Loyola,59
 H4B1N1,6,CDN-NDG: Loyola,683
 H4B2H4,6,CDN-NDG: Loyola,267
+H4B2P1,6,CDN-NDG: Loyola,269
 H3X3P8,5,CDN-NDG: Notre-Dame-de-Grâce,380
 H4A1B7,5,CDN-NDG: Notre-Dame-de-Grâce,5
 H4A1B9,5,CDN-NDG: Notre-Dame-de-Grâce,7
 H4A2X1,5,CDN-NDG: Notre-Dame-de-Grâce,206
+H4A3B5,5,CDN-NDG: Notre-Dame-de-Grâce,33
 H4B1B3,5,CDN-NDG: Loyola,9
 H4B1C4,5,CDN-NDG: Loyola,2
 H4B1C7,5,CDN-NDG: Loyola,0
@@ -41,20 +45,22 @@ H4B1C9,5,CDN-NDG: Loyola,0
 H4B1E7,5,CDN-NDG: Loyola,69
 H4B2G2,5,CDN-NDG: Loyola,259
 H4B2J7,5,CDN-NDG: Loyola,258
+H4B2J8,5,CDN-NDG: Loyola,161
 H4B2N8,5,CDN-NDG: Loyola,263
-H4B2V2,5,CDN-NDG: Notre-Dame-de-Grâce,0
+H4B2V5,5,CDN-NDG: Notre-Dame-de-Grâce,132
 H4B2W5,5,CDN-NDG: Notre-Dame-de-Grâce,259
 H4V1T4,5,CDN-NDG: Loyola,258
 H3X2A8,4,CDN-NDG: Notre-Dame-de-Grâce,254
 H4A2J9,4,CDN-NDG: Notre-Dame-de-Grâce,7
 H4A2K1,4,CDN-NDG: Notre-Dame-de-Grâce,257
-H4A2K2,4,CDN-NDG: Notre-Dame-de-Grâce,238
 H4A2T8,4,CDN-NDG: Notre-Dame-de-Grâce,693
 H4A2Z9,4,CDN-NDG: Notre-Dame-de-Grâce,9
+H4A3A1,4,CDN-NDG: Notre-Dame-de-Grâce,264
+H4A3B8,4,CDN-NDG: Notre-Dame-de-Grâce,131
+H4B1B2,4,CDN-NDG: Loyola,1
 H4B1B6,4,CDN-NDG: Loyola,2
 H4B1C2,4,CDN-NDG: Loyola,4
 H4B2G1,4,CDN-NDG: Loyola,237
-H4B2J8,4,CDN-NDG: Loyola,161
 H4B2K6,4,CDN-NDG: Loyola,256
 H4B2R8,4,CDN-NDG: Loyola,288
 H4B2S7,4,CDN-NDG: Loyola,286
@@ -65,18 +71,21 @@ H4V2S4,4,CDN-NDG: Loyola,918
 H4V2S8,4,CDN-NDG: Loyola,451
 H3X2Z2,3,CDN-NDG: Snowdon,352
 H3X3R5,3,CDN-NDG: Notre-Dame-de-Grâce,682
+H4A1B4,3,CDN-NDG: Notre-Dame-de-Grâce,8
+H4A1C2,3,CDN-NDG: Notre-Dame-de-Grâce,8
 H4A1G1,3,CDN-NDG: Notre-Dame-de-Grâce,300
+H4A2H8,3,CDN-NDG: Notre-Dame-de-Grâce,165
 H4A2P3,3,CDN-NDG: Notre-Dame-de-Grâce,7
 H4A2R7,3,CDN-NDG: Notre-Dame-de-Grâce,1058
 H4A2V3,3,CDN-NDG: Notre-Dame-de-Grâce,266
-H4A3A1,3,CDN-NDG: Notre-Dame-de-Grâce,264
 H4A3E4,3,CDN-NDG: Notre-Dame-de-Grâce,2
-H4B1B2,3,CDN-NDG: Loyola,1
 H4B1M6,3,CDN-NDG: Loyola,749
+H4B1N6,3,CDN-NDG: Loyola,573
+H4B2C8,3,CDN-NDG: Loyola,420
 H4B2G3,3,CDN-NDG: Loyola,129
 H4B2L1,3,CDN-NDG: Loyola,164
+H4B2P2,3,CDN-NDG: Loyola,119
 H4B2T5,3,CDN-NDG: Loyola,954
-H4B2V5,3,CDN-NDG: Notre-Dame-de-Grâce,132
 H4B2X9,3,CDN-NDG: Notre-Dame-de-Grâce,260
 H4B2Z5,3,CDN-NDG: Loyola,176
 H4V1S7,3,CDN-NDG: Loyola,273
@@ -94,19 +103,18 @@ H3X2C1,2,CDN-NDG: Loyola,267
 H3X2P1,2,CDN-NDG: Snowdon,299
 H3X2R1,2,CDN-NDG: Snowdon,1525
 H3X2T3,2,CDN-NDG: Snowdon,2094
-H4A1B4,2,CDN-NDG: Notre-Dame-de-Grâce,8
-H4A1C2,2,CDN-NDG: Notre-Dame-de-Grâce,8
+H3X3P6,2,CDN-NDG: Notre-Dame-de-Grâce,502
 H4A1T1,2,other Montreal borough,11410
 H4A2K8,2,CDN-NDG: Notre-Dame-de-Grâce,693
 H4A2L6,2,CDN-NDG: Notre-Dame-de-Grâce,1373
+H4A2M8,2,CDN-NDG: Notre-Dame-de-Grâce,258
 H4A2M9,2,CDN-NDG: Notre-Dame-de-Grâce,193
 H4A2R8,2,CDN-NDG: Notre-Dame-de-Grâce,1018
 H4A2V4,2,CDN-NDG: Notre-Dame-de-Grâce,260
 H4A2X2,2,CDN-NDG: Notre-Dame-de-Grâce,261
 H4A2X3,2,CDN-NDG: Notre-Dame-de-Grâce,259
+H4A2Y9,2,CDN-NDG: Notre-Dame-de-Grâce,30
 H4A3B4,2,CDN-NDG: Notre-Dame-de-Grâce,40
-H4A3B5,2,CDN-NDG: Notre-Dame-de-Grâce,33
-H4A3B8,2,CDN-NDG: Notre-Dame-de-Grâce,131
 H4B1A4,2,CDN-NDG: Notre-Dame-de-Grâce,2
 H4B1B1,2,CDN-NDG: Loyola,0
 H4B1B5,2,CDN-NDG: Loyola,3
@@ -115,23 +123,22 @@ H4B1C6,2,CDN-NDG: Loyola,0
 H4B1G5,2,CDN-NDG: Loyola,286
 H4B1J5,2,CDN-NDG: Loyola,275
 H4B1N4,2,other Montreal borough,13302
-H4B1N6,2,CDN-NDG: Loyola,573
 H4B1R7,2,CDN-NDG: Loyola,499
+H4B1S2,2,CDN-NDG: Loyola,516
 H4B1X3,2,CDN-NDG: Loyola,716
 H4B2A9,2,CDN-NDG: Loyola,310
-H4B2C8,2,CDN-NDG: Loyola,420
+H4B2C6,2,CDN-NDG: Loyola,258
 H4B2E4,2,CDN-NDG: Loyola,241
 H4B2G8,2,CDN-NDG: Loyola,219
 H4B2H5,2,CDN-NDG: Loyola,4
 H4B2N6,2,CDN-NDG: Loyola,150
 H4B2N9,2,CDN-NDG: Loyola,260
-H4B2P1,2,CDN-NDG: Loyola,269
-H4B2P2,2,CDN-NDG: Loyola,119
 H4B2P3,2,CDN-NDG: Loyola,204
 H4B2P4,2,CDN-NDG: Loyola,168
 H4B2V4,2,CDN-NDG: Notre-Dame-de-Grâce,258
 H4B2W6,2,CDN-NDG: Notre-Dame-de-Grâce,209
 H4B3A4,2,CDN-NDG: Loyola,484
+H4V1M4,2,CDN-NDG: Loyola,1022
 H4V1S8,2,CDN-NDG: Loyola,262
 H4V1T1,2,CDN-NDG: Loyola,273
 H4V1T6,2,CDN-NDG: Loyola,257
@@ -147,26 +154,43 @@ H4V2Z6,2,outside the City of Montreal,2320
 H4W1N2,2,outside the City of Montreal,1425
 H4W2S8,2,outside the City of Montreal,2356
 H8R1H5,2,other Montreal borough,1435
+A0A1E0,1,outside the City of Montreal,1644210
 H1R1T5,1,other Montreal borough,11094
 H2B2W5,1,other Montreal borough,10719
+H2K4B7,1,other Montreal borough,7415
+H2N1M7,1,other Montreal borough,7479
 H2N1T5,1,other Montreal borough,7292
-H313V2,1,not geocoded (code not found or misread),
+H2R2J9,1,other Montreal borough,7064
+H2R2V7,1,other Montreal borough,6703
+H2S2R9,1,other Montreal borough,6499
+H2S3G4,1,other Montreal borough,6224
+H2T2H5,1,other Montreal borough,6050
+H2W1X4,1,other Montreal borough,5470
+H2X2G6,1,other Montreal borough,5249
 H3C4A1,1,other Montreal borough,5116
+H3L2S9,1,other Montreal borough,8966
+H3S2L4,1,CDN-NDG: Darlington,3609
+H3T1C6,1,CDN-NDG: Darlington,2429
 H3W1H7,1,CDN-NDG: Darlington,2051
+H3W1X4,1,CDN-NDG: Snowdon,813
 H3W3H1,1,CDN-NDG: Snowdon,1637
 H3X2G6,1,CDN-NDG: Notre-Dame-de-Grâce,883
 H3X2N3,1,CDN-NDG: Snowdon,2092
 H3X2P7,1,CDN-NDG: Snowdon,623
 H3X2R8,1,CDN-NDG: Snowdon,209
 H3X2S2,1,CDN-NDG: Snowdon,595
+H3X2S6,1,CDN-NDG: Snowdon,1213
 H3X2V2,1,CDN-NDG: Snowdon,499
 H3X2X6,1,outside the City of Montreal,595
 H3X3N9,1,CDN-NDG: Notre-Dame-de-Grâce,423
+H3X3P4,1,CDN-NDG: Notre-Dame-de-Grâce,481
 H3X3R6,1,CDN-NDG: Notre-Dame-de-Grâce,670
+H3Z1N2,1,outside the City of Montreal,1826
+H3Z1T1,1,outside the City of Montreal,1985
 H3Z2C7,1,outside the City of Montreal,2911
-H431A3,1,not geocoded (code not found or misread),
 H4A0A2,1,CDN-NDG: Notre-Dame-de-Grâce,989
 H4A1A1,1,not geocoded (code not found or misread),
+H4A1C5,1,CDN-NDG: Notre-Dame-de-Grâce,309
 H4A1K1,1,CDN-NDG: Notre-Dame-de-Grâce,955
 H4A1M5,1,CDN-NDG: Notre-Dame-de-Grâce,693
 H4A1P5,1,CDN-NDG: Notre-Dame-de-Grâce,935
@@ -184,40 +208,46 @@ H4A2K3,1,CDN-NDG: Notre-Dame-de-Grâce,1258
 H4A2L2,1,CDN-NDG: Notre-Dame-de-Grâce,5
 H4A2L4,1,CDN-NDG: Notre-Dame-de-Grâce,257
 H4A2M7,1,CDN-NDG: Notre-Dame-de-Grâce,20
-H4A2M8,1,CDN-NDG: Notre-Dame-de-Grâce,258
+H4A2N1,1,CDN-NDG: Notre-Dame-de-Grâce,1486
 H4A2N2,1,CDN-NDG: Notre-Dame-de-Grâce,1482
 H4A2P8,1,CDN-NDG: Notre-Dame-de-Grâce,1339
+H4A2T4,1,CDN-NDG: Notre-Dame-de-Grâce,1092
 H4A2V2,1,CDN-NDG: Notre-Dame-de-Grâce,266
 H4A2W8,1,CDN-NDG: Notre-Dame-de-Grâce,381
 H4A2W9,1,CDN-NDG: Notre-Dame-de-Grâce,210
-H4A2Y9,1,CDN-NDG: Notre-Dame-de-Grâce,30
+H4A2Y5,1,CDN-NDG: Notre-Dame-de-Grâce,496
+H4A2Y6,1,CDN-NDG: Notre-Dame-de-Grâce,285
+H4A2Z2,1,CDN-NDG: Notre-Dame-de-Grâce,1196
 H4A3E5,1,CDN-NDG: Notre-Dame-de-Grâce,79
 H4A3H3,1,CDN-NDG: Notre-Dame-de-Grâce,1309
+H4A3H5,1,CDN-NDG: Notre-Dame-de-Grâce,1297
 H4A3K4,1,CDN-NDG: Notre-Dame-de-Grâce,442
+H4A3L9,1,CDN-NDG: Notre-Dame-de-Grâce,824
 H4A3R5,1,CDN-NDG: Notre-Dame-de-Grâce,40
 H4A3S6,1,CDN-NDG: Notre-Dame-de-Grâce,692
 H4A9S6,1,not geocoded (code not found or misread),
 H4B1A5,1,CDN-NDG: Loyola,4
+H4B1A7,1,CDN-NDG: Loyola,1
 H4B1E2,1,CDN-NDG: Loyola,290
+H4B1H5,1,CDN-NDG: Loyola,285
 H4B1N2,1,CDN-NDG: Loyola,591
 H4B1P6,1,CDN-NDG: Loyola,350
-H4B1S2,1,CDN-NDG: Loyola,516
 H4B1T4,1,CDN-NDG: Loyola,906
 H4B1W3,1,CDN-NDG: Loyola,766
 H4B1X2,1,CDN-NDG: Loyola,1114
 H4B1Z2,1,CDN-NDG: Loyola,447
-H4B241,1,not geocoded (code not found or misread),
-H4B244,1,not geocoded (code not found or misread),
 H4B2B1,1,CDN-NDG: Loyola,334
 H4B2B4,1,CDN-NDG: Loyola,272
 H4B2B7,1,CDN-NDG: Loyola,259
 H4B2C4,1,CDN-NDG: Loyola,60
 H4B2C5,1,CDN-NDG: Loyola,119
-H4B2C6,1,CDN-NDG: Loyola,258
 H4B2C7,1,CDN-NDG: Loyola,423
+H4B2G5,1,CDN-NDG: Loyola,391
+H4B2H7,1,CDN-NDG: Loyola,131
 H4B2J3,1,CDN-NDG: Loyola,299
 H4B2J4,1,CDN-NDG: Loyola,222
 H4B2K2,1,CDN-NDG: Loyola,318
+H4B2K5,1,CDN-NDG: Loyola,5
 H4B2K7,1,CDN-NDG: Loyola,247
 H4B2M7,1,CDN-NDG: Loyola,757
 H4B2M8,1,CDN-NDG: Loyola,756
@@ -232,22 +262,28 @@ H4B2S4,1,CDN-NDG: Loyola,805
 H4B2T6,1,CDN-NDG: Loyola,951
 H4B2V7,1,CDN-NDG: Loyola,684
 H4B2V8,1,CDN-NDG: Loyola,523
+H4B2W2,1,CDN-NDG: Loyola,437
 H4B2X8,1,CDN-NDG: Notre-Dame-de-Grâce,1
 H4B2Z1,1,CDN-NDG: Loyola,945
 H4B2Z3,1,CDN-NDG: Loyola,0
 H4B3A3,1,CDN-NDG: Loyola,530
 H4B4C7,1,not geocoded (code not found or misread),
 H4B4Z1,1,not geocoded (code not found or misread),
+H4G3K2,1,other Montreal borough,4621
+H4H1G6,1,other Montreal borough,4798
+H4H1Y2,1,other Montreal borough,4400
 H4N2P8,1,outside the City of Montreal,4320
+H4R2Z3,1,other Montreal borough,7203
 H4S2N8,1,not geocoded (code not found or misread),
 H4V1G3,1,outside the City of Montreal,2320
+H4V1G9,1,outside the City of Montreal,2320
 H4V1H2,1,CDN-NDG: Loyola,1134
 H4V1J3,1,CDN-NDG: Loyola,1193
 H4V1J6,1,CDN-NDG: Loyola,945
 H4V1J9,1,CDN-NDG: Loyola,909
+H4V1K3,1,CDN-NDG: Loyola,919
 H4V1L5,1,CDN-NDG: Loyola,912
 H4V1L8,1,CDN-NDG: Loyola,923
-H4V1M4,1,CDN-NDG: Loyola,1022
 H4V1M6,1,CDN-NDG: Loyola,602
 H4V1R2,1,CDN-NDG: Loyola,600
 H4V1R9,1,CDN-NDG: Loyola,275
@@ -255,9 +291,11 @@ H4V1T7,1,CDN-NDG: Loyola,268
 H4V1Y2,1,CDN-NDG: Loyola,619
 H4V1Z3,1,CDN-NDG: Loyola,689
 H4V1Z7,1,CDN-NDG: Loyola,1150
-H4V279,1,not geocoded (code not found or misread),
 H4V2A6,1,CDN-NDG: Loyola,578
+H4V2A9,1,CDN-NDG: Loyola,1211
+H4V2B7,1,CDN-NDG: Loyola,915
 H4V2C8,1,CDN-NDG: Loyola,1193
+H4V2E3,1,CDN-NDG: Loyola,911
 H4V2E4,1,CDN-NDG: Loyola,890
 H4V2E6,1,CDN-NDG: Loyola,423
 H4V2E7,1,CDN-NDG: Loyola,588
@@ -265,20 +303,24 @@ H4V2E9,1,CDN-NDG: Loyola,910
 H4V2G1,1,CDN-NDG: Loyola,584
 H4V2G4,1,CDN-NDG: Loyola,909
 H4V2H2,1,CDN-NDG: Loyola,580
-H4V2JS,1,not geocoded (code not found or misread),
+H4V2H6,1,CDN-NDG: Loyola,909
 H4V2M7,1,outside the City of Montreal,1155
 H4V2M8,1,CDN-NDG: Loyola,551
 H4V2S5,1,CDN-NDG: Loyola,913
 H4V2T2,1,CDN-NDG: Loyola,644
 H4V2V4,1,CDN-NDG: Loyola,902
+H4V2V5,1,CDN-NDG: Loyola,1030
 H4V2W5,1,CDN-NDG: Loyola,478
 H4V2W7,1,CDN-NDG: Loyola,939
 H4V2X8,1,outside the City of Montreal,1382
 H4V2Z9,1,CDN-NDG: Loyola,1200
+H4W1G7,1,outside the City of Montreal,2013
 H4W1N1,1,outside the City of Montreal,1410
 H4W2A8,1,outside the City of Montreal,1378
 H4W2B4,1,other Montreal borough,3699
+H4W2C2,1,outside the City of Montreal,1693
 H4W2E9,1,outside the City of Montreal,1971
+H4W2T7,1,outside the City of Montreal,2462
 H4W3S9,1,not geocoded (code not found or misread),
 H4X1C7,1,outside the City of Montreal,1439
 H4X1M5,1,outside the City of Montreal,1060
@@ -286,4 +328,12 @@ H4X2E9,1,outside the City of Montreal,710
 H4X2G3,1,outside the City of Montreal,946
 H4X2N4,1,not geocoded (code not found or misread),
 H4Y2R3,1,not geocoded (code not found or misread),
-HX41S4,1,not geocoded (code not found or misread),
+H7J1A3,1,outside the City of Montreal,20362
+H8P2N8,1,other Montreal borough,4678
+H8Z2T7,1,other Montreal borough,17440
+H9A2R1,1,outside the City of Montreal,15553
+H9W2E6,1,outside the City of Montreal,20030
+J0W1R0,1,outside the City of Montreal,155750
+J7V8Y4,1,outside the City of Montreal,31759
+K2G6H6,1,outside the City of Montreal,163480
+N6J4W4,1,outside the City of Montreal,657332

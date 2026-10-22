@@ -1,0 +1,13 @@
+level,handwritten,online,both
+1 total lines (counter stamps),893,310,1203
+1b lines read into a table,890,304,1194
+2 any entry,890,301,1191
+3 well-formed FSA,887,300,1187
+4 well-formed full code,881,106,987
+5 full code in CDN-NDG,830,76,906
+6 full code in the Terrebonne corridor,555,44,599
+side: Canada outside Québec,0,3,3
+side: Montréal outside CDN-NDG,12,16,28
+side: Québec outside the City of Montréal,27,11,38
+side: full code not in the table,12,0,12
+side: malformed,3,1,4

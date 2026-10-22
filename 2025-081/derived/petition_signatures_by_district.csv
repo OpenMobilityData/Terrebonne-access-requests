@@ -1,11 +1,11 @@
 class,entries,distinct_postal_codes,share_of_entries
-CDN-NDG: Loyola,524,150,59.0%
-CDN-NDG: Notre-Dame-de-Grâce,288,81,32.4%
-CDN-NDG: Snowdon,15,10,1.7%
-CDN-NDG: Darlington,1,1,0.1%
+CDN-NDG: Loyola,553,162,56.0%
+CDN-NDG: Notre-Dame-de-Grâce,331,92,33.5%
+CDN-NDG: Snowdon,17,12,1.7%
+CDN-NDG: Darlington,3,3,0.3%
 CDN-NDG: Côte-des-Neiges,2,1,0.2%
-other Montreal borough,12,9,1.4%
-outside the City of Montreal,27,19,3.0%
-not geocoded (code not found or misread),19,17,2.1%
-CDN-NDG (all districts),830,243,93.5%
-total,888,288,100%
+other Montreal borough,28,25,2.8%
+outside the City of Montreal,41,33,4.2%
+not geocoded (code not found or misread),12,10,1.2%
+CDN-NDG (all districts),906,270,91.8%
+total,987,338,100%
