@@ -39,7 +39,11 @@ Quotations from these documents in other work should cite the file number and th
 
 ### Edit history
 
-Everything in this repository was written in the open. The complete edit history of every file, including the derived documents, is public through the [commit log](https://github.com/OpenMobilityData/Terrebonne-access-requests/commits/main) and the diffs: each change to a summary can be traced to the commit that made it, with the reason given in the commit message, and earlier versions can be retrieved by their version tag (the `YYYY-MM-DD-hh-mm-ss` stamp in each document's footer and PDF metadata). Corrections made along the way, such as the re-sourcing of the "99%" figure on October 10, are in that record rather than silently overwritten. The derived documents were drafted and revised with the help of an AI assistant (Anthropic's Claude), which is named as co-author on the commits where it was used; the author checked every quotation and page reference against the released documents and is responsible for the content.
+Everything in this repository was written in the open. The complete edit history of every file, including the derived documents, is public through the [commit log](https://github.com/OpenMobilityData/Terrebonne-access-requests/commits/main) and the diffs: each change to a summary can be traced to the commit that made it, with the reason given in the commit message, and earlier versions can be retrieved by their version tag (the `YYYY-MM-DD-hh-mm-ss` stamp in each document's footer and PDF metadata). Corrections made along the way, such as the re-sourcing of the "99%" figure on October 10, are in that record rather than silently overwritten.
+
+## Use of AI
+
+Much of the code and many of the drafts in this repository were produced with an AI assistant, Anthropic's Claude, in interactive sessions directed by the author. The author chose the questions, supplied the sources, reviewed every output, and checked every quotation, page reference and figure against the documents; the author alone is responsible for the content. Commits to which the assistant contributed name it as co-author, so the division of work is visible in the history, and errors found in its work are corrected in the open like any other. Nothing in `raw/` is edited by anyone, human or machine.
 
 ## Related
 
