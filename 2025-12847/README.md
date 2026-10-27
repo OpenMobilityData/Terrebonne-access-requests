@@ -47,3 +47,7 @@ Neither the note nor any annex mentions rue de Terrebonne, the borough of Côte-
 ## Related
 
 The City's audit of four existing lanes announced on February 10, 2026, and the borough's 2026 study of Terrebonne, are documented under [`2026-581/`](../2026-581/) (executive summary, section 4.4).
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*

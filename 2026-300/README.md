@@ -50,3 +50,7 @@ The analysis *Winter cycling on rue de Terrebonne and the days snow is loaded* j
 | 2026-05-06 | This request filed |
 | 2026-06-04 | This response |
 | 2026-10-09 | Daily totals from the same counter released again in 2026-581, bundle 01, pp. 74–81 |
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*

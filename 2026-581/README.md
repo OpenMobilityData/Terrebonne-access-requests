@@ -107,3 +107,7 @@ Each derived document carries a version tag of the form `YYYY-MM-DD-hh-mm-ss` (A
 | 2026-10-02 | Final note due |
 | 2026-10-06 | Council meeting; winter conversion announced |
 | 2026-10-09 | This response |
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*

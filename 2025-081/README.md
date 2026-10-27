@@ -68,3 +68,7 @@ Why the online rows were left off the map until October 2026: the change.org pri
 | 2024-02-05 | Borough council meeting for which the petitions were tabled |
 | 2025-02-24 | Request filed |
 | 2025-03-06 | Response |
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*

@@ -33,3 +33,7 @@ Nothing was withheld. The two data sheets were saved from the response and are r
 | 2025-11-27 | Request filed |
 | 2025-12-19 | Response |
 | 2026-05-06 | Follow-up request 2026-300 for the record to May 11, 2026 |
+
+---
+
+*Use of AI: this README and the derived files beside it were prepared with an AI assistant under the author's direction and review, and checked against the documents; see the repository's [Use of AI statement](../README.md#use-of-ai).*
