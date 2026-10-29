@@ -64,8 +64,8 @@ Why the online rows were left off the map until October 2026: the change.org pri
 |---|---|
 | 2024-01-12 → 02-04 | Online petition signed (the change.org printout carries a "Signed On" date per entry: 54 on January 12, 168 in the first four days, then a trickle to February 4; [`derived/online_signatures_by_day.csv`](derived/online_signatures_by_day.csv), 275 of 304 dates read by OCR) |
 | 2024-02-02 | Cover letters and petitions sent to the borough clerk (« par courriel / main à main »), asking for a place on the February 5 agenda |
-| 2024-02-05 | Supplementary letter e-mailed to the clerk at 12:20: +141 handwritten, +15 online, « 1,258 » in all (p. 67) |
-| 2024-02-05 | Borough council meeting for which the petitions were tabled |
+| 2024-02-05 | Supplementary letter e-mailed to the clerk at 12:20: +141 handwritten, +15 online, « 1,258 » in all ([p. 67](https://openmobilitydata.github.io/Terrebonne-access-requests/2025-081/raw/Doc_requis_2025-081.pdf#page=67)) |
+| 2024-02-05 | Borough council meeting for which the petitions were tabled; recorded in the minutes under CORRESPONDANCE, « Deux pétitions ainsi que divers courriels reçus de citoyens concernant le projet de la piste cyclable sur la rue de Terrebonne » ([minutes, p. 5](https://openmobilitydata.github.io/Terrebonne-open-sources/2024-project-approval/raw/CA_Cdn_PV_ORDI_2024-02-05_19h00_FR.pdf#page=5)); the page and the agenda's item 10.08 are filed in Terrebonne-open-sources, [`2024-02-05-petitions-tabled/`](https://github.com/OpenMobilityData/Terrebonne-open-sources/blob/main/2024-02-05-petitions-tabled/README.md) |
 | 2025-02-24 | Request filed |
 | 2025-03-06 | Response |
 
