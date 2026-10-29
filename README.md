@@ -33,7 +33,7 @@ Rules:
 
 ## Provenance and use
 
-The documents are reproduced exactly as released by the borough, including its redactions. Names and work addresses of public officials and of the consultant's staff appear as the borough left them. The releases are public records. The READMEs and the contents of the `derived/` folders are published under CC BY 4.0 (code under MIT).
+The documents are reproduced exactly as released by the borough, including its redactions. Names and work addresses of public officials and of the consultant's staff appear as the borough left them. The releases are public records. The releases themselves (`raw/`) keep their status as public records and are not licensed here. The READMEs and the contents of the `derived/` folders are published under CC BY 4.0 ([`LICENSE`](LICENSE)); code under the MIT licence ([`LICENSE-CODE`](LICENSE-CODE)).
 
 Quotations from these documents in other work should cite the file number and the PDF page of the released bundle, e.g. "2026-581, bundle 01, p. 8".
 
