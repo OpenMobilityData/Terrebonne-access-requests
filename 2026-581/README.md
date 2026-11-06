@@ -5,6 +5,8 @@
 **Answered:** October 9, 2026, by the secrétaire d'arrondissement
 **Released:** 508 pages in three bundles, plus statutory extracts
 
+**Reconsideration:** requested October 15, 20 and November 4, 2026; refused November 6, 2026 (see below)
+
 ## What was asked
 
 In September 2026 the borough had commissioned an engineering study of rue de Terrebonne from Les Services EXP inc. The request asked for the records showing (A) who initiated the study and why; (B) how it was procured and what it cost; (C) what it was instructed to examine and what data it used; (D) what it delivered and when; and (E) internal communications about it. The full text is in [`raw/request_2026-09-11.pdf`](raw/request_2026-09-11.pdf).
@@ -88,6 +90,20 @@ Each derived document carries a version tag of the form `YYYY-MM-DD-hh-mm-ss` (A
 | [`derived/figures/kensington-violins/kensington_daily_violin_winter_en.png`](derived/figures/kensington-violins/kensington_daily_violin_winter_en.png), [`_rest_en.png`](derived/figures/kensington-violins/kensington_daily_violin_rest_en.png) / [`_winter_fr.png`](derived/figures/kensington-violins/kensington_daily_violin_winter_fr.png), [`_rest_fr.png`](derived/figures/kensington-violins/kensington_daily_violin_rest_fr.png) (+ `.svg`; script [`kensington_daily_violin_single.py`](derived/figures/kensington-violins/kensington_daily_violin_single.py)) | The same two distributions as single-season violins, each on its own axis: the winter days (axis 0–140; middle half 24–54 a day, median 39, min 2, max 129) and the other 244 days of the first year (axis 0–1,100; middle half 289–738, median 548) |
 | [`derived/miovision_counts_by_mode_2026-581.xlsx`](derived/miovision_counts_by_mode_2026-581.xlsx) (+ [`.csv`](derived/miovision_counts_by_mode_2026-581.csv)) | Miovision class totals (cars, buses, trucks, bicycles, pedestrians) for every count day, bundle 01 [pp. 82–164](https://openmobilitydata.github.io/Terrebonne-access-requests/2026-581/raw/01_emails_mandate_counts.pdf#page=82): six peak hours (06:30–09:30, 15:30–18:30) and 12 h, all four approaches and the Terrebonne axis alone; the Grand counts of January 29, 2025 (source of the "12" and "8") broken out by mode, with cars per cyclist and change against November 20, 2024. The `.csv` is the long table only |
 
+## The requests for reconsideration and the reply of November 6, 2026
+
+After the response of October 9, the requester wrote three times to the borough's access officer (the secrétaire d'arrondissement) asking that the refusal of the EXP technical note, the SUM analysis of June 17 and the SIM opinion of July 13 be reconsidered: on October 15, 2026 (sections 39, 37 and 14 of the Act; the 2023 precedent, when the borough published the EXP study in full before any vote), on October 20 (the councillor's statements at City council on October 19) and on November 4 (the borough council's vote of November 2 on item 30.02 and the borough mayor's statement that the SUM evaluation could be shared). The three letters are quoted in the thread of the reply.
+
+The reply came on November 6, 2026, 10:27, from the Division du greffe ([`raw/response_2026-11-06_reconsideration_refused.pdf`](https://openmobilitydata.github.io/Terrebonne-access-requests/2026-581/raw/response_2026-11-06_reconsideration_refused.pdf), 12 pp.: the reply on p. 1, the thread beneath it, including the letters of November 4, October 15 and the response of October 9). In full:
+
+> Following up on your emails dated October 15 and 20, as well as November 4 regarding our response to access request 2026-581, I inform you that we will not be revising our decision.
+>
+> Indeed, despite the references mentioned in your emails, no decision-making body has currently approved a bike path redevelopment plan, and therefore no formal decision has been made on this matter.
+>
+> As mentioned in our response on October 9, 2026, and in accordance with Article 51 of the Act respecting Access to documents held by public bodies and the Protection of personal information (CQLR, c. A-2.1), you have 30 days from receiving the reply to request a review of this decision with the Commission d'accès à l'information. Attached, you will find an explanatory note on this matter.
+
+The reply gives one ground, section 39's condition that the recommendation has not yet been the object of a decision; it does not address section 37, section 14 or the 2023 precedent. The notice of recourse it mentions is the standard form and is not reproduced. The same day, the borough answered request [2026-634](../2026-634/) and refused the same documents on the same grounds.
+
 ## Timeline
 
 | Date | Event |
@@ -107,6 +123,9 @@ Each derived document carries a version tag of the form `YYYY-MM-DD-hh-mm-ss` (A
 | 2026-10-02 | Final note due |
 | 2026-10-06 | Council meeting; winter conversion announced |
 | 2026-10-09 | This response |
+| 2026-10-15 / 10-20 / 11-04 | Requests for reconsideration of the refusals (ss. 39, 37, 14) |
+| 2026-11-02 | Borough council adopts the art. 85 offer to City council (item 30.02, 3–2) |
+| 2026-11-06 | Reply: the decision will not be revised, « no formal decision has been made on this matter » |
 
 ---
 
