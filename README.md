@@ -33,6 +33,8 @@ Rules:
 
 ## Provenance and use
 
+**The requester's personal information.** In every request, response or e-mail thread published here, the requester's name stays; his e-mail address, home address and telephone number are blacked out before publication (`tools/redact_owner_info.py`; the treated pages become images, the other pages are untouched). Public bodies' addresses and staff e-mails stay as released.
+
 The documents are reproduced exactly as released by the borough, including its redactions. Names and work addresses of public officials and of the consultant's staff appear as the borough left them. The releases are public records. The releases themselves (`raw/`) keep their status as public records and are not licensed here. The READMEs and the contents of the `derived/` folders are published under CC BY 4.0 ([`LICENSE`](LICENSE)); code under the MIT licence ([`LICENSE-CODE`](LICENSE-CODE)).
 
 Quotations from these documents in other work should cite the file number and the PDF page of the released bundle, e.g. "2026-581, bundle 01, p. 8".

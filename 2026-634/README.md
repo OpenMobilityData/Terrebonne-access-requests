@@ -94,7 +94,7 @@ So the « 8 » of the deck and of the October 6 address is the number of bicycle
 | [raw/response_2026-11-06_B2_spreadsheets.pdf](https://openmobilitydata.github.io/Terrebonne-access-requests/2026-634/raw/response_2026-11-06_B2_spreadsheets.pdf) | The follow-up e-mail of November 6, 2026, 14:17, with the two workbooks |
 | `raw/attachments/` | The nine files extracted from the portfolio, unchanged, under their original names (B1, B1 deck, B1 RE, B1-1 to B1-4, C1 e-mail, C1 request), and the two B2 workbooks as received |
 
-Nothing has been edited. Personal information was removed by the borough before release (« biffé » in the file names marks the files with redactions).
+Nothing in the borough's attachments has been edited; personal information was removed by the borough before release (« biffé » in the file names marks the files with redactions). In the request and the two response e-mails, The requester's e-mail address, home address and telephone number are blacked out by the author before publication (name kept; the treated pages are images); the as-received originals are kept privately.
 
 ---
 
