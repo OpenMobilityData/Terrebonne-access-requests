@@ -1,0 +1,149 @@
+=== page 1 (text layer) ===
+Direction générale
+Bureau du directeur général adjoint
+Urbanisme, mobilité et infrastructures
+275, rue Notre-Dame Est
+3e étage – bureau 03.123
+Montréal (Québec) H2Y 1B5
+
+
+
+
+Destinataire:               Monsieur Benoit Dagenais, directeur général
+
+Expéditeur :                Claude Carette, directeur général adjoint - Urbanisme, mobilité et infrastructures
+
+Copie conforme :            Mme Brigitte Grandmaison, directrice générale adjointe - Services de proximité
+
+                            Mme Lucie Careau, directrice Service de l’urbanisme et de la mobilité
+
+Date :                      Le 10 novembre 2025
+
+Objet :                     Réseau cyclable – Audits correctifs et préventifs
+______________________________________________________________________________________________________
+
+Contexte
+
+En expansion depuis 2009, le réseau cyclable de Montréal totalise aujourd’hui plus de 1000 km et
+comprend divers types d'aménagement. Plus spécifiquement depuis l’adoption du cadre de planification «
+Montréal, ville cyclable » en septembre 2017, des investissements importants ont été réalisés pour
+accroître la part modale du vélo et intégrer ses besoins dans l’ensemble des projets de réaménagement
+urbain. Cette démarche s’inscrit par ailleurs dans une vision globale de la mobilité, où le réseau cyclable
+devient plus accessible, inclusif et sécuritaire.
+
+Le Service de l’urbanisme et de la mobilité (SUM) en collaboration avec les arrondissements est
+responsable d'encadrer cette transformation. Il conçoit et planifie les projets en s’inspirant des meilleures
+pratiques dans une perspective de réduire à zéro le nombre de décès et de blessures graves causés par
+une collision routière (Vision Zéro).
+
+Aucun audit de sécurité n’a été réalisé à proprement parler pour l’ensemble du réseau. Toutefois, diverses
+mesures d’enquête, de correction et de prévention ont été mises en œuvre. En particulier, une collaboration
+entre le Service de l’urbanisme et de la mobilité (SUM) et le Bureau de l’Ombudsman de Montréal (OdM)
+s’est établie en vue d’une vigie plus globale, notamment depuis le déploiement des premières voies
+cyclables permanentes du réseau structurant, tel que le Réseau express vélo (REV), ainsi que dans le
+contexte du déploiement temporaire de plusieurs Voies actives sécuritaires (VAS) lors de la pandémie de
+2020.
+
+=== page 2 (text layer) ===
+Voies cyclables en exploitation - Audits, enquêtes et mesures correctives
+
+Les projets de réaménagement urbain du SUM, incluant le réseau cyclable, peuvent effectivement être
+soumis à des audits, comme à des enquêtes du OdM initiées pour donner suite aux plaintes citoyennes.
+Ces rapports d'enquête concernant la sécurité des aménagements comme le REV Saint-Antoine, les VAS
+ou des débarcadères d’autobus sont répertoriés sur le site internet de l'Ombudsman de Montréal. Ces
+rapports font également état des mesures correctives adoptées par les équipes municipales pour donner
+suite aux enquêtes. En parallèle, le SUM assure une veille du bon fonctionnement des nouveaux
+aménagements cyclables sur une période déterminée et l’historique des accidents.
+
+S’ajoutent à cette veille, les analyses spécifiques d’une équipe postcollision mortelle (EPCM), qui
+impliquent des visites de terrain systématiques et des recommandations ciblées lors des collisions
+mortelles. Depuis 2018, 130 visites ont été effectuées sur la base des accidents observés, avec un taux de
+65% pour la réalisation des recommandations. D’autre part, la carte interactive Vision Zéro et les analyses
+permettent de prioriser les interventions de sécurité.
+
+Au-delà de ces éléments, l’annexe 1 inclue des exemples d’éléments additionnels plus spécifiques et
+l’annexe 2 fait état de rapport produit par le OdM en collaboration avec le SUM et les autres unités de la
+Ville.
+
+Voies cyclables en conception - Outils d’aide à la décision, à la prévention et à l’amélioration
+
+Par ailleurs, le SUM met en place des mécanismes de vigie, d’évaluation et de rétroaction. Ces outils
+incluent plusieurs guides, dont le Guide d’aménagement durable des rues de Montréal, accessible à tous
+les partenaires via le répertoire des pratiques d’aménagement. Les équipes municipales s’appuient
+également sur des références externes telles que les normes du ministère des Transports et de la Mobilité
+durable (MTMD), les guides de NACTO, TAC/ATC et Vélo Québec. Des logiciels spécialisés comme
+SYNCHRO, VISTRO, Autoturn et SASMi sont utilisés pour la modélisation et la conception des
+aménagements. Enfin, des aide-mémoires, des listes de vérification et des notes techniques viennent
+encadrer les choix d’aménagement et assurer le contrôle de la qualité.
+
+La participation citoyenne et la gouvernance collaborative sont au cœur de la démarche du SUM. Des
+consultations sont organisées, notamment via le portail Réalisons Montréal, et une collaboration étroite est
+favorisée avec les parties prenantes. Les rapports de l’Office de consultation publique de Montréal (OCPM)
+et d’autres instances permettent aussi d’intégrer les préoccupations citoyennes dans les projets.
+Enfin, le SUM pratique l’amélioration continue, fondée sur l’apprentissage par l’expérience, la veille
+internationale et la formation des experts. La transparence et la reddition de comptes sont des principes
+fondamentaux qui guident l’ensemble de nos interventions.
+
+L’annexe 3 liste les principaux documents, outils et guides utilisés pour analyser et assurer la sécurité de
+nos aménagements cyclables.
+
+=== page 3 (text layer) ===
+Annexe 1 – Exemples de rapports d’audit,
+           d’évaluation et de suivi du SUM
+
+ •   Suivi de sécurité des VAS (Produit par l’EPCM au SUM) [Annexe 1.01]
+ •   Veille des accidents (Carte interactive Vision Zéro)
+ •   Avis technique - Bonification de la Route verte sur la rue Notre-Dame à Montréal (Produit par
+     Vélo-Québec) [Annexe 1.11]
+ •   Audit de sécurité - Rue Bellechasse pour le centre de transport (Produit par le SUM) [Annexe
+     1.12]
+ •   PUM2050 - Rapport de l’OCPM
+ •   Séances d’information publiques
+           Exemple Henri-Bourassa : Projet Henri-Bourassa | Ville de Montréal
+           Exemple Christophe-Colomb : Avenue Christophe-Colomb : aménagement de voies
+              cyclables | Ville de Montréal
+ •   Liste de questions / réponses
+           Exemple Henri-Bourassa : https://portail-
+              m4s.s3.montreal.ca/pdf/questions_et_reponses_seance_dinfo_26_mai_2022.pdf
+           Exemple Christophe-Colomb : https://portail-
+              m4s.s3.montreal.ca/pdf/qr_seance_dinfo_voies_cyclables_christophe-
+              colomb_22_mars_2023.pdf
+
+=== page 4 (text layer) ===
+Annexe 2 – Rapports de l’OdM
+
+ •   Rapport annuel 2024 de l’Ombudsman : OdM_RapportAnnuel2024.pdf
+ •   Portail de OdM concernant les réaménagements urbains : Les réaménagements urbains : Où en
+     est-on?
+ •   OMBUD PR2020-0001 : Rapport concernant des aménagements urbains réalisés en 2020 -
+     Mobilité pour tous en temps de crise et après (décembre 2020)
+
+=== page 5 (text layer) ===
+Annexe 3 – Exemples d’outils d’aide
+           à la conception
+Guides internes
+Il s’agit de documents structurants qui définissent les principes et les standards propres à nos façons de
+faire, tels que :
+      • Répertoire des pratiques d'aménagement de la rue :
+      o Outils de vérification et de conception :
+          ▪ Liste de vérification en accessibilité universelle
+          ▪ Dégagement visuel minimal aux intersections
+          ▪ Hauteur des plantations
+          ▪ Largeur de voies
+          ▪ Validation des virages et applications
+      o Plan d’action Vision Zéro
+      o Lignes directrices de conception pour les aménagements cyclables sur rues
+      o Guide d’aménagement durable des rues de Montréal
+      o Fascicule 5 - Aménagements piétons universellement accessibles
+      o Guide des signaux sonores [Annexe 3.01]
+      o Guide de conception des feux de circulation pour piétons [Annexe 3.02]
+      o Guide de conception des feux de circulation pour cyclistes [Annexe 3.031]
+
+
+Guides externes
+   • Recommandation de NACTO
+   • Guide d’aménagement TAC/ATC
+   • Normes du MTMD – Tome I à VIII de conception routière
+   • Manual on Uniform Traffic Control Devices for Streets and Highways
+   • Guide d’aménagement de Vélo Québec
+

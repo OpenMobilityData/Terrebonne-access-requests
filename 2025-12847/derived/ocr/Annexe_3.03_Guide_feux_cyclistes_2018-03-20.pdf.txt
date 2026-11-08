@@ -1,0 +1,584 @@
+=== page 1 (text layer) ===
+                                                                                                  DT-2005
+                                           Guide de conception des feux en                      Page 1 sur 17
+                                         présence d’aménagements cyclables
+                                                                                                23 novembre
+                GUIDE                                                                               2016
+
+Le présent guide a pour but d’uniformiser les             1.1    Piste cyclable
+pratiques dans la conception des feux en présence
+d’aménagements cyclables, sur le territoire de la Ville   La piste cyclable est généralement bidirectionnelle
+de Montréal. Ce guide est un complément au Tome V         et implique la présence d’un mail séparateur en
+de la signalisation routière du Québec.                   béton ou avec bollards, afin de délimiter l’espace
+                                                          réservé aux cyclistes. C’est le type d’aménagement
+1- Généralité                                             le plus complexe au niveau de la gestion des
+                                                          mouvements à l’intersection car les cyclistes
+On rencontre généralement, sur rue, les types             circulent dans les deux directions, du même côté de
+d’aménagement suivants pour favoriser le                  la rue, ce qui augmente significativement le nombre
+déplacement des cyclistes:                                de conflits véhicules/cyclistes.
+
+1-     piste cyclable;                                    Une analyse des conflits doit être réalisée afin
+2-     bandes cyclables;                                  d’établir le mode de fonctionnement approprié pour
+3-     chaussée désignée.                                 les cyclistes (voir section 2).
+
+                                                          Le concepteur doit aussi se référer à la section 3
+     Figure 1 Types d’aménagement cyclable                traitant spécifiquement de la piste cyclable
+                                                          bidirectionnelle, pour compléter l’analyse.
+
+                                                          1.2    Bandes cyclables
+
+                                                          Ce concept de bandes cyclables n’affecte
+                                                          généralement pas la disposition des têtes de feux à
+                                                          l’intersection. Se référer à la section 2 pour établir
+                                                          le mode de fonctionnement approprié.
+
+
+                                                          1.3 Chaussée désignée
+
+                                                          En chaussée désignée, le cycliste partage la
+                                                          chaussée avec les automobilistes et peut circuler
+                                                          devant ces derniers. Il ne devrait pas y avoir de
+                                                          discrimination dans la séquence des feux, entre les
+                                                          mouvements véhiculaires et cyclistes et donc,
+                                                          l’utilisation d’une flèche droite avec feu rouge est à
+                                                          éviter.
+
+                                                          Dans le cas où la chaussée désignée résulte du
+                                                          relâchement d’une bande cyclable à droite, à
+                                                          l’approche d’une intersection, cela est considéré
+                                                          comme un prolongement de cette bande cyclable et
+                                                          il est donc requis d’évaluer la nécessité d’un
+                                                          intervalle de protection en fonction des véhicules
+                                                          tournants (voir section 2).
+
+=== page 2 (text layer) ===
+                                                                                                   DT-2005
+                                           Guide de conception des feux en                      Page 2 sur 17
+                                         présence d’aménagements cyclables
+                                                                                                 23 novembre
+              GUIDE                                                                                  2016
+
+2- Choix du mode           de   fonctionnement      du    fonctionnement    partiellement        protégé      ou
+mouvement cycliste                                        complètement protégé.
+
+Les modes de fonctionnement possibles du                  Les mouvements tournants doivent être pondérés
+mouvement cycliste sont les mêmes que ceux définis        selon le type de conflit. Se référer aux facteurs
+pour les feux piétons, soit le mode non protégé,          multiplicateurs apparaissant au bas de la figure 2.
+partiellement protégé et complètement protégé.
+                                                          Le concepteur peut toujours opter pour un mode de
+Deux critères doivent être analysés pour déterminer la    protection plus élevé que celui recommandé par les
+nécessité d’un intervalle de protection, soit le nombre   critères a) et b). Par exemple, à proximité d’un
+d’accidents cyclistes et le nombre de conflits            accès autoroutier, il peut être nécessaire d’assurer
+véhicules/cyclistes.                                      une transition plus sécuritaire des cyclistes en raison
+                                                          de la vitesse élevée des véhicules, etc.
+a) Nombre d’accidents cyclistes
+                                                          2.1 Mode non protégé
+Les barèmes pour justifier un intervalle de protection
+sont les suivants :                                       Si le mode non protégé est justifié, cela ne requiert
+                                                          normalement aucune modification aux têtes de feux
+-      deux (2) ou trois (3) accidents sur une période    de circulation. On favorisera toutefois l’utilisation
+       de trois (3) ans, impliquant un cycliste           de lentilles de type plein vert, au lieu de lentilles
+       circulant dans l’aménagement cyclable et un        avec flèches « tout droit et à droite ». En effet, le
+       véhicule tournant, le mode partiellement           plein vert accentue la notion de partage de la route
+       protégé est justifié;                              auprès des usagers et est plus usuel en milieu urbain
+                                                          montréalais.
+-      quatre (4) accidents et plus sur une période de
+       trois (3) ans, impliquant un cycliste circulant
+       dans l’aménagement cyclable et un véhicule
+       tournant, le mode complètement protégé est
+       justifié.
+
+b) Nombre de conflits véhicules/cyclistes
+
+La figure 2 montre, en fonction du nombre équivalent
+de véhicules tournants et du nombre de cyclistes, le
+mode de fonctionnement recommandé. (Note : les
+valeurs apparaissant sur le graphique ont été établies
+sur la base de relevés d’accidents et l’expérience
+acquise par la Ville de Montréal, au fil des années, en
+matière d’aménagements cyclables).
+
+Le comptage de l’intersection doit être effectué en
+saison où l’achalandage des cyclistes est
+suffisamment élevé. Une seule période d’une heure
+est nécessaire pour justifier un mode de
+
+=== page 3 (text layer) ===
+                                              DT-2005
+          Guide de conception des feux en   Page 3 sur 17
+        présence d’aménagements cyclables
+                                            23 novembre
+GUIDE                                           2016
+
+=== page 4 (text layer) ===
+                                                                                                     DT-2005
+                                              Guide de conception des feux en                      Page 4 sur 17
+                                            présence d’aménagements cyclables
+                                                                                                   23 novembre
+               GUIDE                                                                                   2016
+
+2.2
+Mode partiellement protégé                                dans le document « Trafic signal guidelines for
+                                                          bicycles » de l’ATC.
+Lorsque le mode partiellement protégé est justifié,
+l’intervalle de protection est normalement de type
+« avance-flèche », à moins que la configuration de        Durée du vert minimum
+l’intersection oblige une protection sur intervalle
+rouge (par exemple, intersection en « T »). Dans ce       La formule est la suivante :
+dernier cas, l’utilisation du panneau montré à la
+figure 3 est nécessaire.                                  Vmin = PIEV + (2 x (DL+L)/a)1/2 –Tdeg
+                       Figure 3
+                                                          Où PIEV : temps de perception-réaction
+                                                                        (typiquement 2,6 s);
+                                                              DL : largeur de l’intersection (de la ligne
+                                                                      d’arrêt jusqu’à la ligne du trottoir de
+                                                                      l’autre côté*);
+                                                               L : longueur du vélo (typiquement 1,8 m);
+                                                               a : accélération (typiquement 0,5 m/s2);
+                       RA-C-11                                 Tdeg : durée totale du dégagement (jaune+
+                                                                     tout rouge vélo)
+La durée minimale de l’intervalle d’engagement
+protégé est de 7 secondes. Cette période peut être        *application à la Ville de Montréal
+augmentée par incrément de 2 secondes, au
+jugement du concepteur, jusqu’à la valeur limite de       La valeur minimale du Vmin est fixée à 7 secondes
+15 sec.                                                   (recommandation de la Ville). Pour une intersection
+                                                          large, soit de plus de 30 m, la valeur minimale est fixée
+Comme mentionné pour le mode non protégé, on              à 9 secondes.
+favorisera l’utilisation de lentilles « plein vert » au
+lieu de flèches « tout droit et à droite » pour la        Intervalle jaune vélo
+période non protégée.
+                                                          La formule est la suivante :
+
+2.3 Mode complètement protégé                             J = t + V/2a
+
+Lorsque le mode complètement protégé est justifié,        Où    t : temps de réaction (typiquement 1 s);
+le cycliste devrait disposer d’une zone de refuge,              a : décélération (typiquement 2,44 m/s2);
+séparée par un mail en béton ou par des bollards,               V : vitesse considérée élevée pour le
+afin d’être protégé des mouvements véhiculaires                      cycliste (typiquement 7,4 m/s).
+tournants, lorsqu’il est en attente de son feu vert.
+                                                          La durée du jaune vélo normalement utilisée à la Ville
+Le mode complètement protégé implique                     de Montréal est de 4 secondes, soit la même durée que
+normalement l’installation de feux cyclistes. Les         pour les véhicules.
+durées des intervalles vert, jaune et tout rouge sont
+calculés à l’aide des formules mises en référence         La durée minimale du jaune est fixée à 3 secondes.
+
+=== page 5 (text layer) ===
+                                                                                                        DT-2005
+                                                 Guide de conception des feux en                      Page 5 sur 17
+                                               présence d’aménagements cyclables
+                                                                                                      23 novembre
+                 GUIDE                                                                                    2016
+
+Intervalle tout rouge vélo                                   Dans le cas des traverses courtes, soit en deçà de 11
+                                                             mètres, le concepteur peut opter de prolonger la main
+La durée du tout rouge vélo doit permettre aux               clignotante durant le feu jaune vélo, afin d’offrir plus
+cyclistes à une vitesse assez lente de traverser             de temps au piéton. Il faut cependant s’assurer que le
+l’intersection avant l’apparition du feu vert dans           contrôleur permette cette fonction particulière.
+l’axe transversal.
+                                                             La phase cycliste doit être complètement protégée
+La formule est la suivante :                                 mais il est possible de desservir des mouvements
+                                                             véhiculaires parallèles en même temps, en utilisant des
+TR = (DL + L)/v – Jdiff                                      panneaux de manœuvres destinés aux cyclistes qui
+                                                             interdisent les manoeuvres en conflit avec les
+Où     DL : largeur de l’intersection (de la ligne           véhicules. Ces panneaux sont ceux de la série « VC-
+     d’arrêt jusqu’à la ligne du trottoir de l’autre         RH » (catalogue de la Ville de Montréal),
+     côté*);                                                 accompagnés du panonceau vélo « RH-T-116 ». La
+     L : longueur du vélo (typiquement 1,8 m);               figure 4 montre deux exemples de ces panneaux.
+     v : vitesse considérée lente pour un cycliste                                   Figure 4
+     (typiquement 4,7 m/s);
+     Jdiff : J – Jcalculé ,(différence entre la jaune vélo
+     affichée et celle calculée).
+
+* application à la Ville de Montréal
+
+La durée minimale est de deux (2) secondes et
+celle maximale de quatre (4) secondes.
+                                                                            VC-RH-E        VC-RH-F
+                                                                            RH-T-116       RH-T-116
+Pour des intersections larges, il peut être requis
+d’allonger artificiellement la durée du jaune vélo           L’illustration d’un cas type d’application est montrée à
+pour éviter un tout rouge trop élevé. Le Tableau 1           l’annexe 2.
+montre pour ces intersections considérées larges,
+des valeurs suggérées de jaune et tout rouge, tenant         Si l’installation de feux cyclistes détériore trop
+compte non seulement des formules issues du                  fortement les conditions de circulation à l’intersection,
+guide de l’ATC mais aussi de l’application dans              le concepteur peut étudier la possibilité de diminuer le
+l’environnement montréalais.                                 nombre de conflits, par exemple, en remplaçant le
+                                                             mode permissif du virage à gauche par un mode
+Tableau 1 : Durées des intervalles de                        exclusif ou simplement en interdisant une manœuvre
+dégagement vélos pour les intersections larges               de virage. Aussi, l’installation d’une détection cycliste
+                                                             peut être envisagée si le nombre de cyclistes est peu
+          Largeur       Jaune vélo     TR vélo               élevé (voir section 5).
+           (DL)
+           20 m              4s           3s
+           25 m              4s           3s
+           30 m              4s           4s
+           35 m              5s           4s
+         40 m et +           5s           4s
+
+=== page 6 (text layer) ===
+                                                                                                   DT-2005
+                                            Guide de conception des feux en                      Page 6 sur 17
+                                          présence d’aménagements cyclables
+                                                                                                 23 novembre
+               GUIDE                                                                                 2016
+
+2.4 Cas particuliers                                    3- Piste cyclable bidirectionnelle
+
+2.4.1 Présence d’une signalisation avec flèches         La présente section traite spécifiquement de la piste
+tout droit et à droite                                  cyclable bidirectionnelle et des dispositions à prendre
+                                                        au niveau des feux.
+En présence de flèches tout droit et à droite du côté
+d’une piste cyclable, il est d’usage d’implanter un     Dans le cas d’une piste bidirectionnelle, il est d’usage
+intervalle d’engagement protégé afin de renforcer       d’ajouter un intervalle d’engagement protégé pour
+le message de priorité aux cyclistes (et piétons),      rehausser le niveau de sécurité des cyclistes
+considérant que les flèches de virages sont             considérant     la    multiplication    des      conflits
+d’avantage     utilisées    pour    contrôler     des   véhicules/cyclistes que génère ce type d’aménagement.
+mouvements véhiculaires.
+                                                        Au minimum une tête de feux pour les cyclistes est
+                                                        requise à l’approche de l’intersection (exigence du
+2.4.2 Présence d’un SAS vélo                            Tome V de la norme provinciale).
+
+Comme pour le cas de la chaussée désignée,              La largeur minimale du mail séparateur, pour
+lorsqu’il y a un SAS vélo à une approche, les           permettre l’ajout d’un fût, est normalement de 1,2
+cyclistes pouvant être devant les véhicules, il ne      mètre, mais une largeur de 0.9 mètre est, dans certains
+doit pas y avoir de séparation des mouvements           cas, acceptable.      L’annexe 1 montre différents
+cyclistes et véhicules au niveau des phases. Cela       concepts-types utilisés en présence de pistes cyclables,
+exclu donc la possibilité d’activer une flèche à        avec mail séparateur meublé ou non.
+droite combinée à un feu rouge.
+                                                        À noter que pour les concepts de contrôle de voies, si
+                                                        une phase n’est contrôlée que par une seule tête de
+2.4.3 Intersections larges : Durées du vert             feux, il est recommandé d’activer la fonction appelée
+minimum, du jaune et du tout rouge                      « field check » sur le moniteur de conflits (MMU) du
+                                                        contrôleur, afin de superviser l’absence de rouge sur
+Même s’il n’y a pas de feux cyclistes, lorsqu’il y a    cette tête. Cette note doit apparaître sur le plan PE.
+un aménagement cyclable traversant une
+intersection large (soit plus de 20m), il est           3.1 Cas du virage à gauche permissif-protégé
+recommandé d’adapter les intervalles de
+dégagement en conséquence. Les valeurs                  Dans le cas d’une phase de virage à gauche en mode
+apparaissant au tableau 1 peuvent alors être            «permissif-protégé » croisant une piste cyclable
+utilisées.                                              bidirectionnelle, il est nécessaire d’indiquer aux
+                                                        cyclistes de ne pas s’engager durant la phase de virage
+Concernant la durée du vert minimum, la durée           à gauche protégé (comme cela est requis pour les
+recommandée, pour les intersections larges, est de      piétons). Deux cas types sont possibles:
+9 secondes.
+
+=== page 7 (text layer) ===
+                                                                                                   DT-2005
+                                           Guide de conception des feux en                      Page 7 sur 17
+                                         présence d’aménagements cyclables
+                                                                                                 23 novembre
+              GUIDE                                                                                  2016
+
+Sans mail central                                      3.2 Phase piétonne exclusive «toutes directions »
+                                                       avec piste bidirectionnelle
+Il est alors nécessaire d’installer un panneau RA-
+C-11 (voir figure 3), qui indique aux cyclistes        En présence d’une piste cyclable bidirectionnelle,
+qu’ils doivent se conformer aux feux pour piétons      l’opération d’une phase piétonne exclusive « toutes
+(qui affiche une main fixe durant la période du        directions » est à éviter autant que possible car bon
+virage à gauche protégé). Le panneau montré à la       nombre de cyclistes utilisent le feu pour piétons et
+figure 5 peut aussi être ajouté en amont de            procèdent durant l’intervalle de la silhouette,
+l’intersection (à environ 30m).                        comportement accentué par le fait qu’ils circulent sur
+                                                       une chaussée séparée physiquement des véhicules.
+                                                       Cela peut alors créer des situations hasardeuses pour
+                     Figure 5                          les piétons croisant la piste cyclable.
+
+                                                       Mentionnons toutefois que sous certaines conditions,
+                                                       l’utilisation d’une phase piétonne exclusive « toutes
+                                                       directions » peut être bien adaptée à la piste cyclable
+                                                       bidirectionnelle. Par exemple, où une piste cyclable en
+                                                       site propre (hors rue) débouche sur le trottoir et où le
+                                                       nombre de piétons est très faible. Le partage de la
+                    VC-D-AQ                            même phase par les cyclistes et les piétons peut alors
+                                                       être approprié. La phase piéton/cycliste peut
+                                                       fonctionner sur appel obligeant le cycliste à s’arrêter
+Avec mail central                                      pour appeler la phase. Ce type de concept requiert
+                                                       normalement le panneau RA-C-11 montré à la
+Deux options sont possibles:                           figure 3.
+
+   -   ajouter une tête de feux 8ua ou 8u (selon le    4- Installation de nouveaux feux de circulation
+       cas), du côté de la piste cyclable, dans la
+       direction du feu vert clignotant. Cette tête    La Ville de Montréal a établi deux critères, soit le
+       sera au rouge durant le virage à gauche         nombre d’accidents et la difficulté de traversée des
+       protégé et doit donc être masquée afin de       cyclistes pour justifier l’installation de feux de
+       ne pas être visible des véhicules tournants à   circulation afin de permettre aux cyclistes de traverser
+       gauche;                                         la rue principale.
+
+   -   ajouter un panneau RA-C-11 (voir figure         4.1 Nombre d’accidents
+       3), pour obliger les cyclistes à se conformer
+       aux feux pour piétons. Voir détails, ci-haut,   Un nombre trois (3) accidents et plus sur une période
+       dans le cas « sans mail central ».              de trois (3) ans, impliquant un cycliste traversant la rue
+                                                       principale et un véhicule circulant dans l’axe
+                                                       transversal, peut justifier l’installation d’un feu de
+                                                       circulation. Une étude de sécurité doit confirmer
+                                                       toutefois que cela permettrait de diminuer le nombre
+                                                       d’accidents cyclistes.
+
+=== page 8 (text layer) ===
+                                                                                                   DT-2005
+                                             Guide de conception des feux en                     Page 8 sur 17
+                                           présence d’aménagements cyclables
+                                                                                                 23 novembre
+               GUIDE                                                                                 2016
+
+4.2 Difficulté de traverser la rue principale            Cette situation survient lorsqu’aucun feu ne régule la
+                                                         circulation sur la rue principale en amont ou en aval de
+Ce critère a été développé en adaptant, en fonction
+                                                         l‘intersection et ce, sur une distance égale ou
+de la vitesse des cyclistes, le temps de traversée (T)
+                                                         supérieure à 400 m. Dans ce cas, l’abaque montré à la
+des piétons, défini au critère 6 du Tome V de la
+                                                         figure 6 doit être utilisé.
+norme provinciale. Les deux conditions suivantes
+                                                         Le temps de traversée se calcule à l’aide de la formule
+doivent être rencontrées pour justifier l’installation
+                                                         suivante:
+de feux de circulation:
+                                                         T = PIEV + (2 * (l int + l vélo) / a)1/2
+Condition a)                                             Où : PIEV : temps de perception–réaction du
+Pour deux périodes d’une heure, d’une même                               cycliste (2,6 s);
+journée, au moins 60 cyclistes traversent la rue                l int : largeur de la rue principale (m);
+principale à l’intersection. Le comptage doit être              l vélo : longueur du vélo (1,8 m);
+effectué en haute saison des cyclistes.                         a : accélération du cycliste (0,5m/s2).
+                                                         Des feux de circulation sont justifiés si le point
+                                                         correspondant au total des véhicules des deux
+Condition b)                                             approches, pour le temps « T », se situe au-dessus de la
+Cas 1 : Les véhicules arrivent de façon aléatoire à      courbe et ce, pour les deux périodes d’une heure
+l’intersection.                                          considérées à la condition a.
+
+
+                      Figure 6 : Justification de feux de circulation : Critère cyclistes
+
+
+
+
+           Note : Les débits de véhicules recensés doivent être convertis en unités de véhicules
+           particuliers (uvp/h). Le facteur de correction pour les véhicules lourds (camions,
+           autobus, camions remorque et équipements de ferme) a été fixé à 2,0.
+
+=== page 9 (text layer) ===
+                                                                                                     DT-2005
+                                             Guide de conception des feux en                      Page 9 sur 17
+                                           présence d’aménagements cyclables
+                                                                                                   23 novembre
+               GUIDE                                                                                   2016
+
+Cas 2 : Les véhicules n’arrivent pas de façon               accessibles, afin d’éviter que le cycliste ait à
+aléatoire au carrefour                                      descendre de son vélo pour peser sur le bouton.
+                                                            En présence de détection pour cyclistes, la phase
+Cette situation survient lorsqu’une signalisation           cycliste peut être servie sans nécessairement que la
+régule la circulation de la rue principale en amont ou      phase piétonne concourante ne le soit. L’inverse
+en aval du carrefour à une distance de moins de 400         n’est cependant pas recommandé, c’est-à-dire, de
+mètres. Dans ce cas, une étude de créneaux doit être        servir la phase piétonne sans la phase cycliste, car le
+effectuée sur le terrain.                                   décompte numérique peut inciter certains cyclistes à
+                                                            transgresser le signal rouge vélo. Un appel de la
+Les cyclistes doivent disposer d’un minimum de 60           phase piétonne devrait donc forcer l’appel de la
+créneaux par heure, d’une durée équivalente au temps        phase cycliste concourante.
+« T » défini au cas 1 et ce, pour les deux périodes
+considérées à la condition a. (À noter que si la valeur
+d’un créneau est un multiplicateur entier (N) du
+temps de traversée « T », on considèrera alors que
+c’est l’équivalent de N créneaux. Par exemple, si
+pour un temps « T » de 10 secondes, on mesure un
+créneau de 20 secondes, cela sera compilé comme
+étant 2 créneaux).
+
+Si le nombre de créneaux est insuffisant et qu’il ne
+peut être augmenté, en modifiant, par exemple, les
+décalages/répartitions des feux de circulation de part
+et d’autres, alors des feux de circulation sont justifiés
+à l’intersection.
+
+
+5- Détection cyclistes
+
+Aux intersections standards, le mode rappel des feux
+cyclistes est à privilégier (comme cela est appliqué
+aux feux pour piétons).
+
+Toutefois, dans le cas d’une traverse à mi-bloc, où
+seuls les cyclistes et/ou piétons peuvent interrompre
+la circulation, le mode appel peut être plus approprié.
+
+Aussi, si la phase cycliste détériore de façon trop
+importante les conditions à l’intersection et que
+l’ajout d’une détection cycliste permettrait d’avoir de
+meilleurs niveaux de service, l’ajout d’un détecteur
+peut être envisagé. Celui-ci peut être de type bouton-
+poussoir ou aérien (dont la fiabilité est éprouvée). Si
+des boutons sont utilisés, ils devront être facilement
+
+=== page 10 (text layer) ===
+                                                           DT-2005
+                      Guide de conception des feux en    Page 10 sur 17
+                    présence d’aménagements cyclables
+                                                         23 novembre
+GUIDE                                                        2016
+
+
+
+
+                         Annexe 1
+            Disposition des feux de circulation
+            avec piste cyclable bidirectionnelle
+
+        Concepts types selon le mode de fonctionnement
+
+=== page 11 (text layer) ===
+                                                                            DT-2005
+                                        Guide de conception des feux en   Page 11 sur 17
+                                      présence d’aménagements cyclables
+                                                                          23 novembre
+             GUIDE                                                            2016
+
+Avec mail central
+
+Mode partiellement protégé
+   Option 1 – À privilégier                        Option 2
+
+
+
+
+Mode complètement protégé – sans virage à gauche
+   Option 1 – À privilégier                        Option 2
+
+=== page 12 (text layer) ===
+                                                                              DT-2005
+                                          Guide de conception des feux en   Page 12 sur 17
+                                        présence d’aménagements cyclables
+                                                                            23 novembre
+             GUIDE                                                              2016
+
+Avec mail central (suite)
+
+Mode complètement protégé avec virage à gauche
+   Option 1 – À privilégier                         Option 2
+
+
+
+
+      ∗Tête de feux répétitrice (optionnelle)
+
+=== page 13 (text layer) ===
+                                                                              DT-2005
+                                          Guide de conception des feux en   Page 13 sur 17
+                                        présence d’aménagements cyclables
+                                                                            23 novembre
+             GUIDE                                                              2016
+
+Sans mail central
+
+Mode partiellement protégé
+     Option 1 – À privilégier                       Option 2
+
+
+
+
+      ∗Tête de feux répétitrice (optionnelle)
+
+Mode complètement protégé
+     Option 1 – À privilégier                       Option 2
+
+
+
+
+      ∗Tête de feux répétitrice (optionnelle)
+
+=== page 14 (text layer) ===
+                                                                              DT-2005
+                                          Guide de conception des feux en   Page 14 sur 17
+                                        présence d’aménagements cyclables
+                                                                            23 novembre
+             GUIDE                                                              2016
+
+Sans mail central (suite)
+
+Mode partiellement protégé
+     Option 1 – À privilégier                       Option 2
+
+
+
+
+Complètement protégé
+     Option 1 – À privilégier                       Option 2
+
+
+
+
+      ∗Tête de feux répétitrice (optionnelle)
+
+=== page 15 (text layer) ===
+                                                          DT-2005
+                    Guide de conception des feux en     Page 15 sur 17
+                  présence d’aménagements cyclables
+                                                        23 novembre
+GUIDE                                                       2016
+
+
+
+
+                     Annexe 2
+
+    Cas type d’application et grille de justification
+
+=== page 16 (text layer) ===
+                                                                   DT-2005
+                          Guide de conception des feux en       Page 16 sur 17
+                        présence d’aménagements cyclables
+                                                                 23 novembre
+   GUIDE                                                             2016
+
+Cas types d’application de feux cyclistes avec circulation parallèle
+
+                             Mouvements 1
+
+
+
+
+                             Mouvements 2
+
+=== page 17 (text layer) ===
+                                                                                            DT-2005
+                                        Guide de conception des feux en                  Page 17 sur 17
+                                      présence d’aménagements cyclables
+                                                                                          23 novembre
+            GUIDE                                                                             2016
+
+                                          Grille d’analyse
+
+No intersection : ____
+Intersection : ________________________
+Arrondissement : _____________________
+Réseau : ____
+
+
+                                  Critères                            Axe nord-sud Axe est-ouest
+       Aménagement
+       Chaussée désignée
+       Bande cyclable
+       Piste cyclable bidirectionnelle (bollards ou mail séparateur)
+       Piste cyclable unidirectionnelle (bollards ou mail séparateur)
+       Nombre d’accidents cyclistes avec véhicules tournants
+       < 2 acc.
+       2 ou 3 acc.
+       4 acc. et plus
+       Selon l’abaque des conflits véhicules/cyclistes
+       Mode non protégé
+       Mode partiellement protégé
+       Mode complètement protégé
+       Présence d’une signalisation avec flèches seulement
+       Présence d’un SAS vélo
+
+
+                     Choix du mode de fonctionnement              Axe nord-sud Axe est-ouest
+       Mode non protégé
+       Mode partiellement protégé
+       Mode complètement protégé
+                                               <20m
+       Largeur (de ligne d’arrêt à la ligne de
+                                               Entre 20m et 29m
+       trottoir de l’autre côté)
+                                               30m et plus
+                                                          Vmin =
+       Durée des intervalles Vmin, jaune et TR           Jaune =
+                                                             TR =
+

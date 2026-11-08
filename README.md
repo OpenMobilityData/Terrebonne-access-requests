@@ -12,6 +12,7 @@ The lane was built in 2024 along about 2.5 km of Terrebonne (St-Ignatius to Giro
     raw/               documents exactly as received; never edited
         act_extracts/  statutory extracts and notice of recourse supplied with the response
     derived/           anything made from the raw release: summaries (_en/_fr), parsed data, scripts
+        ocr/           the full text of every raw PDF, page by page (text layer, or OCR for image-only pages)
 ```
 
 Rules:
@@ -19,6 +20,7 @@ Rules:
 - Nothing in `raw/` is ever modified; a correction to a derived file is a new version with a note.
 - Every derived file names its source: the release number, bundle and pages. A CSV carries no comment lines, so that it parses in any tool; its source is given in the folder README's table.
 - The PDF of a derived document is committed next to its source so the version cited is the version in the repository.
+- **Full text for search** (`derived/ocr/`, November 8, 2026): one `.txt` per raw PDF, same relative path plus `.txt`, one block per page headed « page N (text layer) » or « page N (OCR) ». Many released pages are images (scans, and pages flattened by redaction), which a PDF search does not see: 2026-581's bundle 01 has 35 such pages, among them the e-mail of August 13, 2026 on page 1. Those pages are read by Tesseract (French and English models, 300 dpi); the OCR text is a machine reading, unchecked, for finding pages only: quote from the page image. Redacted areas yield no text. Built by `tools/ocr_text.py <file no.>`.
 
 ## Requests
 

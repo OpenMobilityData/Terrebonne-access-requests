@@ -1,0 +1,452 @@
+=== page 1 (OCR) ===
+CD
+IN
+DG
+
+attachant
+
+Suivi de projet
+Analyse des comptages
+Projet cyclable Terrebonne
+
+Février 2025
+
+jas Côte-des-Neiges
+
+Notre-Dame-de-Grâce
+
+Montréal §3
+
+=== page 2 (OCR) ===
+Méthodologie
+des comptages
+
+=== page 3 (text layer) ===
+Les différents fournisseurs de comtpage utilisées
+
+-Miovision, utlisé par le SUM et
+l'arrondissement CDN-NDG depuis 2017
+Miovision
+
+
+
+-Éco-Compteur, utlisé par le SUM depuis 2013
+Eco-Compteur
+
+
+
+
+-Telraam, utilisé par des citoyens depuis 2024
+Telraam
+
+=== page 4 (OCR) ===
+MIOVISION
+
+Les
+différentes
+
+technologies
+de comtpage
+utilisées
+
+o's Telraam
+
+=== page 5 (OCR) ===
+Comptage Miovision fait en
+arrondissement
+
+=== page 6 (text layer) ===
+Comptages réalisés depuis juillet 2024
+
+     13 comptages effectués depuis juillet 2024 avec la technologie Miovision
+
+
+
+
+                        -11 comptages de 12h (6h30-18h30) du
+                        mardi au jeudi
+
+
+
+
+              N
+
+=== page 7 (text layer) ===
+    Comptages réalisés depuis juillet 2024                                                                                 MAJ 2025
+
+                       Comptages véhiculaires aux heures de pointes (6h30-9h30 et 15h30-18h30)
+                                     Entrées par intersections toutes directions
+
+                        Comptage     Comptage              Comptage               Comptage              Comptage             Comptage
+Intersections                                       %                      %                     %                     %                  %
+                       octobre 2022 juillet 2024          sept-oct 2024          nov-dec 2024          janvier 2025          juin 2025
+
+Terrebonne - Walkley      1717                                                       841        -51%
+Terrebonne -
+Cavendish                 6841          5049       -26%       5017        -27%      4953        -28%      4923        -28%     5572      -19%
+Terrebonne - Grand        3230          2184       -32%       2684        -17%      2615        -19%      2298        -29%     2217      -31%
+Monkland - Grand          3781                                4180        11%       4289        13%
+Somerled - Grand          4279                                                      4055        -5%
+Somerled - Madison                                            3693
+Somerled - West
+Broadway                  2607                                2795        7%
+Girouard - NDG            4752                                4749        0%
+
+=== page 8 (text layer) ===
+   Comptages réalisés depuis juillet 2024                                                                                 MAJ 2025
+
+                       Comptages véhiculaires aux heures de pointes (6h30-9h30 et 15h30-18h30)
+                                   Entrées par intersections dans l'axe est/ouest
+
+                               Comptage                       Comptage           Comptage
+                                         Comptage                                                    Comptage             Comptage
+Intersections                   octobre                 %      sept-oct    %      nov-dec     %                     %                  %
+                                        juillet 2024                                                janvier 2025          juin 2025
+                                 2022                           2024               2024
+Terrebonne - Walkley             1256                                              432       -66%
+Terrebonne - Cavendish Ouest     983         225       -77%     405       -59%     292       -70%       202        -79%     239       -76%
+Terrebonne - Cavendish Est       1389        307       -78%     429       -69%     510       -63%       361        -74%     441       -68%
+Terrebonne - Grand               2101        770       -63%     1063      -49%     1138      -46%       925        -56%     1012      -52%
+Monkland - Grand                 3320                           3756      13%      3852      16%
+Somerled - Grand                 3145                                              3059      -3%
+Somerled - Madison                                              3570
+Somerled - West Broadway         1500                           1317      -12%
+Girouard - NDG                   2295                           2341      2%
+
+
+                                  -1000 véhicules             +500 véhicules                  Neutre
+                                   À Terrebonne                À Monkland                   À Somerled
+
+=== page 9 (text layer) ===
+Comptages réalisés depuis juillet 2024
+
+ Retour sur l'étude de circulation
+ réalisé par EXP. Les DJMA sur
+ Terrebonne
+
+
+
+         DJMA observé en 2022
+
+
+
+
+         DJMA anticipé par EXP dans
+         l'étude de circulation
+
+=== page 10 (text layer) ===
+Comptages réalisés depuis juillet 2024                                                MAJ 2025
+
+    DJMA observé après l'implantation du projet (moyenne des 5 comptages depuis juillet 2024)
+
+=== page 11 (text layer) ===
+ Comptages réalisés depuis juillet 2024                                                                                                                   MAJ 2025
+
+                            Nombre de vélo aux heures de pointes axes est/ouest et nord/sud
+
+                              oct-22                       juil-24                        sept-24                    nov-24                 janv-25               juin-25
+                               Nb                     Nb             %               Nb             %          Nb             %        Nb             %     Nb              %
+Terrebonne/Cavendish           229                361            58%                354         55%            169        -26%         12         -95%      347             52%
+Terrebonne/Grand               327                449            37%                707        116%            233        -29%         12         -96%      425             30%
+Total                          556                810            46%                1061        91%            402        -28%         24         -96%      772             39%
+
+                             Nombre de vélo aux heures de pointes axes est/ouest et nord/sud
+ 800                                                                                707
+ 700
+ 600
+ 500                                            449                                                                                                                   425
+ 400                                 361                                 354                                                                               347
+                      327
+ 300       229                                                                                                     233
+                                                                                                        169
+ 200
+ 100                                                                                                                              12        12
+   0
+                 Nb                        Nb                                  Nb                             Nb                       Nb                        Nb
+             oct-22                    juil-24                            sept-24                        nov-24                    janv-25                   juin-25
+
+                                                                Terrebonne/Cavendish                Terrebonne/Grand
+
+=== page 12 (text layer) ===
+   Comptages réalisés depuis juillet 2024                                                                                                             MAJ 2025
+
+                                     Nombre de vélo aux heures de pointes axes est/ouest
+                            oct-22                    juil-24                        sept-24                   nov-24                   janv-25              juin-25
+                             Nb                 Nb              %              Nb              %          Nb            %          Nb             %     Nb              %
+Terrebonne/Cavendish         184                319         73%                319         73%           151        -18%           10         -95%     311              69%
+Terrebonne/Grand             170                283         66%                452        166%           154            -9%        8          -95%     281              65%
+Total                        354                602         70%                771        118%           305        -14%           18         -95%     592              67%
+
+                                     Nombre de vélo aux heures de pointes axes est/ouest
+ 500                                                                           452
+ 450
+ 400
+ 350                               319                              319                                                                                311
+                                              283                                                                                                                 281
+ 300
+ 250
+           184        170
+ 200                                                                                               151        154
+ 150
+ 100
+  50                                                                                                                          10         8
+   0
+                 Nb                      Nb                               Nb                             Nb                        Nb                        Nb
+             oct-22                  juil-24                         sept-24                        nov-24                     janv-25                   juin-25
+
+                                                            Terrebonne/Cavendish               Terrebonne/Grand
+
+=== page 13 (OCR) ===
+Comptage Telraam
+
+=== page 14 (OCR) ===
+Localisation des compteurs Telraam (action citoyenne)
+
+Comptages Telraam
+
+150 m
+
+) avenuq |e
+4
+> avenue Draper 3
+A =
+- avenue,Royal
+© 9 avenue
+pe avenue de Hampton
+Li
+À
+< avenue Hingston |
+A
+» avenue Beaconsfield a venue Be
+A
+Gland boulevard
+Ÿ
+A
+> avenue,de Kensington saventieds
+J
+>
+= avenue Madison - g
+©
+(
+œ
+2
+Li
+! : :
+[ Ÿ
+Ï ; = - av
+2 ; ;
+: y
+2 » avenue Bessborough
+E
+: : 33Ald 310A
+poulevard cavendish
+se 8 § 32
+E à eg a
+avenue cumberland a a 3 ë
+gE S$ 8 @
+bo 1 7 Le 2 > Lai
+avenue Prince-of-Wales 8» >
+j -
+-
+Q avenue Walkley
+i v
+avenuesMontclair >
+—
+h-}
+ce
+$
+= a
+© avenue King-Edward 5
+5 =
+J 2 ;
+œ
+avenuesRosedale 2 - S$ ,
+‘ rl
+Ÿ Zz :
+A
+walizasta - Ê a
+
+=== page 15 (text layer) ===
+    Comptages Telraam
+
+   Relevé du 20 août au 7 décembre 2024 (105 jours)    Relevé du 1er octobre au 20 décembre 2024 (71 jours)
+   98 012 déplacements tout modes confondus            143 623 déplacements tout modes confondus
+   62% des déplacements en mode actif                  40% des déplacements en mode actif
+
+
+
+
+                     357 véhicules/jour                                1215 véhicules/jour
+      Moyenne        242 vélos/jour                     Moyenne        242 vélos/jour
+                     335 piétons/jour                                  566 piétons/jour
+
+=== page 16 (text layer) ===
+      Comptages Telraam
+
+             Terrebonne/King-Edward                                              Terrebonne/Royal
+                          Véhicule                                                      Véhicule
+600                                                                2000
+
+                                                                   1800
+500
+                                                                   1600
+
+                                                                   1400
+400
+                                                                   1200
+
+300                                                                1000
+
+                                                                    800
+200
+                                                                    600
+
+                                                                    400
+100
+                                                                    200
+
+  0                                                                   0
+2024-08-20   2024-09-20       2024-10-20              2024-11-20    2024-10-01       2024-11-01             2024-12-01
+
+                 Véhicule       Linéaire (Véhicule)                              Véhicule         Linéaire (Véhicule)
+
+=== page 17 (text layer) ===
+Comptages Telraam
+
+             Terrebonne/King-Edward                                          Terrebonne/Royal
+                          Vélo                                                       Vélo
+700                                                             600
+
+
+600
+                                                                500
+
+500
+                                                                400
+
+400
+                                                                300
+300
+
+                                                                200
+200
+
+                                                                100
+100
+
+
+  0                                                               0
+2024-08-20   2024-09-20     2024-10-20             2024-11-20   2024-10-01    2024-11-01             2024-12-01
+
+                   Vélo          Linéaire (Vélo)                              Vélo          Linéaire (Vélo)
+
+=== page 18 (text layer) ===
+Comptages Telraam
+
+             Terrebonne/King-Edward                                         Terrebonne/Royal
+                                                                                 Piéton
+                           Piéton
+                                                              1000
+700
+                                                               900
+600
+                                                               800
+
+500                                                            700
+
+                                                               600
+400
+                                                               500
+
+300                                                            400
+
+                                                               300
+200
+                                                               200
+100
+                                                               100
+
+  0                                                              0
+2024-08-20   2024-09-20       2024-10-20         2024-11-20    2024-10-01     2024-11-01              2024-12-01
+                  Piéton         Linéaire (Piéton)                          Piéton         Linéaire (Piéton)
+
+=== page 19 (OCR) ===
+Comparatif
+REV St-Denis
+
+=== page 20 (OCR) ===
+Montréal cd St-Denis/Des Carrières |
+
+5 599 941
+
+REV St-Denis 2021 à 2024
+
+Comptage à l'Intersection
+St-Denis / Des Carrières
+2021 à 2024
+
+=== page 21 (text layer) ===
+Comptage annuel St-Denis / Des Carrières
+
+               Année complète           %
+
+
+  2021             1 126 433
+
+  2022             1 319 940          +17%
+
+  2023             1 518 127          +35%
+
+  2024             1 674 788          +49%
+
+        REV St-Denis/des Carrières
+           évolution annuelle
+2 000 000
+
+1 500 000
+
+1 000 000
+
+ 500 000
+
+       0
+            2021     2022      2023   2024
+
+                   Année complète
+                                             St-Denis/Des Carrières
+
+=== page 22 (text layer) ===
+ Comptage hivernal St-Denis / Des Carrières
+
+                        Hiver (15 novembre au
+                                                      %
+                               1er avril)
+
+
+    2021-2022                   94 134
+
+    2022-2023                  125 332              +33%
+
+    2023-2024                  183 043              +94%
+
+    2024-2025                  170 913              +82%
+
+           REV St-Denis/des Carrières
+          évolution en période hivernale
+200 000
+
+150 000
+
+100 000
+
+ 50 000
+
+     0
+            2021-2022        2022-2023         2023-2024
+
+                 Hiver (15 novembre au 1er avril)
+                                                           St-Denis/Des Carrières
+
+=== page 23 (OCR) ===
+Questions?
+

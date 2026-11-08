@@ -1,0 +1,181 @@
+=== page 1 (OCR) ===
+//© Côte-des-Neiges
+Notre-Dame-de-Grâce
+
+Montréal
+
+Arrondissement Côte-des-Neiges — Notre-Dame-de-Grâce
+Division des études techniques
+
+2140, av. Madison — 3° étage
+Montréal (Québec) H4B 2T4
+
+COURRIEL AVEC ACCUSÉ DE RÉCEPTION
+
+Montréal, le 20 août 2026
+
+Monsieur Gabriel Soufo,
+
+Vice-président,
+
+Développement stratégique — Infrastructures
+EXP
+
+Gabriel.Soufo@exp.com
+
+Objet : Demande de services — Entente-cadre 59-25-ET-01
+
+N/Réf. Mandat no. 59-26-ET-01_003 : Plan de marquage et signalisation signé/scellé
+pour ajustements saisonniers sur la rue Terrebonne de l’avenue St-Ignatius à
+l’avenue Girouard.
+
+Personne ressource : Jonathan Leduc, Conseiller en aménagement
+
+jonathan.leduc@montreal.ca
+
+Monsieur,
+
+À la suite d'études de faisabilité technique et l’analyse de différents scénarios, la rue de
+Terrebonne a fait l’objet d’un réaménagement complet de sa chaussée et son plan de circulation
+a été revu en 2024, sur une longueur d’environ 2,5 km. Il en résulte la mise en place d’un sens
+unique sur l’ensemble de la rue de Terrebonne, en deux sections, ainsi que la réalisation de
+pistes cyclables unidirectionnelles bilatérales.
+
+Plus récemment, à l'été 2026, l'arrondissement a mandaté votre firme afin de produire une note
+technique visant à évaluer les possibilités d'optimisation du stationnement sur la rue
+Terrebonne, tout en tenant compte des contraintes géométriques de la rue, des exigences de
+sécurité des différents usagers ainsi que des conditions d'exploitation et d'entretien, notamment
+en période hivernale.
+
+Demande de service — 59-25-ET-01_002 page 1 de 4
+
+=== page 2 (text layer) ===
+L'arrondissement souhaite maintenant procéder à la préparation des plans de marquage et de
+signalisation requis afin de permettre l'implantation saisonnière de ce scénario pendant la
+période hivernale, tout en maintenant la configuration actuelle durant la période estivale.
+
+Le mandat comprend, sans s'y limiter :
+
+    Réunion de démarrage avec l'équipe de projet de l'arrondissement, en présence ou en
+     mode virtuel, incluant la préparation d'un compte rendu de réunion;
+
+    Préparation et transmission d'un échéancier détaillé des travaux sous forme de
+     diagramme de Gantt pour approbation;
+
+    Validation des données existantes, collecte de données complémentaires au besoin et
+     prise de connaissance des contraintes opérationnelles et d'entretien applicables au
+     secteur d'étude;
+
+    Analyse fonctionnelle du concept proposé et validation de son exploitabilité pour
+     l'ensemble des usagers de la voie publique, notamment les véhicules d'urgence, de
+     collecte des matières résiduelles, de livraison, de déneigement ainsi que les piétons et
+     usagers du réseau cyclable;
+
+    Réalisation des analyses géométriques et des simulations de giration (AutoTURN)
+     requises aux intersections et emplacements jugés critiques par l'arrondissement afin
+     de valider le bon fonctionnement de la configuration hivernale proposée;
+
+    Analyse des distances de visibilité, des impacts sur le stationnement, des conflits
+     potentiels entre usagers ainsi que des ajustements de signalisation et de marquage
+     requis;
+
+    Identification et analyse des principaux risques et conflits potentiels entre les différents
+     usagers résultant de la configuration hivernale proposée ainsi que des mesures
+     d'atténuation requises.
+    Préparation d'une courte note technique ou d'un rapport synthèse présentant les
+     hypothèses de conception, les validations effectuées, les simulations réalisées et les
+     conclusions de l'analyse fonctionnelle;
+
+    Conception et préparation de l'ensemble des plans requis, incluant notamment :
+        o les plans de signalisation et marquage (SS);
+        o les plans d'exploitation saisonnière;
+        o les plans et figures de simulations AutoTURN;
+        o Les plans de programmation de feux de circulation (PE) ajustés, s’il y a lieu;
+Demande de service – 59-25-ET-01_002                                            page 2 de 4
+
+=== page 3 (text layer) ===
+           o   tout autre document jugé nécessaire à la compréhension et à la mise en œuvre
+               du projet;
+
+    Présentation de l'avancement du projet à approximativement 50 % et 100 % de
+     conception, incluant les réunions de coordination, la présentation des résultats et les
+     comptes rendus associés;
+
+    Intégration des commentaires formulés par l'arrondissementet et les partenaires à 50%
+     et 100%, ainsi que la production des plans finaux pour construction;
+
+    Réalisation d'une analyse de l'offre de stationnement et production d'un rapport
+     présentant le nombre total de cases de stationnement existantes, ajoutées ou
+     retranchées dans le cadre de la configuration hivernale proposée, incluant un
+     comparatif avec la situation actuelle.
+
+    Un rapport de conformité fonctionnelle afin de valider les éléments suivants:
+        o Les mouvements de véhicules ont été validés;
+        o les opérations de déneigement ont été considérées;
+        o Les mouvements et la circulation des véhicules d’urgence;
+        o Les conditions de sécurité ont été analysées;
+        o La solution recommandée est fonctionnelle, sécuritaire et exploitable d'un point
+           de vue technique et opérationnel.
+
+    Signature et scellement de l'ensemble des plans par un ingénieur membre de l'Ordre
+     des ingénieurs du Québec;
+
+    Transmission des livrables finaux en formats PDF et MicroStation (DGN), ainsi que de
+     tout fichier source utilisé dans le cadre du mandat.
+
+Les plans et analyses devront démontrer que la configuration hivernale proposée respecte les
+objectifs de sécurité, de fonctionnalité, de lisibilité et d'exploitabilité de la rue Terrebonne, tout
+en maintenant des conditions adéquates pour les différents usagers et opérations municipales.
+
+L'arrondissement se réserve le droit de suspendre, modifier ou mettre fin au présent mandat,
+en tout ou en partie, à toute étape de sa réalisation, notamment si les analyses techniques, les
+validations fonctionnelles, les consultations internes ou les commentaires des parties prenantes
+démontrent que le scénario à l'étude ne répond pas aux exigences de sécurité, de fonctionnalité,
+d'exploitabilité ou aux besoins opérationnels de la Ville. Dans un tel cas, le consultant sera
+rémunéré uniquement pour les services rendus et les livrables réalisés à la satisfaction de
+l'arrondissement jusqu'à la date de transmission de l'avis écrit de suspension ou de cessation
+du mandat, conformément aux taux et conditions de l'entente-cadre 59-25-ET-01.
+
+
+
+Demande de service – 59-25-ET-01_002                                                page 3 de 4
+
+=== page 4 (text layer) ===
+Dans ce contexte, nous vous invitons à soumettre une offre de services comprenant la
+méthodologie proposée, les ressources affectées au mandat, l'échéancier de réalisation ainsi
+que l'estimation budgétaire détaillée des services professionnels requis pour la réalisation du
+mandat décrit précédemment.
+
+Il est à noter que les services seront rémunérés selon les taux horaires de la soumission no.
+59-25-ET-01.
+
+De plus, l’échéancier de réalisation du mandat devra prévoir que les plans soient réalisés et
+transmis au plus tard le vendredi 27 novembre 2026. Ainsi, l’offre de service incluant la
+proposition budgétaire devra être reçue avant le 16 octobre 2026, à midi, à l’adresse courriel
+suivante :
+
+jonathan.leduc@montreal.ca
+
+Il est à noter que, selon l’article 5 du devis technique de l’entente-cadre 59-25-ET-01, la Ville ne
+s’engage pas à octroyer le mandat à votre firme et vous ne serez pas rémunéré pour la
+préparation de l’offre de services et de l’estimation budgétaire.
+
+Il est aussi rappelé qu’en vertu de l’article 4.1 du devis technique, le consultant doit fournir
+suffisamment de ressources pour réaliser le mandat dans les jalons de livraison imposés.
+
+Espérant le tout complet et conforme, n’hésitez pas à communiquer avec le soussigné pour
+toutes questions ou demandes de renseignement supplémentaires.
+
+Veuillez agréer, Monsieur, l’expression de nos salutations distinguées.
+
+                                                   Jonathan Leduc, Conseiller en aménagement
+
+CC :
+Samir Admo, Directeur de l'aménagement urbain et de la mobilité
+Insa Kéba SANÉ, ing.
+
+
+
+
+Demande de service – 59-25-ET-01_002                                              page 4 de 4
+

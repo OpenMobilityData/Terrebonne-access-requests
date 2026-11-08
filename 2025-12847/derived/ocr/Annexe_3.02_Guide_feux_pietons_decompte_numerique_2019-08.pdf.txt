@@ -1,0 +1,569 @@
+=== page 1 (text layer) ===
+                                                                                          DT-2001
+                                        Feux pour piétons à décompte                   Page 1 de 12
+                                                 numérique
+              Guide                                                                    1er août 2019
+
+
+Le présent guide est un complément au Tome V          une bonne partie de la clientèle se déplaçant à
+– Signalisation routière des normes de                une vitesse plus basse, voire 0,9 m/s, si le
+Transports Québec. Il vise à préciser le              piéton s’engage au début de la silhouette
+fonctionnement des feux pour piétons, lorsque         (comportement recommandé pour cette
+des feux de circulation sont déjà existants à         clientèle).
+l’intersection.
+                                                      2.0 Choix du mode de fonctionnement
+Lorsqu’il n’y a pas de feux de circulation, les           des feux pour piétons
+critères de justification des normes de
+Transports Québec doivent être utilisés, afin         Les feux pour piétons peuvent fonctionner en
+d’établir la nécessité d’interrompe la circulation    mode non protégé, partiellement protégé
+transversale pour permettre aux piétons de            (souvent appelé avance-flèche ou avance-
+traverser. Si les feux sont justifiés à cet égard,    rouge) ou complètement protégé. Les
+des feux pour piétons doivent être installés et       différents modes de fonctionnement sont
+leur mode de fonctionnement sera établi selon le      illustrés à l’annexe I.
+présent guide.
+                                                      Le choix du mode de fonctionnement est établi
+                                                      en fonction des critères ci-dessous. Une fois le
+1.0 Accessibilité universelle                         mode de fonctionnement déterminé, se référer
+                                                      à la section 4 pour la programmation détaillée
+Ce guide intègre le principe d’accessibilité          des feux pour piétons.
+universelle adopté par la Ville.
+                                                      2.1 Présence d’une proportion importance
+Des feux pour piétons doivent être installés pour         de personnes à mobilité réduite
+toutes les traverses d’une intersection munie de
+feux (sauf évidemment celles interdites aux           En présence d’une résidence pour personnes
+piétons). Certains cas peuvent toutefois être         âgées, d’un hôpital ou d’une clinique médicale,
+soustraits de cette directive (présence d’une         dans une distance de 100 m, un intervalle de
+entrée charretière (trottoir abaissé), absence de     protection est recommandé dans toutes les
+trottoir, etc.).                                      traverses de l’intersection.
+
+La vitesse de marche utilisée pour le calcul des      2.2 Présence     importante    de    véhicules
+feux pour piétons est de 1,1 m/s et permet de             lourds
+répondre au besoin de la grande majorité des
+piétons. Aux endroits où il y a une proportion        En présence d’un débit tournant de 10
+importante de personnes à mobilité réduite (à         véhicules lourds/heure ou plus dans une
+proximité de résidences pour personnes âgées,         traverse piétonne, un intervalle de protection
+cliniques médicales, hôpitaux, etc.), la vitesse de   est recommandé.
+marche est abaissée (voir tableau 1 à la section
+4.1).                                                 Le plan de camionnage en vigueur à la Ville et
+                                                      la présence d’un accès de type industriel à
+À noter que même si la vitesse de marche              l’intersection sont aussi des facteurs qui
+considérée est de 1,1 m/s, le calcul appliqué à la    peuvent être considérés pour l’ajout d’un
+Ville pour la programmation des feux pour             intervalle protégé.
+piétons permet généralement d’accommoder
+
+=== page 2 (text layer) ===
+                                                                                         DT-2001
+                                       Feux pour piétons à décompte                    Page 2 de 12
+                                                numérique
+              Guide                                                                    1er août 2019
+
+
+2.3 Intersections larges (plus de 20m), sans         2.7 Signalisation lumineuse avec flèches
+    mail central                                         tout droit et à droite
+
+Dans le cas de feux pour piétons installés dans      En présence d’une signalisation lumineuse
+les traverses croisant une rue large, soit plus de   avec flèches tout droit et à droite à une
+20 mètres, sans mail central, l’ajout d’un           approche (par exemples, où il y a une
+intervalle de protection est recommandé étant        signalisation de contrôle de voies ou en
+donné l’absence de refuge pour le piéton.            présence d’un virage à gauche exclusif), un
+                                                     intervalle de protection de type « avance-
+2.4 Présence d’un aménagement cyclable               flèche » doit être ajouté pour la traverse du
+                                                     côté droit. Cette disposition vise à rappeler aux
+Le Guide des feux en présence d’un                   automobilistes la priorité aux piétons
+aménagement cyclable de la Ville peut justifier      considérant que la signalisation avec flèches
+un intervalle de protection ou une phase             sert d’avantage à contrôler les mouvements
+complètement protégée pour les cyclistes. Si tel     véhiculaires.
+est le cas, la protection devient aussi effective
+pour     les   piétons,   puisqu’ils  traversent     2.8 Présence de virages à droite ou à
+généralement de façon parallèle avec les             gauche en double
+cyclistes.
+                                                     Si une manœuvre de virage à droite ou à
+2.5 Présence de signaux sonores                      gauche en double est permise à une approche,
+                                                     la phase piétonne de la traverse conflictuelle
+La présence de signaux sonores justifie              doit être séparée de la phase véhiculaire.
+généralement un fonctionnement des feux pour
+piétons en mode partiellement protégé ou             2.9 Nombre de conflits véhicules-piétons
+complètement protégé (exclusif toutes directions
+ou non). Se référer au Guide de fonctionnement       Pour chacune des traverses, l’analyse d’une
+des signaux sonores, pour les détails s’y            protection en fonction du nombre de conflits
+rattachant.                                          véhicules-piétons doit être effectuée.
+
+2.6 Intersections en « T »                           La nécessité d’un intervalle de protection ou
+                                                     d’une phase complètement protégée est
+Aux intersections en « T », au minimum, un           établie selon l’abaque de l’annexe II.
+intervalle de protection de type « avance-rouge »
+doit être implanté pour les traverses                Une seule période d’une heure suffit pour
+perpendiculaires à la barre du « T ». Cette          justifier une protection de la traverse piétonne.
+disposition vise à rehausser le niveau de
+sécurité des piétons considérant qu’il n’y a pas     Une pondération est appliquée aux débits de
+de mouvements véhiculaires parallèles et donc        virages à gauche, selon les paramètres
+que les virages exercent une pression plus           suivants:
+grande sur les piétons.
+                                                        -   le sens de la rue (sens unique ou double
+                                                            sens), dans l’axe de la traverse
+                                                            analysée;
+                                                        -   la largeur de la traverse;
+
+=== page 3 (text layer) ===
+                                                                                          DT-2001
+                                        Feux pour piétons à décompte                    Page 3 de 12
+                                                 numérique
+              Guide                                                                     1er août 2019
+
+
+   -   la présence ou non d’une phase de              2.10 Conditions autres justifiant           une
+       virage à gauche protégée (dans la                 protection accrue des piétons
+       traverse analysée);
+                                                      Nonobstant les critères précédents, l’ensemble
+Note : Cette pondération des virages à gauche         des conditions à une intersection (forte pente,
+tient compte du risque plus grand qu’ils              vitesse, environnement, grand rayon de
+représentent pour la sécurité des piétons             courbure du trottoir, etc.) peuvent justifier une
+(constat établi suite à l’analyse du bilan des        protection accrue des piétons.
+accidents au cours des dernières années).             Cette décision est de la responsabilité de
+                                                      l’ingénieur.
+Se référer à l’annexe II, pour les valeurs de
+pondération appliquées au virage à gauche.
+                                                      3.0 Traitement des virages à gauche
+Seuls les débits de virages à gauche conflictuels         dans le cas des artères à plusieurs
+avec des piétons doivent être considérés et               voies
+donc, dans le cas d’un virage à gauche exclusif,
+le conflit étant inexistant, les pondérations ne      Lorsqu’une manœuvre de virage à gauche
+s’appliquent pas.                                     croise quatre (4) voies ou plus, il est
+                                                      recommandé de gérer cette manœuvre en
+En ce qui concerne les virages à droite, ceux-ci      mode exclusif, afin d’éliminer les conflits avec
+ne sont pas pondérés, à moins qu’il y ait un          les piétons.
+moment dans le cycle où ils sont desservis de
+façon protégée (par exemple, une flèche à droite      Note : Lorsqu’il y a des baies de virage à
+activée durant un virage à gauche protégé). Une       gauche, face à face, ces baies ne sont pas
+diminution des débits doit alors être appliquée       considérées dans le nombre de voies à croiser.
+de la même façon que pour les virages à gauche
+protégés (réduction des débits dans la même           Lorsque le nombre de voies à croiser par le
+proportion que la durée de cette phase de virage      virage à gauche est de trois (3), l’utilisation
+à droite par rapport au vert total à l’approche -     d’une phase exclusive de virage à gauche est
+voir cas 3 à l’annexe II).                            à considérer.
+
+À partir d’un certain niveau de conflits véhicules-
+piétons, il est judicieux de terminer la phase        4.0 Programmation         des     feux     pour
+piétonne quelques secondes avant le feu jaune,            piétons
+afin de permettre aux automobilistes tournants
+d’effectuer leur manœuvre, sans présence de           Dans cette section sont spécifiées les valeurs
+piétons, réduisant ainsi les risques qu’ils forcent   minimales à appliquer pour la programmation
+leur passage. Cette application est identifiée sur    des feux pour piétons.
+l’abaque de l’annexe II, par la zone « feu vert
+avec main fixe ».                                     4.1 Vitesse de marche
+
+                                                      La vitesse de marche appliquée est de 1,1 m/s.
+                                                      Celle-ci est abaissée, selon les cas considérés
+                                                      dans le tableau 1.
+
+=== page 4 (text layer) ===
+                                                                                            DT-2001
+                                             Feux pour piétons à décompte                 Page 4 de 12
+                                                      numérique
+                Guide                                                                     1er août 2019
+
+
+                Tableau 1                                                 Figure 1
+ Vitesses de marche selon l’environnement                          Mesure de la distance (d)
+
+                                            Vitesse de
+      Environnement immédiat à
+                                             marche
+            l’intersection
+                                            appliquée
+ Résidences pour personnes âgées,
+ cliniques médicales et hôpitaux (à moins    0,9 m/s
+ de 100 m).
+ Écoles primaires, CPE ou garderies
+ privées (à la demande de l’arrondisse-
+                                             1,0 m/s
+ ment), dans une distance de 100 m ou
+ dans le même pâté de maisons.
+ Présence de brigadiers scolaires (à la
+                                             1,0 m/s
+ demande par l’arrondissement).
+
+4.2 Durée de la silhouette et de la main
+    clignotante
+
+La durée minimale de la silhouette, pour les             4.3 Mode non protégé
+modes non protégé et partiellement protégé, est
+de 7 secondes et de 5 secondes pour le mode              Le mode non protégé des feux pour piétons est
+complètement protégé. La durée de la silhouette          généralement utilisé lorsque les conditions à
+peut être augmentée par incrément de 2                   l’intersection (débits, géométrie, etc.) sont
+secondes (7,9,11,...), selon le calcul de                conviviales pour les piétons et donc, lorsque le
+l’engagement décrit dans le Tome V ou au                 niveau de protection n’a pas à être rehaussé.
+besoin.
+                                                         Pour ce mode de fonctionnement, la silhouette
+La durée de la main clignotante (MC) se calcule          est normalement combinée à une lentille
+comme suit :                                             véhiculaire « plein vert ».
+MC = (d / v)                                             4.4 Mode partiellement protégé
+Où d = la distance à traverser, en considérant           Lorsque le mode partiellement protégé est
+       un seul des deux rayons de trottoir (la           requis, il s’agit soit d’une flèche avant, avec
+       valeur la plus grande entre d1 et d2, à la        silhouette, suivi du plein vert ou flèches tout
+       figure 1);                                        droit et à droite (avance-flèche) ou d’un feu
+   v = la vitesse de marche (voir section 4.1).          rouge, avec silhouette, suivi du plein vert
+                                                         (avance-rouge).
+La durée minimale de la main clignotante (MC)
+est fixée à 5 secondes.                                  La durée minimale de l’intervalle de protection
+                                                         est de 7 secondes et peut être incrémentée par
+                                                         intervalle de 2 secondes au besoin, jusqu’à
+                                                         une valeur limite de 17 secondes.
+
+=== page 5 (text layer) ===
+                                                                                           DT-2001
+                                         Feux pour piétons à décompte                   Page 5 de 12
+                                                  numérique
+               Guide                                                                    1er août 2019
+
+
+Note : La valeur limite de 17 secondes a été                            Figure 2
+établie sur la base d’observations et correspond              Mesure de la distance Dcentral
+à la durée à partir de laquelle le taux de
+transgression de la flèche avant augmente
+significativement. En présence de signaux
+sonores, une valeur de 18 secondes est, par
+contre, acceptée (se référer au guide des
+signaux sonores).
+
+La silhouette n’a pas nécessairement la même
+durée que l’intervalle de protection. En effet, la
+main clignotante peut être entamée une fois la
+durée minimale de la silhouette atteinte. Par
+contre, il est d’usage, pour les valeurs
+d’intervalles de protection de 7 et 9 secondes,
+d’avoir une silhouette de la même durée.
+
+4.4.1 Intervalle de protection prolongée en
+      présence d’une proportion importante
+      de personnes à mobilité réduite                  Si la valeur Ipp dépasse 17 secondes, un
+                                                       intervalle    avance-rouge    doit    précéder
+À proximité des résidences pour personnes              l’avance-flèche et sa durée est l’excédent des
+âgées, des hôpitaux et des cliniques médicales,        17 secondes.
+un intervalle de protection prolongé doit être
+prévu, dans les traverses où un virage à gauche        Le tableau 2 indique les valeurs des intervalles
+est autorisé, afin de permettre au piéton              avance-rouge et avance-flèche en fonction des
+d’atteindre la première voie située de l’autre côté    distances « Dcentral».
+de la ligne centrale, avant l’apparition du plein
+vert.                                                  S’il n’y a pas d’avance-flèche, la durée de
+                                                       l’intervalle Ipp est programmée entièrement
+La durée de l’intervalle de protection prolongé        dans l’avance-rouge.
+(Ipp), en secondes, se calcule comme suit :
+
+Ipp = (Dcentral +1,5) / v
+
+Où    Dcentral = la distance à franchir (en
+                  mètres) pour atteindre la
+                  première voie de l’autre côté de
+                  la ligne centrale (voir figure 2);
+          1,5 = valeur correspondant à la moitié
+                  de la largeur d’une voie de
+                  3,05 m;
+            v = la vitesse de marche (0,9 m/s).
+
+=== page 6 (text layer) ===
+                                                                                            DT-2001
+                                           Feux pour piétons à décompte                  Page 6 de 12
+                                                    numérique
+              Guide                                                                      1er août 2019
+
+                      Tableau 2                        4.5 Intervalle « feu vert avec main fixe»
+Durées des avance-rouge et avance-flèche en fonction
+               de la distance Dcentral
+                                                       Lorsqu’un intervalle « feu vert avec main fixe »
+                                Type d’intervalle      est ajouté (voir section 2.8), sa durée est
+  Dcentral                     Avance-    Avance-      typiquement de 4 ou 5 secondes. La valeur
+                 Ipp (s)
+    (m)                       rouge (s)    flèche      fixée est laissée au jugement de l’ingénieur.
+                                             (s)       Cet intervalle est appliqué aux modes non
+   1à5               7            0           7        protégé et partiellement protégé des feux pour
+   6 et 7            9            0           9
+   8 et 9           11            0          11
+                                                       piétons et est justifié selon l’abaque de
+  10 et 11          13            0          13        l’annexe II.
+     12             15            0          15
+  13 et 14          17            0          17        4.6 Mode complètement protégé
+  15 et 16          19            2          17
+  17 et 18          21            4          17        Lorsque le mode complètement protégé est
+  19 et 20          23            6          17
+                                                       justifié dans une traverse et qu’il n’y a pas
+     21             25            8          17
+  22 et 23          27           10          17        d’autres options envisageables pour diminuer
+  24 et 25          29           12          17        le niveau de conflits véhiculaires (séparation
+  26 et 27          31           14          17        des phases, implantation d’un virage à gauche
+  28 et 29          33           16          17        protégé, etc.), celui-ci peut être implanté, selon
+     30             35           18          17        une des deux façons suivantes:
+                Considérer
+ Plus de 30    une traverse           NA
+              en deux temps                               -   gérer les manœuvres de virages en
+                                                              mode exclusif ou;
+                                                          -    implanter une phase piétonne exclusive
+                                                              toutes directions (voir section 4.6.1, ci-
+À noter que la durée de l’intervalle Ipp ne                   dessous).
+correspond pas nécessairement à la durée de la
+silhouette. En effet, la main clignotante peut être    En mode complètement protégé, la durée
+entamée une fois la durée minimale de la               minimale de la silhouette est de 5 secondes.
+silhouette atteinte.
+                                                       4.6.1 Phase piétonne         exclusive    toutes
+En cours d’évaluation                                        directions
+
+Si l’augmentation de l’intervalle Ipp détériore de     La Ville ne favorise pas l’utilisation de phases
+façon trop importante les conditions à                 exclusives piétonnes toutes directions, car elle
+l’intersection, cette protection supplémentaire        augmente généralement le temps d’attente des
+peut être offerte sur demande seulement, avec          piétons et peut dégrader de façon importante
+boutons piétons. La durée de l’intervalle Ipp peut     les niveaux de service à l’intersection, affectant
+alors être différente en fonctionnement régulier       par le fait même le service de transport
+de celle appelée par boutons.                          collectif. Aussi, ce type de fonctionnement
+                                                       rend plus difficile la traversée pour les
+                                                       personnes qui ont une déficience visuelle,
+                                                       puisqu’ils ne peuvent pas se guider sur le son
+                                                       de la circulation parallèle pour traverser. Une
+                                                       étude d’un spécialiste en orientation et mobilité
+
+=== page 7 (text layer) ===
+                                                                                            DT-2001
+                                        Feux pour piétons à décompte                     Page 7 de 12
+                                                 numérique
+              Guide                                                                      1er août 2019
+
+
+d’un centre de réadaptation en déficience                -   le calcul du dégagement (MC) doit alors
+visuelle est alors nécessaire pour identifier la ou          être fonction de la plus longue traverse
+les traverses qui doivent être munies de signaux             en diagonale;
+sonores.                                                 -   la vitesse de marche considérée pour
+                                                             les traverses diagonales est de 1,3
+L’implantation d’une phase exclusive peut                    m/s*;
+toutefois être appropriée lorsque les trois (3)          -   pour des intersections possédant une
+conditions suivantes sont rencontrées:                       traverse > 30 mètres, la traverse en
+                                                             diagonale est à éviter.
+       1. les virages sont dans une proportion
+          plus importante que le mouvement tout       * La vitesse de marche est plus élevée pour les
+          droit à une approche;                       traverses en diagonale car elles servent
+       2. le blocage récurrent de la circulation,     d’abord à accommoder la clientèle plus alerte
+          en raison du nombre élevé de piétons,       qui souhaite traverser en ligne directe au lieu
+          est jugé important et;                      d’effectuer deux traversées (en « L »). Cela
+       3. l’intersection est relativement étroite.    permet aussi de réduire la durée de la phase
+                                                      exclusive et donc l’impact sur la circulation.
+Le mode exclusif peut aussi être approprié aux
+intersections où la traversée des piétons est         Se référer au Tome V pour les spécifications
+jugée hasardeuse (et que les caractéristiques ne      au niveau de la signalisation à prévoir, pour
+favorisent pas des installations en contrôle de       l’implantation de traverses en diagonale.
+voies). Entre autres:
+                                                      4.7 Modes « rappel » et « appel » des feux
+   -   présence d’une géométrie particulière              pour piétons
+       (traverses trop décalées par rapport au
+       rayon, etc.);                                  Généralement, le mode rappel des feux pour
+   -   présence d’un virage à droite ou à gauche      piétons est privilégié par la Ville, par rapport au
+       en double;                                     mode appel (sur demande), car celui-ci
+   -   environnement considéré peu convivial          favorise davantage les déplacements actifs
+       (environnement     autoroutier,    vitesse     (entre autres, il diminue les temps d’attente) et
+       élevée, haut taux de camionnage, pente,        diminue les coûts d’entretien.
+       etc.).
+                                                      Le mode appel peut être approprié aux
+4.6.1.1   Traverses en diagonale                      endroits où le nombre de piétons est faible et
+                                                      l’impact sur les conditions de circulation du
+Dans le cas d’une phase exclusive piétonne, il        mode rappel des feux pour piétons est jugé
+peut s’avérer judicieux de permettre la traversée     trop important. Entre autres, dans les secteurs
+en diagonale, s’il y a une proportion significative   industriels ou autoroutiers, où on ne souhaite
+de piétons effectuant deux traversées, soit en        pas pénaliser indûment la circulation
+« L ».                                                véhiculaire alors qu’il y a très peu de piétons.
+
+Les paramètres suivants devraient alors être          Le mode appel est aussi souvent mieux adapté
+considérés :                                          pour les feux gérant une traverse piétonne à
+                                                      mi-bloc, car il permet d’éviter d’interrompre
+
+=== page 8 (text layer) ===
+                                                                                         DT-2001
+                                         Feux pour piétons à décompte                  Page 8 de 12
+                                                  numérique
+              Guide                                                                    1er août 2019
+
+
+inutilement la circulation alors qu’il n’y a pas de    qui est la pratique recommandée par les
+piétons qui traversent.                                normes canadiennes et américaines.
+
+En mode appel, des boutons doivent aussi être          6.0 Traversée en deux temps
+installés sur le mail central, à moins qu’il ne soit
+pas considéré comme étant une zone de refuge           La Ville ne favorise pas la traversée d’une
+adéquate pour les piétons (selon le jugement de        chaussée en deux temps à une intersection
+l’ingénieur).                                          munie de feux, car cela augmente
+                                                       significativement le temps de traversée des
+Peu importe le mode de fonctionnement choisi,          piétons. Aussi, ce type de concept est peu
+« rappel » ou « appel », celui-ci devrait demeurer     compatible avec le déplacement des cyclistes
+le même toute la journée, afin d’éviter de             à l’intersection, considérant que ceux-ci sont
+transgresser l’attente des piétons.                    généralement desservis avec les phases
+                                                       piétonnes parallèles.
+4.7.1 Prolongement de la silhouette
+                                                       Cependant, si aucune autre option n’est
+En mode rappel des feux pour piétons, la               envisageable, des mesures devraient être
+fonction « prolongement de la silhouette » est         mises en place pour accentuer le message
+normalement activée au contrôleur, afin de             d’une traversée en deux temps, auprès des
+maximiser le temps de traversée des piétons.           usagers. Par exemple:
+Cela concerne aussi les cas où il y a un
+intervalle « feu vert avec main fixe », c’est-à-dire      -   prévoir une largeur de terre-plein
+où la phase piétonne doit se terminer quelques                suffisante selon les conditions de
+secondes avant le feu jaune (voir détails à la                l’intersection (minimum 3 mètres);
+section 2.8).                                             -   aménager, lorsque possible, une
+                                                              chicane, pour briser la ligne directe
+                                                              entre les deux traverses;
+5.0 Affichage du décompte numérique                       -   éviter le service simultané des deux
+                                                              phases piétonnes, pour diminuer les
+Selon le Tome V, le décompte numérique doit                   risques que le piéton tente de franchir
+débuter avec le début de la silhouette. Toutefois,            les deux traverses en un seul temps.
+ce type de fonctionnement engendre des
+problèmes au niveau de l’opération, lorsque la
+durée de la silhouette varie au cours de la
+journée, car cela provoque le mode « recalcule »
+du décompte à chaque fois (la technologie qui
+détermine la durée du décompte se base sur la
+durée précédente de la silhouette). Or, la
+possibilité de pouvoir varier la durée silhouette à
+une intersection permet de maximiser le temps
+offert aux piétons et d’assurer une meilleure
+performance des systèmes prioritaires pour
+autobus et de préemption pour véhicules
+d’urgence. C’est pourquoi la Ville a choisi de
+débuter le décompte avec la main clignotante, ce
+
+=== page 9 (text layer) ===
+                                                                       DT-2001
+                                      Feux pour piétons à décompte   Page 9 de 12
+                                               numérique
+              Guide                                                  1er août 2019
+
+
+7.0 Calcul du vert minimum en l’absence
+    de feux pour piétons
+
+Dans les cas où des feux pour piétons ne sont
+pas encore présents, la durée du vert minimum
+doit permettre une traversée sécuritaire. La
+durée du vert minimum se calcule comme suit :
+
+V min = 5 + (d/v)
+
+Où d = la distance à traverser, en considérant
+       un seul des deux rayons de trottoir, soit
+       le plus grand (d1 ou d2, tel que montrés
+       à la figure 1 à la section 4.2);
+   v = 1,1 m/s.
+
+La valeur 5 est l’équivalent de la durée minimale
+de la silhouette (correspondant à la valeur PIEV)
+établie par le Tome V.
+
+=== page 10 (text layer) ===
+                                                                                                                                                                                                                                                                        DT-2001
+                                                                                                                                                                 Feux pour piétons à décompte                                                                    Page 10 de 12
+                                                                                                                                                                          numérique
+                                                                              Annexe I                                                                                                                                                                            1er août 2019
+
+
+                                                                                                                                Fonctionnements types des feux pour piétons
+                                                                                                                                                                           Décompte
+                                                                                                                                            Silhouette                   Main clignotante                                                   Main fixe
+                                    Mode non protégé
+
+
+
+
+                                                                                                                                                 Non protégé
+
+
+
+
+                                                                                                                                                                                            Main fixe avec feu vert*
+                                                                                                                                  min. 7            variable                   d/v
+                                                                                                                                                                                                                           J   TR                       R
+                                                                                                                                                    Extension*
+                            Flèche tout droit suivi de flèches Flèche tout droit ou intervalle rouge
+
+
+
+
+                                                                                                                                                                           Décompte
+                                                                                                                                       Silhouette                        Main clignotante                                                   Main fixe
+                                                                                                       suivi d'un plein vert
+
+
+
+
+                                                                                                                                 Protégé                         Non protégé                Main fixe avec feu vert*
+                                                Mode partiellement protégé
+
+
+
+
+                                                                                                                                   min. 7
+                                                                                                                                                    variable                  d/v
+                                                                                                                                    ou                                                                                     J   TR                       R
+                                                                                                                                    R               Extension*
+
+
+
+
+                                                                                                                                                                           Décompte
+                                                                                                                                       Silhouette                        Main clignotante                                                   Main fixe
+                                                                                                       tout droit et à droite
+
+
+
+
+                                                                                                                                 Protégé                         Non protégé
+                                                                                                                                                                                            Main fixe avec feu vert*
+
+
+
+
+                                                                                                                                   min. 7           variable                   d/v
+                                                                                                                                                                                                                           J   TR                       R
+                                                                                                                                                    Extension*
+Mode complètement protégé -
+
+
+
+
+                                                                                                                                                              Décompte
+                                                                                                                                Silhouette                  Main clignotante                                                               Main fixe
+     Phase exclusive
+
+
+
+
+                                                                                                                                                        Protégé
+
+
+
+
+                                                                                                                                 min. 5                            d/v                                                 3
+                                                                                                                                                           R                                                 TR                                                     J     TR
+
+
+
+* si appliqué                                                                                                                                                                                                                       Toutes les durées sont en secondes.
+
+=== page 11 (text layer) ===
+                                                                                                                     DT-2001
+
+                                                                          Feux pour piétons à décompte numérique   Page 11 de 12
+
+              Annexe II : Figure 1                                                                                 1er août 2019
+
+
+Justification du mode de fontionnement des feux pour piétons en fonction des conflits véhicules - piétons
+
+
+
+
+    *Les débits véhiculaires sont en unités de véhicules particuliers (1 camion = 2 uvp)
+
+=== page 12 (text layer) ===
+                                                                       DT-2001
+
+                            Feux pour piétons à décompte numérique   Page 12 de 12
+
+Annexe II : Figure 2                                                 1er août 2019
+
+
+                       Pondération des virages à gauche
+

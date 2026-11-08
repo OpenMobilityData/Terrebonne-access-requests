@@ -1,0 +1,264 @@
+=== page 1 (text layer) ===
+ZELT Evo                                                          Compteur autonome vélos/trottinettes
+
+
+                                            ZELT Evo est un compteur haute précision de cyclistes et de
+                                            trottinettes. Plus précise, plus performante et évolutive,
+                                            ZELT Evo est une nouvelle génération de compteurs autonome
+                                            et alimentée sur batterie, durée de vie de batterie 1 an ou plus.
+                                            Son comptage haute précision donne une vision claire des
+                                            usagers de votre territoire. Les boucles de détection peuvent
+                                            être installées sur tout type de surface.
+
+
+                                            + Comptage vélos et trottinettes
+                                            + Comptage haute précision
+                                            + Données horodatées
+                                            + Distinction du sens de passage
+                                            + Autonome en énergie
+                                            + Mise à jour automatique à distance
+
+  Usagers comptés
+  La ZELT Evo permet de compter et classifier les
+  cyclistes et utilisateurs de trottinettes pour obtenir
+  des données de fréquentation précises.
+
+  Deux versions permettent de compter et
+  différencier les vélos et trottinettes, et d’avoir des
+  données horodatées. La première (SD) compte
+
+
+
+
+                                                                                                                                       Informations non contractuelles - Spécifications susceptibles d’être modifiées sans préavis. V2.4_FR_17/12/2024
+  les vélos sur tous types de voies, la seconde (HD)
+  sur voies dédiées compte aussi les trottinettes* et
+  détecte la direction des usagers.
+  *En option
+
+
+
+
+En version SD, ZELT Evo permet de compter les cyclistes de         En version HD sur voies dédiées, ZELT Evo permet de compter
+façon plus précise dans toutes les conditions. Les groupes sont    les cyclistes, les trottinettes et de donner leur direction. Pour
+comptés, et ce qui n’est pas un vélo est exclu du comptage.        une qualité optimale, avec la version HD, les données sont
+                                                                   horodatées.
+
+=== page 2 (text layer) ===
+                                                                                                                                                                                                                                                                                                                           Tous les produits
+                                                                                                                                                                                                                                                                                                                         Eco-Compteur® sont
+                                                                                                                                                                                                                                                                                                                         conçus, développés
+
+    ZELT Evo                                                                                                                                                                                                                                                                                                                et fabriqués en
+                                                                                                                                                                                                                                                                                                                                France.
+
+    Caractéristiques générales                                                                                                                                                                 Caractéristiques physiques
+    Technologie                         Boucle électromagnétique                                                                                                                               Dimensions                                                      100 mm x 128 mm x 38 mm
+                                                                                                                                                                                               du capteur
+    Alimentation                        Batterie >12 mois ou 12V ou solution solaire
+                                                                                                                                                                                               Poids du capteur 320 g (hors pack piles)
+    Calibration                         Autocalibration
+                                                                                                                                                                                               Matériaux du                                                    + PA11, GF8 (corps et capot)
+    Largeur couverte                    + Sans sens de passage : jusque 12 m                                                                                                                                                                                   + ABS/PC (intercalaire interne)
+                                        + Avec sens de passage : jusque 6 m                                                                                                                    capteur
+
+    Pratiques                           + Vélos                                                                                                                                                Connecteurs                                                     + 2 x 4 connecteurs boucles
+                                                                                                                                                                                                                                                               + 1 connecteur pack batteries
+    comptées                            + Trottinettes (en option)
+                                                                                                                                                                                                                                                               + 1 connecteur contact sec
+    Fréquence                           + Standard : 2 fois par jour
+                                                                                                                                                                                               Installation                                                    + Profondeur tranchées : 40 to 50 mm
+    transmission                        + De toutes les 15 minutes à 1 fois par jour                                                                                                                                                                           + Largeur tranchées : 20 mm
+                                                                                                                                                                                                                                                               + Regard installé à proximité
+    Enregistrement                      + 60 minutes ou 15 minutes en option
+    données                             + 650 000 données horodatées avec direction                                                                                                            Classement IP                                                   IP 68
+
+    Configuration                       Configuration via l’application Eco-Link Evo                                                                                                           Taille boucles de                                               + Longueur boucles : 80 - 150 cm
+    10                 9                                               8                            7                              6                                                5          détection 4                                                     + Largeur
+                                                                                                                                                                                                                                                                      3 boucles : 40 cm
+                                                                                                                                                                                                                                                                                      2                                                                                      1
+    Connectivité                        + LTE Cat-MT/NB-IOT
+
+                                                                                                                                                                                               Exemple d’installation
+                                                                                                                                                                                                                                                                                                                                                                                                      H
+
+
+
+                                Ø17,8
+                                                       37,30
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                  G
+                                                                                               38
+
+
+
+
+               Dimensions
+          12               11                                          10                       9                              8                                         7                                                    6                                      5                                         4                                           3                                                                                                                    2
+
+
+
+                                                                                                                          81,10
+                       100
+H
+                                                                                                                               Capteur
+                                                                                                                               128                                                                                                                                                                                                                     Pack piles
+                       Top view
+                                                                                                         Ø17,8
+                                                                                                                                                                                                                                                                                                                                                                                                             F
+
+
+                        86
+                                                                                                                  37,30
+
+
+
+
+    10            9                                8                         7                      6                      5                              4                                          3                                       2                       1
+                                                                    )
+                                                                 (x2
+G                                                       Ø  5.5
+                                                                                                                                                                     38
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                  Informations non contractuelles - Spécifications susceptibles d’être modifiées sans préavis. V2.4_FR_17/12/2024
+                                                                                                                                                                                                                                                                                     H
+                                                                                                                 Connector view
+
+                                                                                                                                                                                                                                                                                                                                                                                                           E
+                       Ø17,8                                                                                                                                                                                  81,10
+                                                                                               100
+                                                                                                                                                                                                                         128
+                                                          101
+                                                          128
+                                37,30
+
+
+
+
+F
+                                                                                                                                                                                                                                                                                     G
+                                                                            38
+
+
+
+
+                                                                                                    86
+                                                                                                                             )
+                                                                                                                         (x2
+                                                                                                                      .5
+                 100
+                                                                                            81,10                  Ø5 view
+                                                                                                                   Side                                                                                                                                                                                                                                                                             D
+                                                                                                128
+
+E                                                                                                                                                                                                                                                                                    F
+                                                                                                                     101
+                                                                                                                     128
+
+
+
+
+                  86
+                                                )
+                                             (x2
+                                        .5
+                                 Ø5
+
+                                                                                                        A découvrir en complément :                                                                                                                                                                                                                                                               C
+                                                                                                                                                                                                                                                                                     E
+D
+                                   101
+                                   128
+
+
+
+
+         MULTI Evo Urbain :                                                                                                                                                      MULTI Evo Nature :
+           Compteur fixe                                                                                                                                                              Compteur fixe                                                                                  D
+
+                                                                                                                                                                                                                                                                                                                                                                                                          B
+C
+               Urbain                                                                                                                                                                               Naturel
+         Piétons & Cyclistes                                                                                                                                                 Piétons & Cyclistes
+                                                                                                                                                                                       A01  Création de plan
+                                                                                                                                                                                                                  REVISION           REV. DESCRIPTION
+                                                                                                                                                                                                                                                                                                                                      W.Leroy
+                                                                                                                                                                                                                                                                                                                                      DRAWN BY
+                                                                                                                                                                                                                                                                                                                                                        03/09/2024
+                                                                                                                                                                                                                                                                                                                                                               DATE
+                                                                                                                                                                                                                                                                                                                                                                              L.Gallou
+                                                                                                                                                                                                                                                                                                                                                                             CHECKED BY
+
+                                                                                                                                                                                                                                       MATERIAL : Matériau <non spécifié>                                            WEIGHT : 301.83g
+                                                                                                         BON POUR PROTOTYPE
+                                                                                                                                                                                                                                                                                                                                                            GEN. TOL. : ISO 2768 mK
+                                                                                                                                                                                                                                                                                     C
+                                                                                                                                                                                                                Sca: 2:1               TREATMENT : Sans                                                                                                     Surface state : Ra         0.8
+                                                                                                         1) Bavures et arêtes coupantes interdites                                                                                                              DESIGNATION / DESCRIPTION                                                                          CODE X3
+B                                                                                                        2) Pour les dimensions, voir le 3D step associé
+                                                                                                         3) Les dimensions sont en millimètres                                                                                                                                                                                                                                                      A
+                                                                                                         4) Pièce destinée à une production série                                                                 Eco-Compteur
+                                                                                                                                                                                                                                                                REF. NUMBER
+
+                                                                                                                                                                                                                  4, Rue Charles Bourseul - 22300 LANNION                                     A01        Création de plan                                                                                                                                                                             W.Lero
+                                                                                                                                                                                                                  Tél. 02.96.48.48.81
+                                                                                                                                                                                                                  www.eco-compteur.com                                                       REVISION    REV. DESCRIPTION                                                                                                                                                                          DRAWN
+
+                                                                                                                                                                                                                                                                                     B                  MATERIAL      : Matériau <non spécifié>                              A2     1/1
+                                                                                                                                                                                                                                                                                                                                                                                     WEIGHT : 301.8
+                                                                                                                                                                                   BON POUR PROTOTYPE
+                                                                                                                                                                                                                                                        All rights reserved. This document is the property of Eco-Counter
+
+
+    10                 9                                               8                            7                              6                                               5          4                                     3                                                       Sca: 2:1      TREATMENT : Sans
+                                                                                                                                                                                                                                                                                                                        2                                                    1
+                                                                                                                                         A01        Création de plan
+                                                                                                                                                                       1) Bavures et arêtes coupantes
+                                                                                                                                                                                                 W.Leroy
+                                                                                                                                                                                                           interdites
+                                                                                                                                                                                                          03/09/2024 L.Gallou                                                                                                          DESIGNATION / DESCRIPTION
+
+                                                                                                                                       REVISION     REV. DESCRIPTION
+                                                                                                                                                                       2) Pour les dimensions, voir  le 3D step
+                                                                                                                                                                                                 DRAWN BY    DATE
+                                                                                                                                                                                                                    associé
+                                                                                                                                                                                                                        CHECKED BY
+A                                                                                                                                                                      3) Les dimensions sont en millimètres
+                                                                                                                                                     MATERIAL : Matériau <non spécifié>
+                                                                                                                                                                       4) Pièce destinée àWEIGHT
+                                                                                                                                                                                           une: production
+                                                                                 BON POUR PROTOTYPE
+                                                                                                                                                                                                  301.83g   GEN. TOL. : ISO 2768 mK
+                                                                                                                                                                                                                  série
+                                                                                            Europe I Monde
+                                                                                                        Sca: 2:1 TREATMENT : Amérique du Nord
+                                                                                                                                                                                                                                                                                                                                       REF. NUMBER
+                                                                                                                                                                                                                                                                                            Eco-Compteur
+                                                                                                                             Sans                                                                                                                        Surface state : Ra    0.8          4, Rue Charles Bourseul - 22300 LANNION
+                                                                                 1) Bavures et arêtes coupantes interdites                                                       DESIGNATION / DESCRIPTION                                                 CODE X3
+                                                                                                                                                                                                                                                                                            Tél. 02.96.48.48.81
+                                                                                                                                                                                                                                                                                            www.eco-compteur.com
+                                                                                 2) Pour les dimensions, voir le 3D step associé
+                             4 rue Charles Bourseul I 22300 Lannion I France     3) Les dimensions sont en millimètres                                                  604-3981 Boul. St-Laurent I Montréal,
+                                                                                                                                                                                                        A     QC I H2W 1Y5 I Canada                                                                                           All rights reserved. This document is the property of Eco-Counter
+
+                                                                                 4) Pièce destinée à une production série
+          12               11             10             9            8                                                                                                 7             6             5               4           3                                                                                                                                                                                                                                               2
+                                                                                                                                                                                 REF. NUMBER
+                                                                                                                                       Eco-Compteur
+
+                                                            +33 2 96 48 48 81                                                                                           Téléphone : +1-514-849-9779 I Sans frais : 1-866-518-4404
+                                                                                                                                       4, Rue Charles Bourseul - 22300 LANNION
+                                                                                                                                       Tél. 02.96.48.48.81
+                                                                                                                                       www.eco-compteur.com
+
+                                                                                                                                                                         All rights reserved. This document is the property of Eco-Counter                           A2       1/1
+    10            9                                8                         7                      6                      5                              4                                          3                                       2                       1
+                                                                                                                 www.eco-compteur.com
+

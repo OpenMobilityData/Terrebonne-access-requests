@@ -1,0 +1,1612 @@
+=== page 1 (text layer) ===
+Avis technique
+Bonification de la Route verte
+sur la rue Notre-Dame à Montréal
+Rapport final
+Version 1
+
+
+
+
+                      Préparé pour
+
+
+
+
+                      Une réalisation de
+
+
+
+
+                                           28 mars 2024
+
+=== page 2 (text layer) ===
+                      Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Table des matières
+1.         Contexte                                                                                     3
+     1.1    Limites du mandat                                                                           3
+2.         Voies cyclables                                                                              5
+     2.1       État de la situation                                                                     5
+     2.2       Améliorations possibles                                                                 14
+3.         Intersections                                                                               20
+     3.1       Géométrie                                                                               20
+     3.2       Rue Parthenais                                                                          22
+     3.3       Rue D’Iberville                                                                         23
+
+     3.4       Rue Frontenac                                                                           24
+     3.5       Rue Alphonse-D.- Roy                                                                    27
+     3.6       Rue Davidson et av. Bourbonnière, d’Orléans et Jeanne-d’Arc                             29
+
+     3.7       Boulevard Pie-IX                                                                        33
+     3.8       Rue Viau                                                                                36
+     3.9       Rue Sainte-Catherine                                                                    38
+
+     3.10      Rue Dickson                                                                             39
+     3.11      Rue Bossuet                                                                             41
+     3.12      Rue Cadillac                                                                            43
+
+     3.13      Rue Quesne                                                                              44
+     3.14      Rue De la Longue-Pointe                                                                 45
+     3.15      Sortie du terminal de Pétroles Norcan                                                   46
+     3.16      Rue Haig                                                                                47
+     3.17      Rue de Boucherville                                                                     48
+     3.18      Rue Curatteau                                                                           49
+4.         Conclusion et recommandations                                                               50
+     4.1       Travaux urgents                                                                         50
+     4.2       À court terme                                                                           51
+     4.3       À moyen terme                                                                           52
+     4.4       Prochaines étapes                                                                       52
+
+
+
+
+                                                     VÉLO QUÉBEC                                        2
+
+=== page 3 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   1.       Contexte
+L’axe 5 de la Route verte longe le fleuve Saint-Laurent à Montréal. À l’est du centre-ville, l’itinéraire longe
+la rue Notre-Dame, de l’avenue De Lorimier jusqu’au parc de la Promenade Bellerive (rue Liebert) sur
+approximativement 8,5 km. Cette section est en piste cyclable bidirectionnelle en site propre, c’est-à-
+dire, séparée de la circulation automobile.
+
+Ce tronçon fait l’objet de plaintes fréquentes concernant la piètre qualité de certains segments de voies
+cyclables et l’insécurité des intersections. On observe un fort volume de camions lourds sur plusieurs
+rues croisées et aux entrées du Port de Montréal. Sur les autres rues, c’est le fort mouvement de virage
+des automobiles qui complexifie la traverse à vélo.
+
+D’autre part, l’aménagement global de ce tronçon de la Route verte est peu invitant.
+
+La présente analyse vise à déterminer les meilleures solutions à ces problèmes, à court et moyen terme.
+Et, dans le cadre du processus d’amélioration continue de la Route verte, à en améliorer
+l’environnement global.
+
+L’analyse a été réalisée à partir
+
+   ✓     d’observations sur le terrain le 17 octobre 2023 ;
+   ✓     de la carte interactive de la Route verte et des données de Vélo Québec ;
+   ✓     de données du MTMD ;
+   ✓     de la carte de camionnage de la Ville de Montréal ;
+   ✓     de la carte de circuits d’autobus de la STM ;
+   ✓     des images satellites et routières à 360° disponibles dans les applications Plans d’Apple et Maps
+         de Google.
+
+Afin d’alléger le texte, la géographie montréalaise a été utilisée et la rue Notre-Dame a été considérée
+comme un axe est-ouest même si elle est pratiquement nord-sud dans ce secteur. Dans la section sur
+l’état de la situation, l’orientation réelle a été précisée entre parenthèses.
+
+
+   1.1     Limites du mandat
+Vélo Québec présente ici des solutions qui ont fait l’objet d’une analyse rigoureuse. Toutefois, les
+documents soumis ne sont pas des documents d’ingénierie et ne peuvent être utilisés pour la
+réalisation de travaux de construction. La portée du présent avis n’inclut pas la conception détaillée, la
+préparation de plans et devis, ni la réalisation des calculs de faisabilité détaillés requis pour procéder
+à la construction. Les documents fournis ainsi que la faisabilité des interventions proposées, devront
+être confirmés lors de la réalisation des plans détaillés par les services du client ou par les firmes qu’il
+
+
+
+
+                                                 VÉLO QUÉBEC                                                 3
+
+=== page 4 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+mandatera, lesquelles devront respecter les dispositions spécifiques des lois et règlements applicables
+pour la réalisation des travaux projetés.
+
+
+
+
+                                               VÉLO QUÉBEC                                           4
+
+=== page 5 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   2.      Voies cyclables
+L’état de la Route verte entre l’avenue De Lorimier et le parc de la Promenade Bellerive (rue Liebert) est
+présenté en trois tronçons homogènes à la section 2.1.
+
+La section 2.2 présente les améliorations possibles pour chacun de ces trois tronçons.
+
+
+   2.1 État de la situation
+
+Du boul. René-Lévesque à la rue Sainte-Catherine
+À partir de la rue De Lorimier jusqu’au point où la rue Sainte-Catherine rejoint la rue Notre-Dame, la
+Route verte est constituée d’une piste cyclable bidirectionnelle séparée de la rue Notre-Dame par un
+trottoir et une zone végétalisée dont la largeur varie d’un mètre à une cinquantaine de mètres.
+
+Ce segment de 4,5 km est entièrement à l’écart de la circulation automobile, ce qui assure aux cyclistes
+un certain confort. Il est toutefois affecté par le bruit de la circulation très lourde et rapide. La limite de
+vitesse est fixée à 60 km/h et semble être souvent dépassée, alors que la présence de feux de
+circulation et de nombreux camions lourds entraine des freinages et accélérations bruyants. Un talus
+présent dans certaines sections pourrait diminuer le bruit, mais son effet est grandement limité par son
+éloignement de la rue Notre-Dame et par sa faible hauteur. Son retrait de la voie de circulation
+automobile rend son éclairage inconstant et sous-standard. Ce sous-éclairage peut être un frein à
+l’utilisation du vélo comme moyen de déplacement puisqu’il peut provoquer un sentiment d’insécurité.
+Un passage particulièrement insécurisant est celui entre l’avenue d’Orléans et le boulevard Pie-IX qui
+passe derrière un immeuble qui semble abandonné et un terrain vacant. L’amélioration de l’éclairage
+peut apporter un meilleur confort.
+
+La chaussée du sentier est asphaltée et en bon état dans l’ensemble. Elle mesure 3,0 m de largeur, ce
+qui est un peu étroit, d’autant plus qu’il s’agit dans les faits d’un sentier polyvalent partagé avec les
+piétons, qui ne disposent pas de sentier parallèle.
+
+
+
+
+                                                VÉLO QUÉBEC                                                  5
+
+=== page 6 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Figure 1 La largeur de 3,0 m est minimale pour une piste à deux sens de circulation   Photo Vélo Québec
+
+Les liens avec les rues qui bordent la piste du côté nord ne répondent pas aux besoins des usagers. Ils
+sont souvent trop étroits et ne constituent pas le cheminement le plus direct et naturel du sentier à la
+rue et inversement. Dans plusieurs cas, des sentiers informels ont été créés par le passage répété des
+cyclistes et des piétons, comme l’illustre la photo ci-dessous.
+
+
+
+
+Figure 2 Sentier informel vers la rue Fullum                                          Photo Vélo Québec
+
+
+
+
+                                                 VÉLO QUÉBEC                                              6
+
+=== page 7 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Selon les observations effectuées de 14h à 18h le 17 octobre, les usagers comprennent :
+
+   ✓   Une majorité de cyclistes.
+   ✓   Un nombre important de vélos électriques.
+   ✓   Quelques trottinettes électriques, planches à roulettes, patineurs et trottinettes non motorisées.
+   ✓   Une part importante de piétons.
+
+La majorité des usagers semblent effectuer des déplacements utilitaires si on en juge par leurs
+vêtements et accessoires : mallettes, sacs à dos, etc. Ils sont joints par quelques joggeurs et
+cyclosportifs.
+
+Par ailleurs, le trottoir du côté nord de la rue Notre-Dame a une dimension sous standard pour border
+une rue de ce type et est donc quasi désert, la vaste majorité des piétons préférant l’inconfort
+occasionnel de la cohabitation avec les cyclistes à la proximité des voies de circulation rapide.
+
+
+
+
+                                                VÉLO QUÉBEC                                             7
+
+=== page 8 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Figure 3 Utilisateurs de la « piste cyclable » de la rue Notre-Dame                   Photos Vélo Québec
+
+
+
+
+                                                  VÉLO QUÉBEC                                              8
+
+=== page 9 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+De la rue Sainte-Catherine à la rue Dickson (approximativement 730 m)
+À l’est (nord-nord-est géographique) du croisement des rues Sainte-Catherine et Notre-Dame, le
+sentier est séparé de la chaussée sur les premiers 250 m. Ce segment est semblable à ceux évoqués
+à la section précédente.
+
+
+
+
+Figure 4 La Route verte à l’est de l'intersection de la rue Sainte-Catherine                   Source Apple Inc.
+
+Au passage sous la voie ferrée qui desservait autrefois la Canadian Steel Foundries Limited, le trottoir
+disparaît et piétons et cyclistes sont forcés de cohabiter sur une quarantaine de mètres.
+
+
+
+
+Figure 5 Passage sous la voie ferrée desservant l'ancienne aciérie             Sources Apple Inc. et Vélo Québec
+
+
+
+
+                                                   VÉLO QUÉBEC                                                     9
+
+=== page 10 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Par la suite, un segment de 170 m est constitué d’un trottoir de béton de moins de 2,0 m de largeur
+recouvert d’asphalte. La largeur de ce segment est inférieure à la norme par au moins 1,0 m, compte
+tenu de la présence de piétons. Et seule la bordure du trottoir sépare piétons et cyclistes des véhicules
+roulant à vitesse élevée. Cette situation est inconfortable, et peut être cause de collisions graves pour
+tout cycliste qui, par distraction ou à cause d’une manœuvre d’évitement, se retrouverait face à face
+avec les véhicules sur la chaussée automobile. De plus, la bordure n’a pas de coupure nette de 150 mm
+de hauteur et n’agit plus en tant que chasse-roues. Cette bordure réduite combinée à la taille des
+véhicules routiers ne protège pas les personnes empruntant cette piste.
+
+
+
+
+Figure 6 La Route verte le long des terrains de l'ancienne Canadian Steel Foundries Limited   Photo Vélo Québec
+
+
+
+
+                                                 VÉLO QUÉBEC                                                  10
+
+=== page 11 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Sur les 280 m suivants, l’aménagement est un trottoir de béton de 3,0 m de largeur bordant
+directement la chaussée automobile. Bien qu’un peu plus confortable à cause de sa largeur, le manque
+de zone tampon de ce segment ne respecte pas les normes de séparation par rapport aux véhicules.
+De plus, la signalisation déficiente crée des situations où les cyclistes ne savent pas s’ils sont sur une
+piste ou sur un trottoir et s’ils ont la permission d’y circuler dans les deux sens.
+
+
+
+
+Figure 7 La Route verte à l'ouest de la rue Dickson                           Source Apple Inc.
+
+
+
+
+Figure 8 - Absence d'indication de la poursuite de la piste sur un trottoir - Rue Notre-Dame et entrée du 5378
+source Google
+
+
+
+
+                                                      VÉLO QUÉBEC                                           11
+
+=== page 12 (text layer) ===
+               Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+De la rue Dickson au parc de la Promenade-Bellerive (rue Liebert)
+À l’est (nord-nord-est géographique) de la rue Dickson, la Route verte revient du côté du Port de
+Montréal. Sur 2,5 km, l’aménagement est constitué tantôt d’un trottoir de béton de 3,5 m de largeur,
+tantôt d’une piste cyclable asphaltée de 3,0 m de largeur avec bordure de béton de 0,5 m de largeur.
+
+Le terre-plein de béton surmonté de lampadaires au centre de la chaussée et les arbres de part et
+d’autre de la rue donnent un caractère plus urbain et moins autoroutier à cette section de la rue Notre-
+Dame. La signalisation sur ce segment est irrégulière et non uniforme.
+
+Quelques arrêts d’autobus donnent directement dans la piste de la Route verte et ne sont pas
+conformes aux principes en accessibilité universelle.
+
+
+
+
+ Figure 9 Les deux côtés d'un même panneau - exemple d'incohérence de la signalisation          Source Google
+
+
+
+
+                                              VÉLO QUÉBEC                                                       12
+
+=== page 13 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Figure 10 La rue Notre-Dame à l'est (nord-nord-est) de la rue Clarence-Gagnon                  Source Apple Inc.
+
+À l’est (nord-nord-est géographique) de la rue de Boucherville, l’aménagement est constitué d’une
+piste cyclable bordée d’arbres de part et d’autre. Un trottoir de béton longe la chaussée.
+
+
+
+
+Figure 11 La Route verte à l'intersection de la rue Curateau                                  Source Apple Inc.
+
+
+
+
+                                                   VÉLO QUÉBEC                                                    13
+
+=== page 14 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+    2.2 Améliorations possibles
+Cette section de la Route verte est composée de voies cyclables qui ont été aménagées il y a plus de
+30 ans pour la plupart. Elles sont restées inchangées en attente d’un éventuel réaménagement de la
+rue Notre-Dame, qui a fait l’objet de nombreux projets au fil des décennies, sans jamais aboutir.
+
+La construction récente d’une voie d’accès au Port de Montréal pour les camions, avec pont
+d’étagement au-dessus de la rue Notre-Dame, est un premier jalon d’une requalification urbaine de
+cet axe.
+
+
+
+
+Figure 12 Voie d'accès au Port de Montréal                                           Photo Vélo Québec
+
+Du boul. René-Lévesque à la rue Sainte-Catherine
+Ce segment, qui constitue un maillon important de la Route verte sur le territoire montréalais, a
+également un très fort potentiel pour les déplacements utilitaires et récréatifs. Il permet un accès
+rapide et direct au centre-ville pour les citoyens des quartiers Hochelaga et Maisonneuve, qui sont par
+exemple à moins de 8 km de l’UQÀM et de l’université McGill. Ces trajets se font en une trentaine de
+minutes ou moins à vélo, compte tenu du nombre restreint d’intersections.
+
+Les principales améliorations à y apporter concernent la voie cyclable elle-même, l’aménagement
+paysager, les raccordements au quartier et la signalisation. La présence d’une zone verte dont la
+largeur excède généralement 30 mètres entre la rue Notre-Dame et les quartiers au nord a été tenue
+en compte. Actuellement, la piste cyclable, les arbres, les talus paysagés sont concentrés dans une
+bande d’une dizaine de mètres, alors qu’une plaine gazonnée d’une vingtaine de mètres borde la rue
+Notre-Dame.
+
+
+
+
+                                                VÉLO QUÉBEC                                              14
+
+=== page 15 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Cette section pourrait être réaménagée avec du sud au nord :
+
+   ✓   Un talus antibruit au plus près de la chaussée de la rue Notre-Dame pour en maximiser
+       l’efficacité.
+   ✓   Une piste cyclable de 4,0 m de largeur, pour faciliter les dépassements, avec raccordements à
+       toutes les rues nord-sud du secteur.
+   ✓   Des arbustes, arbres, jeux et autres aménagements de parc.
+   ✓   Un sentier piéton le plus près possible des zones d’habitation, pour servir de lien entre les rues
+       et avec le parc linéaire.
+
+
+
+
+Figure 13 La Route verte à Montmagny comporte une piste cyclable et un sentier piéton        Photo M. Jolicoeur
+
+Si un tel projet s’avère trop ambitieux pour être réalisé à court terme, il faudrait minimalement confirmer
+sa fonction de sentier polyvalent. Pour plus de conseils sur l’aménagement d’un sentier polyvalent et la
+cohabitation entre les piétons et les cyclistes, se référer à la fiche technique Cohabitation des piétons
+et des cyclistes sur les sentiers polyvalents produit par Vélo Québec.
+
+Minimalement agir sur :
+
+   ✓   Remplacer toute la signalisation pour tenir compte de la présence des piétons :
+           o   Ajouter des pictogrammes de piétons sur la chaussée en plus de ceux de vélo.
+           o   Ajouter des panneaux pour favoriser le partage du sentier et le respect des piétons
+
+
+
+
+                                                VÉLO QUÉBEC                                                   15
+
+=== page 16 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+                      Figure 14 Signalisation incitant à la cohabitation
+                      Grands parcs de Montréal            Photo Marc Jolicoeur
+
+    ✓   Réaménager tous les points d’accès avec les rues en bordure du parc, pour que les
+        raccordements aux trottoirs aient au moins 2,0 m de largeur et 3,0 m pour les raccordements
+        aux voies cyclables ou aux rues. Ajouter du marquage pour les cyclistes sur la rue. Dans la photo
+        qui suit, seul un sentier informel prolonge le trottoir et il n’y a pas de marquage de la bande
+        cyclable vers le sentier, seulement du sentier vers l’autre bande cyclable.
+
+
+
+
+Figure 15 Sentier informel et raccordement officiel à la rue Dézéry                          Photo Vélo Québec
+
+
+
+
+                                                  VÉLO QUÉBEC                                                16
+
+=== page 17 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Figure 16 Raccordement à la rue Saint-Clément                                       Photo Vélo Québec
+
+Le raccordement avec la piste cyclable de la rue Saint-Clément est bien fait. Cependant l’interruption
+du trottoir et le marquage destiné uniquement aux cyclistes donnent l’impression que les piétons ne
+sont pas admis dans le parc à partir de cette rue.
+
+À défaut de sentiers séparés dans l’axe de la rue Notre-Dame, le sentier existant doit être signalisé
+comme accessible aux piétons et aux cyclistes. Les raccordements vers le trottoir et la rue peuvent être
+combinés, mais il serait préférable de les séparer dès maintenant, en vue de l’éventuel aménagement
+d’un sentier piéton et d’une piste cyclable séparée. Par exemple ici, on pourrait aménager un sentier
+piéton dans le prolongement du trottoir, à la gauche de la section de piste cyclable.
+
+
+
+
+                                                VÉLO QUÉBEC                                             17
+
+=== page 18 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+De la rue Sainte-Catherine à la rue Dickson
+La modernisation de ce segment est une priorité absolue, pour mettre fin à l’insécurité et à la laideur
+auxquelles sont confrontés les piétons et les cyclistes depuis plus de trente ans.
+
+À court terme, un sentier polyvalent pourrait être aménagé à même la bande verte qui longe la rue
+Notre-Dame et la zone occupée par un stationnement à l’angle de la rue Dickson. Le tout nécessiterait
+l’acquisition de terrains ou de servitudes auprès des propriétaires privés si la Ville ne dispose pas d’une
+emprise suffisante le long de la rue Notre-Dame. Ceci solutionnerait de la sorte un problème de sécurité
+et d’inconfort pour les piétons et les cyclistes, qui se partagent actuellement un trottoir de moins de 2,0
+m de largeur à la chaussée en mauvais état.
+
+
+
+
+Figure 17 Segment de la Route verte qui doit être réaménagé en priorité              Source Apple Inc.
+
+À plus long terme, il faut inscrire le réaménagement de la Route verte dans le cadre de tout projet de
+réaménagement urbain de ce secteur, idéalement en conservant une bande verte d’une cinquantaine
+de mètres le long de la rue Notre-Dame.
+
+
+
+
+                                                VÉLO QUÉBEC                                              18
+
+=== page 19 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+De la rue Dickson au parc de la Promenade-Bellerive (rue Liebert)
+Cette section est la seule où la rue Notre-Dame a fait l’objet d’un réaménagement majeur.
+
+À court terme :
+
+   ✓   Abaisser la limite de vitesse à 50 km/h, en phase avec le caractère de la rue.
+   ✓   Clarifier l’utilisation du trottoir en piste cyclable bidirectionnelle avec du marquage et de la
+       signalisation écrite (de la rue Dickson à la sortie du terminal des Pétroles Norcan).
+   ✓   Assurer l’uniformité de la signalisation
+
+À long terme, une séparation physique plus importante que la bordure de 150 mm de trottoir
+permettrait de mieux sécuriser les déplacements à vélo sur cette bidirectionnelle aux endroits où il n’y
+a pas de banquette.
+
+
+
+
+                                                 VÉLO QUÉBEC                                          19
+
+=== page 20 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+    3.      Intersections
+
+    3.1 Géométrie
+Les abords de la plupart des intersections de cette section de la Route verte comportent une géométrie
+similaire, où la piste cyclable qui est en retrait de la rue Notre-Dame se rabat vers l’intersection avec
+un angle assez fort. Cette géométrie amène les cyclistes à déborder vers les voies de circulation de la
+rue Notre-Dame. Les cyclistes qui se dirigent vers l’est sont déportés hors du passage piéton, face aux
+véhicules qui peuvent tourner à droite. Ces trajectoires qui se croisent alors que les cyclistes sont
+penchés pour effectuer leur virage sont source d’insécurité. Les cyclistes qui se dirigent vers l’ouest pour
+leur part apparaissent aux conducteurs de véhicules à la dernière minute.
+
+
+
+
+Figure 18 Cyclistes qui débordent vers les voies de circulation, rue Alphonse-D.-Roy        Photo Vélo Québec
+
+La solution à ce problème consiste à ramener la piste à proximité de la rue Notre-Dame et parallèle à
+celle-ci sur une vingtaine de mètres avant l’intersection. Au besoin, on forcera les cyclistes à ralentir à
+l’aide d’une chicane sans barrières constituée de deux virages rapprochés menant à la section
+parallèle à la rue Notre-Dame.
+
+Advenant l’aménagement d’un sentier piéton parallèle à la piste cyclable, le passage piéton et le
+passage vélo seraient parallèles, le passage vélo étant le plus près de la rue Notre-Dame.
+
+
+
+
+                                                 VÉLO QUÉBEC                                                20
+
+=== page 21 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+                 Figure 19 Chicane à l'approche d'un croisement.               ©Vélo Québec
+
+Chaussée
+
+Les abords de la plupart des intersections comportent une section de pavés pour alerter les cyclistes.
+Cette conception très en vogue dans les années 1990 est à la fois peu efficace et source de perte de
+contrôle lorsque la chaussée de pavés est déformée.
+
+La solution simple à ce problème consiste à conserver une chaussée d’asphalte jusqu’au trottoir
+lorsque la géométrie des approches sera corrigée comme recommandé au point précédent.
+
+
+
+
+Figure 20 Chaussée de pavés avec déformation en bordure de trottoir                     Photo Vélo Québec
+
+
+
+
+                                               VÉLO QUÉBEC                                                  21
+
+=== page 22 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+    3.2 Rue Parthenais
+La rue Parthenais comporte une voie de circulation par direction à l’intersection du boulevard René-
+Lévesque. Le camionnage y est interdit et il n’y a pas de circuit d’autobus. Le stationnement et l’arrêt
+sont interdits en tout temps des deux côtés aux abords de l’intersection.
+
+Le boulevard René-Lévesque, qui diverge de la rue Notre-Dame à une centaine de mètres à l’est de
+l’intersection, est à sens unique vers l’ouest et comporte trois voies de circulation. Le stationnement
+comme l’arrêt y sont interdits en tout temps des deux côtés de part et d’autre de l’intersection.
+
+Le virage à droite du boulevard René-Lévesque vers la rue Parthenais est en conflit avec la trajectoire
+des cyclistes. Il y a des feux piétons et une phase piétonne semi-protégée systématique à tous les
+cycles avec une avance flèche. Il n’y a pas de feu vélo. Les cyclistes doivent suivre le feu de circulation
+routière.
+
+
+
+
+Figure 21 Intersection de la rue Parthenais et du boul. René-Lévesque                         Source Apple Inc.
+
+Améliorations possibles
+Le marquage de l’intersection est à revoir afin d’y ajouter un passage pour cyclistes entre la ligne d’arrêt
+et le passage pour piétons.
+
+De plus, comme la rue Parthenais est une rue locale, la priorité pourrait être donnée aux piétons et aux
+cyclistes en aménageant un trottoir et une piste cyclable traversants, c’est-à-dire qui restent au même
+
+
+
+
+                                                 VÉLO QUÉBEC                                                  22
+
+=== page 23 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+niveau. Les véhicules devraient monter sur cet aménagement, comme ils le font sur un dos-d’âne
+allongé.
+
+
+    3.3 Rue D’Iberville
+La rue D’Iberville est un sens unique vers le sud et comporte 4 voies au croisement de la rue Notre-
+Dame : deux pour le virage à droite, deux pour le virage à gauche. Le circuit d’autobus 94 D’Iberville ne
+se rend pas jusqu’à la rue Notre-Dame. Cependant les camions sont permis en tout temps.
+
+Les piétons et les cyclistes qui traversent la rue D’Iberville doivent suivre les indications du feu tricolore
+de la rue Notre-Dame, puisqu’il n’y a ni feu de piétons ni feu de cyclistes. Ils disposent donc du même
+temps de feu vert que les automobilistes circulant en direction ouest sur Notre-Dame.
+
+
+
+
+Figure 22 Rue D'Iberville à l'intersection de la rue Notre-Dame                               Source Apple Inc.
+
+Améliorations possibles
+Lorsque le feu est vert pour les piétons et les cyclistes au croisement de la rue D’Iberville, il n’y a aucun
+conflit possible avec les véhicules qui sont tous au rouge sur la rue D’Iberville. Malgré sa largeur, cette
+intersection est donc sécuritaire pour les cyclistes.
+
+Les améliorations possibles concernent les approches de l’intersection.
+
+    ✓   Ramener la chaussée de la piste cyclable parallèle à celle de la rue Notre-Dame et aménager
+        la descente de trottoir dans l’axe de la piste plutôt qu’à 45° avec la rue comme c’est le cas en
+        ce moment faciliterait la traversée de la rue à vélo.
+    ✓   Supprimer la section de pavés à l’approche de l’intersection.
+    ✓   Ajouter des feux piétons avec décompte numérique.
+
+
+
+                                                  VÉLO QUÉBEC                                                 23
+
+=== page 24 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   ✓      Revoir le marquage afin d’y ajouter un passage pour cyclistes entre la ligne d’arrêt et le passage
+          pour piétons.
+
+Pour les piétons, l’ajout d’un îlot refuge entre les voies de virage à gauche et les voies de virage à droite
+permettrait une traversée plus courte en cas où des personnes à mobilité réduite sous-estimerait leur
+temps de traverser. Ceci impliquerait toutefois un réaménagement important de l’intersection, à moins
+de sacrifier une des voies.
+
+
+   3.4 Rue Frontenac
+La rue Frontenac est un sens unique vers le nord et comporte 4 voies au croisement de la rue Notre-
+Dame :
+
+   ✓      Hors pointe le stationnement est permis des deux côtés et il y a deux voies de circulation.
+   ✓      En période de pointe, le stationnement est permis d’un côté et il y a trois voies de circulation.
+
+Il n’y a pas de circuit d’autobus sur cette section de la rue, mais les camions sont permis en tout temps.
+
+La rue Notre-Dame comporte 3 voies par direction, plus deux voies de virage à gauche pour faciliter le
+virage vers la rue Frontenac, qui se fait uniquement lorsque le feu est rouge en direction ouest sur la
+rue Notre-Dame. Il est à noter que moins de 150 m à l’est de la rue Frontenac, la rue Notre-Dame
+comporte uniquement deux voies par direction.
+
+Du côté est de la rue Frontenac, la piste cyclable approche l’intersection à 45°, ce qui amène la
+trajectoire des cyclistes à déborder vers les voies de la rue Notre-Dame. Et jusqu’à une dizaine de
+mètres de l’intersection, cyclistes et conducteurs sont masqués les uns des autres par un talus et des
+arbres.
+
+
+
+
+                                                 VÉLO QUÉBEC                                                  24
+
+=== page 25 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Figure 23 Intersection des rues Frontenac et Notre-Dame                                     Source Google Inc.
+
+Les piétons qui traversent la rue Frontenac disposent de 9 secondes de feu vert protégé (flèche verte
+tout droit pour les véhicules), suivies d’une période variable de plein feu vert où la trajectoire des
+véhicules virant à droite à partir de la rue Notre-Dame croise leur trajectoire. Les cyclistes doivent suivre
+les indications du feu tricolore. Ils bénéficient des mêmes 9 secondes de feu vert protégé et ont la
+même contrainte de croisement de trajectoire avec les véhicules virant vers la rue Frontenac.
+
+Le feu est rouge pour les piétons et les cyclistes lorsqu’il est vert pour les véhicules qui virent à gauche
+de la rue Notre-Dame vers la rue Frontenac. Il n’y a pas de conflit de trajectoire dans ce cas.
+
+Il y a un bouton-poussoir pour activer une phase piétonne qui permet de traverser la rue Notre-Dame.
+
+
+
+
+                                               VÉLO QUÉBEC                                                  25
+
+=== page 26 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Figure 24 Rue Frontenac à l'intersection de la rue Notre-Dame                                 Source Apple Inc.
+
+Améliorations possibles
+Ajouter des avancées de trottoir diminuerait la longueur du passage pour piétons et cyclistes, sans
+affecter la capacité de l’intersection.
+
+Les autres améliorations possibles concernent les approches de l’intersection.
+
+   ✓   Ramener la chaussée de la piste cyclable parallèle à celle de la rue Notre-Dame du côté est de
+       l’intersection et aménager la descente de trottoir dans l’axe de la piste plutôt qu’à 45° avec la
+       rue comme c’est le cas en ce moment, pour faciliter la traversée de la rue à vélo.
+   ✓   Supprimer la section de pavés à l’approche de l’intersection.
+   ✓   Raccourcir le talus pour offrir une meilleure visibilité.
+   ✓   Revoir le marquage afin d’y ajouter un passage pour cyclistes juxtaposé au passage pour
+       piétons.
+
+
+
+
+                                                 VÉLO QUÉBEC                                                  26
+
+=== page 27 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.5 Rue Alphonse-D.- Roy
+La rue Alphonse-D.-Roy dessert un petit secteur industriel au nord de la rue Notre-Dame. Les camions
+y sont permis en tout temps. La chaussée de 12 m de largeur comporte une seule voie par direction.
+L’arrêt est interdit des deux côtés de la rue sur 30 m à partir de la rue Notre-Dame. En direction sud cela
+permet à deux voitures de circuler côte à côte lorsqu’une tourne à droite et l’autre à gauche. À cause
+de leur largeur, les camions peuvent difficilement en faire autant.
+
+Le rayon de trottoir au quadrant nord-est (nord-ouest géographique) est très grand, et de ce fait le
+passage piéton a plus de 22 m de longueur, soit 10 m de plus que la largeur de la chaussée en section
+courante. Ce large rayon permet aux camions provenant de la rue Notre-Dame de tourner à droite à
+une vitesse plus élevée.
+
+Les piétons qui traversent la rue Alphonse-D.-Roy disposent de 9 secondes de feu vert protégé (flèche
+verte tout droit pour les véhicules), suivies d’une période variable de plein feu vert où la trajectoire des
+véhicules virant à droite à partir de la rue Notre-Dame croise leur trajectoire. Les cyclistes doivent suivre
+les indications du feu tricolore. Ils bénéficient des mêmes 9 secondes de feu vert protégé et ont la
+même contrainte de croisement de trajectoire avec les véhicules virant vers la rue Alphonse-D.-Roy.
+
+Le feu est rouge pour les piétons et les cyclistes lorsqu’il est vert pour les véhicules qui virent à gauche
+de la rue Notre-Dame vers la rue Alphonse-D.-Roy. Il n’y a pas de conflit de trajectoire dans ce cas.
+
+
+
+
+Figure 25 Rue Alphonse-D.- Roy à l'intersection de la rue Notre-Dame                         Source Apple Inc.
+
+
+
+
+                                                VÉLO QUÉBEC                                                  27
+
+=== page 28 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Améliorations possibles
+Le confort et la sécurité des piétons et des cyclistes sont affectés à cette intersection par les véhicules
+virant à droite à partir de la rue Notre-Dame. Une solution pour améliorer cette situation consisterait à
+reculer la ligne d’arrêt de la rue Alphonse-D.- Roy et déplacer le passage des piétons et des cyclistes à
+une douzaine de mètres en amont de la rue Notre-Dame, ce qui
+
+   ✓   diminuerait la longueur du passage à moins de 15 m contre 22 actuellement;
+   ✓   éviterait la trajectoire en courbe des cyclistes, qui les amène presque face à face avec les
+       véhicules dans la voie de droite sur la rue Notre-Dame;
+   ✓   permettrait à un conducteur de s’arrêter pour laisser passer un piéton ou un cycliste sans que
+       son véhicule bloque la voie de droite sur la rue Notre-Dame.
+Une chicane constituée de deux virages rapprochés tout juste avant l’intersection (Erreur! Source du r
+envoi introuvable.) diminuerait la vitesse des cyclistes provenant de l’est.
+
+
+
+
+                                               VÉLO QUÉBEC                                               28
+
+=== page 29 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.6 Rue Davidson et av. Bourbonnière, d’Orléans et Jeanne-d’Arc
+
+Rue Davidson
+La rue Davidson est bordée d’édifices résidentiels de 3 étages ou plus. Seul le segment entre les rues
+Notre-Dame et Sainte-Catherine est à double sens. Au nord elle est à sens unique pour les voitures,
+mais à double sens pour les cyclistes grâce à une bande cyclable. Les rayons de trottoir sont de l’ordre
+de 3 m, ce qui limite la vitesse des véhicules en virage.
+
+Les camions y sont interdits sauf pour livraison. La chaussée de 11 m de largeur comporte une seule voie
+par direction. Le stationnement est permis des deux côtés, sauf à l’approche de la rue Notre-Dame, ce
+qui permet à deux voitures de circuler côte à côte lorsqu’une tourne à droite et l’autre à gauche.
+
+Les piétons qui traversent la rue Davidson disposent de 9 secondes de feu vert protégé (flèche verte
+tout droit pour les véhicules), suivies d’une période variable de plein feu vert où la trajectoire des
+véhicules virant à droite à partir de la rue Notre-Dame croise leur trajectoire. En vertu du panneau P-285
+sous le feu piéton, les cyclistes doivent suivre les indications du feu piéton. Ils bénéficient donc des
+mêmes 9 secondes de feu vert protégé et ont la même contrainte de croisement de trajectoire avec
+les véhicules virant vers la rue Davidson.
+
+Le feu est rouge pour les piétons et les cyclistes lorsqu’il est vert pour les véhicules qui virent à gauche
+de la rue Notre-Dame vers la rue Davidson. Il n’y a pas de conflit de trajectoire dans ce cas.
+
+Un chemin informel est présent à 30 mètres au nord de l’intersection. L’attrait de ce chemin est qu’il
+permet aux piétons et cyclistes de traverser en réduisant leur distance et en évitant la contrainte des
+feux de circulation. Ce chemin n’est pas signalé.
+
+
+
+
+Figure 26 Rue Davidson à l'intersection de la rue Notre-Dame                                 Source Apple Inc.
+
+
+
+                                                VÉLO QUÉBEC                                                  29
+
+=== page 30 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Avenue Bourbonnière
+L’avenue Bourbonnière était autrefois une rue collectrice à deux voies de circulation à sens unique vers
+le nord, reliant la rue Notre-Dame et le boulevard Rosemont. Différentes interventions l’ont ramenée au
+statut de rue locale : mise en place d’une piste cyclable bidirectionnelle du côté ouest, abaissement de
+la limite de vitesse à 30 km/h, saillies de trottoir à plusieurs intersections. Les camions y sont interdits
+en tout temps. Au croisement de la rue Notre-Dame, la chaussée comporte l’équivalent de 4 voies de
+circulation. Toutefois le stationnement est permis des deux côtés de la chaussée, sauf pour une période
+hebdomadaire de 2h pour le nettoyage.
+
+L’intersection avec la rue Notre-Dame est contrôlée par un feu de circulation. En direction est, une voie
+de virage à gauche facilite l’accès à l’avenue Bourbonnière.
+
+Le croisement de la piste cyclable est environ 35 m au nord de la rue Notre-Dame et est indiqué par un
+marquage jaune au sol, avec pictogramme vélo et chevrons dans les deux directions et de la
+signalisation écrite.
+
+Avenue d’Orléans
+L’avenue d’Orléans est une rue locale à sens unique vers le sud à une seule voie de circulation. Les
+camions y sont interdits en tout temps. Les véhicules qui empruntent ce segment de rue sont forcés de
+tourner à droite vers le centre-ville à la rue Notre-Dame. Des saillies de trottoir à l’intersection de la rue
+Sante-Catherine modèrent la circulation et renforcent le caractère local de la rue.
+
+Le croisement de la piste cyclable est environ 40 m au nord de la rue Notre-Dame et est indiqué par un
+marquage jaune au sol, avec pictogramme vélo et chevrons dans les deux directions et signalisation
+écrite.
+
+
+
+
+Figure 27 Croisement de la Route verte et de l’avenue d'Orléans                                    Source
+Apple Inc.
+
+
+
+
+                                                VÉLO QUÉBEC                                                 30
+
+=== page 31 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Avenue Jeanne-d’Arc
+L’avenue Jeanne-d’Arc est une rue locale à deux voies de circulation. Les camions y sont interdits en
+tout temps. Les véhicules qui empruntent ce segment de rue vers le sud sont forcés de tourner à droite
+vers le centre-ville à la rue Notre-Dame. À partir de la rue Notre-Dame, seuls les véhicules en direction
+ouest peuvent accéder à l’avenue Jeanne-d’Arc. Des saillies de trottoir à l’intersection de la rue Sainte-
+Catherine modèrent la circulation et renforcent le caractère local de la rue.
+
+Le croisement de la piste cyclable est environ 50 m au nord de la rue Notre-Dame et est indiqué par un
+marquage jaune au sol, avec pictogramme vélo et chevrons dans les deux directions et de la
+signalisation écrite.
+
+
+
+
+Figure 28 Croisement de la Route verte et de l’avenue Jeanne-d’Arc                           Source Apple Inc.
+
+
+
+
+                                                VÉLO QUÉBEC                                                      31
+
+=== page 32 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Améliorations possibles
+Au croisement de la Route verte et des rues Davidson, Bourbonnière, d’Orléans et Jeanne-d’Arc, le
+confort et la sécurité des piétons et des cyclistes seraient grandement améliorés par un aménagement
+du même type que ceux présents aux croisements de la promenade Luc-Larivée et des avenues
+Charlemagne et d’Orléans, avec des avancées de trottoirs et un passage surélevé.
+
+Le croisement de la rue Davidson serait éloigné de 30 m par rapport à la rue Notre-Dame, ce qui
+éliminerait les interactions avec les véhicules en virage et confirmerait le passage informel déjà
+présent.
+
+
+
+
+Figure 29 Croisement de la promenade Luc-Larivée et de l'avenue Charlemagne                 Source Apple Inc.
+
+À court terme, l’aménagement récent sur l’av. Bourbonnière est fonctionnel à défaut d’être esthétique.
+Sur les avenues d’Orléans et Jeanne-d’Arc, un aménagement plus léger à l’aide de délinéateurs et de
+bacs à fleurs suffirait (voir l’exemple de l'intersection des rues Chabot et Tillemont plus bas).
+
+
+
+
+                                               VÉLO QUÉBEC                                                  32
+
+=== page 33 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Figure 30 Croisement de l'avenue Bourbonnière                                               Photo Vélo Québec
+
+
+
+
+Figure 31 Saillies de trottoir transitoires à l'intersection des rues Chabot et Tillemont          Source Apple Inc.
+
+
+    3.7 Boulevard Pie-IX
+Le boulevard Pie-IX est une artère majeure qui comporte trois voies de circulation par direction au nord
+de la rue Notre-Dame. C’est une route de camionnage qui dessert une entrée importante du Port de
+Montréal. C’est également l’axe emprunté par les circuits de bus 139 et 439.
+
+L’intersection du boulevard Pie-IX et de la rue Notre-Dame est optimisée pour la circulation des
+véhicules, notamment des camions. En direction sud, il y a deux voies pour le virage à droite, un îlot
+séparateur très étroit et une voie pour le virage à gauche. En direction nord, la chaussée de 11 m de
+largeur comporte 3 voies. Le terre-plein central fait environ un mètre de largeur.
+
+Les deux artères sont bordées de trottoirs de 1,8 m de largeur. À cause du très grand rayon du trottoir
+au quadrant nord-ouest (sud-ouest géographique), le passage piéton, que les cyclistes circulant sur
+la Route verte doivent emprunter, a 30 m de longueur. La rue doit être traversée en un temps, l’îlot
+séparant les voies sud et le terre-plein central étant trop étroits pour être considéré comme des refuges
+pour les piétons ou les cyclistes.
+
+Entre l’avenue Jeanne-d’Arc et le boulevard Pie-IX, la piste cyclable passe du côté nord d’un
+stationnement qui borde la rue Notre-Dame et bifurque vers le sud entre ce même stationnement et le
+trottoir du boulevard Pie-IX. Les cyclistes doivent faire un virage à 90° pour accéder au passage piéton.
+À l’est de l’intersection (nord géographique), la piste s’éloigne de la rue Notre-Dame avec un angle de
+plus de 45°, pour contourner le parc à chiens Wolfred-Nelson.
+
+
+
+
+                                                    VÉLO QUÉBEC                                                    33
+
+=== page 34 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Figure 32 Boulevard Pie-IX à l'intersection de la rue Notre-Dame                             Source Apple Inc.
+
+
+
+
+Figure 33 Intersection du boulevard Pie-IX et de la rue Notre-Dame                           Source Apple Inc.
+
+
+                                                 VÉLO QUÉBEC                                                 34
+
+=== page 35 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+Améliorations possibles
+Ramener la chaussée de la piste cyclable parallèle à celle de la rue Notre-Dame du côté est de
+l’intersection et aménager la descente de trottoir dans l’axe de la piste plutôt qu’à 45° avec la rue
+comme c’est le cas en ce moment faciliterait la traversée de la rue à vélo. De la sorte,
+
+   ✓   Les cyclistes traversant la rue Pie-IX en direction est n’auraient pas à ralentir avant de quitter la
+       chaussée de la rue
+   ✓   Les cyclistes circulant vers l’ouest seraient ralentis à l’approche de l’intersection par les virages
+       à près de 90° requis pour contourner le parc à chiens Wolfred-Nelson.
+
+Aménager au centre de l’intersection un refuge pour les piétons et les cyclistes semblable à celui à
+l’intersection de la rue Christophe-Colomb et du boul. Henri-Bourassa.
+
+Revoir le marquage afin d’y ajouter un passage pour cyclistes entre la ligne d’arrêt et le passage pour
+piétons et ainsi signaler la présence de cyclistes.
+
+
+
+
+Figure 34 Refuge pour piétons et cyclistes à l'intersection Christophe-Colomb / Henri-Bourassa Source Apple Inc.
+
+
+
+
+                                                VÉLO QUÉBEC                                                   35
+
+=== page 36 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+    3.8 Rue Viau
+Au nord de la rue Notre-Dame, la rue Viau est bordée d’édifices résidentiels de 2 à 3 étages. Les camions
+sont interdits sauf pour livraison entre les rues Notre-Dame et Ontario. La chaussée de 13,5 m de largeur
+comporte une seule voie par direction. Le stationnement est permis des deux côtés, sauf à l’approche
+de la rue Notre-Dame, ce qui permet à deux voitures de circuler côte à côte lorsqu’une tourne à droite
+et l’autre à gauche. Au sud de l’intersection, la rue Viau devient une entrée pour deux terminaux du Port
+de Montréal.
+
+À cause des très grands rayons de trottoir de part et d’autre de la rue Viau, le passage piéton, que les
+cyclistes circulant sur la Route verte doivent emprunter, a 21 m de longueur.
+
+Dans l’axe de la Route verte, les piétons qui traversent la rue Viau disposent de 9 secondes de feu vert
+protégé (flèche verte tout droit pour les véhicules), suivies d’une période variable (14 à 24 secondes)
+de plein feu vert où la trajectoire des véhicules virant à droite à partir de la rue Notre-Dame croise leur
+trajectoire. Les cyclistes doivent suivre les indications du feu tricolore. Ils bénéficient des mêmes
+9 secondes de feu vert protégé et ont la même contrainte de croisement de trajectoire avec les
+véhicules virant vers la rue Viau.
+
+
+
+
+Figure 35 Rue Viau à l'intersection de la rue Notre-Dame                                     Source Apple Inc.
+
+Améliorations possibles
+Ramener la chaussée de la piste cyclable parallèle à celle de la rue Notre-Dame du côté est de
+l’intersection et aménager la descente de trottoir dans l’axe de la piste plutôt qu’à 45° avec la rue
+comme c’est le cas en ce moment. De la sorte,
+
+    ✓   Les cyclistes traversant la rue Pie-IX en direction est n’auraient pas à ralentir avant de quitter la
+        chaussée de la rue.
+
+
+
+
+                                                 VÉLO QUÉBEC                                                 36
+
+=== page 37 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   ✓   Les cyclistes circulant vers l’ouest seraient ralentis à l’approche de l’intersection par les virages
+       serrés requis pour ramener la piste parallèle à la rue Notre-Dame.
+
+Aménager au centre de l’intersection un refuge pour les piétons et les cyclistes semblable à celui à
+l’intersection de la rue Christophe-Colomb et du boul. Henri-Bourassa (voir Figure 34).
+
+Revoir le marquage afin d’y ajouter un passage pour cyclistes entre la ligne d’arrêt et le passage pour
+piétons.
+
+
+
+
+                                               VÉLO QUÉBEC                                                37
+
+=== page 38 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.9 Rue Sainte-Catherine
+La rue Sainte-Catherine se rabat vers le sud à l’est de la rue Vimont et forme une intersection en T avec
+la rue Notre-Dame. Le segment entre la rue Vimont et la rue Notre-Dame est bordé à l’est (nord
+géographique) par le centre de soins prolongés Grace Dart. Le circuit de bus 34 Sainte-Catherine se
+termine à cette intersection. Les camions sont interdits sauf pour livraison.
+
+La chaussée de 16 m de largeur comporte deux voies par direction. Le stationnement est interdit des
+deux côtés. En direction sud, la voie de virage à droite est séparée de la voie de virage à gauche par un
+îlot. Le passage piéton entre le quadrant nord-ouest (sud-ouest géographique) et l’îlot a 6 m de
+longueur, alors que celui entre l’îlot et le quadrant nord-est a 15 m de longueur.
+
+Dans l’axe de la Route verte, les piétons qui traversent la rue Sainte-Catherine disposent de 9 secondes
+de feu vert protégé (flèche verte tout droit pour les véhicules), suivies d’une période variable (14 à 29
+secondes) de plein feu vert où la trajectoire des véhicules virant à droite à partir de la rue Notre-Dame
+croise leur trajectoire. En vertu du panneau P-285 sous le feu piéton, les cyclistes doivent suivre les
+indications du feu piéton. Ils bénéficient donc des mêmes 9 secondes de feu vert protégé et ont la
+même contrainte de croisement de trajectoire avec les véhicules virant vers la rue Sainte-Catherine.
+
+
+
+
+Figure 36 Rue Sainte-Catherine à l'intersection de la rue Notre-Dame                         Source Apple Inc.
+
+Améliorations possibles
+Afin de limiter la longueur des passages pour piétons et cyclistes, l’intersection pourrait être
+réaménagée en réduisant les rayons actuels de trottoir (15 m et 7 m) à 5 m, en supprimant l’îlot actuel,
+en conservant une seule voie en direction nord (ouest géographique) et en aménageant la descente
+de trottoir dans l’axe de la piste. Le marquage pourrait être renforcé par des symboles vélos et
+chevrons, les cyclistes étant plus nombreux que les piétons à cet endroit.
+
+
+
+
+                                                VÉLO QUÉBEC                                                  38
+
+=== page 39 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+    3.10 Rue Dickson
+La rue Dickson est une artère et une route de camionnage dont l’importance a considérablement
+diminué à l’intersection de la rue Notre-Dame depuis la mise en service d’une voie d’accès au port
+avec pont d’étagement au-dessus de la rue Notre-Dame (voir Figure 12). Le circuit de bus 22 Notre-
+Dame passe par la rue Dickson pour rejoindre la station de métro L’Assomption.
+
+L’intersection des rues Dickson et Notre-Dame est optimisée pour la circulation des camions. En
+direction sud, il y a deux voies pour le virage à droite, un îlot séparateur suffisamment grand pour servir
+de refuge aux piétons et à un ou deux cyclistes, et une voie pour le virage à gauche. En direction nord,
+la chaussée de 11 m de largeur comporte 3 voies. Le terre-plein central fait environ un mètre de largeur.
+
+À cette intersection, la Route verte change de côté de la rue Notre-Dame. Les cyclistes qui y circulent
+doivent traverser du coin nord-ouest (sud-ouest géographique) au coin sud-est (nord-est). Cette
+manœuvre doit se faire en deux temps : traversée de la rue Notre-Dame, puis de la rue Dickson. Entre
+ces deux phases, les cyclistes doivent attendre le feu vert sur la chaussée sans espace réservé, ou
+démonter de vélo et attendre sur le trottoir. Les habitués utilisent plutôt la phase toutes directions pour
+les piétons pour traverser l’intersection en diagonale. Bien qu’officiellement interdite par le Code de la
+sécurité routière, cette manœuvre est à la fois nettement plus efficace (traversée en un seul temps,
+sans attente intermédiaire) et sécuritaire (absence de conflit avec les véhicules).
+
+
+
+
+Figure 37 Cycliste attendant le feu vert, à l'intersection des rues Dickson Notre-Dame       Source Apple Inc.
+
+
+
+
+                                                 VÉLO QUÉBEC                                                 39
+
+=== page 40 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+              Figure 38 Intersection des rues Dickson et Notre-Dame            Source Apple Inc.
+
+Améliorations possibles
+Cette intersection pourrait être reconfigurée pour améliorer la sécurité et le confort des cyclistes. La
+diminution vraisemblable du débit de camions qui y transitent depuis l’ouverture du nouvel accès au
+Port permet de remettre en question certaines caractéristiques actuelles : double voie de virage à
+gauche sur la rue Notre-Dame, double voie de virage à droite et immense rayon de trottoir (± 100 m)
+sur la rue Dickson en direction sud et présence de 3 voies en direction nord sur la rue Dickson. En
+réduisant l’espace occupé par ces voies, on pourrait notamment
+
+   ✓   agrandir le refuge actuel.
+   ✓   Aménager un refuge pour les cyclistes au quadrant sud-ouest (sud-est géographique), pour
+       faciliter la traversée en deux temps.
+   ✓   Ajouter une signalisation et un marquage vert sur la chaussée pour faciliter le repérage de la
+       manœuvre à effectuer.
+   ✓   Officialiser la traverse en diagonale pour rejoindre la piste des deux côtés.
+
+
+
+                                               VÉLO QUÉBEC                                            40
+
+=== page 41 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.11 Rue Bossuet
+La rue Bossuet donne accès à un stationnement au sud de la rue Notre-Dame (est géographique)
+comportant environ 200 places réservées aux employés du Port de Montréal et à une entrée secondaire
+du Port contrôlée par des barrières. Une station-service pour camions occupe le quadrant sud-ouest
+(sud-est géographique) de l’intersection.
+
+La trajectoire des piétons et des cyclistes qui circulent sur la Route verte est en conflit avec celle des
+véhicules qui tournent à gauche et à droite de la rue Notre-Dame à la rue Bossuet et de façon encore
+plus marquée avec la trajectoire des camions qui accèdent à la station-service.
+
+Les piétons qui traversent la rue Bosuet disposent de 9 secondes de feu vert protégé (flèche verte tout
+droit pour les véhicules), suivies d’une période variable de plein feu vert où la trajectoire des véhicules
+virant à droite à partir de la rue Notre-Dame croise leur trajectoire. En vertu du panneau P-285 sous le
+feu piéton, les cyclistes doivent suivre les indications du feu piéton. Ils bénéficient donc des mêmes 9
+secondes de feu vert protégé et ont la même contrainte de croisement de trajectoire avec les véhicules
+virant vers la rue l’accès au stationnement.
+
+Le feu est vert pour les piétons et les cyclistes lorsqu’il est vert pour les véhicules qui virent à gauche de
+la rue Notre-Dame vers l’accès au stationnement. Il y a donc conflit de trajectoire dans ce cas.
+
+
+
+
+Figure 39 Intersection des rues Bossuet et Notre-Dame                                       Source Apple Inc.
+
+
+
+
+                                               VÉLO QUÉBEC                                                      41
+
+=== page 42 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+
+
+Figure 40 Entrée de la station-service à l’intersection des rues Bossuet et Notre-Dame       Source Apple Inc.
+
+Améliorations possibles
+À court terme, il est nécessaire d’améliorer la sécurité à l’entrée de la station-service :
+
+    ✓   Raccourcir l’entrée d’au moins 10 m du côté est (nord géographique), pour minimiser la
+        longueur de la zone de conflit.
+    ✓   Effectuer un marquage vert sur la chaussée, quitte à remplacer le revêtement de béton par de
+        l’asphalte, pour rehausser la visibilité de la voie cyclable pour les conducteurs de camions.
+
+À l’intersection de la rue Bossuet, il serait pertinent d’ajouter une interdiction de virage à gauche qui ne
+possède pas de voie auxiliaire vers l’accès au stationnement (il y a une alternative à la rue Cadillac) et
+d’augmenter la visibilité du passage pour cyclistes par l’ajout d’un revêtement vert sur la chaussée.
+
+
+
+
+                                                 VÉLO QUÉBEC                                                 42
+
+=== page 43 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+    3.12 Rue Cadillac
+À l’intersection de la rue Cadillac, il y a une entrée de stationnement du côté sud (est géographique)
+de la rue Notre-Dame. C’est l’accès à ce stationnement à privilégier pour les conducteurs arrivant de
+l’est, puisque le virage à gauche se fait à partir d’une voie auxiliaire, alors qu’une telle voie n’est pas
+aménagée à l’intersection de la rue Bossuet où se situe l’autre entrée du stationnement.
+
+La trajectoire des piétons et des cyclistes qui circulent sur la Route verte est en conflit uniquement avec
+celle des véhicules qui tournent à droite de la rue Notre-Dame à la rue Cadillac puisque le virage à
+gauche est exclusif.
+
+Les piétons ne peuvent traverser l’accès du stationnement puisqu’une signalisation l’interdit. Les
+cyclistes, eux, peuvent traverser la rue Cadillac et disposent de 9 secondes de feu vert protégé (flèche
+verte tout droit pour les véhicules), suivies d’une période variable de plein feu vert où la trajectoire des
+véhicules virant à droite à partir de la rue Notre-Dame croise leur trajectoire.
+
+Le feu est rouge pour les cyclistes lorsqu’il est vert pour les véhicules qui virent à gauche de la rue Notre-
+Dame vers l’accès au stationnement. Il n’y a donc pas de conflit de trajectoire dans ce cas.
+
+
+
+
+Figure 41 Entrée de stationnement dans l’axe de la rue Cadillac                      Source Apple Inc.
+
+Améliorations possibles
+La visibilité de la voie cyclable et la priorité des piétons et des cyclistes par rapport aux véhicules qui
+tournent à gauche à partir de la rue Notre-Dame seraient renforcées en effectuant un marquage vert
+sur la chaussée, quitte à remplacer le revêtement de béton par de l’asphalte et en y ajoutant de la
+signalisation écrite. Il pourrait être nécessaire d’interrompre le trottoir et de tourner les rayons afin
+d’améliorer la compréhension des piétons et cyclistes qu’ils doivent se conformer aux feux de
+circulation. Il serait aussi pertinent d’évaluer la possibilité de permettre aux piétons de traverser l’accès.
+
+
+
+                                                 VÉLO QUÉBEC                                               43
+
+=== page 44 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.13 Rue Quesne
+À l’intersection de la rue Quesne, il y a une entrée de stationnement pour camions d’une entreprise de
+grues du côté sud (est géographique) de la rue Notre-Dame. Cette entrée n’est pas gérée par des feux
+de circulation. Une voie auxiliaire de virage à gauche est aménagée pour accéder au stationnement à
+partir de la direction est. Il y a donc conflit entre les piétons et cyclistes et les véhicules qui virent à
+gauche de la rue Notre-Dame vers l’accès au stationnement. Les risques associés aux mouvements
+de virages à gauche sont grands en termes de sécurité routière, particulièrement lorsque le
+mouvement croise une piste cyclable bidirectionnelle.
+
+
+
+
+  Figure 42 Entrée face à la rue Quesne                                                           source Google
+
+Améliorations possibles
+La visibilité de la voie cyclable et la priorité des piétons et des cyclistes par rapport aux véhicules qui
+tournent à gauche et à droite à partir de la rue Notre-Dame seraient renforcées en effectuant un
+marquage vert sur la chaussée, quitte à remplacer le revêtement de béton par de l’asphalte et en y
+ajoutant de la signalisation écrite.
+
+
+
+
+                                                VÉLO QUÉBEC                                                   44
+
+=== page 45 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.14 Rue De la Longue-Pointe
+La rue De la Longue-Pointe donne accès à un terminal de conteneur au sud de la rue Notre-Dame (est
+géographique) contenant des centaines de conteneurs. Cet accès se voit donc fréquemment
+emprunté par des camions.
+
+La trajectoire des piétons et des cyclistes qui circulent sur la Route verte est en conflit avec celle des
+camions qui tournent à gauche et à droite de la rue Notre-Dame à cet accès.
+
+Les piétons qui traversent cet accès ne disposent pas de protection dans le cycle de feux et ont la
+même contrainte de croisement de trajectoire avec les véhicules virant vers la rue l’accès au
+stationnement.
+
+Le feu est vert pour les piétons et les cyclistes lorsqu’il est vert pour les véhicules qui virent à gauche
+(permissif) de la rue Notre-Dame vers l’accès au stationnement. Il y a donc conflit de trajectoire dans
+ce cas.
+
+Une affiche a été apposée par l’exploitant riverain pour signaler aux cyclistes la sortie de camions avec
+un petit panneau d’arrêt fait maison.
+
+
+
+
+             Figure 43 Entrée face à la rue de la Longue-Pointe                    Source Google
+
+Améliorations possibles
+Pour améliorer la sécurité, il est proposé d’interrompre le trottoir et de tourner les rayons afin d’améliorer
+la compréhension des piétons et cyclistes qu’ils doivent se conformer aux feux de circulation. La
+visibilité de la voie cyclable et la priorité des piétons et des cyclistes par rapport aux véhicules qui
+tournent à gauche à partir de la rue Notre-Dame seraient renforcées en effectuant un marquage vert
+sur la chaussée et en y ajoutant de la signalisation écrite. Aussi, étant donné l’accès en virage à gauche
+et en particulier par des camions, celui-ci devrait se faire sur une phase exclusive.
+
+
+                                                VÉLO QUÉBEC                                                45
+
+=== page 46 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.15 Sortie du terminal de Pétroles Norcan
+La sortie du terminal de Pétroles Norcan donne accès à la rue Notre-Dame. Cette sortie se voit donc
+utilisée pas une grande quantité de camions à tous les jours. Elle est contrôlée par des barrières pour
+empêcher l’entrée.
+
+Il n’y a pas de conflit avec la trajectoire des piétons et des cyclistes qui circulent sur la Route verte
+puisque les virages en accès vers cette sortie sont interdits et physiquement empêchés par des
+barrières.
+
+L’approche ouest de la piste cyclable a une visibilité réduite puisqu’un bâtiment occupe l’espace
+jusqu’à la limite d’emprise, très près de l’arrière-trottoir.
+
+
+
+
+  Figure 44 Entrée face à la rue de la Longue-Pointe                                              Source Google
+
+Améliorations possibles
+Pour améliorer la sécurité, il est proposé d’interrompre le trottoir et de tourner les rayons afin d’améliorer
+la compréhension des piétons et cyclistes qu’ils doivent se conformer aux feux de circulation. La faible
+visibilité des cyclistes en approche à partir de l’ouest ne permet pas aux camionneurs ni aux cyclistes
+de s’apercevoir.
+
+
+                                                 VÉLO QUÉBEC                                                  46
+
+=== page 47 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+    3.16 Rue Haig
+À l’intersection de la rue Haig, il y a une entrée de stationnement du côté sud (est géographique) de la
+rue Notre-Dame.
+
+La trajectoire des piétons et des cyclistes qui circulent sur la Route verte est en conflit avec celle des
+véhicules qui tournent à droite et à gauche de la rue Notre-Dame à la rue Haig puisque le virage à
+gauche est permissif.
+
+Les cyclistes et les piétons peuvent traverser la rue l’accès et disposent lors d’une période variable de
+plein feu vert où la trajectoire des véhicules virant à droite et à gauche à partir de la rue Notre-Dame
+croise leur trajectoire.
+
+Une piste cyclable bidirectionnelle est présente du côté ouest de la rue Haig. Il n’y a pas d’espace pour
+les cyclistes pour se mettre en attente face à leurs feux pour effectuer la manœuvre de virage. Les
+cyclistes doivent emprunter l’entrée charretière pour rejoindre la Route verte.
+
+
+
+
+           Figure 45 Entrée de stationnement dans l’axe de la rue Haig           Source Google Inc.
+
+Améliorations possibles
+Pour améliorer la sécurité, il est proposé d’interrompre le trottoir et de tourner les rayons afin d’améliorer
+la compréhension des piétons et cyclistes qu’ils doivent se conformer aux feux de circulation. La
+visibilité de la voie cyclable et la priorité des piétons et des cyclistes par rapport aux véhicules qui
+tournent à gauche à partir de la rue Notre-Dame seraient renforcées en effectuant un marquage vert
+sur la chaussée et en y ajoutant de la signalisation écrite. Aussi, étant donné l’accès en virage à
+gauche, celui-ci devrait se faire sur une phase exclusive.
+
+Offrir une aire d’attente pour les cyclistes qui tentent de rejoindre la piste de la rue Haig.
+
+Revoir l’aménagement de la piste cyclable bidirectionnelle sur rue de la rue Haig qui est non conforme
+aux normes et qui permet à un autobus de s’y arrêter.
+
+
+
+                                                VÉLO QUÉBEC                                                47
+
+=== page 48 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.17 Rue de Boucherville
+La rue de Boucherville est sens unique vers le sud (est géographique). Au sud de la rue Notre-Dame
+elle devient un accès du Port de Montréal. La voie de raccordement qui permettait aux véhicules sortant
+du Port d’accéder à la rue Notre-Dame est maintenant fermée par des barrières de béton de type New-
+Jersey. Les véhicules doivent maintenant sortir à la rue Curatteau.
+
+La trajectoire des piétons et des cyclistes qui circulent sur la Route verte est en conflit avec celle des
+véhicules qui entrent au Port.
+
+Des boutons piétons sont présents aux approches de la piste cyclable et sur l’îlot, ces boutons appels
+la phase piétonne.
+
+
+
+
+Figure 46 Intersection des rues de Boucherville et Notre-Dame                                Source Apple Inc.
+
+Améliorations possibles
+À court terme, la visibilité du passage pour cyclistes serait grandement améliorée pour les
+camionneurs par l’ajout d’un revêtement vert sur la chaussée et mettre en place de la phase piétonne
+en mode rappel.
+
+À moyen terme, la suppression définitive de la voie de raccordement permettrait de redresser la
+trajectoire des piétons et des cyclistes à l’approche est (nord géographique) de l’intersection et
+d’ajouter un peu de verdure.
+
+
+
+
+                                                VÉLO QUÉBEC                                                  48
+
+=== page 49 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   3.18 Rue Curatteau
+Le Port de Montréal dispose d’une sortie dans l’axe de la rue Curatteau, qui donne directement accès à
+une entrée de l’autoroute 25 en direction nord. Il n’y a aucun conflit entre les piétons et les cyclistes qui
+circulent sur la Route verte le long de la rue Notre-Dame et les véhicules qui sortent du Port, puisqu’ils
+disposent de phases de feux de circulation séparées.
+
+Par ailleurs, une courte section de piste cyclable relie la Route verte à la section locale de la rue
+Curatteau.
+
+
+
+
+Figure 47 Intersection des rues Curatteau et Notre-Dame                                     Source Apple Inc.
+
+Améliorations possibles
+Le rayon de trottoir au quadrant sud-est (nord-est géographique) pourrait être considérablement
+réduit pour diminuer la longueur du passage pour piétons et cyclistes. Les restrictions au camionnage
+à l’est de la rue Curatteau ne justifient pas le rayon actuel, qui vise à accommoder le virage à droite
+des camions.
+
+
+
+
+                                               VÉLO QUÉBEC                                                  49
+
+=== page 50 (text layer) ===
+                 Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   4.      Conclusion et recommandations
+La Route verte est le réseau cyclable national du Québec. Avec ses 5200 kilomètres, c’est le plus grand
+itinéraire cyclable en Amérique du Nord! Sa réputation dépasse largement nos frontières, ce qui en fait
+aussi un générateur de retombées économiques grâce aux touristes qu’elle attire ici.
+
+La Route verte relie les régions entre elles, dessert les populations et les grands attraits du territoire. Ce
+qui en fait aussi un équipement de loisir et un axe de transport pour les citoyens.
+
+La voie cyclable de la rue Notre-Dame doit donc être vue autant comme une porte d’entrée au centre-
+ville pour les cyclotouristes que comme un axe de transport desservant les arrondissements de Ville-
+Marie et Hochelaga-Maisonneuve. De ce fait, elle se doit à la fois de respecter un haut niveau de qualité
+sur le plan technique (largeur de la chaussée, revêtement…), et d’être la plus conviviale et attractive
+possible. C’est dans ce contexte que les propositions de bonification décrites précédemment ont été
+pensées. Il est recommandé d’en officialiser son utilisation actuelle en tant que sentier polyvalent et
+de permettre la circulation des piétons.
+
+Ces recommandations sont regroupées ici en ordre de priorité, en tenant en compte les aspects de
+sécurité des cyclistes d’une part et d’efficacité et de convivialité de l’itinéraire d’autre part.
+
+La Ville de Montréal et les arrondissements concernés sont admissibles à différents programmes d’aide
+financière pour la réalisation de ces travaux, notamment le Programme d’aide aux infrastructures de
+transport actif (Véloce III), dont le volet 2 vise l’amélioration des infrastructures de transport actif
+(subvention maximale de 1 000 000 $ / km pour un sentier polyvalent et de 250 000 $ pour un passage
+pour piétons ou cyclistes) et le volet 3 subventionne l’entretien de la Route verte jusqu’à un maximum
+de 1750 $/km annuellement.
+
+
+   4.1 Travaux urgents
+L’aménagement d’un sentier répondant aux normes entre les rues Sainte-Catherine et Dickson est une
+priorité absolue, pour mettre fin à l’insécurité à laquelle sont confrontés les piétons et les cyclistes sur
+ce segment. (voir p. 14) L’inaction de la Ville dans ce dossier depuis plus de 30 ans serait difficile à
+justifier en cas d’accident.
+
+
+
+
+                                                VÉLO QUÉBEC                                                50
+
+=== page 51 (text layer) ===
+                Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   4.2 À court terme
+Les travaux suivants pourraient être réalisés au cours des 2 ou 3 prochaines années, pour améliorer la
+sécurité des cyclistes d’une part et bonifier l’expérience sur la Route verte d’autre part.
+
+Correctifs de sécurité
+   ✓   La réfection de l’intersection des rues Dickson et Notre-Dame est requise pour améliorer la
+       sécurité et le confort des piétons et des cyclistes (voir la section 3.10).
+   ✓   Le réaménagement temporaire des autres intersections pourrait se faire à l’aide de marquage,
+       de délinéateurs et de blocs de béton.
+   ✓   Reculer le talus à l’intersection de la rue Frontenac
+   ✓   Tourner les rayons de coins à toutes les intersections contrôlées par des feux de circulation
+   ✓   Reprendre les arrêts d’autobus qui donnent dans la piste cyclable afin de les rendre conformes
+       aux critères en accessibilité universelle
+   ✓   Modifier la programmation des feux de circulation qui offrent des virages à gauche en éliminant
+       les virages à gauche permissifs en les remplaçant par des virages à gauche exclusifs
+
+Correctifs visant l’efficacité et la convivialité
+   ✓   La signalisation de l’ensemble de ce segment pourrait être modifiée pour correspondre à sa
+       fonction réelle de sentier polyvalent, accessible autant aux piétons qu’aux cyclistes.
+   ✓   Les raccordements aux rues qui bordent la piste sans la croiser pourraient être mis à niveau, en
+       priorisant les rues dotées de voies cyclables, en gras dans le tableau qui suit. Cette mise à
+       niveau implique d’aménager de courts segments de sentier répondant aux normes et aux lignes
+       de désir des usagers, pour raccorder le sentier principal avec les trottoirs (pour les piétons) et
+       les chaussées (pour les cyclistes).
+
+                Fullum        Dufresne          Poupart
+                Du Havre      Bercy             Moreau
+                Préfontaine   Dézéry            Darling
+                Cuvillier     Aylwin            Joliette
+                Nicolet       Valois            Desjardins
+                De la Salle   Fafard            Letourneux
+                Gaboury       William-David     Bennett
+                Aird          Sicard            Leclaire
+                Théodore      Saint-Clément     De Ville-Marie
+                Vimont
+
+
+
+
+                                               VÉLO QUÉBEC                                             51
+
+=== page 52 (text layer) ===
+                  Bonification de la Route verte sur la rue Notre-Dame à Montréal | 28 mars 2024
+
+
+   4.3 À moyen terme
+À moyen terme, sur un horizon de 5 ans, la section entre les rues Parthenais et Sainte-Catherine pourrait
+être entièrement réaménagée au profit des piétons, des cyclistes et des résidents des quartiers au
+nord, en les isolant des nuisances du boulevard Notre-Dame (voir la section 0). L’aménagement
+proposé comprend du sud au nord :
+
+   ✓   Un talus antibruit au plus près de la chaussée de la rue Notre-Dame pour en maximiser
+       l’efficacité.
+   ✓   Une piste cyclable large, pour faciliter les dépassements, avec raccordements à toutes les rues
+       nord-sud du secteur.
+   ✓   Des arbustes, arbres, jeux et autres aménagements de parc.
+   ✓   Un sentier piéton le plus près possible des zones d’habitation, pour servir de lien entre les rues
+       et avec le parc.
+  ✓    Des lampadaires pour améliorer le sentiment de sécurité tout au long du parcours entre l’avenue
+       De Lorimier et la rue Sainte-Catherine.
+
+
+   4.4 Prochaines étapes
+   ✓   La Ville de Montréal doit faire l’analyse des interventions proposées par Vélo Québec afin de
+       vérifier leur faisabilité et de faire des choix ;
+   ✓   La Ville doit informer Vélo Québec des aménagements ou des interventions retenus;
+   ✓   La Ville doit planifier et réaliser les travaux requis en informant Vélo Québec de l’avancement du
+       dossier;
+   ✓   Vélo Québec doit fournir à la Ville le plan de balisage et les balises de la Route verte suite aux
+       modifications, si requis;
+   ✓   La Ville doit installer les balises de la Route verte sur le tracé retenu et, au besoin, retirer les
+       balises sur l’ancien tracé ;
+   ✓   Une fois les travaux requis complétés, la Ville doit informer Vélo Québec qui s’occupera des
+       modifications requises à la base de données officielle de la Route verte qui sert aux outils de
+       promotion et de communication (Site de la Route verte).
+
+
+Vélo Québec demeure disponible pour discuter du présent avis technique et des prochaines étapes
+au besoin
+
+
+
+
+                                                 VÉLO QUÉBEC                                            52
+

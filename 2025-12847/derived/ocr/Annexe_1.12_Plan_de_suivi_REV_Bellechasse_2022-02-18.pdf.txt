@@ -1,0 +1,2036 @@
+=== page 1 (text layer) ===
+PLAN DE SUIVI
+Réalisé dans le cadre de l’aménagement du
+
+REV DANS L’AXE BELLECHASSE
+Réalisé par la Division Planification et Développement de la mobilité
+Direction de la mobilité
+
+En collaboration avec l’Agence de mobilité durable et l’arrondissement Rosemont - La -
+Petite-Patrie
+
+
+
+
+                                                                            Octobre 2021
+
+=== page 2 (text layer) ===
+Table des matières
+
+
+Objectifs du plan de suivi						4uction 4
+
+
+
+Méthodologie								5
+
+
+
+Secteur d’étude								5ologie 5
+
+
+
+Aménagement du REV							7on post-REV        6
+
+
+
+Modes actifs								7
+
+Contexte								7
+
+Portrait global des trois compteurs						7
+
+Portrait journalier							9
+
+Profil hebdomadaire							10
+
+Portrait selon la direction							11
+
+
+
+Conditions de circulation						13
+
+Méthodologie								14
+
+Intrants									14
+
+Géométrie et affectation des voies						14
+
+Débits cyclistes								14
+
+Débits véhiculaires							15
+
+Niveaux de service							15
+
+=== page 3 (text layer) ===
+Observation des occupations des voies cyclables par les véhicules motorisés           19
+
+Contexte								19
+
+Description des sites d’études						19n post-REV                                              18
+
+Méthodologie d’observation						20post-REV                                                    19
+
+Motifs d’occupation des voies cyclables					                                   2121
+
+Nature d’occupation des voies cyclables par les véhicules motorisés		          23ituation post-REV   25
+
+Interactions des cyclistes avec les véhicules occupant les voies cyclables		   26tuation post-REV    27
+
+
+
+Stationnement								29
+
+Méthodologie								29tuation post-REV                                                               28
+
+Évaluation des conditions de collecte					                                     30
+
+Capacité en stationnement						30
+
+Statistiques générales de la collecte						32n post-REV                                       31
+
+Analyses des taux d’occupation						33
+ituation post-REV         36post-REV                                                                      37
+
+Conclusion								39
+
+Synthèse des modes actifs							39                                                    38
+
+Synthèse des conditions de circulation					                                    40
+
+Synthèse d’occupation des voies cyclables					                                 40
+
+Synthèse du stationnement						41
+
+=== page 4 (text layer) ===
+                                                                 Introduction
+  La Ville de Montréal vise à augmenter la part mo-           Le projet du REV sur la rue Bellechasse s’ inscrit dans
+dale des déplacements en vélo pour les dix pro-             la Vision Vélo de l’arrondissement Rosemont - Pe-
+chaines années. Le déploiement du projet Réseau             tite-Patrie. En 2020, l’arrondissement a réalisé l’amé-
+Express Vélo (REV) est l’une des solutions pour at-         nagement sur l’axe, qui permet maintenant aux cy-
+teindre cet objectif. À cet effet, la Ville compte im-      clistes d’avoir accès à un lien est/ouest d’envergure.
+planter 184 km de voies cyclables réparties sur l’en-       L’aménagement du REV a nécessité plusieurs modifi-
+semble du territoire de l’île de Montréal en 17 axes.       cations à l’axe. Le concept du projet se résume ainsi:
+Le projet du REV permettra aux cyclistes de se dé-           •   Création de voies cyclables unidirectionnelles
+placer de façon sécuritaire 12 mois par année tout               de part et d’autre de la rue;
+en assurant une cohabitation harmonieuse entre               •   Mise à sens unique de la rue Bellechasse vers
+les différents usagers de la route. L’objectif est de fa-        l’ouest entre Saint-Denis et Châtelain;
+voriser l’émergence de nouveaux liens cyclables sur
+                                                             •   Maintien d’une voie de circulation pour les
+le territoire des arrondissements et des villes liées
+                                                                 véhicules motorisés sauf aux approches de
+dans la perspective d’encourager les déplacements
+                                                                 quelques intersections importantes où des
+actifs et l’utilisation du vélo à des fins utilitaires et        voies de virage sont maintenues;
+non seulement de loisirs tout au long de l’année.
+                                                             •   Perte de stationnement d’un côté sur certains
+                                                                 tronçons et des deux côtés sur d’autres;
+                                                             •   Relocalisation de certains espaces de station-
+     Objectifs du REV                                            nement particuliers (SRRR, livraison et PMR)
+                                                                 sur les rues transversales;
+ •    Augmenter la distance moyenne parcou-                  •   Réaménagement de certaines intersections et
+      rue par les cyclistes ;                                    reprogrammation d’un feu de circulation.
+ •    Diminuer les temps de parcours des cy-                  Des effets de l’aménagement étaient appréhen-
+      clistes ;                                             dés, mais ils étaient toutefois difficiles à définir de
+ •    Améliorer l'intermodalité et la desserte ;            manière précise avant l’implantation du projet. La
+ •    Améliorer la fluidité des déplacements ;              Ville de Montréal a donc décidé de produire un
+                                                            plan de suivi du REV afin de mieux saisir les effets
+ •    Implanter un réseau structurant qui de-
+      viendrait l'échelon supérieur du réseau               de celui-ci. À noter que puisque la décision d’élabo-
+      cyclable montréalais existant ;                       rer le plan de suivi a été décidée suite à l’implanta-
+                                                            tion du REV, il se base sur des données historiques
+ •    Démocratiser le vélo comme mode de                    existantes et des données collectées en 2021.
+      transport ;
+ •    Améliorer le partage de la route et la sé-            Objectifs du plan de suivi
+      curité des déplacements à vélo ;
+                                                              Le plan de suivi vise à quantifier et qualifier cer-
+ •    Aménagement un réseau esthétique, qui                 tains des impacts du REV sur la mobilité des usa-
+      deviendrait une carte de visite de Mon-               gers et de valider s’il atteint les objectifs spécifiques
+      tréal ;                                               qui étaient ciblés. Des indicateurs de suivi ont été
+ •    Entretenir un réseau quatre saisons ;                 retenus pour évaluer en partie la performance
+ •    Aménager un réseau destiné aux dépla-                 du projet et évaluer les impacts. L’objectif étant
+      cements quotidiens qui serait efficace,               de récolter des données importantes afin de :
+      direct et sans détour.
+                                                                                                                  4
+
+=== page 5 (text layer) ===
+                                                                   Introduction
+ •   Documenter les bénéfices et les impacts pour           gion de Montréal. La situation sanitaire a signifi-
+     bonifier les prochains projets d’axe du REV ;          cativement influencé les habitudes et les patrons
+ •   Comparer de différentes manières, la situation         de déplacement d’une large proportion de la po-
+     avant et après l’implantation du REV ;                 pulation, notamment en raison du télétravail, in-
+ •   Apporter des mesures correctives si des im-            cluant la demande en stationnement. Il y a donc
+     pacts négatifs apparaissent ;                          certaines limites liées à l’interprétation des don-
+                                                            nées recueillies. En effet, il ne sera pas toujours pos-
+ •   S’assurer que le projet réponde aux objectifs
+                                                            sible de distinguer si les variations observées sont
+     listés précédemment dans le contexte ;
+                                                            induites par la situation sanitaire ou représentent
+ •   Bonifier le projet au regard des données ob-           des effets directs de l’implantation du REV.
+     tenues .
+                                                            Secteur d’étude
+Méthodologie
+                                                              L’axe du REV Bellechasse s’étend entre le bou-
+  Compte tenu des délais restreints pour la collecte        levard Saint-Laurent et la rue Chatelain sur une
+des données et le fait que certaines données pré-           distance de 6 km. Toutefois, en raison de l’impor-
+REV ne sont pas connues, les indicateurs ont été li-        tance de la longueur du REV Bellechasse, l’étude
+mités aux plus pertinents, ne permettant pas une            a été limitée à certains secteurs pour les analyses
+analyse exhaustive de l’ensemble des effets du REV.         de stationnement et d’occupation des voies, et à
+Le plan de suivi se concentre plus spécifiquement à         certaines intersection et endroits ponctuels pour
+mesurer les impacts sur le stationnement, sur l’occu-       les relevés de circulation et de débits cyclistes.
+pation des voies par les véhicules motorisés (débar-
+
+        CRITÈRE                          INDICATEUR                           SECTEUR/POINT D’ANALYSE
+        Débits de circulation aux princi- Débits aux heures de pointe et      •  Bellechasse / Saint-Laurent
+        pales intersections               conditions de circulation           •  Bellechasse / Saint-Denis
+                                                                              •  Bellechasse / Christophe-Colomb
+                                                                              •  Bellechasse / Viau
+        Occupation du stationnement      Taux d’occupation selon diffé-       1. Quadrilatère des rues Châtelain,
+        sur rue                          rentes plages horaires                  Rosemont, Viau et Beaubien
+                                                                              2. Quadrilatère de la 26 avenue, Rose-
+                                                                                 mont, 13 avenue et Beaubien
+        Débits des cyclistes             Débits horaires et journaliers, en •      39 avenu
+                                         semaine et la fin de semaine       •      13 avenue
+                                                                            •      24 avenue
+        Occupation des voies cyclables   Relevés de terrain et observations 1.     Quadrilatère des rues Châtelain,
+        par des véhicules motorisés      visuelles des comportements               Rosemont, Viau et Beaubien
+                                                                            2.     Quadrilatère de la 26 avenue, Rose-
+                                                                                   mont, 13 avenue et Beaubien
+
+
+cadère, livraisons, etc.), sur la circulation ainsi qu’à       Le choix des deux zones pour les analyses de
+mesurer l’achalandage des cyclistes sur le REV.             stationnements et d’occupation des voies se jus-
+                                                            tifie par la présence d’importants générateurs de
+ La pandémie de la Covid-19 a encore un impact              déplacements (Collège de Rosemont, hôpital Mai-
+majeur sur les déplacements dans la grande ré-              sonneuve- Rosemont, Collège Jean Études, CHSLD,
+                                                                                                                     5
+
+=== page 6 (text layer) ===
+                                                       Méthodologie
+école des métiers, etc.) et quelques commerces du
+côté sud de la rue Bellechasse. La Figure 1 illustre
+les deux secteurs retenus pour ces analyses.
+
+Figure 1 : Secteurs d’étude
+
+
+
+
+                                                                  6
+
+=== page 7 (text layer) ===
+                                             Situation post-REV
+Aménagement du REV                                        Modes actifs
+  L’implantation du REV sur la rue de Belle-              Contexte
+chasse, entre les rues Saint-Laurent et Châtelain,
+                                                            Dans le cadre du plan de suivi, trois compteurs
+est venue modifier l’aménagement de l’axe. Les
+                                                          ont été installés le long de l’axe Bellechasse. Sur
+modifications apportées sont les suivantes :
+                                                          ces trois compteurs, un est installé en permanence
+ •    Mise à sens unique de l’axe vers l’ouest entre      à la 13e avenue depuis le 20 décembre 2020 sous
+      les rues Saint-Denis et Châtelain (le double
+                                                          la forme d’une boucle magnétique prémoulée
+      sens est conservé entre Saint-Laurent et
+                                                          sous la chaussée. Les deux autres compteurs ont
+      Saint-Denis pour la finalisation du centre de
+      transport Bellechasse);                             été installés temporairement à la 24e avenue et à
+                                                          la 39e avenue depuis le 1 juin 2021 pour une du-
+ •    Conservation d’une voie de circulation avec         rée de 60 jours sous la forme de tubes déposés
+      des surlargeurs à certaines intersections pour
+                                                          sur la chaussée. Le compteur de la 39e avenue
+      créer des voies de virages;
+                                                          se situe au sein du secteur 1, alors que les comp-
+ •    Aménagement de bandes cyclables unidirec-           teurs de la 13e avenue et 24e avenue sont instal-
+      tionelles de part et d’autre de la voie de circu-   lés au sein du secteur 2. Cette analyse préliminaire
+      lation de largeur variant entre 2,4 et 2,8 m;
+                                                          a été conduite sur un échantillon de 21 jours de
+ •    Aménagement d’une zone tampon de 0,5 à 1            comptage compris entre le 1er et le 21 juin 2021.
+      m avec bollards entre les bandes et la voie de
+      circulation;                                        Portrait global des trois compteurs
+ •    Retrait du stationnement sur rue sur certains         La Figure 4 de la page suivante présente la localisa-
+      tronçons.                                           tion des sites de comptage et le nombre de passages
+ Les Figures 2 et 3 qui suivent montrent le type d’amé-   moyen journalier le long de l’axe. Parmi les trois sites
+nagement réalisé dans les deux secteurs d’étude.          identifiés, on observe que plus un compteur est si-
+Figure 2 : Plan d’aménagement du REV : secteur 1
+
+
+
+
+Figure 3: Plan d’aménagement du REV : secteur 2
+
+
+
+
+                                                                                                               7
+
+=== page 8 (text layer) ===
+                                              Situation post-REV
+tué à l’ouest de l’axe, plus le nombre de passages     de Covid-19 n’ont pas été entièrement levées dans
+s’intensifie. Ainsi, on compte en moyenne plus du      les institutions et les milieux de travail. Également,
+double de passages à la 13e avenue qu’à la 39e         sur l’ensemble des 66 sites de comptage installés
+avenue. Toutefois, cette différence d’achalandage      à travers Montréal, le comptage de pointe sur une
+s’explique bien par le nombre important de pistes      période d’un an est généralement recensé entre
+cyclables nord-sud qui croisent Bellechasse tout au    les mois d’août et septembre. Tel qu’on peut l’ob-
+long de l’axe REV (voir Annexe 1), permettant ain-     server sur la Figure 5, le profil journalier aux trois
+si aux usagers de l’emprunter telle une collectrice.   sites de comptage est très semblable, il présente
+Précisons que le nombre de passages observé au         soit les mêmes pointes ou les mêmes creux avec
+compteur de la 39e avenue, même s’il est plus bas       Tableau 1 : Résumé des chiffres clés pour les 21 jours d’ana-
+                                                       lyse sur les trois compteurs de l’axe REV Bellechasse dans les
+que pour les deux autres sites, est comparable à                                                      deux directions
+celui de plusieurs compteurs situés sur des pistes
+                                                       Site      Total    Moyenne    Mé-      Comptage    Période de
+cyclables bien établies du réseau cyclable montré-                        / jour     diane    de pointe   pointe
+alais telles que Gouin/Lajeunesse (883 pas./jour),     13e       41 701   1986       2048     2672        2021-06-17
+Saint-Urbain (988 pas./jour), Wellington/Charle-        24e      32 705   1557       1718     2077        2021-06-02
+
+voix (633 pas./jour) et University (1336 pas./jour)    39e       19 176   913        934      1336        2021-06-02
+(voir Annexe 2). Chaque site présente la somme du
+nombre de passages dans les deux directions.           une différence au niveau du nombre de passages
+                                                       selon que le site se situe plus à l’est ou plus à l’ouest.
+   Le Tableau 1 présente les chiffres clés des trois   Le nombre de passages est relativement constant
+sites de comptage de l’axe REV Bellechasse. On y       à chaque site sur la période de 21 jours, à l’excep-
+observe des comptages de pointe, soit le comp-         tion de quelques creux qui s’expliquent par une
+tage recensé lors de la journée la plus achalan-       mauvaise météo (voir Figure 6). Le creux du jeudi
+dée, très prometteurs pour des sites qui ne sont       17 juin à la 24e avenue s’explique quant à lui par
+pas situés dans des secteurs centraux tels que         un bris du matériel causé par un balais mécanique
+l’arrondissement Plateau Mont-Royal ou Ville-Ma-       et dont les données n’ont pas été corrigées.
+rie. Il est aussi important de préciser que l’échan-
+tillon ne compte que 21 jours durant lesquelles
+les mesures de confinement liées à la pandémie
+Figure 4 : Plan des sites des compteurs cyclistes
+
+
+
+
+                                                                                                                   8
+
+=== page 9 (text layer) ===
+                                              Situation post-REV
+       Figure 5 : Profil journalier pendant la période d’étude
+                                                                    Un autre phénomène particulier apparaît à la lec-
+                                                                 ture du profil horaire des trois sites de comptage de
+                                                                 l’axe REV Bellechasse. En effet, on remarque que le
+                                                                 comptage de pointe, soit l’heure comptant le plus
+                                                                 grand nombre de comptages, est sensiblement le
+                                                                 même entre le matin et l’après-midi. Bien qu’on re-
+                                                                 trouve ce profil à quelques autres rares exceptions
+                                                                 sur des sites de comptage de Montréal, le profil stan-
+                                                                 dard va plutôt montrer une période de pointe de
+                                                                 l’après-midi plus achalandée que celle de l’avant-mi-
+                                                                 di, ainsi qu’une période hors-pointe de jour présen-
+   Figure 6 : Évènements météorologiques et achalandage au
+                                                                 tant une croissance constante de l’achalandage. Ce
+                                      site de la 13e avenue      type de profil standard démontre une utilisation
+                                                                 des aménagements cyclables liée à des activités de
+                                                                 tous les motifs, soit travail et étude, mais également
+                                                                 loisir, magasinage et visite d’ami, plus fréquente
+                                                                 en après-midi (voir Annexe 3). Ainsi, on constate
+                                                                 qu’avec son profil horaire atypique, l’axe REV Belle-
+                                                                 chasse est sensiblement utilisé autant le matin que
+
+                                                                            Figure 7 :Profil horaire moyen - Jours de semaine
+
+
+
+
+Portrait journalier
+  Les trois sites de comptages ont un profil qui dif-
+fère selon que ce soit une journée de semaine ou
+une journée de fin de semaine. La Figure 7 démontre
+bien les deux périodes de pointe d’une journée de
+semaine moyenne. La période de pointe du matin
+est plus condensée entre 6h00 et 9h00 alors que
+celle de l’après-midi est plus étendue en commen-                     Figure 8 :Profil horaire moyen - Jours de fin de semaine
+çant dès 13h00 et se terminant vers 19h00. Ce phé-
+nomène d’heure de pointe étendu en après-midi est
+observable à d’autres sites de comptage de Mon-
+tréal, mais il est particulièrement marquant sur les
+trois sites de l’axe REV Bellechasse. Il pourrait s’expli-
+quer par la présence de nombreuses institutions sco-
+laires (Collège Jean-Eudes, Cégep Rosemont, Rose-
+mount Technology Center) qui obligent les usagers
+étudiants à arriver à une heure précise, mais offre
+plus de flexibilité pour le départ selon la tenue de
+cours en après-midi ou les activités parascolaires.
+                                                                                                                           9
+
+=== page 10 (text layer) ===
+                                        Situation post-REV
+l’après-midi pour les déplacements liés à l’activité     lon que ce soit une journée de semaine ou de fin
+principale des usagers, soit le travail ou les études.   de semaine. On remarque ainsi que bien que l’acha-
+                                                         landage moyen diminue de 8,77% à la 13e ave-
+  Il est également intéressant de noter que les          nue et de 11,54% à la 39e avenue durant les jours
+usagers, bien que moins nombreux que durant              de fin de semaine, il est très stable à la 24e ave-
+les périodes de pointe, utilisent l’axe REV Belle-       nue, voire légèrement plus élevé, soit de 1,02%.
+chasse jusqu’à tard dans la nuit, profitant ainsi
+                                                         Tableau 2 : Achalandage moyen, jours de semaine et jours de
+d’une infrastructure sécuritaire malgré une moins                                                    fin de semaine
+bonne visibilité auprès des automobilistes.              Site             Moyenne        Moyenne fin de   % Variation
+                                                                          semaine        semaine
+   Les jours de fin de semaine ont un tout autre pro-    13e              2033           1869             8,77%
+fil. En effet, sur la Figure 8, on observe plutôt un
+                                                         24e              1553           1569             -1,02%
+profil arrondi, sans période de pointe particulière,
+                                                         39e              957            858              11,54%
+dont le comptage de pointe se situe vers 15h00.
+On constate que si durant la semaine l’achalan-            La Figure 9 présente les variations selon les diffé-
+dage moyen du site de la 24e avenue se situe en-         rentes journées d’une semaine moyenne durant la
+viron à mi-chemin entre celui de la 13e avenue et        période d’analyse. On remarque que c’est le site de
+celui de la 39e avenue, durant la fin semaine l’acha-    comptage de la 13e avenue qui présente le profil
+landage moyen de la 24e avenue se rapproche              hebdomadaire le plus stable. Les sites de la 24e ave-
+davantage de celui de la 13e avenue. D’ailleurs,         nue et de la 39e avenue présentent des variations
+entre la 13e avenue et la 24e avenue, le comp-           journalières plus importantes. Pour les trois sites,
+tage de pointe moyen durant la fin de semaine            la journée dont l’achalandage est proportionnelle-
+ne présente qu’une différence de 27 passages.            ment le plus élevé est le mercredi, particulièrement
+  Sans surprise, l’utilisation nocturne de l’axe REV     à la 39e avenue dont le poids du mercredi est no-
+Bellechasse est plus importante et se fait jusqu’à       toire. Durant les jours de semaine, les mardi, mer-
+des heures plus tardives la fin de semaine que           credi et jeudi ont les ratios les plus élevés, alors que
+durant la semaine. Également, on remarque un             pour les jours de fin de semaine, c’est le dimanche.
+achalandage plus distinctif entre les trois sites        On peut à nouveau observer sur cette figure le phé-
+de comptage après minuit la fin de semaine.              nomène selon lequel les jours de fin de semaine
+                                                         au site de la 24e avenue sont tout aussi achalan-
+Profil hebdomadaire                                      dés que les jours de semaine. Précisons qu’avec
+                                                         un échantillon de seulement 21 jours, une seule
+  Le Tableau 2 permet de constater que l’achalan-
+                                                                Figure 9 :Profil horaire moyen - Jours de fin de semaine
+dage moyen à la 13e avenue et à la 24e avenue est
+effectivement très semblable durant les jours de fin
+de semaine avec une différence de seulement 300
+passages sur 24 heures. Cela peut s’expliquer par la
+présence d’importants pôles récréatifs à proximi-
+té de l’axe REV Bellechasse, entre la 24e avenue et
+la 39e avenue. Par exemple, le parc Maisonneuve
+et le centre sportif Étienne-Desmarteaux sont fa-
+cilement accessibles par l’axe REV Bellechasse.
+
+  Le Tableau 2 permet également d’observer la va-
+riation de l’achalandage à chacun des trois sites se-
+                                                                                                                        10
+
+=== page 11 (text layer) ===
+                                                Situation post-REV
+journée de pluie, par exemple un lundi sur trois,               pour la 13e avenue. Toutefois, le profil par direc-
+peut affecter l’analyse du profil hebdomadaire.                 tion est tout de même très similaire, ce qui permet
+                                                                d’établir que les usagers qui empruntent l’axe REV
+Portrait selon la direction                                     Bellechasse à la hauteur de la 13e avenue se di-
+  Afin d’analyser le portrait des différents sites de           rigent presque autant vers l’ouest, en direction du
+comptage selon la direction, il importe d’obser-                centre-ville, que vers l’est, en direction des généra-
+ver davantage les comptages effectués durant les                teurs de déplacement du secteur. Parmi les géné-
+jours de semaine, car ceux de fin de semaine ne                 rateurs de déplacements à l’est de la 13e avenue,
+présentent pas de variation particulière. Aussi, les            on compte de nombreuses institutions dont le
+sites seront analysés indépendamment. Dans le                   Collège Jean-Eudes, le Cégep Rosemont, the Ro-
+cas du comptage à la 13e avenue, les directions IN              semount Technology Center, l’Espace pour la vie,
+(ouest) et OUT (est) sont utilisées dans la légende.            l’Hôpital Maisonneuve-Rosemont, l’Hôpital Santa
+                                                                Cabrini et l’Institut de cardiologie de Montréal.
+  Comme on peut l’observer dans le Tableau 3, les
+ratios Est et Ouest des trois sites de comptage sont              À la Figure 11, on observe un achalandage de
+sensiblement les mêmes. On remarque tout de                     pointe du matin particulièrement élevé en direc-
+même qu’à la 13e avenue et à la 39e avenue, l’acha-             tion ouest pour la 24e avenue, qui pourrait s’ex-
+landage en direction est est légèrement plus im-                pliquer par des usagers se destinant soit vers le
+                                                                centre-ville, soit vers un des nombreux générateurs
+            Tableau 3 :Ratio par direction - Jours de semaine
+                                                                 Figure 11 :Profil horaire jour de semaine moyenne par direc-
+Site                 Est                Ouest                                                                tion, 24e avenue
+
+13e                  51%                49%
+
+24e                  48%                52%
+
+39e                  51%                49%
+
+
+
+portant qu’en direction ouest, alors que c’est plutôt
+la situation inverse pour le site de la 24e avenue.
+
+  À la Figure 10, on peut constater que la direc-
+tion est présente un achalandage légèrement plus
+élevé aux heures de pointe que la direction ouest
+   Figure 10 :Profil horaire jour de semaine moyen par direc-
+                                             tion, 13e avenue
+                                                                de déplacements de l’arrondissement. On observe
+                                                                également que l’achalandage durant la pointe du
+                                                                matin en direction est diminue drastiquement
+                                                                entre le site de comptage de la 13e avenue et ce-
+                                                                lui de la 24e avenue. Ainsi, on peut émettre l’hy-
+                                                                pothèse que plusieurs usagers en provenance de
+                                                                l’ouest de la 13e avenue se dirigent vers une desti-
+                                                                nation située entre la 13e avenue et la 24e avenue.
+
+                                                                 Le profil horaire selon la direction de la 39e ave-
+                                                                nue, présenté à la Figure 12, est particulièrement
+                                                                                                                          11
+
+=== page 12 (text layer) ===
+                                             Situation post-REV
+intéressant, car on peut y observer les déplace-
+ments pendulaires effectués par les usagers. En ef-
+fet, ce site compte un plus grand nombre de pas-
+sages en direction est durant la pointe du matin
+alors que c’est plutôt le contraire qui est observé
+durant la pointe de l’après-midi, et ce, selon des
+proportions similaires. Ainsi, on peut émettre l’hy-
+pothèse que ce sont en partie les mêmes usagers
+qui font un déplacement vers un lieu de travail ou
+d’étude, ainsi qu’un retour à la maison. L’heure de
+pointe du matin (8h00) en direction est compte
+12,3% des passages journaliers comptés à ce site,
+alors que l’heure de pointe de l’après-midi (17h00)
+en direction ouest compte 12,1% des passages. On
+peut imaginer que ces déplacements pendulaires
+se font en direction des quelques générateurs de
+déplacements importants situés à l’est du site de
+comptage de la 39e avenue, soit l’Hôpital Mai-
+sonneuve-Rosemont ou l’Hôpital Santa Cabrini.
+
+  Le même phénomène de déplacements pendu-
+laires est également observé pour la direction in-
+verse, mais à plus petite échelle. En effet, l’heure de
+ Figure 12 :Profil horaire jour de semaine moyenne par direc-
+                                             tion, 39e avenue
+
+
+
+
+pointe du matin (7h00) en direction ouest compte
+8,4% des passages journaliers comptés à ce site,
+alors que l’heure de pointe de l’après-midi (17h00)
+en direction est compte 9,4% des passages.
+
+
+
+
+                                                                12
+
+=== page 13 (text layer) ===
+                                          Situation post-REV
+                                                           Tableau 4 :Niveaux de service en fonction des retards moyens
+Conditions de circulation                                         aux intersections avec feux de circulation (HCM 2010)
+                                                            Niveau de       Description          Retard moyen (s/véh) feu
+  L’objectif de ce chapitre est d’évaluer l’impact du       service                              de circulation
+REV Bellechasse sur les conditions de circulation.          A               Excellent            < 10
+Dans ce contexte, les conditions de circulation             B               Très bon             > 10 et < 20
+avant et après l’implantation du REV ont été analy-         C               Bon                  > 20 et < 35
+sées aux quatre intersections témoins suivantes :
+                                                            D               Acceptable           > 35 et < 55
+ •     Bellechasse / Saint-Laurent;                         E               Difficile            > 55 et < 80
+ •     Bellechasse / Saint-Denis;                           F               Problématique        > 80
+
+ •     Bellechasse / Christophe-Colomb;
+                                                           analysées. Les intersections ont été simulées durant
+ •     Bellechasse / Viau.                                 les heures de pointe du matin et de l’après-midi.
+ Les        quatre     intersections     mention-               Les trois scénarios suivants ont été simulés :
+nées      ci-dessus   ont     été    sélectionnées              •   La situation avant l’implantation du REV Bel-
+pour     analyse selon les critères suivants:                       lechasse;
+ •     Elles constituent des intersections entre la rue         •   La situation après l’implantation du REV Bel-
+       Bellechasse et des axes artériels;                           lechasse (c.a.d. la situation existante en été
+ •     Des travaux de construction ne sont pas ac-                  2021);
+       tuellement en train d’être réalisés à ces inter-         •   La situation après l’implantation du REV Belle-
+       sections, ce qui nous permet d’analyser la si-               chasse avec débits ajustés.
+       tuation existante avec le REV à ces endroits;
+ •     Les intersections Bellechasse / Saint-Laurent          La situation après implantation du REV Belle-
+       et Bellechasse / Saint-Denis sont d’un intérêt      chasse avec débits ajustés a été simulée pour tenir
+       particulier, étant donné que les axes Saint-        compte de l’impact des mesures sanitaires effec-
+       Laurent et Saint-Denis comportent eux aussi         tuées dans le contexte de la pandémie de Covid
+       des aménagements cyclistes importants (le           19. En effet, ces mesures sanitaires ont réduit les
+       REV Saint-Denis et une piste bidirectionnelle       débits sur le réseau routier de la Ville. Donc, pour
+       sur le boulevard Saint-Laurent).                    le scénario avec REV et débits ajustés, les débits
+                                                           relevés durant l’été de 2021 ont été augmentés se-
+Méthodologie
+                                                           lon les débits relevés avant la pandémie. L’objectif
+  Le retard moyen par mouvement (secondes/véhi-            de l’analyse du scénario avec REV et débits ajustés
+cule) est utilisé comme indicateur de performance          n’est pas de faire une prévision concrète des condi-
+pour évaluer les conditions de circulation aux inter-      tions de circulation post-pandémie. Il s’agit plutôt
+sections à feux. À titre de référence, le tableau 1 pré-   de vérifier si les intersections analysées sont actuel-
+sente la relation entre le retard moyen et le niveau de    lement capables d’accommoder la demande pré-
+service (NDS) selon l’échelle proposée par le Highway      pandémie. Pour la rue Saint-Denis en particulier,
+Capacity Manual 2010. Un niveau de service « D »           l’ajustement des débits a également tenu compte
+est considéré comme acceptable et des niveaux de           de la réduction en voies de circulation sur cet axe.
+service « E » et « F » sont des indices de congestion.
+                                                             Les quatre intersections ont été simulées indivi-
+  La moyenne des résultats de cinq (5) simulations         duellement. Donc les résultats des simulations ne
+effectuées à l’aide du logiciel Synchro / SimTraffic 10    tiennent pas compte des effets réseau, comme des
+sur une période d’une heure a permis d’évaluer les         refoulements à partir des intersections en aval.
+conditions de circulation aux quatre intersections
+                                                                                                                       13
+
+=== page 14 (text layer) ===
+                                                          Situation post-REV
+Intrants                                                                          Géométrie et affectation des voies
+ Les intrants suivants sont requis pour si-                                         Le tableau 5 résume les modifications prin-
+muler les quatre intersections analysées :                                        cipales en géométrie et affectation de voies
+ •     Données de circulation (débits);                                           effectuées dans le cadre de l’implantation
+                                                                                  du REV aux quatre intersections analysées.
+ •     Plans de programmation des feux;
+ •     Géométrie et affectation de voies.                                           L’axe Saint-Denis en particulier a subi des mo-
+                                                                                  difications géométriques importantes, dont :
+  Les données de circulation pour la situation
+                                                                                      •      L’implantation du REV Saint-Denis entre la rue
+avant l’implantation du REV Bellechasse pro-                                                 Sherbrooke et le boulevard Crémazie;
+viennent de relevés de comptages historiques
+disponibles dans la base de données de la Ville.                                      •      La réduction du nombre de voies de circula-
+                                                                                             tion, de deux à une voie par direction, dans le
+   Les données de circulation pour la situation après                                        cadre de l’implantation du REV Saint-Denis.
+l’implantation du REV Bellechasse proviennent
+                                                                                    La réduction en nombre de voies de circula-
+des relevés de comptages réalisés en juin 2021.
+                                                                                  tion sur la rue Saint-Denis a un impact important
+  Pour le scénario après l’implantation du REV avec                               sur la capacité physique des approches nord et
+débits ajustés (voir la section Méthodologie ci-des-                              sud de l’intersection Bellechasse / Saint-Denis.
+sus), les débits relevés avant l’implantation du REV
+                                                                                  Débits cyclistes
+et la pandémie de Covid 19 ont servi de référence
+pour augmenter les débits relevés en juin 2021.                                     Les aménagements cyclables suivants sont actuel-
+                                                                                  lement présents aux quatre intersections analysées :
+  Les plans de programmation des feux de circula-
+tion avant et après l’implantation du REV Bellechasse                                 •      Le REV Bellechasse;
+proviennent de la base de données de la Ville.                                        •      Le REV Saint-Denis aux approches nord et sud
+                                                                                             de l’intersection Bellechasse / Saint-Denis;
+  Des visites sur le terrain, des dessins-concept du
+                                                                                      •      Une piste cyclable bidirectionnelle à l’ap-
+REV, des anciens fichiers Synchro / SimTraffic et Goo-
+                                                                                             proche sud de l’intersection Bellechasse /
+gle Earth ont servi de référence pour la géométrie
+                                                                                             Saint-Laurent. La piste est localisée sur le côté
+avant et après l’implantation du REV Bellechasse.
+
+ Tableau 5 :Modifications en géométrie et affectation de voies aux quatre intersections analysées dans le cadre de l’implanta-
+                                                                                                                  tion du REV
+Intersection      Intersection est et ouest                         Intersection nord et sud
+Saint-Laurent /        -Implantation du REV Bellechasse                                   -Aucune
+Bellechasse
+Saint-Denis / Belle-   -Implantation du REV Bellechasse                                   -Implantation du REV Saint-Denis
+chasse                 -Interdiction du mouvement tout droit à l’approche ouest           -Retrait d’une voie de circulation par direction
+                                                                                          -Interdiction du virage à gauche à l’approche nord
+                                                                                          -Interdiction du virage à droite à l’approche sud`
+                                                                                          - Virage à gauche à l’approche sud permis pour les autobus seulement
+C-Colomb / Belle-      -Implantation du REV Bellechasse                                   -Interdiction du virage à gauche à l’approche nord
+chasse                 -Mise à sens unique de la rue Bellechasse en direction ouest       -Interdiction du virage à droite à l’approche sud
+                                                                                          - Virage à gauche à l’approche sud permis pour les autobus seulement
+
+Viau / Bellechasse     -Implantation du REV Bellechasse                                   -Interdiction du virage à gauche à l’approche nord
+                       -Mise à sens unique de la rue Bellechasse en direction ouest       -Interdiction du virage à droite à l’approche sud
+
+
+
+                                                                                                                                                                 14
+
+=== page 15 (text layer) ===
+                                                         Situation post-REV
+      est du boulevard Saint-Laurent, entre la rue                          laire est observée pour les raisons suivantes :
+      Bellechasse et la rue Arcade. Elle constitue la                         •      Les mesures sanitaires effectuées dans le
+      continuité nord de la piste cyclable sur la rue                                contexte de la pandémie de Covid 19, qui
+      Clark.                                                                         constitue la cause principale pour la réduc-
+  Les Tableaux 6 et 7 résument le nombre de vélos                                    tion en débits;
+relevé aux quatre intersections analysées durant les                          •      La mise à sens unique de la rue Bellechasse
+heures de pointe du matin et de l’après-midi, avant et                               en direction ouest à l’est de la rue Saint-Denis,
+après l’implantation du REV. Une augmentation im-                                    qui implique le retrait des débits qui allaient
+portante en nombre de vélos est observée après l’im-                                 en direction est avant l’implantation du REV;
+plantation du REV. Cela peut être attribué à l’implan-                        •      Pour la rue Saint-Denis en particulier, le retrait
+tation du REV sur les axes Saint-Denis et Bellechasse,                               d’une voie de circulation par direction dans
+qui rend le secteur plus convivial aux cyclistes.                                    le cadre de l’implantation du REV sur cet axe
+Débits véhiculaires                                                                  a également contribué à la réduction des
+                                                                                     débits véhiculaires (voir la section Géométrie
+   Le Tableau 8 résume le nombre de véhi-                                            et affectation des voies).
+cules relevé aux quatre intersections analy-
+sées durant les heures de pointe du matin et de                             Niveaux de service
+l’après-midi, avant et après l’implantation du                               À     titre    de             rappel,   les   trois scé-
+REV. Une réduction importante en débit véhicu-                              narios     suivants             ont    été   simulés   :
+    Tableau 6 : Nombre de vélos (vélos/h) aux quatre intersections analysées durant l’heure de pointe du matin – Avant REV vs
+                                                                                                                    Avec REV
+
+                                      Avant REV Bellechasse               Avec REV Bellechasse                          % Différence
+                              Axe Bellechasse     Axe Nord-Sud     Axe Bellechasse    Axe Nord-Sud       Axe Bellechasse      Axe Nord-Sud
+Saint-Laurent / Bellechasse   107                 147              377                168                +252%                +14%
+Saint-Denis / Bellechasse     227                 67               374                439                +65%                 +555%
+C-Colomb / Bellechasse        n.d                 n.d.             436                53                 ---                  ---
+Viau / Bellechasse            n.d.                n.d.             144                44                 ---
+
+ Tableau 7 : Nombre de vélos (vélos/h) aux quatre intersections analysées durant l’heure de pointe de l’après-midi – Avant REV
+                                                                                                                   vs Avec REV
+
+                                      Avant REV Bellechasse                Avec REV Bellechasse                         % Différence
+                              Axe Bellechasse    Axe Nord-Sud      Axe Bellechasse    Axe Nord-Sud        Axe Bellechasse       Axe Nord-Sud
+Saint-Laurent / Bellechasse   176                182               253                286                 +44%                  +57%
+Saint-Denis / Bellechasse     263                79                356                484                 +35%                  +513%
+C-Colomb / Bellechasse        n.d.               n.d.              530                93                  ---                   ---
+Viau / Bellechasse            n.d.               n.d.              118                29                  ---                   ---
+
+          Tableau 8 : Débits véhiculaires (véh/h) aux quatre intersections analysées durant les heures de pointe du matin et de
+                                                                                           l’après-midi – Avant REV vs Avec REV
+
+                                             Heure de pointe du matin                                Heure de pointe de l’après-midi
+                              Avant REV           Avec REV         % Différence       Avant REV          Avec REV             % Différence
+Saint-Laurent / Bellechasse   1 699               946              -44%               2110               1275                 -40%
+Saint-Denis / Bellechasse     2134                1105             -48%               3381               1209                 -64%
+C-Colomb / Bellechasse        3140                925              -71%               3875               1244                 -68%
+Viau / Bellechasse            1729                1272             -26%               1808               1441                 -20%
+                                                                                                                                               15
+
+=== page 16 (text layer) ===
+                                                Situation post-REV
+ •     La situation avant l’implantation du REV Bel-                Saint-Laurent / Bellechasse durant les heures de
+       lechasse;                                                    pointe du matin et de l’après-midi pour les trois
+ •     La situation après l’implantation du REV Bel-                scénarios simulés. Selon les résultats des simula-
+       lechasse (c.a.d. la situation existante en été               tions, l’ensemble des mouvements de circulation
+       2021);                                                       à cette intersection fonctionne avec des niveaux
+                                                                    de service acceptables (NDS ‘ « D » ou mieux).
+ •     La situation après l’implantation du REV Belle-
+       chasse avec débits ajustés pour tenir compte                    Notons que le mouvement de virage à droite à
+       de l’impact de la pandémie de Covid 19.                      l’approche sud de l’intersection Saint-Laurent / Bel-
+                                                                    lechasse est relativement achalandé durant l’heure
+  Rappelons également que l’analyse du scéna-                       de pointe de l’après-midi avant l’implantation du REV
+rio avec REV et débits ajustés ne constitue pas                     Bellechasse (617 véh/h). Le débit effectuant ce mou-
+une prévision concrète des conditions de circula-                   vement est fortement réduit après l’implantation
+tion post-pandémie. L’objectif de l’analyse de ce                   du REV (75 véh/h) à cause de la mise à sens unique
+scénario est plutôt de vérifier si les quatre inter-                de la rue de Bellechasse en direction ouest à l’est de
+sections analysées sont actuellement capables                       la rue Saint-Denis. Le chantier de la STM, qui ferme
+d’accommoder la demande véhiculaire prépandé-                       la rue de Bellechasse au niveau de la rue Sint-Do-
+mie. Pour la rue Saint-Denis en particulier, l’ajus-                minique a aussi un impact sur cette réduction.
+tement des débits a également tenu compte de
+la réduction en voies de circulation sur cet axe.                     Saint-Denis / Bellechasse
+
+ Saint-Laurent / Bellechasse                                          Les Figures 15 et 16 montrent les niveaux de service
+                                                                    et débits véhiculaires à l’intersection Saint-Denis /
+  Les Figures 13 et 14 montrent les niveaux de                      Bellechasse durant les heures de pointe du matin et
+service et débits véhiculaires à l’intersection
+     Figure 13 :Niveaux de service et débits véhiculaires à l’intersection Saint-Laurent / Bellechasse durant l’heure de pointe du
+                                                                                            matin pour les trois scénarios simulés
+
+
+
+
+     Figure 14 :Niveaux de service et débits véhiculaires à l’intersection Saint-Laurent / Bellechasse durant l’heure de pointe de
+                                                                                      l’après-midi pour les trois scénarios simulés
+
+
+
+
+                                                                                                                                16
+
+=== page 17 (text layer) ===
+                                               Situation post-REV
+Figure 15 :Niveaux de service et débits véhiculaires à l’intersection Saint-Denis / Bellechasse durant l’heure de pointe du matin
+                                                                                                  pour les trois scénarios simulés
+
+
+
+
+      Figure 16 :Niveaux de service et débits véhiculaires à l’intersection Saint-Denis / Bellechasse durant l’heure de pointe de
+                                                                                     l’après-midi pour les trois scénarios simulés
+
+
+
+
+de l’après-midi pour les trois scénarios simulés. Selon            mie du Covid 19, l’intersection Saint-Denis / Belle-
+les résultats des simulations, l’ensemble des mouve-               chasse risque de devenir un nœud de congestion.
+ments de circulation à cette intersection fonctionne
+                                                                     Christophe-Colomb / Bellechasse
+avec des niveaux de service acceptables (NDS ‘ « D »
+ou mieux) durant les heures de pointe pour la situa-                 Les Figures 17 et 18 montrent les niveaux de ser-
+tion avant REV et la situation existante avec REV.                 vice et débits véhiculaires à l’intersection Chris-
+                                                                   tophe-Colomb / Bellechasse durant les heures de
+  Cependant, pour la situation après l’implanta-
+                                                                   pointe du matin et de l’après-midi pour les trois scé-
+tion du REV avec débits ajustés, la majorité des
+                                                                   narios simulés. Selon les résultats des simulations,
+mouvements à l’intersection Saint-Denis / Belle-
+                                                                   les mouvements de circulation à cette intersection
+chasse fonctionnent avec des niveaux de service
+                                                                   fonctionnent généralement avec des niveaux de
+« F » problématiques ou des niveaux de service «
+                                                                   service acceptables (NDS ‘ « D » ou mieux) durant les
+E » difficiles durant les heures de pointe. En effet,
+                                                                   heures de pointe pour les trois scénarios simulés.
+Saint-Denis / Bellechasse constitue une intersec-
+tion complexe comportant deux axes du REV, des                       Le mouvement de virage à gauche à l’approche
+nombreux piétons et la circulation véhiculaire                     sud durant les situations avec REV constitue la seule
+provenant de ces quatre approches. La program-                     exception, fonctionnant avec un niveau de service «
+mation de feux implantée pour gérer cette in-                      F » problématique. Ce mouvement est en conflit avec
+tersection d’une manière sécuritaire, illustrée en                 des débits élevés provenant du nord sur la rue Chris-
+Annexe 4, est également complexe, comportant                       tophe-Colomb et n’est pas desservi par une phase
+une phase exclusive pour le REV Saint-Denis et la                  protégée, ce qui entraine des temps d’attente éle-
+séparation des mouvements véhiculaires aux ap-                     vés. Cependant, le débit effectuant ce mouvement
+proches est et ouest. La complexité de la program-                 est très faible (< 10 véh/h). Donc les files d’attente
+mation augmente les temps d’attente et implique                    sont courtes et l’impact sur les conditions de circu-
+un manque de temps vert. Si la demande véhicu-                     lation globales à l’intersection est négligeable.
+laire remonte au niveau observé avant la pandé-
+                                                                                                                                17
+
+=== page 18 (text layer) ===
+                                              Situation post-REV
+ Viau / Bellechasse
+
+  Les Figures 19 et 20 montrent les niveaux de                    narios simulés. Selon les résultats des simula-
+service et débits véhiculaires à l’intersection                   tions, l’ensemble des mouvements de circula-
+Viau / Bellechasse durant les heures de pointe                    tion à cette intersection fonctionne avec des
+du matin et de l’après-midi pour les trois scé-                   bons niveaux de service (NDS ‘ « C » ou mieux).
+ Figure 17 :Niveaux de service et débits véhiculaires à l’intersection Christophe-Colomb / Bellechasse durant l’heure de pointe
+                                                                                      du matin pour les trois scénarios simulés
+
+
+
+
+Figure 18 :Niveaux de service et débits véhiculaires à l’intersection Christophe-Colomb / Bellechasse durant l’heure de pointe
+                                                                                 de l’après-midi pour les trois scénarios simulés
+
+
+
+
+ Figure 19 :Niveaux de service et débits véhiculaires à l’intersection Viau / Bellechasse durant l’heure de pointe du matin pour
+                                                                                                       les trois scénarios simulés
+
+
+
+
+Figure 20 :Niveaux de service et débits véhiculaires à l’intersection Viau / Bellechasse durant l’heure de pointe de l’après-midi
+                                                                                                 pour les trois scénarios simulés
+
+
+
+
+                                                                                                                               18
+
+=== page 19 (text layer) ===
+                                              Situation post-REV
+Observation des occupations des voies cyclables par les véhicules motorisés
+Contexte                                    • Site 1: rue Bellechasse entre 38e avenue et
+                                                                        40e avenue- secteur mixte, commercial et ré-
+   L’implantation du REV sur l’axe Bellechasse en-
+                                                                        sidentiel
+gendre certainement des changements comporte-
+mentaux auprès des usagers de cette rue. En effet,                  •   Site 2: rue Bellechasse entre 25e avenue et 26e
+l’implantation de bandes cyclables de chaque côté                       avenue- secteur résidentiel;
+de la chaussée, la mise à sens unique de la rue et                  •   Site 3: rue Bellechasse entre 13e avenue et 16e
+la perte de stationnement sur certains tronçons de                      avenue- secteur mixte, institutionnel et rési-
+la rue génèrent une nouvelle forme de cohabita-                         dentiel
+tion des différents usagers. Il est donc pertinent
+d’effectuer des visites terrain pour observer les in-               D’abord, il est important de définir l’aménagement
+teractions des usagers sur l’axe et de bonifier les               des tronçons à l’étude afin de bien comprendre le
+observations avec des recommandations pour ef-                    comportement des usagers du REV et l’impact de
+fectuer les ajustements nécessaires au besoin.                    la mise en place de celui-ci sur l’aménagement rou-
+                                                                  tier mis à la disposition des usagers. Le nouvel amé-
+  Plus précisément, dans ce volet du plan de sui-                 nagement de l’axe Bellechasse réserve une place
+vi, nous avons observé l’occupation des voies cy-                 importante aux cyclistes sur le domaine public,
+clables principalement par des véhicules moto-                    ce qui réduit l’emprise de la voiture dans la rue.
+risés. En effet, malgré la disparition de la majorité               Les faits saillants suivants permettent de bien ré-
+des places de stationnement et des espaces pour                   sumer l’aménagement en place :
+effectuer les livraisons, des besoins restent pré-
+                                                                    •   Présence des bandes cyclables unidirection-
+sents sur certains tronçons. Il est donc intéressant
+                                                                        nelles dans chaque direction protégées par
+de mesurer si les véhicules motorisés respectent
+                                                                        des bollards et une zone tampon sur tout l’axe
+l’espace dédié aux cyclistes, et dans le cas contraire
+                                                                        Bellechasse
+d’observer comment se fait la cohabitation.
+                                                                    •   Mise à sens unique de la rue avec une voie de
+Description des sites d’études                                          circulation direction ouest sur toute la lon-
+                                                                        gueur de la rue Bellechasse;
+  Dans le cadre du suivi d’aménagement de l’axe Ré-
+seau Express Vélo (REV) sur Bellechasse en 2020, trois              •   Perte de stationnement des deux côtés de la
+sites localisés dans des milieux aux caractéristiques                   rue pour le site 1 entre 38e avenue et 40e ave-
+différentes ont été sélectionnés pour observer l’oc-                    nue et le site 2 entre 25e avenue et 26e ave-
+cupation des voies par les véhicules motorisés (figure                  nue;
+21). Les tronçons sélectionnés sont les suivants:                   •   Présence de stationnement seulement du côté
+                                                                        nord de la rue sur le site 3.
+Figure 21: Situation Post-REV – Plan d’ensemble qui représente les 3 sites à l’étude
+
+
+
+
+                                                                                                                     19
+
+=== page 20 (text layer) ===
+                                             Situation post-REV
+Figure 22: Situation Post-REV – Coupe-type de l’axe Bellechasse   Figure 23: Situation Post-REV – Coupe-type de l’axe Belle-
+- Site 1- entre 38e avenue et 40e avenue et site 2 entre 25e      chasse - site 3- entre 13e et 16e avenue
+avenue et 26e avenue
+
+
+
+
+Méthodologie d’observation                                        bénéficient d’entrées charretières. On constate
+                                                                  l’absence du stationnement des deux côtés de la
+  Des observations par caméras vidéos ont été
+                                                                  rue suite à l’aménagement du REV Bellechasse.
+effectuées sur les trois sites identifiés à la figure
+21 afin d’observer l’occupation des voies cy-                       Site 2: c’est un secteur résidentiel qui abrite
+clables par les véhicules motorisés, les interac-                 des immeubles qui ne possèdent pas de sta-
+tions des cyclistes avec les véhicules ainsi que                  tionnements privés. L’aménagement du REV sur
+les comportements des usagers. Il s’agit d’obser-                 Bellechasse a engendré une perte de station-
+vations ponctuelles qui ont leurs limites, mais                   nement des deux côtés de la rue. Il a été choi-
+permettent néanmoins de relever certains en-                      si aussi parce que ce tronçon fait le lien avec les
+jeux de l’aménagement du REV Bellechasse.                         axes cyclables situés sur la 25e et 26e avenue.
+                                                                    Site 3: c’est un secteur mixte avec une forte pré-
+  Pour observer les comportements adoptés par
+les usagers sur le REV Bellechasse, trois caméras                 sence d’institutions (Collège Jean-Eudes, Col-
+ont été installées dans les trois sites décrits dans le           lège Rosemont, centre sportif, etc.) qui borde
+chapitre 2 pour une durée de trois jours (jours de                la rue de part et d’autre. Les résidences ne dis-
+semaine: mardi, mercredi et jeudi) de 6h à 18h.                   posent pas de stationnements privés. Cepen-
+                                                                  dant, une voie de stationnement est conser-
+  Le choix des sites est fait en fonction des dif-                vée du côté nord de la rue Bellechasse.
+férents milieux et aménagements qu’on peut                          Les données vidéo recueillies sont de nature
+retrouver sur l’axe Bellechasse afin d’identi-                    qualitative et visent à observer et à documenter
+fier une variété de comportements des diffé-                      plus précisément l’utilisation des voies cyclables
+rents usagers qui fréquentent cette rue. Voici une                par les véhicules motorisés dans l’ensemble des
+courte description de chaque site avec les ca-                    zones d’étude. Il s’agit d’observer où, pour quel
+ractéristiques qui distinguent chaque milieu:                     motif, à quelle fréquence et pour quelle durée
+  Site 1: c’est un secteur mixte caractérisé par l’ac-            des véhicules entravent le passage des cyclistes
+tivité commerciale présente du côté sud de la rue                 dans le but de voir si des correctifs ou des bo-
+en plus des résidences qui se trouvent du côté nord               nifications doivent être apportés au concept.
+de la rue. Les immeubles qu’on retrouve entre la
+38e et la 39e avenue ne possèdent pas de station-                  Lors des observations des vidéos, une attention
+nements privés, contrairement à ceux qui sont lo-                 particulière a été portée sur les aspects suivants :
+calisés entre la 39e avenue et la 40e avenue qui
+                                                                                                                               20
+
+=== page 21 (text layer) ===
+                                          Situation post-REV
+ •     Les différents motifs incitant les automobilistes à occuper les voies cyclables et le type de véhicules;
+ •     La nature d’occupation des voies cyclables (occupation complète, partielle ou mobile - véhicule d’en-
+       tretien circulant sur la voie cyclable) et son rapport avec les motifs observés;
+ •     L’évaluation de la fréquence et de la durée moyenne de ces occupations;
+ •     Les interactions observées entre des cyclistes et les véhicules motorisés particulièrement sur les
+       voies cyclables.
+                                                           24,7% suivi des achats de courte durée dans les
+Motifs d’occupation des voies cyclables                    commerces qui se trouvent du côté sud de la rue
+  À l’aide des observations des vidéos, nous avons         avec un pourcentage 23,4 %. L’autre motif particu-
+constaté que les véhicules s’arrêtent pour de mul-         lier qui apparaît à la lecture du profil du site 1 est le
+tiples raisons sur les voies cyclables dans les trois      dépose-minute. Celui-ci est dû à la présence de cer-
+sites identifiés. À noter que les motifs indiqués sont     tains commerces qui nécessitent des débarcadères.
+ceux qui ont été relevés durant la période d’obser-        Ainsi près du deux tiers des obstructions des voies
+vation et cela n’exclut pas que d’autres motifs soient     cyclables sont en lien avec l’activité commerciale
+à l’origine des obstructions sur les voies cyclables.      dans ce secteur.
+     Les motifs qui ont été relevés sont les suivants:     Figure 24: Graphique du site 1: Pourcentage des motifs d’oc-
+
+ •      Livraison pour les commerces;
+ •      Livraison pour les résidents;
+ •      Achat de courte durée;
+ •      Dépôt du courrier dans la boîte postale;
+ •      Dépose-minute;
+ •      Stationnement du véhicule de particulier;
+ •      Stationnement sans débarquement;
+ •      Débarcadère d’une personne à mobilité ré-
+        duite
+ •      Collecte des déchets;
+ •      Entretien de la piste cyclable (balayage).
+  Les motifs incitant les véhicules à occuper les voies
+cyclables sont quasi-semblables pour le site 2 et 3          •   Durée d’occupation
+avec une variété un peu plus grande pour le site 1.
+Par ailleurs, le motif prédominant est différent d’un-        Pour 85% des cas de livraisons, la durée d’occu-
+site à l’autre en fonction de la vocation du secteur.      pation des voies cyclables est de 2 à 10 minutes.
+                                                           Les livraisons de plus longue durée se font géné-
+ Site 1: de la 38e avenue à la 40e avenue                  ralement soit sur les rues transversales ou bien
+ •      Motifs prédominants                                sur les terrains privés devant les commerces. Tou-
+                                                           tefois, il a été remarqué que 7% des livraisons oc-
+  La figure 24 représente les pourcentages de tous
+                                                           cupent les voies cyclables pour une durée de 20
+les événements qui se sont déroulés dans le site 1
+                                                           minutes et plus. Par ailleurs, la durée moyenne
+durant les trois jours d’observation afin de ressortir
+                                                           des occupations générées par les autres mo-
+les différents motifs qui reviennent fréquemment.
+                                                           tifs observés sur le site est d’environ 2 minutes.
+  Les deux motifs les plus observés sur le site 1 sont
+les livraisons pour les commerces qui représentent
+                                                                                                                      21
+
+=== page 22 (text layer) ===
+                                         Situation post-REV
+ •   Fréquence d’occupation                               Figure 25: Graphique du site 2: Pourcentage des motifs d’oc-
+                                                          cupation des voies cyclables durant les trois jours observés
+
+  La fréquence d’occupation des voies cyclables
+par les véhicules motorisés sur le site 1 est estimée
+à 25 occupations par jour, ce qui correspond à une
+moyenne de 2 occupations par heure. Sachant que
+la durée moyenne de chaque arrêt est estimée à 4
+minutes, on conclut que la voie cyclable est occu-
+pée à 13% du temps par les véhicules motorisés.
+Cependant, on ne dispose pas de barème pour éva-
+luer s’il s’agit d’une fréquence élevée ou faible au
+regard d’autres axes cyclables, par contre on consi-
+dère qu’elle n’est pas négligeable pour les cyclistes,
+                                                          mixte. L’écart entre les occupations observées est
+lorsque confrontés à ces obstructions sur leur cor-
+                                                          très varié, il peut être estimé à 1 heure comme il
+ridor.
+                                                          peut atteindre un écart de 5 heures sans aucune
+ Site 2: de la 25e avenue à la 26e avenue                 obstruction. Bien que les occupations observées
+ •   Les motifs prédominants                              soient moins nombreuses que le site 1, il est im-
+                                                          portant de les considérer et les analyser, car elles
+  Les deux motifs les plus observés sur le site 2 entre   ont tout de même un impact sur les cyclistes.
+la 25e avenue et la 26e avenue sont les livraisons
+pour les résidents qui représentent 29,4% suivi des         Site 3: de la 13e avenue à la 16e avenue
+stationnements de véhicules de particuliers avec un
+                                                            •   Les motifs prédominants
+même taux d’occupation que le premier motif. On
+constate que ces motifs sont étroitement reliés aux         Concernant le site 3 entre la 13e avenue et la 16e
+besoins des résidents en raison de la vocation du         avenue, le motif prédominant est le dépose-minute
+secteur. Cette occupation est probablement causée         qui représente 41,7% des obstructions observées .
+par la perte de stationnement des deux côtés de la        Ceci pourrait s’expliquer par la présence de nom-
+rue engendrée par l’aménagement du REV en plus            breuses institutions scolaires (Collège Jean-Eudes,
+de l’absence totale du stationnement privé (entrée        Collège Rosemont et le centre sportif ). Toutefois, la
+charretière) sur tout le long du tronçon étudié.          majorité des débarcadères et autres stationnements
+                                                          de véhicule se font sur la voie de stationnement qui
+ •   Durée d’occupation
+                                                          est disponible du côté nord de la rue. En raison d’un
+  En général, la durée d’occupation des voies             fort achalandage des arrivées aux heures de pointe,
+cyclables par les véhicules motorisés pour les            la voie de stationnement devient complètement
+deux motifs identifiés ci-dessus est entre 2 à 7          occupée ce qui engendre des débarcadères dans
+minutes. Par ailleurs, la durée moyenne des oc-           la voie de circulation pour la plupart du temps et
+cupations générées par les autres motifs ob-              parfois sur la voie cyclable du côté sud de la rue.
+servés sur le site est d’environ 70 secondes.
+                                                            Il est important de préciser que la pratique la plus
+ •   Fréquence d’occupation                               observée sur le site 3 est le dépose minute dans
+  La fréquence d’occupation des voies cyclables           la voie de circulation. Les usagers du secteur pré-
+par les véhicules motorisés sur le site 2 est estimée     fèrent dans la plupart du temps obstruer la voie de
+à 5 occupations par jour. Il s’agit d’un secteur rési-    circulation que d’empiéter sur la voie cyclable.
+dentiel avec moins de mouvement que le secteur
+                                                                                                                     22
+
+=== page 23 (text layer) ===
+                                              Situation post-REV
+Tableau 9: Synthèse des motifs, durée et fréquence d’occupation des voies cyclables par les véhicules motorisés
+
+                      Motifs prédominants                                      Fréquence d’occupation/tous les motifs
+                                                        Durée d’occupation (de
+Sites                                             Ratio
+                          Motif                         80% des obstructions)   Moyenne/ jour
+                                                  %                                               Moyenne/ heure
+          Livraison pour les commerces            24,7       2 à 10 minutes
+Site 1                                                                             25 obstructions        2 obstructions
+          Achats de courte durée                  23,4        2 à 5 minutes
+          Livraison pour les résidents            29,4        1 à 3 minutes
+Site 2                                                                              5 obstructions      0,40 obstructions
+          Stationnement véhicule de particulier   29,4        2 à 7 minutes
+Site 3 Dépose minute                              41,7    jusqu’à 40 secondes       5 obstructions      0,40 obstructions
+
+ •       Durée d’occupation
+  La durée d’occupation des déposes minute est                   Figure 26: Graphique du site 3: Pourcentage des motifs d’oc-
+                                                                 cupation des voies cyclables durant les trois jours observés
+généralement de très courte durée. Celle-ci est es-
+timée à une quarantaine de secondes environ. Par
+ailleurs, la durée moyenne des occupations géné-
+rées par les autres motifs qui sont beaucoup moins
+nombreux par rapport aux autres sites est d’environ
+5 minutes
+ •       Fréquence d’occupation
+  Même constat que le site 2, la fréquence d’oc-
+cupation des voies cyclables par les véhicules
+motorisés sur le site 3 est sensiblement la même
+que le site 2. Par contre, les occupations obser-
+vées sont plus fréquentes en heure de pointe
+du matin et celle d’après-midi en raison des ar-
+rivées et des départs en lien avec les institu-
+tions scolaires présentent dans le secteur. En de-
+hors des heures de pointe, les voies cyclables
+demeurent quasiment libres pour les cyclistes.
+
+         À noter que pour les sites 2 et 3, la fréquence d’occupation des voies cyclables est cinq fois moins
+                                                 élevée que le site 1.
+
+
+
+Nature d’occupation des voies cyclables par les véhicules motorisés
+
+  Il est aussi intéressant de caractériser la nature               •   Occupation complète de la voie cyclable;
+d’occupation des véhicules sur les voies cyclables                 •   Occupation partielle de la voie cyclable;
+pour évaluer le niveau du danger auquel les cy-
+clistes sont exposés sur le REV de l’axe Bellechasse.              •   Occupation mobile (circulation du véhicule
+Grâce aux vidéos visionnées durant les trois jours                     sur la voie cyclable).
+consécutifs, on a observé 3 types d’occupation:                    Plus l’occupation est complète, plus l’interac-
+                                                                 tion entre les usagers est contraignante, voire
+                                                                                                                            23
+
+=== page 24 (text layer) ===
+                                              Situation post-REV
+dangereuse, surtout si le cycliste doit circuler                  bable dans ce cas, ce sont les manœuvres des véhi-
+à sens inverse sur la voie de circulation afin de                 cules qui occupent la voie cyclable en présence de
+contourner l’obstruction. D’autre part, le type de                cyclistes sur place (ex:marche arrière, ouverture de
+véhicule (camion ou voiture) qui obstrue la voie                  portière).
+cyclable est à considérer, étant donné qu’une
+                                                                    Il est aussi important de considérer le type de vé-
+obstruction totale de la voie cyclable par un ca-
+                                                                  hicule qui occupe la voie cyclable et particulière-
+mion oblige les cyclistes à quitter la voie avec
+                                                                  ment quand il s’agit d’obstruction complète. Il a été
+une visibilité qui est considérablement réduite.
+                                                                  constaté que la majorité des achats de courte durée
+Ceci affecte directement la sécurité des cyclistes
+                                                                  et des livraisons observés sur le site engendrent l’oc-
+et augmente le risque de collision et sa gravité.
+                                                                  cupation des voies cyclables par des voitures. Il faut
+  On a constaté un nombre considérable d’occupa-                  tout de même noter que 30 % des livraisons pour
+tions sur le site 1 par rapport aux deux autres sites.            les commerces qui obstruent complètement la voie
+  Sur un total de 77 occupations observées sur le                 cyclable sont faites par des camions. Ce pourcen-
+site 1, on compte 40 obstructions complètes, 34 oc-               tage est suffisant pour craindre le risque de collision
+cupations partielles et 3 occupations mobiles sur les             surtout avec une visibilité réduite des cyclistes.
+voies cyclables avec tous les motifs impliqués du-                  Quant aux autres sites, on dénombre 17 occupa-
+rant les trois jours d’observation de 6h à 18h. Si l’on           tions de voies cyclables au total sur le site 2 et 11
+considère uniquement les motifs les plus récurrents,              occupations sur le site 3 durant toute la période
+la figure 27 montre que parmi les livraisons qui obs-             d’observation ce qui est significativement moins
+truent la voie, plus de la moitié le font partiellement           élevé comparativement au site 1.
+et près d’un tiers de ces livraisons obstruent com-
+                                                                    Le même constat s’applique pour ces deux der-
+plètement la voie ce qui n’est pas négligeable.
+                                                                  niers sites en ce qui a trait à la nature d’occupa-
+ L’occupation partielle de la voie cyclable est jugée             tion des voies cyclables. Nonobstant le nombre
+moins dangereuse que l’occupation complète, à                     moins élevé observé, toutes les occupations mé-
+partir du moment où les cyclistes ont la possibilité              ritent d’être identifiées surtout quand il s’agit
+de demeurer sur la piste cyclable. Le danger pro-
+Figure 27: Graphique du site 1: La nature d’occupation de la voie cyclable en fonction des motifs observés.
+
+
+
+
+                                                                                                                       24
+
+=== page 25 (text layer) ===
+                                         Situation post-REV
+
+
+
+
+                                                          Figure 28: Graphique du site 2: La nature d’occupation de la
+d’occupations complètes étant donné que celles            voie cyclable en fonction des motifs observés
+ci obligent le cycliste à quitter complètement la
+voie cyclable. D’ailleurs on compte six obstructions
+complètes des voies cyclables, dont trois par des
+camions, sur le site 2 et 4 obstructions complètes
+sur le site 3 dont 1 est effectuée par un camion.
+  Un autre phénomène particulier apparaît à la
+lecture des graphiques, c’est l’occupation mobile
+de la voie cyclable qui correspond au motif d’entre-
+tien de la piste cyclable. Ceci se fait plusieurs fois
+par semaine pour tous les sites identifiés. Ce motif
+a été observé deux fois durant les trois jours d’ob-
+servation dans les voies cyclables pour les deux
+directions ce qui explique sa forte représentation        Figure 29: Graphique du site 3: La nature d’occupation de la
+                                                          voie cyclable en fonction des motifs observés
+dans le graphique particulièrement sur le site 2 et 3.
+Bien qu’il s’agit d’une occupation réelle de la piste
+cyclable, ce motif doit être considéré à part puisque
+qu’il est nécessaire à l’entretien et donc à la conser-
+vation d’une surface sécuritaire pour les cyclistes.
+
+
+
+
+                                                                                                                     25
+
+=== page 26 (text layer) ===
+                                               Situation post-REV
+Tableau 10 : Synthèse de la nature d’occupation des voies cyclables par les véhicules motorisés
+
+                               Tous les types d’occupation                              Occupations à contresens
+    Sites
+                  Totale        Complète        Partielle          Mobile      Complète           Partielle       Mobile
+  Site 1        77             40              34              3               18             20              1
+  Site 2        17             6               8               3               2              4               2
+  Site 3        11             4               4               3               4              3               2
+
+
+
+
+  Proportion des obstructions à contresens de                      Interactions des cyclistes avec les véhicules
+la circulation                                                     occupant les voies cyclables
+  Il est également important de mettre l’accent sur                 Cette section fait état des cas observés de conflits
+les obstructions qui se font à contresens de la cir-               entre cyclistes et un véhicule qui obstrue la voie.
+culation des vélos, donc sur la voie cyclable en di-
+rection est, surtout que celles-ci représentent 49%                  Les deux cas de figure observés pour les trois sites
+de la totalité des occupations perçues sur le site 1               pendant toute la durée d’observation étaient les
+durant les trois jours d’observation. Le risque dans               suivants:
+ce cas de figure est plus élevé étant donné que les                 •   Occupation partielle - le cycliste continue tout
+cyclistes ne sont pas bien visibles par les véhicules                   droit sur la voie cyclable entre le véhicule et le
+qui circulent en sens inverse. Les cyclistes ont éga-                   trottoir;
+lement une visibilité très réduite en contournant                   •   Occupation complète ou mobile - le cycliste
+les véhicules immobilisés sur la voie cyclable à                        contourne le véhicule par la voie de circula-
+contresens et plus particulièrement quand il s’agit                     tion.
+d’obstruction complète. D’ailleurs, on compte
+18 obstructions sur la voie cyclable du côté sud                    Site 1
+de la rue, dont 5 par des camions sur le site 1.                     Selon les données des vidéos, nous avons observé
+                                                                   une moyenne de 10 événements conflictuels par
+  Pendant toute la durée d’observation sur le site
+                                                                   jour sur le site. Ceci a conduit à l’implication de 2
+2, il a été constaté que parmi les sept occupations
+                                                                   cyclistes/heure dans des conflits avec les véhicules
+à contresens de la circulation, deux obstructions
+                                                                   motorisés.
+complètes ont été relevées. Le mode de transport
+qui est impliqué dans les deux cas est le camion.                    La figure 30 permet de constater que le nombre
+                                                                   d’occupations qui ont généré des conflits entre
+  Quant au site 3, il a été constaté que parmi les sept
+                                                                   les cyclistes et les véhicules dans la voie cyclable
+occupations à contresens de la circulation, quatre
+                                                                   du côté sud est plus élevé que le nombre obser-
+obstructions complètes ont été relevées dont 2 par
+                                                                   vé dans la voie cyclable du côté nord de la rue
+des camions. On peut émettre l’hypothèse que la
+                                                                   Bellechasse. D’ailleurs, on considère que cette
+fréquence de ce type d’occupation est faible sur les
+                                                                   dernière est moins contraignante par rapport à
+sites 1 et 2, cependant, ces cas doivent être pris en
+                                                                   la voie qui se trouve du côté sud de la rue qui est
+considération dans les recommandations à formu-
+                                                                   à contresens de la circulation des véhicules.
+ler pour des mesures correctives si possible.
+
+
+
+
+                                                                                                                           26
+
+=== page 27 (text layer) ===
+                                                   Situation post-REV
+Figure 30: Site 1: Nombre d’occupations des voies cyclables           Figure 31: Site 2: Nombre d’occupations des voies cyclables
+observé générant des situations conflictuelles dans les deux          observé générant des situations conflictuelles dans les deux
+directions                                                            directions
+
+
+
+
+  Selon le tableau 11 du site 1, on constate 13                         Comme on peut l’observer dans la figure
+obstructions complètes de la voie cyclable qui                        31, le nombre d’occupations qui a généré des
+ont conduit à 42 conflits entre les cyclistes et les                  conflits entre les cyclistes et les véhicules dans
+véhicules. Le tableau nous permet de consta-                          la voie cyclable du côté sud est quatre fois plus
+ter également que 26 cyclistes étaient obligés de                     élevé que le nombre observé dans la voie cy-
+contourner les véhicules par la voie de circula-                      clable du côté nord de la rue Bellechasse.
+tion dans le sens inverse de la circulation ce qui                      Selon le tableau 12 du site 2, on constate seu-
+peut mener à des risques de collisions graves.                        lement 2 occupations complètes qui ont causé
+  Site 2                                                              des situations conflictuelles avec 5 cyclistes sur
+                                                                      la voie cyclable du côté sud de la rue. On peut
+  Comparativement au site 1, le nombre d’interac-
+                                                                      observer également qu’il suffit d’une seule obs-
+tions entre les cyclistes et les véhicules dans les
+                                                                      truction complète de la voie cyclable (côté sud
+deux autres sites est relativement minime.
+                                                                      de la rue) pour impliquer quatre cyclistes et par-
+  Selon les données des videos, nous avons obser-                     fois plus dans des événements conflictuels
+vé une moyenne de 2 événements conflictuels par
+jour sur le site. Ceci a conduit à l’implication de 7
+cyclistes/jour dans des conflits avec les véhicules
+motorisés.
+
+Tableau 11 : Site 1 : Situations conflictuelles entre les cyclistes et les véhicules
+
+                                            Complète                                               Partielle
+  Directions
+                       Occupation avec conflit        Cyclistes impliqués       Occupation avec conflit    Cyclistes impliqués
+Sud (contresens)       6                              26 cyclistes              12                         32 cyclistes
+Nord                   7                              16 cyclistes              7                          11 cyclistes
+
+
+
+
+                                                                                                                                 27
+
+=== page 28 (text layer) ===
+                                                  Situation post-REV
+Tableau 12 : Site 2 : Situations conflictuelles entre les cyclistes et les véhi-
+cules
+                                   Complète                                                   Partielle
+Directions
+               Occupation avec conflit       Cyclistes impliqués          Occupation avec conflit         Cyclistes impliqués
+Sud           1                            4 cyclistes                3                               13 cyclistes
+Nord          1                            1 cycliste                 0                               0
+
+
+  Site 3
+  Selon les données des vidéos, nous avons obser-
+vé une moyenne de 2 événements conflictuels par
+jour sur le site. En moyenne 7 cyclistes/jour sont im-
+pliqués dans des conflits avec les véhicules moto-
+risés. Particulièrement pour ce site,il faudrait tenir
+compte des mesures de confinement liées au COVID
+dans les institutions scolaires et les milieux de travail
+Figure 32: Graphique du site 3: le nombre d’occupations des
+voies cyclables observé générant des situations conflictuelles
+dans les deux directions
+
+
+
+
+autres qui ont un impact considérable sur la réduc-
+tion des déplacements et l’achalandage des lieux.
+  Dans le tableau 13 du site 3, on constate 3 obstruc-
+tions complètes de la voie cyclable qui ont conduit
+à 17 conflits entre les cyclistes et les véhicules. Le
+constat de ces interactions est semblable à celui du
+site précédent.
+
+Tableau 13 : Site 3 : Situations conflictuelles entre les cyclistes et les véhicules
+
+                                           Complète                                                 Partielle
+      Directions
+                       Occupation avec conflit      Cyclistes impliqués       Occupation avec conflit          Cyclistes impliqués
+Sud (contresens)      2                             15 cyclistes              1                            3 cyclistes
+Nord                  1                             2 cycliste                0                            0
+
+
+
+                                                                                                                                     28
+
+=== page 29 (text layer) ===
+                                       Situation post-REV
+Stationnement                                            ment des deux côtés d’une rue unidirectionnelle si
+                                                         celle-ci n’est pas trop large, mais les rues bidirec-
+   Dans le cadre du suivi de l’implantation du Réseau    tionnelles demandent deux passages, puisque les
+Express Vélo (REV), la Division Planification et déve-   véhicules québécois ne sont plaqués qu’à l’arrière.
+loppement de la mobilité du Service de l’urbanisme
+et de la mobilité (SUM) de la Ville de Montréal a de-      En raison des travaux ayant lieu pour le SRB Pie-IX, le
+mandé à l’Agence de mobilité durable d’effectuer, à      deuxième secteur a dû être coupé en deux sous-sec-
+l’aide de ses équipements de lecture automatisée         teurs afin de pouvoir être couvert adéquatement mal-
+de plaques d’immatriculation (LAPI), des relevés         gré les ralentissements occasionnés par le chantier.
+afin d’être en mesure de quantifier l’occupation des
+                                                           Ainsi, les deux véhicules utilisés ont effec-
+espaces de stationnement sur certains tronçons de
+                                                         tué un circuit distinct chaque jour qui a per-
+la rue Bellechasse et dans le secteur avoisinant.
+                                                         mis d’échantillonner l’usage des stationne-
+  Des relevés de plaques ont donc été conduits au        ments sur toutes les rues des deux secteurs. Ces
+début du mois de juin 2021. Cette collecte s’est éta-    circuits ont été parcourus de 17h00 à 21h00
+lée sur trois jours, soit du mardi 1er au mercredi 3     chaque soir, afin d’observer le retour au domi-
+juin 2021. Les données ainsi récoltées permettent        cile dans ce secteur majoritairement résidentiel.
+d’analyser les taux d’occupation des espaces.
+                                                          Technologie utilisée
+Méthodologie
+                                                            Les deux véhicules utilisés pour la collecte de
+ Secteurs d’étude                                        données utilisent la même technologie, soit la
+                                                         Z3 de la firme Genetec. Les équipements sont
+  Comme      mentionné      en     introduc-             installés sur les véhicules normalement uti-
+tion, deux secteurs distincts ont été ci-                lisés par les agents de stationnement. Cette
+blés pour les analyses de stationnement :                technologie utilise des caméras infrarouges
+ •   Le quadrilatère formé par les rues Châtelain,       afin de relever les plaques d’immatriculation.
+     Rosemont, Viau et Beaubien. Ce secteur est
+                                                          Limites en rapport à la situation sanitaire
+     un milieu principalement résidentiel.
+ •   Le quadrilatère formé par les rues 26e Ave-           Les relevés LAPI ont eu lieu pendant la crise sa-
+     nue, Rosemont,13e Avenue et Beaubien.               nitaire liée à la COVID-19. Plus particulièrement,
+     Ce secteur est résidentiel et caractérisé par       un couvre-feu était en vigueur sur l’ensemble du
+     la présence d’établissements d’éducation            Québec entre 20h00 et 6h00 et ce jusqu’au vendre-
+     (Collège de Rosemont, Collège Jean-Eudes,           di précédant la collecte. Durant le couvre-feu, les
+     EMICA) et de parcs (Étienne-Desmarteau,             déplacements non-essentiels étaient prohibés.
+     Idola-Saint-Jean).
+                                                           De ce fait, les observations observées reflètent
+ Parcours de collecte                                    une réalité relative aux mœurs de la population
+                                                         pendant la crise sanitaire et les effets du couvre-
+  Deux véhicules effectuant des circuits distincts       feu sont fort probablement encore présents dans
+ont été utilisés afin d’être en mesure d’assurer des     les observations, le changement de régime sani-
+passages suffisamment fréquents tout en couvrant         taire étant très récent au moment de la collecte.
+adéquatement le territoire d’analyse qui incluait les
+rues Bellechasse, Beaubien, Rosemont et toutes les        Toutefois, il est difficile de quantifier l’im-
+rues perpendiculaires des deux secteurs. En effet,       pact exact de la crise sanitaire sur les résultats.
+les véhicules sont à même de collecter simultané-
+                                                                                                               29
+
+=== page 30 (text layer) ===
+                                                 Situation post-REV
+Évaluation des conditions de collecte                               Avec tronçon la taille en mètre du tronçon, saillies
+                                                                  le nombre de saillies, ec le nombre d’entrées char-
+ Les    observations  des  agents    per-                         retières, terrasses le nombre d’emplacements de
+mettent de comprendre les conditions gé-                          terrasses, bixi le nombre de stations de bixi, bf, le
+nérales prévalant lors de la collecte.                            nombre de bornes fontaines et ab le nombre d’ar-
+  Les notes qu’ils ont transmises nous informent que              rêts de bus. Le résultat cap est arrondi à l’entier in-
+la collecte de données s’est passée tel que prévu                 férieur. Cette formule est également tirée de l’étude
+dans des conditions météorologiques a priori nor-                 réalisée par la Ville avant l’implantation du REV.
+males, malgré quelques incidents mineurs: ralentis-                 La formule ci-haut repose sur l’hypothèse implicite
+sements causés par la construction et la collecte des             que l’espace non retranché est disposé de telle sorte
+ordures, difficultés de connexion au système de lec-              qu’il se divise en sections pouvant se diviser en case
+ture. À l’occasion, certaines plaques n’ont pu être lues          de stationnement complète. Ce n’est jamais entiè-
+du fait de véhicules stationnés trop rapprochés.                  rement vrai, mais les véhicules ne font pas non plus
+Capacité en stationnement                                         tous 5,5m et, en réalité, le résultat de la formule n’est
+                                                                  pas trop loin de la réalité dans la majorité des cas.
+  La visualisation de la capacité en stationnement
+est utile pour identifier les secteurs disposant d’une              Les données de capacités ainsi obtenues
+offre abondante en stationnement et inversement.                  ont dû être légèrement corrigées dans cer-
+                                                                  tains cas. Les raisons principales raisons sui-
+ Estimation de la capacité                                        vantes expliquent ce besoin de correction :
+  La capacité en espace de stationnement sur rue                   Pour quelques tronçons, l’hypothèse de répartition
+des deux secteurs de l’étude est dérivée de la lon-               de l’espace incluse dans la formule ci-haut ne tient
+gueur des tronçons de rue de la géobase double de                 pas et le résultat final est par conséquent très éloi-
+Montréal à laquelle sont soustraites les longueurs                gné de la réalité. La distance finale de ces tronçons a
+de bloc où le stationnement est interdit en tout                  donc été évaluée sans tenir compte de la formule.
+temps et aux obstacles physiques (ex. : arrêts de                  •   Pour quelques tronçons, les distances asso-
+bus, saillies, bornes-fontaines, etc.). La longueur                    ciées aux infrastructures (ex : 10 m pour les
+restante (en mètre) est ensuite divisée par une lon-                   saillies) étaient suffisamment différentes pour
+gueur standard de véhicule (ici 5.5 mètres) pour ob-                   changer le résultat de quelques places. Dans
+tenir le nombre de cases de stationnement sur rue                      ces cas, la formule a été localement modifiée
+théorique, c’est-à-dire avant d’y appliquer la régle-                  pour corriger cet effet.
+mentation du stationnement de l’arrondissement
+(ex: opérations de nettoyage, de livraisons, etc.).                •   Certains tronçons, notamment le boule-
+                                                                       vard Rosemont, n’avaient pas été inclus dans
+  Les données correspondant aux zones d’inter-                         l’étude précédente. Les données leur corres-
+dictions et aux obstacles physiques ont été four-                      pondant ont donc dû être ajoutées.
+nies à l’Agence par la Ville et sont issues d’une                  •   Certains tronçons étaient en travaux et ont été
+étude réalisée avant l’implantation du REV.                            retirés de l’analyse.
+  Plus précisément, la capacité cap d’un tron-                     •   Finalement, certains tronçons, majoritai-
+çon de rue est calculée de la manière suivante :                       rement sur la rue Bellechasse, ont vu leur
+                                                                       capacité changée avec l’implantation des
+Cap = tronçon-(10*saillies+4*ec+8*terrasses+10*bixi+6*bf+20*ab)
+                                                                       aménagements liés au REV. Dans ces cas, les
+                                  5.5
+                                                                       ajustements nécessaires aux données initiales
+                                                                                                                        30
+
+=== page 31 (text layer) ===
+                                         Situation post-REV
+     ont été apportés. De même, la position de cer-            Part de l’espace dédié au stationnement
+     taines stations Bixi a changé entre les deux
+                                                                La capacité relative en stationnement sur rue est
+     études.
+                                                             l’expression de la capacité d’un tronçon rapporté à
+ Répartition de la capacité en stationnement                 sa longueur, soit le taux d’espace dédié au stationne-
+                                                             ment. Cet indice permet de visualiser la répartition de
+  La figure 33 présente la capacité des différents           l’offre en stationnement, de comparer celle-ci d’une
+tronçons de rue du secteur d’étude. Évidemment,              rue à une autre, d’un secteur à un autre, et d’identifier
+plus un tronçon est grand et plus il est suscep-             là où elle se fait rare ou abondante. La capacité re-
+tible d’avoir une grande capacité : l’intérêt ici n’est      lative en espace de stationnement sur rue des deux
+donc pas de comparer les tronçons entre eux, mais            secteurs de l’étude est ainsi illustrée à la figure 34.
+de visualiser où se situent les places disponibles
+et permettre de mettre en contexte les taux d’oc-              Notons que le but de l’étude actuelle n’est pas de
+cupation qui seront présentés à la section 6.                se prononcer sur la part optimale d’espace à dédier
+                                                             sur chaque tronçon individuel. Ces données peuvent
+ Les catégories présentées dans la légende n’ont             toutefois aider à identifier où agir en cas de besoin.
+pas de significations particulières et ne servent
+qu’à rendre la visualisation plus simple à lire.               Tout d’abord, on observe que l’offre en sta-
+                                                             tionnement n’est pas différenciée selon qu’il
+                                                             s’agisse d’artères, de rues locales résidentielles,
+
+                               Figure 33 : Capacité de stationnement par tronçon de rue
+
+Secteur 1                                                    Secteur 2
+
+
+
+
+                                                                                                                   31
+
+=== page 32 (text layer) ===
+                                            Situation post-REV
+de rues commerciales, ou encore de rues bor-                   Statistiques générales de la collecte
+dant des établissements d’éducation. Seuls les
+boulevards Rosemont (secteur 2, moyenne den-                     Cette section présente le nombre de plaques
+sité) et Pie-IX (secteurs 1 et 2) font exception.              lues quotidiennement par artère et le temps de
+                                                               collecte par le système de LAPI. Le tableau 14 ré-
+  On remarque ensuite que le secteur 1 dispose                 sume les principales caractéristiques de cette col-
+d’une offre en stationnement relativement uni-                 lecte. Le nombre de plaques rapportées au tableau
+forme à travers le territoire qu’il couvre, soit environ       14 correspond au nombre de plaques uniques et
+80% de l’espace total étant dédié au stationnement.            le nombre total de plaques saisies par le système
+Le boulevard Rosemont fait exception : la capacité             LAPI utilisé. Le nombre de plaques uniques obser-
+parait plus disparate selon les tronçons de rue.
+                                                              Tableau 14 : Statistiques générales de collecte
+
+  Le secteur 2 dispose quant à lui d’une offre
+                                                                               Nombre de      Nombre            Heure de
+moindre : 60%-80% de l’espace total est dédié                                  plaques lues   de plaques        collecte
+                                                                                              uniques
+au stationnement. Les boulevards Rosemont et
+                                                               Mardi, 1 juin   5503           1709              4
+Bellechasse se distinguent par une offre qua-                  2021
+si nulle. Les secteurs en construction au mo-                  Mercredi, 2     3019           859               4
+                                                               juin 2021
+ment de la collecte sont exclus de l’analyse.
+                                                               Jeudi, 3 juin   2932           1263              4
+                                                               2021
+
+
+
+                          Figure 34 : Part de l’espace dédié au stationnement par tronçon de rue
+
+Secteur 1                                                      Secteur 2
+
+
+
+
+                                                                                                                           32
+
+=== page 33 (text layer) ===
+                                        Situation post-REV
+vées fluctue entre les trois jours de collecte. On        80% sont considérés bas : beaucoup d’espace al-
+observe une diminution de 50% entre mardi et              loué au stationnement reste alors peu utilisé.
+mercredi, alors que cet indicateur augmente de
+                                                           Interprétation des figures
+31% entre mercredi et jeudi. Les résultats des dif-
+férentes journées ne peuvent être comparés entre            Les figures de taux d’occupation présentent
+eux pour tenter de déceler des tendances puisqu’ils       quelques catégories associées à l’absence de don-
+se rapportent à des secteurs de collecte différents.      nées qu’il convient d’expliquer. Il est important de
+                                                          noter que la réglementation n’étant pas constante
+Analyses des taux d’occupation
+                                                          dans le temps, il est possible qu’un même tronçon
+  La présente section vise à analyser le taux d’occupa-   change de catégorie entre deux figures présentant
+tion du stationnement sur rue dans les deux secteurs      des résultats horaires. Les catégories à définir sont :
+de l’étude. Le taux d’occupation moyen sur l’ensemble      1. La catégorie « non parcourue » désigne des
+de la période de collecte est présenté dans un pre-           tronçons de rue qui n’étaient pas inclus dans
+mier temps, puis sa variation horaire est détaillée.          le plan de collecte de l’étude.
+ Méthode de calcul du taux d’occupation                    2. La catégorie « sans données », quant à elle,
+                                                              peut à la fois désigner des tronçons qui
+  Les rues sont définies selon les tronçons de la géo-        étaient prévus, mais n’ont pas pu être parcou-
+base de Montréal. Pour obtenir le taux d’occupation,          rue en raison des conditions terrains (travaux,
+les données de lectures de plaques sont mises en              manque de temps, etc.) ou des tronçons où
+correspondance avec la trame de rue telle que défi-           aucun véhicule n’était présent. En effet, il pas
+nie dans la géobase double de Montréal, afin d’être           possible dans l’état présent de la technologie
+en mesure de différencier les taux des côtés gauches          utilisée de distinguer ces deux états, car ils se
+et droits indépendamment. Enfin, le taux d’occupa-            traduisent de la même façon dans la base de
+tion est calculé comme le nombre de véhicules im-             données.
+mobilisés sur un tronçon par rapport à la capacité
+théorique de ce même tronçon (voir section Estima-         3. La catégorie « aucune place » désigne des
+tion de la capacité). L’indicateur peut être agrégé de        tronçons où les obstacles et les interdictions
+plusieurs façons; ce rapport présente un taux d’oc-           de stationnement font en sorte qu’il est tou-
+cupation horaire et un taux d’occupation de soirée.           jours interdit de s’y immobiliser.
+                                                           4. La catégorie « travaux » désigne des tronçons
+  Les taux sont présentés sous forme de pourcen-              qui étaient soit impossibles à parcourir ou des
+tages, où 0 % indique qu’aucun véhicule n’occu-               tronçons dont les places de stationnement
+pait d’espace sur le tronçon et 100 % que tout l’es-          étaient retirées en raison de chantiers de
+pace disponible au stationnement était occupé.                construction au moment de la collecte.
+  En règle générale, un taux de 85 % est considé-          Taux d’occupation moyen
+ré comme optimal puisqu’il permet de diminuer
+la congestion causée par la recherche de place              La présente section fait état des taux d’oc-
+par les usagers arrivant dans le secteur. Ce taux         cupation moyens des rues sur toute la pé-
+d’optimalité est cependant sujet à modification           riode d’observation, soit de 17h à 21h. Les
+selon le milieu d’insertion. Par exemple pour le          résultats sont présentés à la figure 35.
+secteur 1, très résidentiel et plus loin des artères
+                                                            Dans le secteur 1, le taux d’occupation moyen de
+majeures, un taux plus élevé pourrait ne pas en-
+                                                          soir du stationnement sur rue s’établit à 60%, soit
+gendrer d’effets négatifs importants. Les taux sous
+                                                          un bas taux d’utilisation. Dans ce secteur, seule la
+                                                                                                               33
+
+=== page 34 (text layer) ===
+                                        Situation post-REV
+rue Beaubien entre les rues Lemy et Chatelain pré-          pace disponible et de déceler si certaines heures
+sente un taux d’occupation supérieur à 90% (éle-            sont plus critiques quant à l’adéquation entre
+vé). L’occupation n’est optimale (entre 80% et 90%          l’offre et la demande. Pour plus de clarté, les
+d’occupation) que sur la rue Châtelain, entre les           deux secteurs sont traités indépendamment.
+rues Ephrem-Longpré et Marie-Rose-Durocher.
+                                                              La figure 36 de la page suivante montre les taux
+  Dans le secteur 2, le taux d’occupation moyen est         d’occupation horaires pour chaque heure entre
+encore plus faible, s’établissant à 43%. Certains tron-     17h00 et 21h00 pour le secteur 1 alors que la figure 37
+çons de rue présentent toutefois une demande forte          montre les taux d’occupation horaires pour chaque
+en stationnement (taux d’occupation supérieur à             heure entre 17h00 et 21h00 pour le secteur 2.
+90%): la 20e Avenue, entre la rue de Bellechasse et le
+                                                              Secteur 1
+boulevard Rosemont ainsi que la rue Beaubien entre
+la 18e et la 19e Avenue. Seules la 25e Avenue entre           Bien que les taux d’occupation soient globale-
+les rues Beaubien et de Bellechasse et la 19e ave-          ment bas pour chaque heure et ce durant toute la
+nue entre Bellechasse et Rosemont enregistrent un           période observée, deux périodes peuvent être dis-
+taux d’occupation entre 80% et 90% d’occupation.            tinguées : l’occupation avant et après 18h. En effet,
+                                                            dans le secteur 1, on remarque qu’une majorité des
+ Taux d’occupation horaire
+                                                            rues présentent une plus forte occupation après
+  Les taux d’occupation horaire permettent                  18h. Concernant le fort taux passé 20h00, il faut se
+d’analyser plus finement l’utilisation de l’es-             rappeler que quelques jours avant la collecte, les
+
+                                         Figure 35 : Taux d’occupation moyen
+
+Secteur 1                                                   Secteur 2
+
+
+
+
+                                                                                                                 34
+
+=== page 35 (text layer) ===
+                          Situation post-REV
+            Figure 36 : Taux d’occupation horaire du secteur 1 entre 17h et 21h
+17h à 18h                                      18h a 19h
+
+
+
+
+19h à 20h                                      20h a 21h
+
+
+
+
+                                                                                  35
+
+=== page 36 (text layer) ===
+                            Situation post-REV
+            Figure 37 : Taux d’occupation horaire du secteur 2 entre 17h et 21h
+17h à 18h                                      18h a 19h
+
+
+
+
+19h à 20h                                       20h a 21h
+
+
+
+
+                                                                                  36
+
+=== page 37 (text layer) ===
+                                     Situation post-REV
+déplacements non essentiels étaient interdits passé    Comparaison avec l’occupation de 2019 (pré
+20h00. Les habitudes des résidents restaient pro-     REV
+bablement affectées par les effets du couvre-feu.
+                                                        L’analyse de l’occupation effectuée ci-dessus
+  On observe un haut taux d’occupation éle-           est comparée à une précédente analyse de la ré-
+vé sur le boulevard Rosemont entre l’avenue de        gion autour du REV Bellechasse avant que ce-
+Plaines et la 38e avenue qui s’explique sûrement      lui-ci ne voit le jour. Cette étude date du 6 Juin
+par la petite taille de ce tronçon de rue. En ef-     2019, soit 2 ans avant l’étude de l’Agence, mais
+fet, l’espace disponible pour le stationnement        également avant la pandémie de COVID-19.
+sur ce tronçon est assez faible pour qu’un seul
+                                                        Les données sont présentées sous forme d’une
+véhicule soit suffisant pour faire passer son taux
+                                                      carte, soit la figure 38, qui réfère les différences d’oc-
+d’occupation à presque 100%, ce qui rend l’état
+de ce tronçon binaire : occupé ou non occupé.         cupation entre 2021 et 2019 pour les deux secteurs,
+                                                      soit après et avant l’implantation du REV. Seules
+ Les  rues    avec    la   plus  forte    de-         les données d’occupation de segment de rues pré-
+mande      en      stationnement       sont:          sentes dans les deux études sont présentées dans
+ •   Rue Beaubien entre Viau et la 38e Avenue         cette comparaison. Nous considérons uniquement
+                                                      les occupations à 19h et 20h car ce sont les seuls
+ •   44e Avenue entre Bellechasse et Rosemont         créneaux horaires communs aux deux études. Dans
+ •   Rue Chatelain entre Beaubien et la rue Marie-    la même optique, les voies réservées ou inacces-
+     Rose-Longpré.                                    sibles ne sont pas incluses dans la comparaison.
+ Secteur 2                                               Pour ce créneau horaire, le taux d’occupation glo-
+                                                      bal des secteurs 1 et 2 était de l’ordre de 62% en
+  Dans le secteur 2, le même phénomène se des-
+                                                      2019. Ce taux est obtenu en divisant la somme des
+sine, avec une demande d’occupation qui aug-
+                                                      véhicules observés par la somme des places dis-
+mente à partir de 19h et qui est nettement plus
+                                                      ponibles au moment de cette étude. En utilisant la
+élevée entre 20h et 21h qu’au début de la période.
+                                                      méthode de 2019 en 2021, des taux de 53% pour le
+Encore une fois, il faut se rappeler que quelques
+                                                      secteur 1 et de 43% pour le secteur 2 sont obtenus,
+jours avant la collecte, les déplacements non es-
+                                                      soit une baisse marquée de l’utilisation de l’espace.
+sentiels étaient interdits passé 20h00, et que les
+                                                      Il est à noter que les rues en travaux ou avec des res-
+habitudes des résidents du secteur n’avaient
+                                                      trictions de stationnement peuvent différer entre
+probablement pas été substantiellement modi-
+                                                      les deux années, sans affecter le taux d’utilisation
+fiées pour profiter de cette possibilité retrouvée
+                                                      global. Cette baisse est observée alors que la capa-
+de déplacement au moment de l’observation.
+                                                      cité globale des secteurs à diminuée : en effet, le REV
+  On retrouve une forte demande dans le qua-          a retranché plusieurs places sur la rue Bellechasse
+drilatère formé par les artères Pie-IX, Rosemont,     et le nombre de tronçons soumis à des contraintes
+26e Avenue et Beaubien, ainsi que dans les ave-       liées à des chantiers est plus important en 2021.
+nues au sud du parc Étienne-Desmarteau.
+
+
+
+
+                                                                                                             37
+
+=== page 38 (text layer) ===
+                                            Situation post-REV
+Figure 38 : Comparaison de l’occupation entre 2019 et 2021     Il faut cependant se rappeler que le taux de
+                                                             détection avec la méthode de collecte par lec-
+Secteur 1
+                                                             ture de plaque sous-estime le nombre de vé-
+                                                             hicules présents, les taux de 2021 pourraient
+                                                             par conséquent être plus près de ceux de 2019.
+                                                             D’autre part, l’effet de la pandémie est incertain:
+                                                              •   Du côté des usagers résidentiels, la proximi-
+                                                                  té de la collecte avec la levée du couvre-feu
+                                                                  pourrait avoir maximisé l’utilisation résiden-
+                                                                  tielle des espaces.
+                                                              •   Ce même couvre-feu pourrait cependant avoir
+                                                                  affecté négativement l’utilisation commer-
+                                                                  ciale.
+                                                              •   Pour le secteur 2, l’absence d’étudiants sur le
+                                                                  campus du CÉGEP de Rosemont et dans ses
+                                                                  résidences étudiantes durant la 3e vague de
+                                                                  la pandémie pourrait également avoir eu un
+                                                                  impact sur le nombre de véhicules présents
+                                                                  dans les rues.
+Secteur 2
+                                                               En regardant tronçon par tronçon, les
+                                                             constats suivants peuvent être dressés:
+                                                              •   Dans le secteur 1, on observe une légère
+                                                                  hausse des stationnements sur les rues aux
+                                                                  abords de Bellechasse. Cette augmentation
+                                                                  reflète un potentiel déplacement des immo-
+                                                                  bilisations dû à la mise en place de REV, mais
+                                                                  pourrait également être une conséquence de
+                                                                  la baisse des déplacements liés aux mesures
+                                                                  sanitaires.
+                                                              •   Dans le secteur 2, on observe d’importantes
+                                                                  hausses sur plusieurs tronçons. La majorité de
+                                                                  ceux-ci étant situés à proximité des zones de
+                                                                  travaux de 2021, il est cependant difficile de
+                                                                  les associer directement à l’implantation du
+                                                                  REV.
+
+
+
+
+                                                                                                               38
+
+=== page 39 (text layer) ===
+                                                                      Conclusion
+  Le REV Bellechasse est une infrastructure pour cy-       en 2021, le couvre-feu était toujours en vigueur).
+clistes réalisées au cours de l’été 2020. Faisant partie
+                                                            Les analyses ont fait ressortir ces princi-
+du Réseau express vélo (REV), cette infrastructure
+                                                           paux constats selon les indicateurs retenus
+permet aux cyclistes de traverser de manière sé-
+curitaire une partie de l’arrondissement Rosemont          Synthèse des modes actifs
+- La-Petite-Patrie d’est en ouest, soit entre les axes
+Saint-Laurent et Châtelain, et de se connecter à di-         Les sites de comptage de la 13e avenue, 24e ave-
+vers axes cyclable, notamment le REV Saint-Denis.          nue et 39e avenue, analysés durant la période du
+L’aménagement du REV sur la rue de Bellechasse a           1 er juin au 21 juin 2021, ont tous des profils dis-
+entraîné des modifications sur la mobilité de cet axe,     tincts. Chacun d’entre eux présente un bon acha-
+notamment en termes de stationnement, d’habi-              landage en comparaison des autres sites de l’île de
+tudes de circulation et d’aménagement des voies.           Montréal, ce qui est particulièrement prometteur
+                                                           étant donné le contexte de la période d’analyse
+  Le présent rapport a pour objectif de quanti-            (télétravail, fin des classes, etc.). Ajoutons que l’axe
+fier et qualifier les effets de l’implantation du REV.     REV Bellechasse est une infrastructure relative-
+Compte tenu que le plan de suivi a été mis en place        ment récente, ainsi on suppose que lorsqu’elle sera
+suite à l’aménagement du REV, il n’est pas possible        davantage connue, elle sera aussi plus utilisée.
+de comparer la situation pré et post REV pour cer-
+tains aspects liés à l’aménagement, notamment la             Alors que les sites de la 13e avenue et 39e ave-
+sécurité. Les analyses permettent toutefois de :           nue sont légèrement moins sollicités durant la fin
+                                                           de semaine, le site de la 24e avenue l’est tout au-
+ •   Documenter les bénéfices et les impacts pour
+                                                           tant la semaine que la fin de semaine. L’axe REV
+     bonifier les prochains projets REV ;
+                                                           Bellechasse est d’ailleurs utilisé jusqu’à tard dans
+ •   Comparer la situation avant et après l’implan-        la nuit, permettant ainsi des déplacements sécuri-
+     tation du REV, pour les indicateurs ayant des         taires des usagers à toutes heures de la journée.
+     données connus préalablement à l’implanta-
+     tion ;                                                  Bien que chacun des sites compte presque autant
+                                                           de passages en direction est qu’en direction ouest,
+ •   Apporter éventuellement des mesures correc-
+                                                           celui de la 39e avenue démontre clairement un profil
+     tives, si requises, et bonifier le projet au regard
+                                                           de déplacements pendulaires principalement desti-
+     des données obtenues ;
+                                                           nés vers les institutions de soins de santé de l’Hôpi-
+ •   S’assurer que le projet réponde aux objectifs         tal Maisonneuve-Rosemont et l’Hôpital Santa Cabri-
+     REV.                                                  ni. Selon les profils hebdomadaires observés et les
+                                                           variations entre les trois sites de comptage, on peut
+  Il est important de rappeler que la pandémie de
+                                                           également supposer que l’axe REV Bellechasse est
+la Covid-19 a encore un impact majeur sur les ha-
+                                                           particulièrement sollicité par des usagers étudiant
+bitudes de déplacements. Les données existantes
+                                                           dans l’une des nombreuses institutions scolaires qui
+pré-REV pour le stationnement ont été relevées en
+                                                           la bordent. Ainsi, selon les types de déplacements,
+2019, dans une situation normale. La comparaison
+                                                           dont certains sont moins pendulaires, l’axe REV
+entre les deux situations est donc difficile et il n’est
+                                                           Bellechasse semble servir autant pour des déplace-
+pas possible de dégager des conclusions claires
+                                                           ments vers le centre-ville et destination plus clas-
+puisque les impacts peuvent être attribués à dif-
+                                                           sique de travail, que interne à l’arrondissement?
+férents facteurs. Les analyses post-REV sont aussi
+teintées par cette réalité, qui pourrait évoluer si la       Pour terminer, tel qu’on peut l’observer à l’Annexe
+situation est appelée à changer (lors des relevés          2, l’achalandage recensé aux trois sites de comp-
+                                                                                                                39
+
+=== page 40 (text layer) ===
+                                                                     Conclusion
+tages de l’axe REV Bellechasse se compare à celui re-       rio est plutôt de vérifier si les quatre intersections
+censé à de nombreux sites situés sur des aménage-           analysées sont actuellement capables d’accom-
+ments cyclables bien établis et qui existent depuis         moder la demande véhiculaire prépandémie.
+plusieurs années: Boyer/Everett, Pierre-Dupuy, Parc/
+                                                              Les données de circulation montrent que le
+Duluth, University et Gouin/Lajeunesse. Maintenant,
+                                                            nombre de vélos aux quatre intersections ana-
+il sera intéressant de suivre l’évolution de cet acha-
+                                                            lysées a augmenté d’une manière importante.
+landage, notamment durant la période hivernale.
+                                                            Cela est attribuable à l’implantation du REV,
+  Il est à noter que ces analyses ont été réalisées sur     qui rend le secteur plus convivial aux vélos.
+une certaine période de l’été qui concorde avec les
+                                                              Les données de circulation montrent que les
+autres relevés réalisés. Toutefois, puisque les comp-
+                                                            débits véhiculaires aux quatre intersections sont
+teurs ont été laissés sur une plus longue période, des
+                                                            beaucoup plus faibles après l’implantation du
+données supplémentaires ont été récoltées sur une
+                                                            REV. Cela est principalement attribuable aux me-
+plus longue période, soit deux mois (juin et juillet
+                                                            sures sanitaires appliquées dans le contexte de la
+2021). Ces données sont présentées en Annexe 5. Les
+                                                            pandémie de Covid 19 et aux chantiers. Le retrait
+données obtenues sur l’ensemble de l’été sont simi-
+                                                            des voies de circulation sur la rue Saint-Denis et la
+laires à celles recueillies lors de la période d’analyse,
+                                                            mise à sens unique de la rue de Bellechasse à l’est
+quoiqu’une légère baisse de l’achalandage peut être
+                                                            de la rue Saint-Denis constituent des causes secon-
+observée. Celle-ci peut notamment être attribuable
+                                                            daires pour la réduction en débits véhiculaires.
+à la période de vacances estivales, pour laquelle
+une baisse générale de la fréquentation, tant auto-           Selon les résultats des simulations, les conditions
+mobile que cycliste, est une tendance habituelle.           de circulation aux quatre intersections analysées res-
+                                                            teront acceptables durant les heures de pointe pour
+Synthèse des conditions de circulation
+                                                            les trois scénarios analysés. L’intersection Saint-De-
+   Les conditions de circulation avant et après             nis / Bellechasse, qui fonctionne avec un niveau de
+l’implantation du REV Bellechasse ont été ana-              service « F » problématique dans le scénario avec
+lysées à quatre intersections témoins afin d’éva-           REV et débits ajustés, constitue la seule exception.
+luer l’impact du REV. Dans ce contexte, les trois
+                                                              Les problématiques observées à l’intersec-
+scénarios suivants ont été simulés durant les
+                                                            tion Saint-Denis / Bellechasse avec REV et dé-
+heures de pointe du matin et de l’après-midi :
+                                                            bits ajustés sont causées par la complexité de
+ •   La situation avant l’implantation du REV Bel-          cette intersection, qui comporte deux axes
+     lechasse;                                              REV et quatre approches à gérer. L’intersection
+ •   La situation après l’implantation du REV Bel-          Saint-Denis / Bellechasse risque de devenir un
+     lechasse (c.a.d. la situation existante en été         nœud de congestion si la demande véhiculaire re-
+     2021);                                                 monte aux débits observés avant la pandémie.
+ •   La situation après l’implantation du REV Bel-          Synthèse d’occupation des voies cyclables
+     lechasse avec des débits ajustés pour tenir
+     compte de l’impact de la pandémie de Covid               Cette section avait comme objectif d’ob-
+     19.                                                    server les occupations de véhicules moto-
+                                                            risés sur les voies cyclables afin de mettre
+  Rappelons encore que l’analyse du scénario                en lumière les situations conflictuelles qui
+avec REV et débits ajustés ne constitue pas une             risquent de nuire à la sécurité des cyclistes.
+prévision concrète des conditions de circulation
+                                                             Les trois sites observés de la 13e avenue, 25e
+post-pandémie. L’objectif de l’analyse de ce scéna-
+                                                                                                                40
+
+=== page 41 (text layer) ===
+                                                                 Conclusion
+avenue et 39e avenue, analysés durant la période              circulation qui est à contresens du vélo.
+du 1er juin au 3 juin 2021, ont tous des profils dis-      En raison de tous les cas observés et les problé-
+tincts, chacun a ses motifs prédominants qui in-         matiques soulevées dans cette section, il est op-
+citent les véhicules à occuper les voies cyclables.      portun de proposer quelques pistes de solutions
+  Les faits saillants suivants permettent de bien ré-    qui peuvent être explorées ou réfléchies afin d’ap-
+sumer les comportements particuliers des usagers         porter les ajustements nécessaires à l’aménage-
+sur le REV Bellechasse:                                  ment actuel du REV sur l’axe Bellechasse. Parmi les
+ •   On peut conclure que la présence du REV au          suggestions qui peuvent être recommandées:
+     site 1 a entraîné un nombre élevé d’interac-         •   Évaluer la possibilité d’aménager quelques es-
+     tions entre les cyclistes et les véhicules mo-           paces de débarcadère sur la rue de Bellechasse
+     torisés comparé au site 2 et 3. La présence              pour les livraisons des commerces. D’ailleurs,
+     de l’activité commerciale sur le site 1 génère           il a été constaté que la largeur de la voie de
+     de nombreux arrêts de courte durée tout au               circulation à certains endroits permettrait ce
+     long de la journée. En raison de l’absence de            type d’aménagement;
+     stationnement sur ce site, la plupart de ces ar-
+     rêts se font généralement sur la voie cyclable.      •   Envisager de réserver quelques espaces de
+     Quant au site 3 qui est considéré également              stationnement sur la rue de Bellechasse, dans
+     comme un secteur mixte, le nombre d’inte-                la voie de stationnement aménagée du côté
+     ractions entre les véhicules et les cyclistes est        nord de la rue, pour des débarcadères de
+     moindre, probablement en raison de la pré-               courte durée pendant les heures de pointe
+     sence de la voie de stationnement du côté                dans les secteurs à forte demande;
+     nord de la rue.                                      •   Avec la multitude des événements conflictuels
+                                                              observés sur le site 1, il pourrait être envisagé
+ •   Bien qu’il est important de tenir compte de
+                                                              d’ajouter des bollards afin de réduire les écarts
+     tous les types d’occupation, certaines occupa-
+                                                              entre ceux-ci pour empêcher les voitures de
+     tions sont plus contraignantes que d’autres.
+                                                              stationner dans les voies cyclables, notam-
+     En effet, le nombre d’occupations complètes
+                                                              ment du côté sud de la rue (voie à contresens
+     est considérable dans les trois sites observés
+                                                              de la circulation). Il est également possible
+     et il est encore plus élevé dans le site 1 par
+                                                              d’installer des bordures en béton qui protége-
+     rapport aux autres occupations. L’obstruction
+                                                              ront la voie cyclable de toute occupation qui
+     complète de la voie oblige le cycliste à quitter
+                                                              peut mettre en danger les cyclistes.
+     la voie cyclable, ce qui s’oppose aux objectifs
+     d’aménagement du REV qui est de favoriser           Synthèse du stationnement
+     l’utilisation du vélo en fournissant aux cy-
+     clistes une infrastructure structurante de qua-       L’analyse de l’occupation en soirée du sta-
+     lité, permettant d’assurer des déplacements         tionnement sur rue aux abords de l’axe Bel-
+     sécuritaires et efficaces.                          lechasse du Réseau Express Vélo (REV) per-
+                                                         met de tirer les conclusions suivantes:
+ •   Le nombre d’obstructions de voie cyclable qui        •   L’offre en stationnement est homogène à tra-
+     génère des conflits entre les cyclistes et les           vers les secteurs à l’étude (entre 60% et 80%
+     véhicules du côté sud de la rue est trois fois           de l’espace est dédié au stationnement), sans
+     plus élevé que celui du côté nord de la rue sur          différenciation notable selon la typologie des
+     les trois sites. Le risque est plus accru quand          rues.
+     le cycliste contourne le véhicule par la voie de
+                                                                                                             41
+
+=== page 42 (text layer) ===
+                                                              Conclusion
+•   La rue de de Bellechasse, où est implanté le           élevés, mais le taux parait optimal ou bas à
+    REV, a une offre en stationnement réduite,             proximité pour combler les besoins.
+    voire quasi nulle, sur les secteurs étudiés due
+                                                       Concernant la comparaison entre la situation pré-
+    à l’implantation du REV. La capacité des rues
+                                                      REV et post-REV, les constats suivants se dégagent :
+    alentour n’a pas été modifiée avec l’implanta-
+    tion du REV.                                       •   La capacité de stationnement a été presque
+                                                           éliminée sur Bellechasse : seules 149 places
+•   Le taux d’occupation moyen des deux secteurs
+                                                           sont restantes, entièrement situées dans le
+    de l’étude est faible (49.0% à son maximum)
+                                                           secteur 1.
+    sur la période de 17h à 21h. Ceci indique un
+    potentiel surplus de l’offre en stationnement.     •   Globalement, les taux d’occupation des deux
+                                                           secteurs sont en baisse. Passant de 62% pour
+•   Le taux d’occupation moyen est élevé (supé-
+                                                           chacun d’eux en 2019 à 53% pour le secteur 1
+    rieur à 90%) sur les tronçons résidentiels sui-
+                                                           et 43% pour le secteur 2 en 2021.
+    vants, ce qui indique un besoin en stationne-
+    ment:                                              •   Plusieurs facteurs peuvent avoir contribué à
+                                                           cette baisse du taux d’occupation, dont les er-
+    »» La rue Beaubien, entre les rues Lemay et
+                                                           reurs de détection du LAPI, qui contribuerait
+       Chatelain.
+                                                           à l’abaisser, et le contexte pandémique, dont
+    »» La rue Beaubien, entre la 18e et la 19e Ave-        l’impact est difficile à quantifier.
+       nue.
+                                                       •   Dans le secteur 1, on observe une légère
+    »» La 20e Avenue, entre la rue de Bellechasse          hausse des stationnements sur les rues aux
+       et le boulevard Rosemont.                           abords de Bellechasse. Cette augmentation
+•   Seuls quelques tronçons de rue ont un taux             reflète un potentiel déplacement des immo-
+    d’occupation moyen optimal (de 80% à 90%):             bilisations dû à la mise en place de REV, mais
+    »» La rue Chatelain, entre les rues Eph-               pourrait également être une conséquence de
+       rem-Longpré et Marie-Rose-Durocher                  la baisse des déplacements liés aux mesures
+                                                           sanitaires.
+    »» La 25e Avenue, entre les rues Beaubien et
+       de Bellechasse                                  •   Dans le secteur 2, on observe d’importantes
+                                                           hausses sur plusieurs tronçons. La majorité de
+    »» La 19e Avenue, entre la rue de Bellechasse          ceux-ci étant situés à proximité des zones de
+       et le boulevard Rosemont                            travaux de 2021, il est cependant difficile de
+•   Le secteur 1, très résidentiel, voit son taux          les associer directement à l’implantation du
+    d’occupation augmenter à partir de 18h, no-            REV.
+    tamment à l’est de la 42e Avenue (incluse),
+    sans toutefois atteindre un taux d’occupation        Nous rappelons que la méthode d’estimation
+    élevé (excepté sur certaines portions de la rue   de la capacité en stationnement est une simpli-
+    Châtelain).                                       fication de la réalité qui ne prend pas en compte
+                                                      toutes les contraintes d’espaces réellement ob-
+•   Le secteur 2, résidentiel, mais également à vo-   servées au terrain. Par conséquent, les taux pré-
+    cation éducative et récréative, voit son taux     sentés dans ce rapport peuvent différer légè-
+    d’occupation augmenter à partir de 18h à l’est    rement des taux réels vécus par les usagers. En
+    de la 35e Avenue, puis à partir de 19h au sud     l’absence d’un inventaire des places de station-
+    du parc Étienne-Desmarteau. Quelques tron-        nement, c’est toutefois la méthode la plus réaliste
+    çons de rue atteignent des taux d’occupation      pour procéder sur des zones d’études étendues.
+                                                                                                        42
+
+=== page 43 (text layer) ===
+Annexe 1 : Extrait du plan vélo
+
+
+
+
+                                  Plan vélo 2019, avec mise à jour de la carte 23-06-2021
+
+=== page 44 (text layer) ===
+Annexe 2 :Nombre de passages moyen journalier pour les deux di-
+rections la et variation par rapport à l’année précédente, tous les
+compteurs fonctionnels de Montréal, période du 1er juin au 21 juin
+2021
+Site                              Moyenne   (%)     Comptage de   (%)
+                                                    pointe
+REV St-Denis/Des Carrières        5204      0       7066          0
+Saint-Laurent/Bellechasse         5069      -10,3   6347          -7,1
+Rachel / Papineau                 4986      -5,7    6289          -7,7
+REV St-Denis/Rachel               4289      0       5732          0
+Berri1                            4078      70,4    5772          17,7
+Rachel / HôteldeVille             3340      -5,3    4567          -10,6
+Maisonneuve_2 (@Peel)             3303      13,2    4296          22,5
+Eco-Display - Métro Laurier       3228      -17,9   4135          -13,9
+Rachel 3 (Angus)                  3202      77      4177          78,7
+Pont Jacques-Cartier              2826      -14     4656          -26,2
+Piste Des Carrières               2542      -4,3    3196          -6,3
+Rachel 4 (@ Pie IX)               2349      -10,6   3336          -10,1
+CSC (Côte Sainte-Catherine)_En-   2202      9,7     3108          19,6
+Maintenance
+Boyer 2 (@Everett)                2101      24,5    2747          14,9
+PierDup                           2011      -12,1   3824          -25,8
+REV Bellechasse 13e               1986      0       2672          0
+Eco-Display Parc Stanley          1936      -14,2   3262          -24,2
+Maisonneuve 5 (@Vendôme)          1838      -11,7   2457          -13,5
+René-Lévesque                     1838      16,7    2480          -0,4
+Parc (@Duluth)                    1807      12      2434          9,4
+Maisonneuve_3 (@Marcil)           1669      -11,3   2082          -15,5
+Camillien-Houde 1                 1620      -8,6    2485          -3
+REV Bellechasse 24e               1557      0       2077          0
+Notre-Dame                        1424      -0,4    1916          -15,9
+
+=== page 45 (text layer) ===
+Christophe-Colomb_EnSitePropre   1367   15      1834   -12,7
+University                       1336   2       1758   7,6
+Estacade                         1228   -16,3   3055   -10
+REV Lajeunesse/Sauvé dir nord    1216   0       1677   0
+REV Berri/Sauvé dir sud          992    0       1401   0
+Saint-Urbain                     988    -31,2   1352   -27,7
+REV Bellechasse 39e              913    0       1336   0
+Gouin / Lajeunesse               883    0       1400   0
+Notre Dame 3 (Bellerive)         685    -27,5   1274   -33,6
+Pont Ile Bizard                  680    -17,8   1307   -24,4
+Wellington / Charlevoix          633    -38,1   1100   -41,1
+Souligny                         627    -18,7   821    -28,2
+Sainte-Croix                     488    -13,3   660    -16,9
+Bennett                          484    -21,6   623    -28,9
+Pont Le Gardeur                  448    -16     1031   -11,8
+Valois                           383    -2,4    467    -11,4
+16e Avenue (@Bélanger)           342    25,8    487    34,2
+Viger                            336    72,9    444    70,1
+Edmond Valade                    159    18,2    236    8,3
+
+=== page 46 (text layer) ===
+Annexe 3 : Comparaison des profils horaires
+       Profil horaire moyen du site de comptage Boyer/Everett, deux directions, période de 21 jours
+
+
+
+
+ Profil horaire moyen du site de comptage Saint-Laurent/Bellechasse, deux directions, période de 21 jours
+
+=== page 47 (OCR) ===
+Profil horaire moyen du site de comptage Rachel/André-Laurendeau, deux directions, période de 21 jours
+
+Moyenne horaire
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+Profil horaire - jours de semaine
+
+1 juin 2021 > 21 juin 2021 5/7
+
+oo Rachel 3 (Angus)
+
+20
+
+21
+
+22
+
+23
+
+=== page 48 (OCR) ===
+Annexe 4 : Programmation des feux Saint-Denis/Bellechasse
+
+Hye db! 18 , 5
+@
+@
+LR}
+À, i
+® MN
+
+Ch.6 Ch3
+
+=== page 49 (OCR) ===
+Annexe 5 : Données compteurs vélo été 2021
+
+=== page 50 (OCR) ===
+
+

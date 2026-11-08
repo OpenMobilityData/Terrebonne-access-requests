@@ -1,0 +1,247 @@
+=== page 1 (text layer) ===
+                                                                                                    DT-2002
+                                                                                                  Page 1 sur 5
+                                                        Signaux sonores
+                                                                                                      Date
+               GUIDE                                                                              12 sept. 2019
+
+
+Le présent guide est un complément au Tome V –             peut      nécessiter    jusqu’à    6      cycles   de
+Signalisation routière des normes de Transports            resynchronisation ;
+Québec.
+                                                           c) modifier la séquence des feux de circulation de
+Il vise à normaliser l’installation des signaux            l’intersection (par exemple, implanter une phase
+sonores aux intersections munies de feux de                exclusive pour piétons).
+circulation sur le territoire de la Ville de Montréal
+et ce, afin de minimiser les impacts sur l’ensemble        Finalement, si aucune de ces mesures ne permet
+des usagers de la route (piétons, cyclistes et             d’obtenir des conditions de circulation acceptables
+conducteurs).                                              pour l’ensemble des usagers, alors un autre
+                                                           itinéraire devra être analysé par le spécialiste en
+                                                           orientation et mobilité.
+1- Justification de signaux sonores
+Suite à la réception d’une demande d’ajout de              2- Fonctionnement des signaux sonores
+signaux sonores effectuée par un spécialiste en
+orientation et mobilité d’un centre de réadaptation        Tel que mentionné dans le Tome V Chapitre 8,
+en déficience visuelle qui a conclu après évaluation,      lorsque des signaux sonores sont en opération, il ne
+au bien-fondé de la demande, des signaux sonores           doit y avoir aucun conflit entre les véhicules et les
+peuvent être installés. Toutefois, une analyse doit        personnes ayant une déficience visuelle pendant
+être effectuée par un ingénieur en circulation de la       toute la durée de la traversée. Deux intervalles
+Ville de Montréal afin d’évaluer la faisabilité            successifs composent la traversée:
+d’intégrer les signaux sonores dans le cycle actuel
+tout en respectant les temps minimums alloués aux          a) L’engagement
+piétons et ce, sans dégrader outre mesure les
+conditions de circulation.                                 Pendant l’intervalle d’engagement, la silhouette est
+                                                           affichée et un signal sonore se fait entendre. La
+Si cela n’est pas possible, les options suivantes          durée minimale de la période d’engagement est de
+devront alors être analysées:                              7 secondes et peut être augmentée par incrément de
+                                                           2 secondes, selon les besoins à l’intersection.
+a) augmenter la durée du cycle de l’intersection
+analysée et, par conséquent, de toutes les                 En présence de signaux sonores, la silhouette doit
+intersections du réseau afin de conserver la               avoir une durée fixe pendant toute la journée
+coordination des feux;                                     (aucune extension possible).
+
+b) décrocher momentanément l’intersection du               b) Le dégagement
+réseau (bris de la coordination) lors de l’opération
+des signaux sonores. Cette option n’est cependant          Pendant l’intervalle de dégagement, la main
+possible que si les intersections situées de part et       clignotante est affichée et un signal sonore
+d'autre sont considérées suffisamment éloignées en         différent de celui de l’engagement se fait entendre.
+tenant compte des caractéristiques de l’artère. De
+plus, les impacts sur la circulation doivent être          Les signaux sonores étant en mode complètement
+évalués en considérant qu’un bris de coordination          protégé, la durée du dégagement et donc de la main
+
+=== page 2 (text layer) ===
+                                                                                                                   DT-2002
+                                                                                                               Page 2 sur 5
+                                                         Signaux sonores
+                                                                                                                   Date
+               GUIDE                                                                                           12 sept. 2019
+
+
+clignotante doit se calculer de la même façon               18 1 secondes, un intervalle d’avance-rouge doit
+qu’une phase exclusive, soit :                              être ajouté. Ce dernier doit précéder l’avance-
+                                                            flèche et sa durée correspond à l’excédent de
+      MC = (d / v)                                          18 secondes.
+où
+      d = distance à traverser de rayon à rayon (m);        Le Tableau 1 montre la répartition de la durée de
+      v = vitesse de marche (1,1 m/s).                      l’avance-flèche et de l’avance-rouge selon la
+                                                            largeur de la traverse.
+Selon le mode de fonctionnement des feux pour
+piétons existants, les signaux sonores doivent être                                    Tableau 1 :
+intégrés de la façon suivante:                                      Répartition de la durée de l’avance-flèche et de
+                                                                l’avance-rouge en fonction de la largeur de la traverse
+
+                                                                               Dégage-
+2.1     Mode non protégé                                        Largeur Engage- m ent Tem ps Avance- Avance-
+                                                                traverse m ent  (d/v)  total  rouge   flèche
+                                                                   (m )   (s)    (s)    (s)     (s)     (s)
+En présence de feux pour piétons en mode non                       11         7          10         17         0          17
+protégé, un intervalle de protection doit être ajouté.             12         7          11         18         0          18
+Cet intervalle peut-être soit une avance-flèche, soit              13         7          12         19        2*          18
+une avance-rouge, selon ce qui est le mieux adapté                 14         7          13         20         2          18
+                                                                   15         7          14         21         3          18
+aux conditions de l’intersection.
+                                                                   16         7          15         22         4          18
+                                                                   17         7          15         22         4          18
+Le fonctionnement des feux pour piétons doit donc                  18         7          16         23         5          18
+être converti en mode partiellement protégé. Les                   19         7          17         24         6          18
+articles 2.2 et 2.3 présentent les détails de                      20         7          18         25         7          18
+l’intégration des signaux sonores pour ce mode.                    21         7          19         26         8          18
+                                                                   22         7          20         27         9          18
+                                                                   23         7          21         28        10          18
+2.2     Mode partiellement protégé: Avance-flèche                  24         7          22         29        11          18
+                                                                   25         7          23         30        12          18
+En présence de feux pour piétons avec avance-                      26         7          24         31        13          18
+flèche, lors de l’appel des signaux sonores, la durée              27         7          25         32        14          18
+de la flèche avant doit être prolongée pendant toute               28         7          25         32        14          18
+la traversée (intervalles d’engagement et de                       …          …          …          …         …           …
+                                                                  * Une phase tout-rouge d’une seconde ne peut être ajoutée
+dégagement).                                                        dû à des contraintes de programmation des contrôleurs.
+
+                                                            1
+À noter que le mouvement véhiculaire suivant la               Note : La durée maximale de 18 secondes d’avance-flèche a
+phase exclusive sonore étant dans le même axe, il           été fixée à partir de 451 observations effectuées sur des
+n’y a pas d’intervalle tout rouge d’affiché à la fin        intersections    munies      de    traverses  sonores.    Les
+                                                            comportements des conducteurs ont été observés pendant
+de la main clignotante et donc le plein vert apparaît       qu’une personne ayant une déficience visuelle (réelle ou
+immédiatement après.                                        simulée), traversait l’intersection alors que l’avance-flèche
+                                                            était prolongée pendant tout l’intervalle de dégagement. Les
+Toutefois, lorsque le total des intervalles                 observations ont été effectuées dans la traverse sonore et la
+d’engagement et de dégagement est supérieur à               traverse parallèle.     La valeur retenue (18 secondes)
+                                                            correspond à la durée pour laquelle les conducteurs ont
+                                                            respecté, au 85e percentile, l’avance-flèche.
+
+=== page 3 (text layer) ===
+                                                                                                 DT-2002
+                                                                                               Page 3 sur 5
+                                                       Signaux sonores
+                                                                                                   Date
+              GUIDE                                                                            12 sept. 2019
+
+
+2.3    Mode partiellement protégé: Avance-rouge           Il est important de mentionner que les boutons-
+                                                          poussoirs de la traverse sonore ne doivent pas être
+En présence de feux pour piétons avec avance-             raccordés aux boutons des autres traverses afin
+rouge, lors de l’appel des signaux sonores, la durée      d’éviter des appels inutiles des signaux sonores.
+de l’intervalle rouge doit être prolongée pendant
+toute la traversée (intervalles d’engagement et de        3- Programmation du contrôleur
+dégagement).
+Tout comme le cas de l’avance-flèche, il n’y a pas        Il est à préciser que deux stratégies peuvent être
+d’intervalle tout rouge à prévoir à la fin de             utilisées lors de l’implantation de signaux sonores :
+l’avance-rouge étant donné que le mouvement               le temps nécessaire au prolongement de l’avance-
+véhiculaire suivant la phase exclusive sonore est         flèche ou de l’avance-rouge peut provenir soit de
+dans le même axe que la traverse sonore.                  l’axe principal ou soit d’une combinaison de l’axe
+                                                          principal et de l’axe secondaire.
+Si l’intégration des feux sonores en mode
+partiellement protégé s’avère trop pénalisante pour       Pour plus de détails sur la façon de programmer les
+les usagers ou trop complexe, alors le mode               signaux sonores, se référer au guide de
+complètement protégé doit être envisagé et donc           fonctionnement des contrôleurs.
+analysé.
+
+2.4    Mode     complètement      protégé:    Phase
+exclusive
+
+En présence d’une phase exclusive, l’intégration
+des signaux sonores ne requiert aucune
+modification au mode de fonctionnement des feux
+pour piétons. Seule la durée minimale de
+l’engagement (silhouette) est à modifier et est
+fixée à 7 secondes.
+
+La figure 1 illustre les différents modes de
+fonctionnement des feux pour piétons en présence
+de signaux sonores.
+
+2.5    Mode d’activation
+
+Les signaux sonores fonctionnent toujours en mode
+appel avec un délai d’activation de 5 secondes
+(selon la norme provinciale), alors que les feux
+pour piétons fonctionnent habituellement en mode
+rappel.
+
+=== page 4 (text layer) ===
+                                                                                                                                         DT-2002
+                                                                                                                                       Page 4 sur 5
+                                                                                                Signaux sonores
+                                                                                                                                           Date
+GUIDE                                                                                                                                  12 sept. 2019
+
+                                                                               Figure 1
+                                                                Fonctionnement des feux pour piétons
+                                                      selon le mode d'opération en présence de signaux sonores
+
+
+                                                                                     Signaux sonores non activés
+
+                                                                               Décompte
+ Mode partiellement protégé - Avance - flèche
+
+
+
+
+                                                Silhouette                   Main clignotante                      Main fixe
+                                                 Protégé                      Non protégé
+
+
+
+
+                                                  min. 7 s                          (d /v )s
+                                                                                                         J   TR                R
+
+
+                                                                                        Signaux sonores activés
+
+                                                                                   Décompte
+                                                Silhouette                   Main clignotante                      Main fixe
+                                                                          Protégé
+                                                                  Signaux sonores activés
+                                                 min. 7 s                        (d /v )s
+
+
+
+
+                                                  Sil.+ (d/v) - 18s                    max. 18 s
+                                                  R                                                                    J   TR      R
+                                                               variable
+
+
+
+
+                                                                                     Signaux sonores non activés
+
+                                                                               Décompte
+ Mode partiellement protégé - Avance - rouge
+
+
+
+
+                                                Silhouette                   Main clignotante                      Main fixe
+                                                 Protégé                      Non protégé
+
+
+
+
+                                                 min. 7 s                          (d / v )s
+                                                      R                                                  J   TR                R
+
+
+                                                                                        Signaux sonores activés
+
+                                                                                Décompte
+                                                Silhouette                    Main clignotante                     Main fixe
+                                                                          Protégé
+                                                                  Signaux sonores activés
+
+
+
+
+                                                 min. 7 s                          ( d / v )s
+                                                                             R                                                     J    TR
+
+=== page 5 (text layer) ===
+                            DT-2002
+                          Page 5 sur 5
+        Signaux sonores
+                              Date
+GUIDE                     12 sept. 2019
+
