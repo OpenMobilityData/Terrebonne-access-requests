@@ -32,6 +32,7 @@ Rules:
 | 2026-300 | 2026-05-06 | 2026-06-04 | Hourly bicycle (by direction) and motor-vehicle counts from the Kensington loop counter, July 26, 2025 – May 11, 2026; derived analysis of winter use against snow-loading days | [`2026-300/`](2026-300/) |
 | 2026-581 | 2026-09-11 | 2026-10-09 (reconsideration refused 2026-11-06) | Origin, procurement, scope, data and deliverables of the 2026 engineering study on Terrebonne (Les Services EXP inc.) | [`2026-581/`](2026-581/) |
 | 2026-634 | 2026-10-08 | 2026-11-06 | Final report of the 2026 study (refused, ss. 37, 39, 9) and the material referred to at the council meeting of 2026-10-06: the engineering division's briefing of Dec 3, 2025 (« conçu pour un usage quatre saisons »), its Eco-Compteur presentation, the « MAJ 2025 » count deck, EXP's 2022 guiding-principles note, and the service request of Oct 6, 2026 for the winter plans (parking-supply analysis, functional and safety validation, plans due Nov 27) | [`2026-634/`](2026-634/) |
+| 2026-689 | 2026-10-29 | 2026-11-26 | Correspondence between the borough and the English Montreal School Board on rue de Terrebonne (June 2024 to February 2025): the EMSB's letter of November 22, 2024 as received, the exchanges with the principals of the Mackay Centre / Philip E. Layton and Willingdon schools (parents' drop-off, crossing guard, winter maintenance), the notice of the letter to council members; no reply to the letter, nothing before June 2024 or after February 2025 | [`2026-689/`](2026-689/) |
 
 ## Provenance and use
 
